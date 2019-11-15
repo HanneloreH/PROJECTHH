@@ -1,0 +1,14 @@
+4874c32652da69fa93f4ed8f7c581f08  ./GCF_900497055.1_KP920_assembly_report.txt
+c74ac76e876ae0b7fa79a28a0def32de  ./GCF_900497055.1_KP920_assembly_stats.txt
+1f037a9db7f6ef0eecf39cd89d432e5d  ./GCF_900497055.1_KP920_cds_from_genomic.fna.gz
+8a88170023ba75605a02a92e8f219b8f  ./GCF_900497055.1_KP920_feature_count.txt.gz
+867ee07cd8c6a3c42e9cf4a149780395  ./GCF_900497055.1_KP920_feature_table.txt.gz
+93199a1be7d7f75de6e1e6c351a87b40  ./GCF_900497055.1_KP920_genomic.fna.gz
+89f67c288e11e19440c526110c61cb71  ./GCF_900497055.1_KP920_genomic.gbff.gz
+c1037dd75236585a43b494621f59d799  ./GCF_900497055.1_KP920_genomic.gff.gz
+04412cc28d4dfe754dea9adbd4a6ce97  ./GCF_900497055.1_KP920_genomic.gtf.gz
+720beff49c986c111568a2b4a07ed2de  ./GCF_900497055.1_KP920_protein.faa.gz
+ee5f7e83bc0c05845c325064ad59d37f  ./GCF_900497055.1_KP920_protein.gpff.gz
+e1e1f43e8fd3328a69831f8a600e503a  ./GCF_900497055.1_KP920_rna_from_genomic.fna.gz
+bc6ea8f85ff85c848e19f284f9ab5e5f  ./GCF_900497055.1_KP920_translated_cds.faa.gz
+394d87956f6b75949695693299b16327  ./annotation_hashes.txt

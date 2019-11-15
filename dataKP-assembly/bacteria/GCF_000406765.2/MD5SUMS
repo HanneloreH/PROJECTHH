@@ -1,0 +1,13 @@
+73479df4696ede3800cdda6033aeb15c  ./GCF_000406765.2_ASM40676v2_assembly_report.txt
+ec1592fa7e052150523ca4e6899eec00  ./GCF_000406765.2_ASM40676v2_assembly_stats.txt
+98ef8a5391aed69b256f07e427f74fdb  ./GCF_000406765.2_ASM40676v2_cds_from_genomic.fna.gz
+d576e6d00a53bbb4d56ac35398f98e57  ./GCF_000406765.2_ASM40676v2_feature_count.txt.gz
+e3671ca9ad291364e6e93b7e4a05ac9b  ./GCF_000406765.2_ASM40676v2_feature_table.txt.gz
+8bbe90264b3683de69343dadf26265e6  ./GCF_000406765.2_ASM40676v2_genomic.fna.gz
+fe60eee79d141c044d79729b88b5498a  ./GCF_000406765.2_ASM40676v2_genomic.gbff.gz
+4aaddf44c572d3284c659dad3789ccb7  ./GCF_000406765.2_ASM40676v2_genomic.gff.gz
+d9a461eb4096fcfd61fbfb44a715a4d2  ./GCF_000406765.2_ASM40676v2_protein.faa.gz
+cda4e1b49c2a8108b74fb730709c020f  ./GCF_000406765.2_ASM40676v2_protein.gpff.gz
+ac6ba390ac1b4443125dbcc8dab41d51  ./GCF_000406765.2_ASM40676v2_rna_from_genomic.fna.gz
+950c3a7fe90cc71c6dc612c94360a608  ./GCF_000406765.2_ASM40676v2_translated_cds.faa.gz
+e9bda008fa9d14af7d3f84b47cdeb372  ./annotation_hashes.txt
