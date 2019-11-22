@@ -1,0 +1,44 @@
+
+###################### INPUT #######################
+
+Necessary input:
+- path to fastq(s)
+- SE or PE reads
+- cgMLST scheme
+- number of threads
+- path for output
+
+Optional input:
+- parameters of trimming
+- parameteres of assembly
+- path to assembled genomes (to compare to in analysis)
+
+Additional input: (can be calculated/retrieved)
+- species
+- number of bp sequenced
+- reference genome
+
+
+
+###################### OUTPUT #######################
+
+Folder: "pipeline output"
+- QC	
+	* quality parameters of the raw data
+- Assembly
+ 	* quality parameters of the assembly
+	* fasta file of the assembly
+- cgMLST
+	* Allele difference in table format
+	* Minimimum Spanning Tree of given samples
+	* Minimimum Spanning Tree of given samples compared to given assembled genomes
+	* Maximum Liklehood Tree of given samples
+	* Maximum Liklehood Tree of given samples compared to given assembled genomes	 
+- Conclusion
+	* small conclusion + disclaimer
+		- quality raw data
+		- quality assembly
+		- cgMLST samples part of same outbreak or not
+	
+
+

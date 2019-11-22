@@ -1,0 +1,48 @@
+
+#################### TOOLS TO TEST ##################
+
+Quality filtering
+- Fastqc
+- Metafastqc
+
+? Making smaller files (remove duplicates)
+- Dedupe
+- Picard
+- Samtools
+
+Trimming
+- Trimmomatic
+- Bbduk
+
+De novo assembly
+- Spades
+- Megahit
+- Velvet
+- ? Anvio (bioconda)
+(commercial software: clcbio)
+
+? Scaffolding
+- 
+
+QC assembly
+- Quast
+
+cgMLST
+- ChewBBACA
+- BigSdb
+- Genome profiler
+- MataList
+(commercial software: Ridom SeqSphere, Bionumerics)
+
+
+
+################### PARAMETERS TO TEST ##################
+
+- Analysis time
+- size of generated files
+- number of generated files
+- structure of generatef diles
+- critically look at differences in generated output
+
+
+
