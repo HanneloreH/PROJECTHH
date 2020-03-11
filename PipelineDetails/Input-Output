@@ -5,6 +5,10 @@ Necessary input:
 - path to fastq(s)
 - SE or PE reads
 - cgMLST scheme
+- OR make scheme:
+	-refseq number genome (GCF)
+	- species name
+
 - number of threads
 - path for output
 
