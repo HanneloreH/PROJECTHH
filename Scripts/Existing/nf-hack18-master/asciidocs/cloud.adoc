@@ -1,0 +1,65 @@
+= Nextflow Workshop {year} image:nextflow_logo.png[Logo,300,100,float="right", role="nflogo"]
+:docinfo: private
+:year: 2018
+:hide-uri-scheme:
+:nofooter:
+:icons: font
+:toclevels: 3
+:imagesdir: ./assets/
+ifeval::["{backend}" == "html5"]
+:stylesdir: ./css/
+:stylesheet: crg.css
+:linkcss:
+:source-highlighter: highlight.js
+:highlightjs-theme: github
+:linkattrs:
+endif::[]
+ifeval::["{backend}" == "pdf"]
+:imagesdir: ./docs/assets/
+endif::[]
+ifdef::draft[]
+
+image::draft.png[DRAFT,150,150,float="right",align="center"]
+include::todo.adoc[leveloffset=+1]
+endif::draft[]
+
+:sectnums:
+
+== Cloud environment setup
+
+=== Launch AWS Ec2 instance 
+
+During the training and the hackathon activities we'll use a AWS cloud environment. Follow the following steps to launch your Ec2 instance.
+
+1. SSH in the login instance with this command: 
++
+[source,cmd]
+----
+ssh -o StrictHostKeyChecking=no \
+    -o "UserKnownHostsFile /dev/null" \
+    login@52.30.76.104
+----
+
+2. Launch your AWS instance with this command: 
++
+[source,cmd]
+----
+curl -fsSL http://bit.ly/launch-ec2 | bash
+----
+
+3. When it completes, copy the printed SSH command, _exit_ from the login node (or open a new terminal window) and SSH to the new instance: 
++
+[source,cmd]
+----
+exit
+ssh me@<host-name-printed-in-your-screen>
+----
+
+4. Clone the following GitHub repository: 
++
+[source,cmd]
+----
+git clone https://github.com/nextflow-io/nf-hack18
+cd nf-hack18
+----
+

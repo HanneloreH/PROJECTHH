@@ -1,0 +1,2 @@
+2020-03-24 14:38:53	-	wise_avogadro	-	4c2f61cbbb2be56d9a176947a758cdb4d7941910	fd315666-3084-47d7-b92c-f016181bcc19	nextflow run nf-core/mag --reads '*_R{1,2}.fastq.gz' -profile docker
+2020-03-24 14:39:37	9.6s	sad_solvay	ERR	4c2f61cbbb2be56d9a176947a758cdb4d7941910	f9d617f0-2d4a-46f7-950c-42b68b71c539	nextflow run nf-core/mag --reads '*_{1,2}.fastq.gz' -profile docker

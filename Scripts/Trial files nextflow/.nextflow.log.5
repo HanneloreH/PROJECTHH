@@ -1,0 +1,112 @@
+mrt-23 17:18:25.511 [main] DEBUG nextflow.cli.Launcher - $> nextflow run Processes.nf -resume
+mrt-23 17:18:25.649 [main] INFO  nextflow.cli.CmdRun - N E X T F L O W  ~  version 20.01.0
+mrt-23 17:18:25.660 [main] INFO  nextflow.cli.CmdRun - Launching `Processes.nf` [agitated_thompson] - revision: 790050b331
+mrt-23 17:18:25.820 [main] DEBUG nextflow.Session - Session uuid: 04838659-7447-4cb2-8042-2c71b3b845b7
+mrt-23 17:18:25.820 [main] DEBUG nextflow.Session - Run name: agitated_thompson
+mrt-23 17:18:25.823 [main] DEBUG nextflow.Session - Executor pool size: 4
+mrt-23 17:18:25.843 [main] DEBUG nextflow.cli.CmdRun - 
+  Version: 20.01.0 build 5264
+  Created: 12-02-2020 10:14 UTC (11:14 CEST)
+  System: Linux 5.3.11-200.fc30.x86_64
+  Runtime: Groovy 2.5.8 on OpenJDK 64-Bit Server VM 1.8.0_232-b09
+  Encoding: UTF-8 (UTF-8)
+  Process: 4338@localhost.localdomain [127.0.0.1]
+  CPUs: 4 - Mem: 8.1 GB (5.6 GB) - Swap: 4.1 GB (4.1 GB)
+mrt-23 17:18:25.924 [main] DEBUG nextflow.file.FileHelper - Can't check if specified path is NFS (1): /home/hannelore/PROJECTHH/Scripts/Trial files nextflow/work
+
+mrt-23 17:18:25.924 [main] DEBUG nextflow.Session - Work-dir: /home/hannelore/PROJECTHH/Scripts/Trial files nextflow/work [null]
+mrt-23 17:18:25.925 [main] DEBUG nextflow.Session - Script base path does not exist or is not a directory: /home/hannelore/PROJECTHH/Scripts/Trial files nextflow/bin
+mrt-23 17:18:25.950 [main] DEBUG nextflow.Session - Observer factory: TowerFactory
+mrt-23 17:18:25.952 [main] DEBUG nextflow.Session - Observer factory: DefaultObserverFactory
+mrt-23 17:18:26.265 [main] DEBUG nextflow.Session - Session start invoked
+mrt-23 17:18:26.739 [main] DEBUG nextflow.script.ScriptRunner - > Launching execution
+mrt-23 17:18:26.749 [main] DEBUG nextflow.Session - Workflow process names [dsl1]: printPath, sayHello, printPath2
+mrt-23 17:18:26.807 [main] DEBUG nextflow.executor.ExecutorFactory - << taskConfig executor: null
+mrt-23 17:18:26.808 [main] DEBUG nextflow.executor.ExecutorFactory - >> processorType: 'local'
+mrt-23 17:18:26.813 [main] DEBUG nextflow.executor.Executor - [warm up] executor > local
+mrt-23 17:18:26.818 [main] DEBUG n.processor.LocalPollingMonitor - Creating local task monitor for executor 'local' > cpus=4; memory=8.1 GB; capacity=4; pollInterval=100ms; dumpInterval=5m
+mrt-23 17:18:26.929 [main] DEBUG nextflow.processor.TaskProcessor - Creating operator > sayHello -- maxForks: 4; blocking: false
+mrt-23 17:18:26.962 [main] DEBUG nextflow.executor.ExecutorFactory - << taskConfig executor: null
+mrt-23 17:18:26.962 [main] DEBUG nextflow.executor.ExecutorFactory - >> processorType: 'local'
+mrt-23 17:18:26.964 [main] DEBUG nextflow.processor.TaskProcessor - Creating operator > printPath -- maxForks: 4; blocking: false
+mrt-23 17:18:26.972 [main] DEBUG nextflow.executor.ExecutorFactory - << taskConfig executor: null
+mrt-23 17:18:26.972 [main] DEBUG nextflow.executor.ExecutorFactory - >> processorType: 'local'
+mrt-23 17:18:26.974 [main] DEBUG nextflow.processor.TaskProcessor - Creating operator > printPath2 -- maxForks: 4; blocking: false
+mrt-23 17:18:26.994 [main] DEBUG nextflow.script.ScriptRunner - > Await termination 
+mrt-23 17:18:26.994 [main] DEBUG nextflow.Session - Session await
+mrt-23 17:18:27.166 [Actor Thread 8] INFO  nextflow.processor.TaskProcessor - [82/026a64] Cached process > printPath2
+mrt-23 17:18:27.172 [Actor Thread 5] INFO  nextflow.processor.TaskProcessor - [e8/faf9cc] Cached process > printPath
+mrt-23 17:18:27.174 [Actor Thread 9] INFO  nextflow.processor.TaskProcessor - [cd/f37bea] Cached process > sayHello
+mrt-23 17:18:27.219 [Actor Thread 8] ERROR nextflow.processor.TaskProcessor - Error executing process > 'printPath2'
+
+Caused by:
+  No such property: view for class: java.lang.String
+
+groovy.lang.MissingPropertyException: No such property: view for class: java.lang.String
+	at org.codehaus.groovy.runtime.ScriptBytecodeAdapter.unwrap(ScriptBytecodeAdapter.java:65)
+	at org.codehaus.groovy.runtime.callsite.PogoMetaClassSite.call(PogoMetaClassSite.java:49)
+	at org.codehaus.groovy.runtime.callsite.CallSiteArray.defaultCall(CallSiteArray.java:47)
+	at org.codehaus.groovy.runtime.callsite.PojoMetaClassSite.call(PojoMetaClassSite.java:49)
+	at org.codehaus.groovy.runtime.callsite.AbstractCallSite.call(AbstractCallSite.java:127)
+	at nextflow.processor.TaskProcessor.bindOutParam(TaskProcessor.groovy:1328)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.codehaus.groovy.runtime.callsite.PlainObjectMetaMethodSite.doInvoke(PlainObjectMetaMethodSite.java:43)
+	at org.codehaus.groovy.runtime.callsite.PogoMetaMethodSite$PogoCachedMethodSiteNoUnwrapNoCoerce.invoke(PogoMetaMethodSite.java:190)
+	at org.codehaus.groovy.runtime.callsite.PogoMetaMethodSite.callCurrent(PogoMetaMethodSite.java:58)
+	at org.codehaus.groovy.runtime.callsite.CallSiteArray.defaultCallCurrent(CallSiteArray.java:51)
+	at org.codehaus.groovy.runtime.callsite.PogoMetaMethodSite.callCurrent(PogoMetaMethodSite.java:63)
+	at org.codehaus.groovy.runtime.callsite.AbstractCallSite.callCurrent(AbstractCallSite.java:176)
+	at nextflow.processor.TaskProcessor.bindOutputs(TaskProcessor.groovy:1299)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.codehaus.groovy.runtime.callsite.PlainObjectMetaMethodSite.doInvoke(PlainObjectMetaMethodSite.java:43)
+	at org.codehaus.groovy.runtime.callsite.PogoMetaMethodSite$PogoCachedMethodSiteNoUnwrapNoCoerce.invoke(PogoMetaMethodSite.java:190)
+	at org.codehaus.groovy.runtime.callsite.PogoMetaMethodSite.callCurrent(PogoMetaMethodSite.java:58)
+	at org.codehaus.groovy.runtime.callsite.CallSiteArray.defaultCallCurrent(CallSiteArray.java:51)
+	at org.codehaus.groovy.runtime.callsite.AbstractCallSite.callCurrent(AbstractCallSite.java:156)
+	at org.codehaus.groovy.runtime.callsite.AbstractCallSite.callCurrent(AbstractCallSite.java:168)
+	at nextflow.processor.TaskProcessor.finalizeTask0(TaskProcessor.groovy:2089)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.codehaus.groovy.runtime.callsite.PlainObjectMetaMethodSite.doInvoke(PlainObjectMetaMethodSite.java:43)
+	at org.codehaus.groovy.runtime.callsite.PogoMetaMethodSite$PogoCachedMethodSiteNoUnwrapNoCoerce.invoke(PogoMetaMethodSite.java:190)
+	at org.codehaus.groovy.runtime.callsite.PogoMetaMethodSite.callCurrent(PogoMetaMethodSite.java:58)
+	at org.codehaus.groovy.runtime.callsite.CallSiteArray.defaultCallCurrent(CallSiteArray.java:51)
+	at org.codehaus.groovy.runtime.callsite.AbstractCallSite.callCurrent(AbstractCallSite.java:156)
+	at org.codehaus.groovy.runtime.callsite.AbstractCallSite.callCurrent(AbstractCallSite.java:168)
+	at nextflow.processor.TaskProcessor.checkCachedOutput(TaskProcessor.groovy:896)
+	at nextflow.processor.TaskProcessor.checkCachedOrLaunchTask(TaskProcessor.groovy:736)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.codehaus.groovy.runtime.callsite.PlainObjectMetaMethodSite.doInvoke(PlainObjectMetaMethodSite.java:43)
+	at org.codehaus.groovy.runtime.callsite.PogoMetaMethodSite$PogoCachedMethodSiteNoUnwrapNoCoerce.invoke(PogoMetaMethodSite.java:190)
+	at org.codehaus.groovy.runtime.callsite.PogoMetaMethodSite.callCurrent(PogoMetaMethodSite.java:58)
+	at org.codehaus.groovy.runtime.callsite.AbstractCallSite.callCurrent(AbstractCallSite.java:184)
+	at nextflow.processor.TaskProcessor.invokeTask(TaskProcessor.groovy:571)
+	at nextflow.processor.InvokeTaskAdapter.call(InvokeTaskAdapter.groovy:58)
+	at groovyx.gpars.dataflow.operator.DataflowOperatorActor.startTask(DataflowOperatorActor.java:120)
+	at groovyx.gpars.dataflow.operator.ForkingDataflowOperatorActor.access$001(ForkingDataflowOperatorActor.java:35)
+	at groovyx.gpars.dataflow.operator.ForkingDataflowOperatorActor$1.run(ForkingDataflowOperatorActor.java:58)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+mrt-23 17:18:27.238 [Actor Thread 8] DEBUG nextflow.Session - Session aborted -- Cause: No such property: view for class: java.lang.String
+mrt-23 17:18:27.282 [Actor Thread 8] DEBUG nextflow.Session - The following nodes are still active:
+[process] printPath2
+  status=ACTIVE
+  port 0: (cntrl) -     ; channel: $
+
+mrt-23 17:18:27.290 [main] DEBUG nextflow.Session - Session await > all process finished
+mrt-23 17:18:27.297 [main] DEBUG nextflow.Session - Session await > all barriers passed
+mrt-23 17:18:27.306 [main] DEBUG nextflow.trace.WorkflowStatsObserver - Workflow completed > WorkflowStats[succeededCount=0; failedCount=0; ignoredCount=0; cachedCount=3; pendingCount=0; submittedCount=0; runningCount=0; retriesCount=0; abortedCount=0; succeedDuration=0ms; failedDuration=0ms; cachedDuration=157ms;loadCpus=0; loadMemory=0; peakRunning=0; peakCpus=0; peakMemory=0; ]
+mrt-23 17:18:27.473 [main] DEBUG nextflow.CacheDB - Closing CacheDB done
+mrt-23 17:18:27.495 [main] DEBUG nextflow.script.ScriptRunner - > Execution complete -- Goodbye

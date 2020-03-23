@@ -1,0 +1,5 @@
+[plugininstall]
+description=MKS Source Integrity Browser 1.0.8.1
+type=wfx
+file=mksbrowser.wfx
+defaultdir=MKSBrowser

@@ -1,2 +1,17 @@
 #ignoring raw data (too big)
 *.fastq.gz
+*.fna
+*.fastq
+
+#ignoring others
+*.log
+*.log.*
+*zip
+*tar
+*.exe
+pkg/
+src/
+temp/
+work/
+cache/
+
