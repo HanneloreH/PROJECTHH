@@ -1,0 +1,71 @@
+mrt-23 17:14:55.877 [main] DEBUG nextflow.cli.Launcher - $> nextflow run Processes.nf -resume
+mrt-23 17:14:56.002 [main] INFO  nextflow.cli.CmdRun - N E X T F L O W  ~  version 20.01.0
+mrt-23 17:14:56.018 [main] INFO  nextflow.cli.CmdRun - Launching `Processes.nf` [nice_sanger] - revision: d218668e1d
+mrt-23 17:14:56.169 [main] DEBUG nextflow.Session - Session uuid: 04838659-7447-4cb2-8042-2c71b3b845b7
+mrt-23 17:14:56.170 [main] DEBUG nextflow.Session - Run name: nice_sanger
+mrt-23 17:14:56.173 [main] DEBUG nextflow.Session - Executor pool size: 4
+mrt-23 17:14:56.187 [main] DEBUG nextflow.cli.CmdRun - 
+  Version: 20.01.0 build 5264
+  Created: 12-02-2020 10:14 UTC (11:14 CEST)
+  System: Linux 5.3.11-200.fc30.x86_64
+  Runtime: Groovy 2.5.8 on OpenJDK 64-Bit Server VM 1.8.0_232-b09
+  Encoding: UTF-8 (UTF-8)
+  Process: 3669@localhost.localdomain [127.0.0.1]
+  CPUs: 4 - Mem: 8.1 GB (5.5 GB) - Swap: 4.1 GB (4.1 GB)
+mrt-23 17:14:56.261 [main] DEBUG nextflow.file.FileHelper - Can't check if specified path is NFS (1): /home/hannelore/PROJECTHH/Scripts/Trial files nextflow/work
+
+mrt-23 17:14:56.261 [main] DEBUG nextflow.Session - Work-dir: /home/hannelore/PROJECTHH/Scripts/Trial files nextflow/work [null]
+mrt-23 17:14:56.262 [main] DEBUG nextflow.Session - Script base path does not exist or is not a directory: /home/hannelore/PROJECTHH/Scripts/Trial files nextflow/bin
+mrt-23 17:14:56.287 [main] DEBUG nextflow.Session - Observer factory: TowerFactory
+mrt-23 17:14:56.290 [main] DEBUG nextflow.Session - Observer factory: DefaultObserverFactory
+mrt-23 17:14:56.683 [main] DEBUG nextflow.Session - Session start invoked
+mrt-23 17:14:57.273 [main] DEBUG nextflow.script.ScriptRunner - > Launching execution
+mrt-23 17:14:57.307 [main] DEBUG nextflow.Session - Workflow process names [dsl1]: printPath, sayHello, printPath2
+mrt-23 17:14:57.424 [main] DEBUG nextflow.executor.ExecutorFactory - << taskConfig executor: null
+mrt-23 17:14:57.424 [main] DEBUG nextflow.executor.ExecutorFactory - >> processorType: 'local'
+mrt-23 17:14:57.440 [main] DEBUG nextflow.executor.Executor - [warm up] executor > local
+mrt-23 17:14:57.453 [main] DEBUG n.processor.LocalPollingMonitor - Creating local task monitor for executor 'local' > cpus=4; memory=8.1 GB; capacity=4; pollInterval=100ms; dumpInterval=5m
+mrt-23 17:14:57.710 [main] DEBUG nextflow.processor.TaskProcessor - Creating operator > sayHello -- maxForks: 4; blocking: false
+mrt-23 17:14:57.822 [main] DEBUG nextflow.executor.ExecutorFactory - << taskConfig executor: null
+mrt-23 17:14:57.824 [main] DEBUG nextflow.executor.ExecutorFactory - >> processorType: 'local'
+mrt-23 17:14:57.826 [main] DEBUG nextflow.processor.TaskProcessor - Creating operator > printPath -- maxForks: 4; blocking: false
+mrt-23 17:14:57.843 [main] DEBUG nextflow.executor.ExecutorFactory - << taskConfig executor: null
+mrt-23 17:14:57.844 [main] DEBUG nextflow.executor.ExecutorFactory - >> processorType: 'local'
+mrt-23 17:14:57.857 [main] DEBUG nextflow.processor.TaskProcessor - Creating operator > printPath2 -- maxForks: 4; blocking: false
+mrt-23 17:14:57.873 [main] DEBUG nextflow.script.ScriptRunner - > Await termination 
+mrt-23 17:14:57.876 [main] DEBUG nextflow.Session - Session await
+mrt-23 17:14:58.233 [Task submitter] DEBUG nextflow.executor.LocalTaskHandler - Launch cmd line: /bin/bash -ue .command.run
+mrt-23 17:14:58.271 [Task submitter] INFO  nextflow.Session - [1f/4c575b] Submitted process > printPath
+mrt-23 17:14:58.328 [Task submitter] DEBUG nextflow.executor.LocalTaskHandler - Launch cmd line: /bin/bash -ue .command.run
+mrt-23 17:14:58.329 [Task submitter] INFO  nextflow.Session - [c4/e66b2a] Submitted process > printPath2
+mrt-23 17:14:58.379 [Actor Thread 8] INFO  nextflow.processor.TaskProcessor - [cd/f37bea] Cached process > sayHello
+mrt-23 17:14:58.537 [Task monitor] DEBUG n.processor.TaskPollingMonitor - Task completed > TaskHandler[id: 1; name: printPath; status: COMPLETED; exit: 127; error: -; workDir: /home/hannelore/PROJECTHH/Scripts/Trial files nextflow/work/1f/4c575b7daec9e9bf0ecea4e71e8859]
+mrt-23 17:14:58.619 [Task monitor] ERROR nextflow.processor.TaskProcessor - Error executing process > 'printPath'
+
+Caused by:
+  Process `printPath` terminated with an error exit status (127)
+
+Command executed:
+
+  println The path is: $PATH
+
+Command exit status:
+  127
+
+Command output:
+  (empty)
+
+Command error:
+  .command.sh: regel 2: println: opdracht niet gevonden
+
+Work dir:
+  /home/hannelore/PROJECTHH/Scripts/Trial files nextflow/work/1f/4c575b7daec9e9bf0ecea4e71e8859
+
+Tip: you can replicate the issue by changing to the process work dir and entering the command `bash .command.run`
+mrt-23 17:14:58.654 [Task monitor] DEBUG nextflow.Session - Session aborted -- Cause: Process `printPath` terminated with an error exit status (127)
+mrt-23 17:14:58.693 [main] DEBUG nextflow.Session - Session await > all process finished
+mrt-23 17:14:58.694 [main] DEBUG nextflow.Session - Session await > all barriers passed
+mrt-23 17:14:58.706 [Task monitor] DEBUG n.processor.TaskPollingMonitor - Task completed > TaskHandler[id: 2; name: printPath2; status: COMPLETED; exit: 127; error: -; workDir: /home/hannelore/PROJECTHH/Scripts/Trial files nextflow/work/c4/e66b2a1b34a6e4c073a69cf896588d]
+mrt-23 17:14:58.723 [main] DEBUG nextflow.trace.WorkflowStatsObserver - Workflow completed > WorkflowStats[succeededCount=0; failedCount=2; ignoredCount=0; cachedCount=1; pendingCount=0; submittedCount=0; runningCount=0; retriesCount=0; abortedCount=0; succeedDuration=0ms; failedDuration=452ms; cachedDuration=66ms;loadCpus=0; loadMemory=0; peakRunning=2; peakCpus=2; peakMemory=0; ]
+mrt-23 17:14:58.869 [main] DEBUG nextflow.CacheDB - Closing CacheDB done
+mrt-23 17:14:58.893 [main] DEBUG nextflow.script.ScriptRunner - > Execution complete -- Goodbye

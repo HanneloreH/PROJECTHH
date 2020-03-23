@@ -1,45 +1,58 @@
-mrt-23 11:40:19.787 [main] DEBUG nextflow.cli.Launcher - $> nextflow run nexflow-hello.nf
-mrt-23 11:40:19.930 [main] INFO  nextflow.cli.CmdRun - N E X T F L O W  ~  version 20.01.0
-mrt-23 11:40:19.954 [main] INFO  nextflow.cli.CmdRun - Launching `nexflow-hello.nf` [disturbed_avogadro] - revision: be42f295f4
-mrt-23 11:40:20.151 [main] DEBUG nextflow.Session - Session uuid: ac8f84ed-17a6-4518-8e06-c1237bcdeb0c
-mrt-23 11:40:20.151 [main] DEBUG nextflow.Session - Run name: disturbed_avogadro
-mrt-23 11:40:20.156 [main] DEBUG nextflow.Session - Executor pool size: 4
-mrt-23 11:40:20.181 [main] DEBUG nextflow.cli.CmdRun - 
+mrt-23 16:34:13.275 [main] DEBUG nextflow.cli.Launcher - $> nextflow testjes.nf
+mrt-23 16:34:13.423 [main] INFO  nextflow.cli.CmdRun - N E X T F L O W  ~  version 20.01.0
+mrt-23 16:34:13.443 [main] INFO  nextflow.cli.CmdRun - Launching `testjes.nf` [insane_pesquet] - revision: 97677ddf09
+mrt-23 16:34:13.583 [main] DEBUG nextflow.Session - Session uuid: c6ffc61e-ee6a-4f29-8d6e-880e190588f1
+mrt-23 16:34:13.583 [main] DEBUG nextflow.Session - Run name: insane_pesquet
+mrt-23 16:34:13.585 [main] DEBUG nextflow.Session - Executor pool size: 4
+mrt-23 16:34:13.598 [main] DEBUG nextflow.cli.CmdRun - 
   Version: 20.01.0 build 5264
   Created: 12-02-2020 10:14 UTC (11:14 CEST)
   System: Linux 5.3.11-200.fc30.x86_64
   Runtime: Groovy 2.5.8 on OpenJDK 64-Bit Server VM 1.8.0_232-b09
   Encoding: UTF-8 (UTF-8)
-  Process: 6036@localhost.localdomain [127.0.0.1]
-  CPUs: 4 - Mem: 8.1 GB (3.8 GB) - Swap: 4.1 GB (4.1 GB)
-mrt-23 11:40:20.326 [main] DEBUG nextflow.Session - Work-dir: /home/hannelore/PROJECTHH/Scripts/work [ext2/ext3]
-mrt-23 11:40:20.328 [main] DEBUG nextflow.Session - Script base path does not exist or is not a directory: /home/hannelore/PROJECTHH/Scripts/bin
-mrt-23 11:40:20.364 [main] DEBUG nextflow.Session - Observer factory: TowerFactory
-mrt-23 11:40:20.369 [main] DEBUG nextflow.Session - Observer factory: DefaultObserverFactory
-mrt-23 11:40:20.771 [main] DEBUG nextflow.Session - Session start invoked
-mrt-23 11:40:21.710 [main] DEBUG nextflow.script.ScriptRunner - > Launching execution
-mrt-23 11:40:21.724 [main] DEBUG nextflow.Session - Workflow process names [dsl1]: convertToUpper, splitLetters
-mrt-23 11:40:21.849 [main] DEBUG nextflow.executor.ExecutorFactory - << taskConfig executor: null
-mrt-23 11:40:21.849 [main] DEBUG nextflow.executor.ExecutorFactory - >> processorType: 'local'
-mrt-23 11:40:21.862 [main] DEBUG nextflow.executor.Executor - [warm up] executor > local
-mrt-23 11:40:21.894 [main] DEBUG n.processor.LocalPollingMonitor - Creating local task monitor for executor 'local' > cpus=4; memory=8.1 GB; capacity=4; pollInterval=100ms; dumpInterval=5m
-mrt-23 11:40:22.044 [main] DEBUG nextflow.processor.TaskProcessor - Creating operator > splitLetters -- maxForks: 4; blocking: false
-mrt-23 11:40:22.155 [main] DEBUG nextflow.executor.ExecutorFactory - << taskConfig executor: null
-mrt-23 11:40:22.155 [main] DEBUG nextflow.executor.ExecutorFactory - >> processorType: 'local'
-mrt-23 11:40:22.164 [main] DEBUG nextflow.processor.TaskProcessor - Creating operator > convertToUpper -- maxForks: 4; blocking: false
-mrt-23 11:40:22.189 [main] DEBUG nextflow.script.ScriptRunner - > Await termination 
-mrt-23 11:40:22.189 [main] DEBUG nextflow.Session - Session await
-mrt-23 11:40:22.393 [Task submitter] DEBUG nextflow.executor.LocalTaskHandler - Launch cmd line: /bin/bash -ue .command.run
-mrt-23 11:40:22.401 [Task submitter] INFO  nextflow.Session - [7c/918ed3] Submitted process > splitLetters
-mrt-23 11:40:22.525 [Task monitor] DEBUG n.processor.TaskPollingMonitor - Task completed > TaskHandler[id: 1; name: splitLetters; status: COMPLETED; exit: 0; error: -; workDir: /home/hannelore/PROJECTHH/Scripts/work/7c/918ed3a8d61afc4136fc9f52373074]
-mrt-23 11:40:22.594 [Task submitter] DEBUG nextflow.executor.LocalTaskHandler - Launch cmd line: /bin/bash -ue .command.run
-mrt-23 11:40:22.601 [Task submitter] INFO  nextflow.Session - [a6/c23c67] Submitted process > convertToUpper (1)
-mrt-23 11:40:22.607 [Task submitter] DEBUG nextflow.executor.LocalTaskHandler - Launch cmd line: /bin/bash -ue .command.run
-mrt-23 11:40:22.608 [Task submitter] INFO  nextflow.Session - [0d/e39190] Submitted process > convertToUpper (2)
-mrt-23 11:40:22.807 [Task monitor] DEBUG n.processor.TaskPollingMonitor - Task completed > TaskHandler[id: 2; name: convertToUpper (1); status: COMPLETED; exit: 0; error: -; workDir: /home/hannelore/PROJECTHH/Scripts/work/a6/c23c67cfd7beb76994ca052d19b8b2]
-mrt-23 11:40:22.821 [Task monitor] DEBUG n.processor.TaskPollingMonitor - Task completed > TaskHandler[id: 3; name: convertToUpper (2); status: COMPLETED; exit: 0; error: -; workDir: /home/hannelore/PROJECTHH/Scripts/work/0d/e39190f4666668fab38834256a42f9]
-mrt-23 11:40:22.823 [main] DEBUG nextflow.Session - Session await > all process finished
-mrt-23 11:40:22.832 [main] DEBUG nextflow.Session - Session await > all barriers passed
-mrt-23 11:40:22.844 [main] DEBUG nextflow.trace.WorkflowStatsObserver - Workflow completed > WorkflowStats[succeededCount=3; failedCount=0; ignoredCount=0; cachedCount=0; pendingCount=0; submittedCount=0; runningCount=0; retriesCount=0; abortedCount=0; succeedDuration=212ms; failedDuration=0ms; cachedDuration=0ms;loadCpus=0; loadMemory=0; peakRunning=2; peakCpus=2; peakMemory=0; ]
-mrt-23 11:40:23.002 [main] DEBUG nextflow.CacheDB - Closing CacheDB done
-mrt-23 11:40:23.049 [main] DEBUG nextflow.script.ScriptRunner - > Execution complete -- Goodbye
+  Process: 17746@localhost.localdomain [127.0.0.1]
+  CPUs: 4 - Mem: 8.1 GB (2.9 GB) - Swap: 4.1 GB (4.1 GB)
+mrt-23 16:34:13.662 [main] DEBUG nextflow.Session - Work-dir: /home/hannelore/PROJECTHH/Scripts/work [ext2/ext3]
+mrt-23 16:34:13.662 [main] DEBUG nextflow.Session - Script base path does not exist or is not a directory: /home/hannelore/PROJECTHH/Scripts/bin
+mrt-23 16:34:13.686 [main] DEBUG nextflow.Session - Observer factory: TowerFactory
+mrt-23 16:34:13.688 [main] DEBUG nextflow.Session - Observer factory: DefaultObserverFactory
+mrt-23 16:34:13.856 [main] DEBUG nextflow.Session - Session start invoked
+mrt-23 16:34:14.443 [main] DEBUG nextflow.script.ScriptRunner - > Launching execution
+mrt-23 16:34:14.467 [main] DEBUG nextflow.Session - Workflow process names [dsl1]: 
+mrt-23 16:34:14.563 [main] DEBUG nextflow.Session - Session aborted -- Cause: /home/hannelore/PROJECTHH/Scripts/my_file.txt
+mrt-23 16:34:14.579 [main] ERROR nextflow.cli.Launcher - /home/hannelore/PROJECTHH/Scripts/my_file.txt
+java.nio.file.NoSuchFileException: /home/hannelore/PROJECTHH/Scripts/my_file.txt
+	at sun.nio.fs.UnixException.translateToIOException(UnixException.java:86)
+	at sun.nio.fs.UnixException.rethrowAsIOException(UnixException.java:102)
+	at sun.nio.fs.UnixException.rethrowAsIOException(UnixException.java:107)
+	at sun.nio.fs.UnixFileSystemProvider.newByteChannel(UnixFileSystemProvider.java:214)
+	at java.nio.file.Files.newByteChannel(Files.java:361)
+	at java.nio.file.Files.newByteChannel(Files.java:407)
+	at java.nio.file.spi.FileSystemProvider.newInputStream(FileSystemProvider.java:384)
+	at java.nio.file.Files.newInputStream(Files.java:152)
+	at java.nio.file.Files.newBufferedReader(Files.java:2784)
+	at org.codehaus.groovy.runtime.NioGroovyMethods.newReader(NioGroovyMethods.java:1400)
+	at org.codehaus.groovy.runtime.NioGroovyMethods.readLines(NioGroovyMethods.java:353)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.codehaus.groovy.runtime.metaclass.ReflectionMetaMethod.invoke(ReflectionMetaMethod.java:54)
+	at org.codehaus.groovy.runtime.metaclass.NewInstanceMetaMethod.invoke(NewInstanceMetaMethod.java:54)
+	at groovy.lang.MetaMethod.doMethodInvoke(MetaMethod.java:323)
+	at groovy.lang.MetaClassImpl.invokeMethod(MetaClassImpl.java:1217)
+	at groovy.lang.MetaClassImpl.invokeMethod(MetaClassImpl.java:1041)
+	at groovy.runtime.metaclass.NextflowDelegatingMetaClass.invokeMethod(NextflowDelegatingMetaClass.java:61)
+	at org.codehaus.groovy.runtime.callsite.PojoMetaClassSite.call(PojoMetaClassSite.java:44)
+	at org.codehaus.groovy.runtime.callsite.CallSiteArray.defaultCall(CallSiteArray.java:47)
+	at org.codehaus.groovy.runtime.callsite.AbstractCallSite.call(AbstractCallSite.java:115)
+	at org.codehaus.groovy.runtime.callsite.AbstractCallSite.call(AbstractCallSite.java:119)
+	at Script_99ca818d.runScript(Script_99ca818d:137)
+	at nextflow.script.BaseScript.runDsl1(BaseScript.groovy:153)
+	at nextflow.script.BaseScript.run(BaseScript.groovy:189)
+	at nextflow.script.ScriptParser.runScript(ScriptParser.groovy:225)
+	at nextflow.script.ScriptRunner.run(ScriptRunner.groovy:218)
+	at nextflow.script.ScriptRunner.execute(ScriptRunner.groovy:126)
+	at nextflow.cli.CmdRun.run(CmdRun.groovy:273)
+	at nextflow.cli.Launcher.run(Launcher.groovy:460)
+	at nextflow.cli.Launcher.main(Launcher.groovy:642)

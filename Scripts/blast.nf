@@ -12,7 +12,7 @@ process blastSearch {
     file query from query_ch
 
     output:
-    file "top_hits.txt" into top_hits_ch
+    file "top_hits.txt" into top_hits_ch  //define the channel
 
     """
     blastp -db $db -query $query -outfmt 6 > blast_result

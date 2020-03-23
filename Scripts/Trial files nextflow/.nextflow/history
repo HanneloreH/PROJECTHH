@@ -1,0 +1,16 @@
+2020-03-23 16:55:25	2s	silly_poincare	OK	64db3ad4f93bdd5d23a6a9770121be8a	f83880ff-fc59-4876-a825-36fd99e8b7bf	nextflow Processes.nf
+2020-03-23 17:00:59	3.7s	crazy_payne	OK	c32f7ed3f11ef32fcb9e8476a73bf716	090c0401-3260-4b69-905b-7fb081c7cb96	nextflow run Processes.nf -with-report
+2020-03-23 17:09:33	4s	festering_church	OK	c32f7ed3f11ef32fcb9e8476a73bf716	29220d2d-e606-4eaa-8041-46dd3a035ff8	nextflow run Processes.nf
+2020-03-23 17:12:54	2.4s	backstabbing_swanson	OK	ec744bbcf183348faa96dee87e685f49	04838659-7447-4cb2-8042-2c71b3b845b7	nextflow run Processes.nf
+2020-03-23 17:13:02	2.5s	insane_swartz	OK	ec744bbcf183348faa96dee87e685f49	04838659-7447-4cb2-8042-2c71b3b845b7	nextflow run Processes.nf -resume
+2020-03-23 17:14:11	2.6s	mad_dalembert	ERR	d218668e1d7dd07261a6ddbdd6e69a0e	04838659-7447-4cb2-8042-2c71b3b845b7	nextflow run Processes.nf -resume
+2020-03-23 17:14:56	2.9s	nice_sanger	ERR	d218668e1d7dd07261a6ddbdd6e69a0e	04838659-7447-4cb2-8042-2c71b3b845b7	nextflow run Processes.nf -resume
+2020-03-23 17:15:02	2.1s	jolly_keller	OK	80592ac3f78695a4247ced26ae9f64fe	04838659-7447-4cb2-8042-2c71b3b845b7	nextflow run Processes.nf -resume
+2020-03-23 17:16:42	-	gloomy_aryabhata	-	4290eb110f1ddcbcf34e3dfcccb55d39	04838659-7447-4cb2-8042-2c71b3b845b7	nextflow run Processes.nf -resume
+2020-03-23 17:17:43	2.6s	modest_varahamihira	OK	1112342bdbddfda09d697ba121475682	04838659-7447-4cb2-8042-2c71b3b845b7	nextflow run Processes.nf -resume
+2020-03-23 17:18:25	2.5s	agitated_thompson	ERR	790050b3316c29f05df671bf4db28ed6	04838659-7447-4cb2-8042-2c71b3b845b7	nextflow run Processes.nf -resume
+2020-03-23 17:18:47	2.2s	tiny_hypatia	OK	fcf642f7a236de9c4a5cf65c958c0523	04838659-7447-4cb2-8042-2c71b3b845b7	nextflow run Processes.nf -resume
+2020-03-23 17:19:28	2s	stoic_kirch	OK	55517634790d473d7f9e2371f65e7043	04838659-7447-4cb2-8042-2c71b3b845b7	nextflow run Processes.nf -resume
+2020-03-23 17:20:14	2.5s	small_nightingale	OK	53b9258cc4d5740e7d2c183e2114e86c	04838659-7447-4cb2-8042-2c71b3b845b7	nextflow run Processes.nf -resume
+2020-03-23 17:20:25	3s	festering_galileo	OK	53b9258cc4d5740e7d2c183e2114e86c	04838659-7447-4cb2-8042-2c71b3b845b7	nextflow run Processes.nf -resume
+2020-03-23 17:20:35	1.9s	naughty_joliot	OK	1b254d438f826601667957b3d4abfdd8	04838659-7447-4cb2-8042-2c71b3b845b7	nextflow run Processes.nf -resume

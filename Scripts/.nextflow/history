@@ -3,3 +3,65 @@
 2020-03-23 11:44:04	1.8s	compassionate_miescher	OK	7f2cdd972d718175025f377322e3be22	1eccd9d7-6fad-4452-9ec3-b6c6b757460f	nextflow run nexflow-hello.nf -resume
 2020-03-23 11:44:40	1.8s	clever_coulomb	OK	3b01a53f6ddd8d015884bf429715ed8a	1eccd9d7-6fad-4452-9ec3-b6c6b757460f	nextflow run nexflow-hello.nf -resume
 2020-03-23 11:47:22	1.9s	gigantic_williams	OK	3b01a53f6ddd8d015884bf429715ed8a	168e160d-99f3-49af-b2db-585d4407b74c	nextflow run nexflow-hello.nf --str 'ola pola'
+2020-03-23 14:38:06	1.7s	shrivelled_lalande	OK	88e9c5f9a5f2ade4eb814dd0af816e3c	7802eaf0-7928-4039-9424-2c40601d13d6	nextflow testjes.nf
+2020-03-23 14:38:45	1.1s	backstabbing_kirch	OK	88e9c5f9a5f2ade4eb814dd0af816e3c	ea1aa2ed-a042-48cd-a2d4-f2a5d3e2e7f9	nextflow testjes.nf
+2020-03-23 14:39:31	1.2s	agitated_bassi	OK	88e9c5f9a5f2ade4eb814dd0af816e3c	c59b518d-dac6-4471-9e08-c60d2f45d457	nextflow testjes.nf
+2020-03-23 14:39:41	908ms	romantic_lumiere	OK	8ee303c713d68cc2c4cdfe92f5c78c49	91a9cb5b-1de2-4d9e-ac47-62adc88559ce	nextflow testjes.nf
+2020-03-23 14:41:00	1.7s	confident_kalam	OK	00b4febcba35907fac4c5e4b6a4d7744	ab5d0408-13bb-4a3a-81d8-3f46bd339164	nextflow testjes.nf
+2020-03-23 14:41:52	1.1s	nice_leavitt	OK	5c0356e994f532713887520f7f259be1	f207de7f-89e1-471c-9290-5f287a7af066	nextflow testjes.nf
+2020-03-23 14:44:29	-	compassionate_boyd	-	6b05f05b094f1190949543b7bcf46287	21b03402-317c-4ee3-92c7-4fab379f5e7a	nextflow testjes.nf
+2020-03-23 14:44:43	896ms	tender_cray	OK	07a52571f6e4b3fe4950f8329d172568	2c296dd0-4ed4-4f01-b1ec-1fb31c66fee9	nextflow testjes.nf
+2020-03-23 14:45:32	1.7s	nauseous_sammet	OK	30a1b61fffcd70722a0378afe2a67ca8	93676a70-0f9f-4da4-a24a-1e3c2e648ad3	nextflow testjes.nf
+2020-03-23 14:46:33	944ms	intergalactic_fermat	OK	6cdd8605027de8419116be0b1381d56f	7d20b8e2-8d7b-4226-a36a-971aace5fcc8	nextflow testjes.nf
+2020-03-23 14:47:25	1.6s	naughty_sanger	OK	285adfce2016ab9a7d57e4a31015623e	f41d5aa0-6adf-47e1-97c7-983d3d733771	nextflow testjes.nf
+2020-03-23 14:52:08	-	furious_elion	-	355b80829f6a0e0be1c13e58c0784dd8	b927686d-1e58-4896-8dae-8f92075eda4a	nextflow testjes.nf
+2020-03-23 14:53:34	1.1s	condescending_magritte	OK	08a8ecf07eb1862fb9c2012454d17498	6c9768ce-dbaf-496f-80e1-3bc8a9d8304f	nextflow testjes.nf
+2020-03-23 14:54:10	1.6s	friendly_engelbart	OK	b77b739d5a2c906dd0f0f7e3ca80e6ee	2a3ee1e6-9354-4860-acb6-d39fc81d5230	nextflow testjes.nf
+2020-03-23 14:55:18	1.3s	distraught_pare	OK	e2b6fea6d15517036f00d5999b9c26d1	1d692039-6e5a-4e6a-a25d-cfc7063ac7b5	nextflow testjes.nf
+2020-03-23 14:57:45	1.2s	tender_fermat	OK	e2b6fea6d15517036f00d5999b9c26d1	1d692039-6e5a-4e6a-a25d-cfc7063ac7b5	nextflow testjes.nf -resume
+2020-03-23 15:07:04	1.1s	serene_noether	OK	e2b6fea6d15517036f00d5999b9c26d1	1d692039-6e5a-4e6a-a25d-cfc7063ac7b5	nextflow testjes.nf -resume
+2020-03-23 15:07:52	-	backstabbing_dubinsky	-	edf1a6c1fa4a134214ace68473fbd0b7	1d692039-6e5a-4e6a-a25d-cfc7063ac7b5	nextflow testjes.nf -resume
+2020-03-23 15:08:54	-	golden_booth	-	40def0b66c6544149dbc488b4d4c7f39	1d692039-6e5a-4e6a-a25d-cfc7063ac7b5	nextflow testjes.nf -resume
+2020-03-23 15:09:37	-	voluminous_payne	-	40def0b66c6544149dbc488b4d4c7f39	1d692039-6e5a-4e6a-a25d-cfc7063ac7b5	nextflow testjes.nf -resume
+2020-03-23 15:09:46	1.6s	curious_cajal	OK	5dbfbd5c850b5d22d7ced43645586b3b	1d692039-6e5a-4e6a-a25d-cfc7063ac7b5	nextflow testjes.nf -resume
+2020-03-23 15:11:01	994ms	kickass_mclean	OK	c0f7eb04cccda226505ed44c391d603c	1d692039-6e5a-4e6a-a25d-cfc7063ac7b5	nextflow testjes.nf -resume
+2020-03-23 15:12:48	-	voluminous_lavoisier	-	b0a5f120e4f8e0ed3be757669ddefbe7	1d692039-6e5a-4e6a-a25d-cfc7063ac7b5	nextflow testjes.nf -resume
+2020-03-23 15:14:59	-	friendly_keller	-	e5744f559d2cf0fe76397793aa3a3b74	1d692039-6e5a-4e6a-a25d-cfc7063ac7b5	nextflow testjes.nf -resume
+2020-03-23 15:15:10	1.1s	lonely_magritte	OK	c0531aa0721a6a9fbc3bf357484249bd	1d692039-6e5a-4e6a-a25d-cfc7063ac7b5	nextflow testjes.nf -resume
+2020-03-23 15:15:51	979ms	tender_williams	OK	c0531aa0721a6a9fbc3bf357484249bd	1d692039-6e5a-4e6a-a25d-cfc7063ac7b5	nextflow testjes.nf -resume
+2020-03-23 15:16:25	-	determined_poitras	-	219793752dd9123fa0111542163c532d	1d692039-6e5a-4e6a-a25d-cfc7063ac7b5	nextflow testjes.nf -resume
+2020-03-23 15:17:00	1.5s	maniac_curie	OK	dea90a86e6d90c45906c8cf3f73ea30c	1d692039-6e5a-4e6a-a25d-cfc7063ac7b5	nextflow testjes.nf -resume
+2020-03-23 15:19:44	1.5s	sharp_wilson	OK	a26c7c88dc2e1441c15e3165688bc193	1d692039-6e5a-4e6a-a25d-cfc7063ac7b5	nextflow testjes.nf -resume
+2020-03-23 15:35:30	-	zen_murdock	-	880d24d576481b4837c6403a999d4e1b	1d692039-6e5a-4e6a-a25d-cfc7063ac7b5	nextflow testjes.nf -resume
+2020-03-23 15:36:35	1.9s	mighty_turing	OK	33ec1a2420f032e124950bae1e1fffb6	1d692039-6e5a-4e6a-a25d-cfc7063ac7b5	nextflow testjes.nf -resume
+2020-03-23 15:38:10	931ms	berserk_wing	OK	49373742b0ede55f92542e589d47c6b8	1d692039-6e5a-4e6a-a25d-cfc7063ac7b5	nextflow testjes.nf -resume
+2020-03-23 15:38:41	1.8s	elegant_sinoussi	OK	0784852427377c299d3c66b9f23595b0	1d692039-6e5a-4e6a-a25d-cfc7063ac7b5	nextflow testjes.nf -resume
+2020-03-23 15:39:40	1.2s	sick_borg	OK	70af4fb05dfce4337cb3f38ca1165f45	1d692039-6e5a-4e6a-a25d-cfc7063ac7b5	nextflow testjes.nf -resume
+2020-03-23 15:46:43	1.7s	special_stonebraker	OK	d16f1cb61a7e6977531f05d728b6972b	dfd5f47a-7eac-4070-ac7e-ded28141cf99	nextflow testjes.nf
+2020-03-23 15:47:14	1.4s	magical_yalow	OK	5ca4e1073614d2f8ce24d9f15bf72d3d	6aa7aa2b-5733-4a19-b8be-ae136769a14b	nextflow testjes.nf
+2020-03-23 15:47:44	938ms	peaceful_lichterman	OK	ed76f8256f3005fb710c869228b21e8f	e76a300b-aed7-4a00-9f20-7fdba7153f97	nextflow testjes.nf
+2020-03-23 15:48:45	-	trusting_noether	-	73a5d0d79fd24bf8cd5e5538d138a1a8	fb2d30b4-b8b8-495e-9134-68e4c5aec514	nextflow testjes.nf
+2020-03-23 15:50:33	-	fervent_goodall	-	1be340b5e92aa48246221f4cd1b88645	62fa40dd-0ee6-4498-b004-c24e4803b74c	nextflow testjes.nf
+2020-03-23 15:55:41	-	nasty_goldwasser	-	7edc0d190e755374aafd2291d7905231	23293f60-dea7-472e-bfaa-1aeb7f7a6b7e	nextflow testjes.nf
+2020-03-23 15:56:40	-	tiny_swanson	-	7edc0d190e755374aafd2291d7905231	61e95bb3-727d-4b2e-9ca9-07edad4ee51a	nextflow testjes.nf
+2020-03-23 15:57:46	-	zen_pike	-	549672c0a5d651c8f67eebb0c4ae4c73	1f2c5d44-5700-4ae2-9ab3-e858831b1a47	nextflow testjes.nf
+2020-03-23 15:58:21	-	prickly_bartik	-	070ea549429855cd2555abe14a764ec7	644b10df-72f7-4e8d-b1f1-0bf865a2548e	nextflow testjes.nf
+2020-03-23 15:59:18	-	sharp_saha	-	f41279033d00cfcfb899625ea312c080	e8e0b50a-1eaa-466d-ad58-62f1e628126c	nextflow testjes.nf
+2020-03-23 15:59:51	1.9s	cheesy_easley	OK	a526fc6c3a941a8e43ca04eacd398995	3dfea57b-83d7-4afa-9b3c-47bf7503fa9e	nextflow testjes.nf
+2020-03-23 16:09:49	1.8s	loving_wright	OK	4f15dc303e491820ade1db7f816964c4	52795598-18fd-446f-bbc4-18b449506ea6	nextflow testjes.nf
+2020-03-23 16:10:55	1.5s	kickass_lamarck	OK	c1122e3f88bef80a82ac98468aeaf433	d186c70e-33cf-4f75-b33b-9fae655f1d9e	nextflow testjes.nf
+2020-03-23 16:20:47	1.5s	lonely_rubens	OK	0d9b98bdb9c76688258abe254aa14294	dbd76dce-f255-4d9a-ba63-2a680127d93b	nextflow testjes.nf
+2020-03-23 16:21:05	1.3s	ecstatic_pesquet	OK	8221c3bf291610e4939e58e8767fbfbb	e286c4fa-6099-43ea-a9fa-8b02e8308be3	nextflow testjes.nf
+2020-03-23 16:22:13	-	jovial_sinoussi	-	90e8ace24a0218e9ecc73dbd5fc55c43	f2adef3c-56b5-490a-a16a-37c566c104fd	nextflow testjes.nf
+2020-03-23 16:22:23	1.7s	backstabbing_almeida	OK	5a0d32fbec5689351f43f978706518fb	59c0e982-b5b4-4d85-9660-00f846cab388	nextflow testjes.nf
+2020-03-23 16:23:27	1.3s	fabulous_wozniak	OK	389c312a71a6e77c3e9095b0f8bb3797	c32b4b07-4ad8-4358-afcb-a5aaac97ff29	nextflow testjes.nf
+2020-03-23 16:27:59	1.6s	goofy_sax	OK	01237d0484129b93d2f678c3931454c5	5f30c02e-a261-43c3-a590-1247329eed74	nextflow testjes.nf
+2020-03-23 16:28:22	1.1s	jovial_wright	OK	ff45aaa8fd0e3cec105072c44bf6b836	3a679abc-a70d-45df-b522-19aa97019b5e	nextflow testjes.nf
+2020-03-23 16:29:26	2.1s	magical_morse	OK	34b83c52ed9edf5a09544a193972851d	18d1f759-45d0-4506-9cba-8674383face8	nextflow testjes.nf
+2020-03-23 16:32:27	-	mighty_ekeblad	-	f40147a7834677724fe10ce984da52e8	f428ea05-8b93-44dd-8754-e3383d79118c	nextflow testjes.nf
+2020-03-23 16:32:52	1.9s	zen_mayer	OK	469fccbac87c017966d48a03c2975634	86a69dec-7d6c-4e8a-a3c3-a15c29720350	nextflow testjes.nf
+2020-03-23 16:34:13	-	insane_pesquet	-	97677ddf099042e42bd87e526ed155b1	c6ffc61e-ee6a-4f29-8d6e-880e190588f1	nextflow testjes.nf
+2020-03-23 16:34:44	-	disturbed_cajal	-	b54bea07e68dc4b004ade180965fd2e5	d5cb9082-97bd-4483-a089-e1fb4e4709de	nextflow testjes.nf
+2020-03-23 16:36:43	-	trusting_agnesi	-	8c9b8c97559e9dedb78aed0e3e749123	3ad027fa-a6a6-4427-b13f-8f39f3ecce35	nextflow testjes.nf
+2020-03-23 16:37:17	2.1s	awesome_pike	OK	8c9b8c97559e9dedb78aed0e3e749123	68ae7f56-de0a-4709-aa07-641c67e41877	nextflow testjes.nf
+2020-03-23 16:38:42	-	cheesy_jennings	-	e395a054d3786de3b40e9ba7f46856ec	270b7ce1-9a63-4d51-9e1d-de8df8242c51	nextflow testjes.nf

@@ -1,45 +1,28 @@
-mrt-23 11:47:21.737 [main] DEBUG nextflow.cli.Launcher - $> nextflow run nexflow-hello.nf --str 'ola pola'
-mrt-23 11:47:21.869 [main] INFO  nextflow.cli.CmdRun - N E X T F L O W  ~  version 20.01.0
-mrt-23 11:47:21.884 [main] INFO  nextflow.cli.CmdRun - Launching `nexflow-hello.nf` [gigantic_williams] - revision: 3b01a53f6d
-mrt-23 11:47:22.032 [main] DEBUG nextflow.Session - Session uuid: 168e160d-99f3-49af-b2db-585d4407b74c
-mrt-23 11:47:22.032 [main] DEBUG nextflow.Session - Run name: gigantic_williams
-mrt-23 11:47:22.034 [main] DEBUG nextflow.Session - Executor pool size: 4
-mrt-23 11:47:22.048 [main] DEBUG nextflow.cli.CmdRun - 
+mrt-23 16:38:42.015 [main] DEBUG nextflow.cli.Launcher - $> nextflow testjes.nf
+mrt-23 16:38:42.156 [main] INFO  nextflow.cli.CmdRun - N E X T F L O W  ~  version 20.01.0
+mrt-23 16:38:42.176 [main] INFO  nextflow.cli.CmdRun - Launching `testjes.nf` [cheesy_jennings] - revision: e395a054d3
+mrt-23 16:38:42.312 [main] DEBUG nextflow.Session - Session uuid: 270b7ce1-9a63-4d51-9e1d-de8df8242c51
+mrt-23 16:38:42.312 [main] DEBUG nextflow.Session - Run name: cheesy_jennings
+mrt-23 16:38:42.314 [main] DEBUG nextflow.Session - Executor pool size: 4
+mrt-23 16:38:42.327 [main] DEBUG nextflow.cli.CmdRun - 
   Version: 20.01.0 build 5264
   Created: 12-02-2020 10:14 UTC (11:14 CEST)
   System: Linux 5.3.11-200.fc30.x86_64
   Runtime: Groovy 2.5.8 on OpenJDK 64-Bit Server VM 1.8.0_232-b09
   Encoding: UTF-8 (UTF-8)
-  Process: 6790@localhost.localdomain [127.0.0.1]
-  CPUs: 4 - Mem: 8.1 GB (3.9 GB) - Swap: 4.1 GB (4.1 GB)
-mrt-23 11:47:22.114 [main] DEBUG nextflow.Session - Work-dir: /home/hannelore/PROJECTHH/Scripts/work [ext2/ext3]
-mrt-23 11:47:22.115 [main] DEBUG nextflow.Session - Script base path does not exist or is not a directory: /home/hannelore/PROJECTHH/Scripts/bin
-mrt-23 11:47:22.140 [main] DEBUG nextflow.Session - Observer factory: TowerFactory
-mrt-23 11:47:22.142 [main] DEBUG nextflow.Session - Observer factory: DefaultObserverFactory
-mrt-23 11:47:22.431 [main] DEBUG nextflow.Session - Session start invoked
-mrt-23 11:47:22.936 [main] DEBUG nextflow.script.ScriptRunner - > Launching execution
-mrt-23 11:47:22.949 [main] DEBUG nextflow.Session - Workflow process names [dsl1]: convertToUpper, splitLetters
-mrt-23 11:47:23.037 [main] DEBUG nextflow.executor.ExecutorFactory - << taskConfig executor: null
-mrt-23 11:47:23.037 [main] DEBUG nextflow.executor.ExecutorFactory - >> processorType: 'local'
-mrt-23 11:47:23.045 [main] DEBUG nextflow.executor.Executor - [warm up] executor > local
-mrt-23 11:47:23.053 [main] DEBUG n.processor.LocalPollingMonitor - Creating local task monitor for executor 'local' > cpus=4; memory=8.1 GB; capacity=4; pollInterval=100ms; dumpInterval=5m
-mrt-23 11:47:23.168 [main] DEBUG nextflow.processor.TaskProcessor - Creating operator > splitLetters -- maxForks: 4; blocking: false
-mrt-23 11:47:23.238 [main] DEBUG nextflow.executor.ExecutorFactory - << taskConfig executor: null
-mrt-23 11:47:23.238 [main] DEBUG nextflow.executor.ExecutorFactory - >> processorType: 'local'
-mrt-23 11:47:23.242 [main] DEBUG nextflow.processor.TaskProcessor - Creating operator > convertToUpper -- maxForks: 4; blocking: false
-mrt-23 11:47:23.267 [main] DEBUG nextflow.script.ScriptRunner - > Await termination 
-mrt-23 11:47:23.267 [main] DEBUG nextflow.Session - Session await
-mrt-23 11:47:23.435 [Task submitter] DEBUG nextflow.executor.LocalTaskHandler - Launch cmd line: /bin/bash -ue .command.run
-mrt-23 11:47:23.442 [Task submitter] INFO  nextflow.Session - [43/320c2a] Submitted process > splitLetters
-mrt-23 11:47:23.512 [Task monitor] DEBUG n.processor.TaskPollingMonitor - Task completed > TaskHandler[id: 1; name: splitLetters; status: COMPLETED; exit: 0; error: -; workDir: /home/hannelore/PROJECTHH/Scripts/work/43/320c2acfcab1f648e7fdbe251b6bfb]
-mrt-23 11:47:23.594 [Task submitter] DEBUG nextflow.executor.LocalTaskHandler - Launch cmd line: /bin/bash -ue .command.run
-mrt-23 11:47:23.604 [Task submitter] INFO  nextflow.Session - [c8/df77bb] Submitted process > convertToUpper (2)
-mrt-23 11:47:23.612 [Task submitter] DEBUG nextflow.executor.LocalTaskHandler - Launch cmd line: /bin/bash -ue .command.run
-mrt-23 11:47:23.614 [Task submitter] INFO  nextflow.Session - [1c/f3b345] Submitted process > convertToUpper (1)
-mrt-23 11:47:23.724 [Task monitor] DEBUG n.processor.TaskPollingMonitor - Task completed > TaskHandler[id: 2; name: convertToUpper (1); status: COMPLETED; exit: 0; error: -; workDir: /home/hannelore/PROJECTHH/Scripts/work/1c/f3b3458c1f494d0a1f047be55793ca]
-mrt-23 11:47:23.736 [Task monitor] DEBUG n.processor.TaskPollingMonitor - Task completed > TaskHandler[id: 3; name: convertToUpper (2); status: COMPLETED; exit: 0; error: -; workDir: /home/hannelore/PROJECTHH/Scripts/work/c8/df77bb0703832b586c856885762cfa]
-mrt-23 11:47:23.738 [main] DEBUG nextflow.Session - Session await > all process finished
-mrt-23 11:47:23.741 [main] DEBUG nextflow.Session - Session await > all barriers passed
-mrt-23 11:47:23.749 [main] DEBUG nextflow.trace.WorkflowStatsObserver - Workflow completed > WorkflowStats[succeededCount=3; failedCount=0; ignoredCount=0; cachedCount=0; pendingCount=0; submittedCount=0; runningCount=0; retriesCount=0; abortedCount=0; succeedDuration=187ms; failedDuration=0ms; cachedDuration=0ms;loadCpus=0; loadMemory=0; peakRunning=2; peakCpus=2; peakMemory=0; ]
-mrt-23 11:47:23.923 [main] DEBUG nextflow.CacheDB - Closing CacheDB done
-mrt-23 11:47:23.944 [main] DEBUG nextflow.script.ScriptRunner - > Execution complete -- Goodbye
+  Process: 18354@localhost.localdomain [127.0.0.1]
+  CPUs: 4 - Mem: 8.1 GB (2.9 GB) - Swap: 4.1 GB (4.1 GB)
+mrt-23 16:38:42.392 [main] DEBUG nextflow.Session - Work-dir: /home/hannelore/PROJECTHH/Scripts/work [ext2/ext3]
+mrt-23 16:38:42.392 [main] DEBUG nextflow.Session - Script base path does not exist or is not a directory: /home/hannelore/PROJECTHH/Scripts/bin
+mrt-23 16:38:42.414 [main] DEBUG nextflow.Session - Observer factory: TowerFactory
+mrt-23 16:38:42.416 [main] DEBUG nextflow.Session - Observer factory: DefaultObserverFactory
+mrt-23 16:38:42.598 [main] DEBUG nextflow.Session - Session start invoked
+mrt-23 16:38:43.046 [main] ERROR nextflow.cli.Launcher - Script compilation error
+- file : /home/hannelore/PROJECTHH/Scripts/testjes.nf
+- cause: The current scope already contains a variable of the name sample
+ @ line 185, column 5.
+   def sample = file('test.fasta')
+       ^
+
+1 error
+

@@ -1,0 +1,44 @@
+mrt-23 17:20:34.997 [main] DEBUG nextflow.cli.Launcher - $> nextflow run Processes.nf -resume
+mrt-23 17:20:35.142 [main] INFO  nextflow.cli.CmdRun - N E X T F L O W  ~  version 20.01.0
+mrt-23 17:20:35.159 [main] INFO  nextflow.cli.CmdRun - Launching `Processes.nf` [naughty_joliot] - revision: 1b254d438f
+mrt-23 17:20:35.313 [main] DEBUG nextflow.Session - Session uuid: 04838659-7447-4cb2-8042-2c71b3b845b7
+mrt-23 17:20:35.313 [main] DEBUG nextflow.Session - Run name: naughty_joliot
+mrt-23 17:20:35.315 [main] DEBUG nextflow.Session - Executor pool size: 4
+mrt-23 17:20:35.331 [main] DEBUG nextflow.cli.CmdRun - 
+  Version: 20.01.0 build 5264
+  Created: 12-02-2020 10:14 UTC (11:14 CEST)
+  System: Linux 5.3.11-200.fc30.x86_64
+  Runtime: Groovy 2.5.8 on OpenJDK 64-Bit Server VM 1.8.0_232-b09
+  Encoding: UTF-8 (UTF-8)
+  Process: 5018@localhost.localdomain [127.0.0.1]
+  CPUs: 4 - Mem: 8.1 GB (5.6 GB) - Swap: 4.1 GB (4.1 GB)
+mrt-23 17:20:35.405 [main] DEBUG nextflow.file.FileHelper - Can't check if specified path is NFS (1): /home/hannelore/PROJECTHH/Scripts/Trial files nextflow/work
+
+mrt-23 17:20:35.406 [main] DEBUG nextflow.Session - Work-dir: /home/hannelore/PROJECTHH/Scripts/Trial files nextflow/work [null]
+mrt-23 17:20:35.409 [main] DEBUG nextflow.Session - Script base path does not exist or is not a directory: /home/hannelore/PROJECTHH/Scripts/Trial files nextflow/bin
+mrt-23 17:20:35.433 [main] DEBUG nextflow.Session - Observer factory: TowerFactory
+mrt-23 17:20:35.437 [main] DEBUG nextflow.Session - Observer factory: DefaultObserverFactory
+mrt-23 17:20:35.778 [main] DEBUG nextflow.Session - Session start invoked
+mrt-23 17:20:36.250 [main] DEBUG nextflow.script.ScriptRunner - > Launching execution
+mrt-23 17:20:36.261 [main] DEBUG nextflow.Session - Workflow process names [dsl1]: printPath, sayHello, printPath2
+mrt-23 17:20:36.336 [main] DEBUG nextflow.executor.ExecutorFactory - << taskConfig executor: null
+mrt-23 17:20:36.336 [main] DEBUG nextflow.executor.ExecutorFactory - >> processorType: 'local'
+mrt-23 17:20:36.342 [main] DEBUG nextflow.executor.Executor - [warm up] executor > local
+mrt-23 17:20:36.348 [main] DEBUG n.processor.LocalPollingMonitor - Creating local task monitor for executor 'local' > cpus=4; memory=8.1 GB; capacity=4; pollInterval=100ms; dumpInterval=5m
+mrt-23 17:20:36.450 [main] DEBUG nextflow.processor.TaskProcessor - Creating operator > sayHello -- maxForks: 4; blocking: false
+mrt-23 17:20:36.488 [main] DEBUG nextflow.executor.ExecutorFactory - << taskConfig executor: null
+mrt-23 17:20:36.488 [main] DEBUG nextflow.executor.ExecutorFactory - >> processorType: 'local'
+mrt-23 17:20:36.492 [main] DEBUG nextflow.processor.TaskProcessor - Creating operator > printPath2 -- maxForks: 4; blocking: false
+mrt-23 17:20:36.503 [main] DEBUG nextflow.executor.ExecutorFactory - << taskConfig executor: null
+mrt-23 17:20:36.505 [main] DEBUG nextflow.executor.ExecutorFactory - >> processorType: 'local'
+mrt-23 17:20:36.508 [main] DEBUG nextflow.processor.TaskProcessor - Creating operator > printPath -- maxForks: 4; blocking: false
+mrt-23 17:20:36.555 [main] DEBUG nextflow.script.ScriptRunner - > Await termination 
+mrt-23 17:20:36.557 [main] DEBUG nextflow.Session - Session await
+mrt-23 17:20:36.713 [Actor Thread 8] INFO  nextflow.processor.TaskProcessor - [bd/24ebf1] Cached process > printPath
+mrt-23 17:20:36.713 [Actor Thread 7] INFO  nextflow.processor.TaskProcessor - [bf/c1bb91] Cached process > printPath2
+mrt-23 17:20:36.717 [Actor Thread 5] INFO  nextflow.processor.TaskProcessor - [cd/f37bea] Cached process > sayHello
+mrt-23 17:20:36.743 [main] DEBUG nextflow.Session - Session await > all process finished
+mrt-23 17:20:36.758 [main] DEBUG nextflow.Session - Session await > all barriers passed
+mrt-23 17:20:36.772 [main] DEBUG nextflow.trace.WorkflowStatsObserver - Workflow completed > WorkflowStats[succeededCount=0; failedCount=0; ignoredCount=0; cachedCount=3; pendingCount=0; submittedCount=0; runningCount=0; retriesCount=0; abortedCount=0; succeedDuration=0ms; failedDuration=0ms; cachedDuration=247ms;loadCpus=0; loadMemory=0; peakRunning=0; peakCpus=0; peakMemory=0; ]
+mrt-23 17:20:36.868 [main] DEBUG nextflow.CacheDB - Closing CacheDB done
+mrt-23 17:20:36.889 [main] DEBUG nextflow.script.ScriptRunner - > Execution complete -- Goodbye
