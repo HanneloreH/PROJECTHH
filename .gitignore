@@ -1,2 +1,3 @@
 #ignoring raw data (too big)
 *.fastq.gz
+*.fna

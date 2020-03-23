@@ -1,0 +1,5 @@
+2020-03-23 11:40:20	3s	disturbed_avogadro	OK	be42f295f4ef9c05579ad05cefc31e7c	ac8f84ed-17a6-4518-8e06-c1237bcdeb0c	nextflow run nexflow-hello.nf
+2020-03-23 11:43:43	2.8s	chaotic_hamilton	OK	7f2cdd972d718175025f377322e3be22	1eccd9d7-6fad-4452-9ec3-b6c6b757460f	nextflow run nexflow-hello.nf
+2020-03-23 11:44:04	1.8s	compassionate_miescher	OK	7f2cdd972d718175025f377322e3be22	1eccd9d7-6fad-4452-9ec3-b6c6b757460f	nextflow run nexflow-hello.nf -resume
+2020-03-23 11:44:40	1.8s	clever_coulomb	OK	3b01a53f6ddd8d015884bf429715ed8a	1eccd9d7-6fad-4452-9ec3-b6c6b757460f	nextflow run nexflow-hello.nf -resume
+2020-03-23 11:47:22	1.9s	gigantic_williams	OK	3b01a53f6ddd8d015884bf429715ed8a	168e160d-99f3-49af-b2db-585d4407b74c	nextflow run nexflow-hello.nf --str 'ola pola'

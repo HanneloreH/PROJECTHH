@@ -1,0 +1,45 @@
+mrt-23 11:43:43.717 [main] DEBUG nextflow.cli.Launcher - $> nextflow run nexflow-hello.nf
+mrt-23 11:43:43.818 [main] INFO  nextflow.cli.CmdRun - N E X T F L O W  ~  version 20.01.0
+mrt-23 11:43:43.830 [main] INFO  nextflow.cli.CmdRun - Launching `nexflow-hello.nf` [chaotic_hamilton] - revision: 7f2cdd972d
+mrt-23 11:43:43.949 [main] DEBUG nextflow.Session - Session uuid: 1eccd9d7-6fad-4452-9ec3-b6c6b757460f
+mrt-23 11:43:43.949 [main] DEBUG nextflow.Session - Run name: chaotic_hamilton
+mrt-23 11:43:43.951 [main] DEBUG nextflow.Session - Executor pool size: 4
+mrt-23 11:43:43.964 [main] DEBUG nextflow.cli.CmdRun - 
+  Version: 20.01.0 build 5264
+  Created: 12-02-2020 10:14 UTC (11:14 CEST)
+  System: Linux 5.3.11-200.fc30.x86_64
+  Runtime: Groovy 2.5.8 on OpenJDK 64-Bit Server VM 1.8.0_232-b09
+  Encoding: UTF-8 (UTF-8)
+  Process: 6226@localhost.localdomain [127.0.0.1]
+  CPUs: 4 - Mem: 8.1 GB (3.9 GB) - Swap: 4.1 GB (4.1 GB)
+mrt-23 11:43:44.028 [main] DEBUG nextflow.Session - Work-dir: /home/hannelore/PROJECTHH/Scripts/work [ext2/ext3]
+mrt-23 11:43:44.029 [main] DEBUG nextflow.Session - Script base path does not exist or is not a directory: /home/hannelore/PROJECTHH/Scripts/bin
+mrt-23 11:43:44.054 [main] DEBUG nextflow.Session - Observer factory: TowerFactory
+mrt-23 11:43:44.056 [main] DEBUG nextflow.Session - Observer factory: DefaultObserverFactory
+mrt-23 11:43:44.329 [main] DEBUG nextflow.Session - Session start invoked
+mrt-23 11:43:44.775 [main] DEBUG nextflow.script.ScriptRunner - > Launching execution
+mrt-23 11:43:44.790 [main] DEBUG nextflow.Session - Workflow process names [dsl1]: convertToUpper, splitLetters
+mrt-23 11:43:44.867 [main] DEBUG nextflow.executor.ExecutorFactory - << taskConfig executor: null
+mrt-23 11:43:44.867 [main] DEBUG nextflow.executor.ExecutorFactory - >> processorType: 'local'
+mrt-23 11:43:44.872 [main] DEBUG nextflow.executor.Executor - [warm up] executor > local
+mrt-23 11:43:44.877 [main] DEBUG n.processor.LocalPollingMonitor - Creating local task monitor for executor 'local' > cpus=4; memory=8.1 GB; capacity=4; pollInterval=100ms; dumpInterval=5m
+mrt-23 11:43:44.985 [main] DEBUG nextflow.processor.TaskProcessor - Creating operator > splitLetters -- maxForks: 4; blocking: false
+mrt-23 11:43:45.050 [main] DEBUG nextflow.executor.ExecutorFactory - << taskConfig executor: null
+mrt-23 11:43:45.051 [main] DEBUG nextflow.executor.ExecutorFactory - >> processorType: 'local'
+mrt-23 11:43:45.054 [main] DEBUG nextflow.processor.TaskProcessor - Creating operator > convertToUpper -- maxForks: 4; blocking: false
+mrt-23 11:43:45.071 [main] DEBUG nextflow.script.ScriptRunner - > Await termination 
+mrt-23 11:43:45.072 [main] DEBUG nextflow.Session - Session await
+mrt-23 11:43:45.191 [Task submitter] DEBUG nextflow.executor.LocalTaskHandler - Launch cmd line: /bin/bash -ue .command.run
+mrt-23 11:43:45.203 [Task submitter] INFO  nextflow.Session - [e4/c61ee6] Submitted process > splitLetters
+mrt-23 11:43:45.307 [Task monitor] DEBUG n.processor.TaskPollingMonitor - Task completed > TaskHandler[id: 1; name: splitLetters; status: COMPLETED; exit: 0; error: -; workDir: /home/hannelore/PROJECTHH/Scripts/work/e4/c61ee696e89606bc40205eb4d6248c]
+mrt-23 11:43:45.369 [Task submitter] DEBUG nextflow.executor.LocalTaskHandler - Launch cmd line: /bin/bash -ue .command.run
+mrt-23 11:43:45.375 [Task submitter] INFO  nextflow.Session - [eb/ee02c6] Submitted process > convertToUpper (1)
+mrt-23 11:43:45.381 [Task submitter] DEBUG nextflow.executor.LocalTaskHandler - Launch cmd line: /bin/bash -ue .command.run
+mrt-23 11:43:45.382 [Task submitter] INFO  nextflow.Session - [8b/0b4bdf] Submitted process > convertToUpper (2)
+mrt-23 11:43:45.531 [Task monitor] DEBUG n.processor.TaskPollingMonitor - Task completed > TaskHandler[id: 2; name: convertToUpper (1); status: COMPLETED; exit: 0; error: -; workDir: /home/hannelore/PROJECTHH/Scripts/work/eb/ee02c683e12ba93451c87c2852d2af]
+mrt-23 11:43:45.538 [Task monitor] DEBUG n.processor.TaskPollingMonitor - Task completed > TaskHandler[id: 3; name: convertToUpper (2); status: COMPLETED; exit: 0; error: -; workDir: /home/hannelore/PROJECTHH/Scripts/work/8b/0b4bdffb8e09ab2f3d6c11ae89712b]
+mrt-23 11:43:45.542 [main] DEBUG nextflow.Session - Session await > all process finished
+mrt-23 11:43:45.638 [main] DEBUG nextflow.Session - Session await > all barriers passed
+mrt-23 11:43:45.652 [main] DEBUG nextflow.trace.WorkflowStatsObserver - Workflow completed > WorkflowStats[succeededCount=3; failedCount=0; ignoredCount=0; cachedCount=0; pendingCount=0; submittedCount=0; runningCount=0; retriesCount=0; abortedCount=0; succeedDuration=269ms; failedDuration=0ms; cachedDuration=0ms;loadCpus=0; loadMemory=0; peakRunning=2; peakCpus=2; peakMemory=0; ]
+mrt-23 11:43:45.832 [main] DEBUG nextflow.CacheDB - Closing CacheDB done
+mrt-23 11:43:45.863 [main] DEBUG nextflow.script.ScriptRunner - > Execution complete -- Goodbye

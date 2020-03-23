@@ -1,0 +1,39 @@
+mrt-23 11:44:03.896 [main] DEBUG nextflow.cli.Launcher - $> nextflow run nexflow-hello.nf -resume
+mrt-23 11:44:04.013 [main] INFO  nextflow.cli.CmdRun - N E X T F L O W  ~  version 20.01.0
+mrt-23 11:44:04.024 [main] INFO  nextflow.cli.CmdRun - Launching `nexflow-hello.nf` [compassionate_miescher] - revision: 7f2cdd972d
+mrt-23 11:44:04.144 [main] DEBUG nextflow.Session - Session uuid: 1eccd9d7-6fad-4452-9ec3-b6c6b757460f
+mrt-23 11:44:04.144 [main] DEBUG nextflow.Session - Run name: compassionate_miescher
+mrt-23 11:44:04.148 [main] DEBUG nextflow.Session - Executor pool size: 4
+mrt-23 11:44:04.167 [main] DEBUG nextflow.cli.CmdRun - 
+  Version: 20.01.0 build 5264
+  Created: 12-02-2020 10:14 UTC (11:14 CEST)
+  System: Linux 5.3.11-200.fc30.x86_64
+  Runtime: Groovy 2.5.8 on OpenJDK 64-Bit Server VM 1.8.0_232-b09
+  Encoding: UTF-8 (UTF-8)
+  Process: 6399@localhost.localdomain [127.0.0.1]
+  CPUs: 4 - Mem: 8.1 GB (3.9 GB) - Swap: 4.1 GB (4.1 GB)
+mrt-23 11:44:04.241 [main] DEBUG nextflow.Session - Work-dir: /home/hannelore/PROJECTHH/Scripts/work [ext2/ext3]
+mrt-23 11:44:04.241 [main] DEBUG nextflow.Session - Script base path does not exist or is not a directory: /home/hannelore/PROJECTHH/Scripts/bin
+mrt-23 11:44:04.262 [main] DEBUG nextflow.Session - Observer factory: TowerFactory
+mrt-23 11:44:04.263 [main] DEBUG nextflow.Session - Observer factory: DefaultObserverFactory
+mrt-23 11:44:04.712 [main] DEBUG nextflow.Session - Session start invoked
+mrt-23 11:44:05.136 [main] DEBUG nextflow.script.ScriptRunner - > Launching execution
+mrt-23 11:44:05.144 [main] DEBUG nextflow.Session - Workflow process names [dsl1]: convertToUpper, splitLetters
+mrt-23 11:44:05.206 [main] DEBUG nextflow.executor.ExecutorFactory - << taskConfig executor: null
+mrt-23 11:44:05.206 [main] DEBUG nextflow.executor.ExecutorFactory - >> processorType: 'local'
+mrt-23 11:44:05.211 [main] DEBUG nextflow.executor.Executor - [warm up] executor > local
+mrt-23 11:44:05.216 [main] DEBUG n.processor.LocalPollingMonitor - Creating local task monitor for executor 'local' > cpus=4; memory=8.1 GB; capacity=4; pollInterval=100ms; dumpInterval=5m
+mrt-23 11:44:05.310 [main] DEBUG nextflow.processor.TaskProcessor - Creating operator > splitLetters -- maxForks: 4; blocking: false
+mrt-23 11:44:05.372 [main] DEBUG nextflow.executor.ExecutorFactory - << taskConfig executor: null
+mrt-23 11:44:05.375 [main] DEBUG nextflow.executor.ExecutorFactory - >> processorType: 'local'
+mrt-23 11:44:05.379 [main] DEBUG nextflow.processor.TaskProcessor - Creating operator > convertToUpper -- maxForks: 4; blocking: false
+mrt-23 11:44:05.404 [main] DEBUG nextflow.script.ScriptRunner - > Await termination 
+mrt-23 11:44:05.405 [main] DEBUG nextflow.Session - Session await
+mrt-23 11:44:05.566 [Actor Thread 3] INFO  nextflow.processor.TaskProcessor - [e4/c61ee6] Cached process > splitLetters
+mrt-23 11:44:05.641 [Actor Thread 3] INFO  nextflow.processor.TaskProcessor - [eb/ee02c6] Cached process > convertToUpper (1)
+mrt-23 11:44:05.652 [Actor Thread 1] INFO  nextflow.processor.TaskProcessor - [8b/0b4bdf] Cached process > convertToUpper (2)
+mrt-23 11:44:05.655 [main] DEBUG nextflow.Session - Session await > all process finished
+mrt-23 11:44:05.729 [main] DEBUG nextflow.Session - Session await > all barriers passed
+mrt-23 11:44:05.737 [main] DEBUG nextflow.trace.WorkflowStatsObserver - Workflow completed > WorkflowStats[succeededCount=0; failedCount=0; ignoredCount=0; cachedCount=3; pendingCount=0; submittedCount=0; runningCount=0; retriesCount=0; abortedCount=0; succeedDuration=0ms; failedDuration=0ms; cachedDuration=269ms;loadCpus=0; loadMemory=0; peakRunning=0; peakCpus=0; peakMemory=0; ]
+mrt-23 11:44:05.798 [main] DEBUG nextflow.CacheDB - Closing CacheDB done
+mrt-23 11:44:05.815 [main] DEBUG nextflow.script.ScriptRunner - > Execution complete -- Goodbye
