@@ -1,0 +1,30 @@
+= Nextflow Workshop {year} image:nextflow_logo.png[Logo,300,100,float="right", role="nflogo"]
+:docinfo: private
+:year: 2018
+:hide-uri-scheme:
+:nofooter:
+:icons: font
+:toclevels: 3
+:imagesdir: ./assets/
+:stylesdir: ./css/
+:stylesheet: crg.css
+:linkcss:
+:source-highlighter: coderay
+:coderay-linenums-mode: table
+:toc: left
+:linkattrs:
+
+
+This is the documentation for the https://github.com/nextflow-io/nf-hack18/tree/master/hackaton[Nextflow 2018 Hackaton] for beginners. This project will cover the implementation of a Variant Calling analysis pipeline for RNA-seq data based on GATK best practices and using Nextflow as the pipeline framework.
+
+It is supposed to be a tutorial project for newbie Nextflow users who are interested in learning how to assemble a real world genomic pipeline with Nextflow, manage dependencies by using container technologies (Docker & Singularity) and deploy the pipeline execution in a reproducible manner to the AWS cloud.
+
+:sectnums:
+
+:leveloffset: +1
+// hands-on
+include::01_datasets.adoc[]
+include::02_workflow.adoc[]
+include::03_setup.adoc[]
+include::04_implementation.adoc[]
+:leveloffset: -1
