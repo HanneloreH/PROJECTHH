@@ -1,44 +1,78 @@
-mrt-23 17:18:47.305 [main] DEBUG nextflow.cli.Launcher - $> nextflow run Processes.nf -resume
-mrt-23 17:18:47.440 [main] INFO  nextflow.cli.CmdRun - N E X T F L O W  ~  version 20.01.0
-mrt-23 17:18:47.452 [main] INFO  nextflow.cli.CmdRun - Launching `Processes.nf` [tiny_hypatia] - revision: fcf642f7a2
-mrt-23 17:18:47.628 [main] DEBUG nextflow.Session - Session uuid: 04838659-7447-4cb2-8042-2c71b3b845b7
-mrt-23 17:18:47.628 [main] DEBUG nextflow.Session - Run name: tiny_hypatia
-mrt-23 17:18:47.633 [main] DEBUG nextflow.Session - Executor pool size: 4
-mrt-23 17:18:47.645 [main] DEBUG nextflow.cli.CmdRun - 
+mrt-24 10:08:06.878 [main] DEBUG nextflow.cli.Launcher - $> nextflow run Processes.nf -resume
+mrt-24 10:08:07.017 [main] INFO  nextflow.cli.CmdRun - N E X T F L O W  ~  version 20.01.0
+mrt-24 10:08:07.041 [main] INFO  nextflow.cli.CmdRun - Launching `Processes.nf` [trusting_lamarck] - revision: 215a87e3f3
+mrt-24 10:08:07.193 [main] DEBUG nextflow.Session - Session uuid: 04838659-7447-4cb2-8042-2c71b3b845b7
+mrt-24 10:08:07.194 [main] DEBUG nextflow.Session - Run name: trusting_lamarck
+mrt-24 10:08:07.196 [main] DEBUG nextflow.Session - Executor pool size: 4
+mrt-24 10:08:07.209 [main] DEBUG nextflow.cli.CmdRun - 
   Version: 20.01.0 build 5264
   Created: 12-02-2020 10:14 UTC (11:14 CEST)
   System: Linux 5.3.11-200.fc30.x86_64
   Runtime: Groovy 2.5.8 on OpenJDK 64-Bit Server VM 1.8.0_232-b09
   Encoding: UTF-8 (UTF-8)
-  Process: 4472@localhost.localdomain [127.0.0.1]
-  CPUs: 4 - Mem: 8.1 GB (5.6 GB) - Swap: 4.1 GB (4.1 GB)
-mrt-23 17:18:47.719 [main] DEBUG nextflow.file.FileHelper - Can't check if specified path is NFS (1): /home/hannelore/PROJECTHH/Scripts/Trial files nextflow/work
+  Process: 6189@localhost.localdomain [127.0.0.1]
+  CPUs: 4 - Mem: 8.1 GB (4.5 GB) - Swap: 4.1 GB (4.1 GB)
+mrt-24 10:08:07.327 [main] DEBUG nextflow.file.FileHelper - Can't check if specified path is NFS (1): /home/hannelore/PROJECTHH/Scripts/Trial files nextflow/work
 
-mrt-23 17:18:47.720 [main] DEBUG nextflow.Session - Work-dir: /home/hannelore/PROJECTHH/Scripts/Trial files nextflow/work [null]
-mrt-23 17:18:47.722 [main] DEBUG nextflow.Session - Script base path does not exist or is not a directory: /home/hannelore/PROJECTHH/Scripts/Trial files nextflow/bin
-mrt-23 17:18:47.746 [main] DEBUG nextflow.Session - Observer factory: TowerFactory
-mrt-23 17:18:47.749 [main] DEBUG nextflow.Session - Observer factory: DefaultObserverFactory
-mrt-23 17:18:48.065 [main] DEBUG nextflow.Session - Session start invoked
-mrt-23 17:18:48.534 [main] DEBUG nextflow.script.ScriptRunner - > Launching execution
-mrt-23 17:18:48.547 [main] DEBUG nextflow.Session - Workflow process names [dsl1]: printPath, sayHello, printPath2
-mrt-23 17:18:48.627 [main] DEBUG nextflow.executor.ExecutorFactory - << taskConfig executor: null
-mrt-23 17:18:48.627 [main] DEBUG nextflow.executor.ExecutorFactory - >> processorType: 'local'
-mrt-23 17:18:48.634 [main] DEBUG nextflow.executor.Executor - [warm up] executor > local
-mrt-23 17:18:48.640 [main] DEBUG n.processor.LocalPollingMonitor - Creating local task monitor for executor 'local' > cpus=4; memory=8.1 GB; capacity=4; pollInterval=100ms; dumpInterval=5m
-mrt-23 17:18:48.744 [main] DEBUG nextflow.processor.TaskProcessor - Creating operator > sayHello -- maxForks: 4; blocking: false
-mrt-23 17:18:48.779 [main] DEBUG nextflow.executor.ExecutorFactory - << taskConfig executor: null
-mrt-23 17:18:48.779 [main] DEBUG nextflow.executor.ExecutorFactory - >> processorType: 'local'
-mrt-23 17:18:48.781 [main] DEBUG nextflow.processor.TaskProcessor - Creating operator > printPath -- maxForks: 4; blocking: false
-mrt-23 17:18:48.787 [main] DEBUG nextflow.executor.ExecutorFactory - << taskConfig executor: null
-mrt-23 17:18:48.787 [main] DEBUG nextflow.executor.ExecutorFactory - >> processorType: 'local'
-mrt-23 17:18:48.791 [main] DEBUG nextflow.processor.TaskProcessor - Creating operator > printPath2 -- maxForks: 4; blocking: false
-mrt-23 17:18:48.839 [main] DEBUG nextflow.script.ScriptRunner - > Await termination 
-mrt-23 17:18:48.839 [main] DEBUG nextflow.Session - Session await
-mrt-23 17:18:49.001 [Actor Thread 7] INFO  nextflow.processor.TaskProcessor - [e8/faf9cc] Cached process > printPath
-mrt-23 17:18:49.003 [Actor Thread 5] INFO  nextflow.processor.TaskProcessor - [cd/f37bea] Cached process > sayHello
-mrt-23 17:18:49.006 [Actor Thread 8] INFO  nextflow.processor.TaskProcessor - [82/026a64] Cached process > printPath2
-mrt-23 17:18:49.031 [main] DEBUG nextflow.Session - Session await > all process finished
-mrt-23 17:18:49.051 [main] DEBUG nextflow.Session - Session await > all barriers passed
-mrt-23 17:18:49.059 [main] DEBUG nextflow.trace.WorkflowStatsObserver - Workflow completed > WorkflowStats[succeededCount=0; failedCount=0; ignoredCount=0; cachedCount=3; pendingCount=0; submittedCount=0; runningCount=0; retriesCount=0; abortedCount=0; succeedDuration=0ms; failedDuration=0ms; cachedDuration=157ms;loadCpus=0; loadMemory=0; peakRunning=0; peakCpus=0; peakMemory=0; ]
-mrt-23 17:18:49.162 [main] DEBUG nextflow.CacheDB - Closing CacheDB done
-mrt-23 17:18:49.174 [main] DEBUG nextflow.script.ScriptRunner - > Execution complete -- Goodbye
+mrt-24 10:08:07.327 [main] DEBUG nextflow.Session - Work-dir: /home/hannelore/PROJECTHH/Scripts/Trial files nextflow/work [null]
+mrt-24 10:08:07.327 [main] DEBUG nextflow.Session - Script base path does not exist or is not a directory: /home/hannelore/PROJECTHH/Scripts/Trial files nextflow/bin
+mrt-24 10:08:07.362 [main] DEBUG nextflow.Session - Observer factory: TowerFactory
+mrt-24 10:08:07.365 [main] DEBUG nextflow.Session - Observer factory: DefaultObserverFactory
+mrt-24 10:08:07.748 [main] DEBUG nextflow.Session - Session start invoked
+mrt-24 10:08:08.280 [main] DEBUG nextflow.script.ScriptRunner - > Launching execution
+mrt-24 10:08:08.293 [main] DEBUG nextflow.Session - Workflow process names [dsl1]: printPath, myTask, sayHello, perlStuff, template_example, pyStuff, simpleSum, printPath2, myTask2
+mrt-24 10:08:08.354 [main] DEBUG nextflow.executor.ExecutorFactory - << taskConfig executor: null
+mrt-24 10:08:08.354 [main] DEBUG nextflow.executor.ExecutorFactory - >> processorType: 'local'
+mrt-24 10:08:08.361 [main] DEBUG nextflow.executor.Executor - [warm up] executor > local
+mrt-24 10:08:08.369 [main] DEBUG n.processor.LocalPollingMonitor - Creating local task monitor for executor 'local' > cpus=4; memory=8.1 GB; capacity=4; pollInterval=100ms; dumpInterval=5m
+mrt-24 10:08:08.481 [main] DEBUG nextflow.processor.TaskProcessor - Creating operator > sayHello -- maxForks: 4; blocking: false
+mrt-24 10:08:08.523 [main] DEBUG nextflow.executor.ExecutorFactory - << taskConfig executor: null
+mrt-24 10:08:08.524 [main] DEBUG nextflow.executor.ExecutorFactory - >> processorType: 'local'
+mrt-24 10:08:08.527 [main] DEBUG nextflow.processor.TaskProcessor - Creating operator > printPath2 -- maxForks: 4; blocking: false
+mrt-24 10:08:08.541 [main] DEBUG nextflow.executor.ExecutorFactory - << taskConfig executor: null
+mrt-24 10:08:08.541 [main] DEBUG nextflow.executor.ExecutorFactory - >> processorType: 'local'
+mrt-24 10:08:08.544 [main] DEBUG nextflow.processor.TaskProcessor - Creating operator > printPath -- maxForks: 4; blocking: false
+mrt-24 10:08:08.591 [main] DEBUG nextflow.executor.ExecutorFactory - << taskConfig executor: null
+mrt-24 10:08:08.592 [main] DEBUG nextflow.executor.ExecutorFactory - >> processorType: 'local'
+mrt-24 10:08:08.596 [main] DEBUG nextflow.processor.TaskProcessor - Creating operator > perlStuff -- maxForks: 4; blocking: false
+mrt-24 10:08:08.604 [main] DEBUG nextflow.executor.ExecutorFactory - << taskConfig executor: null
+mrt-24 10:08:08.607 [main] DEBUG nextflow.executor.ExecutorFactory - >> processorType: 'local'
+mrt-24 10:08:08.613 [main] DEBUG nextflow.processor.TaskProcessor - Creating operator > pyStuff -- maxForks: 4; blocking: false
+mrt-24 10:08:08.629 [main] DEBUG nextflow.executor.ExecutorFactory - << taskConfig executor: null
+mrt-24 10:08:08.631 [main] DEBUG nextflow.executor.ExecutorFactory - >> processorType: 'local'
+mrt-24 10:08:08.643 [main] DEBUG nextflow.processor.TaskProcessor - Creating operator > template_example -- maxForks: 4; blocking: false
+mrt-24 10:08:08.687 [main] DEBUG nextflow.executor.ExecutorFactory - << taskConfig executor: null
+mrt-24 10:08:08.687 [main] DEBUG nextflow.executor.ExecutorFactory - >> processorType: 'local'
+mrt-24 10:08:08.692 [main] DEBUG nextflow.processor.TaskProcessor - Creating operator > myTask -- maxForks: 4; blocking: false
+mrt-24 10:08:08.731 [main] DEBUG nextflow.executor.ExecutorFactory - << taskConfig executor: null
+mrt-24 10:08:08.731 [main] DEBUG nextflow.executor.ExecutorFactory - >> processorType: 'local'
+mrt-24 10:08:08.742 [main] DEBUG nextflow.processor.TaskProcessor - Creating operator > myTask2 -- maxForks: 4; blocking: false
+mrt-24 10:08:08.779 [Actor Thread 14] INFO  nextflow.processor.TaskProcessor - [04/5e05d4] Cached process > template_example (2)
+mrt-24 10:08:08.780 [Actor Thread 12] INFO  nextflow.processor.TaskProcessor - [7a/344184] Cached process > template_example (1)
+mrt-24 10:08:08.782 [Actor Thread 3] INFO  nextflow.processor.TaskProcessor - [cd/f37bea] Cached process > sayHello
+mrt-24 10:08:08.784 [Actor Thread 11] INFO  nextflow.processor.TaskProcessor - [20/127a54] Cached process > perlStuff
+mrt-24 10:08:08.785 [Actor Thread 7] INFO  nextflow.processor.TaskProcessor - [bd/24ebf1] Cached process > printPath
+mrt-24 10:08:08.785 [Actor Thread 9] INFO  nextflow.processor.TaskProcessor - [3d/ef4f7b] Cached process > pyStuff
+mrt-24 10:08:08.788 [Actor Thread 6] INFO  nextflow.processor.TaskProcessor - [bf/c1bb91] Cached process > printPath2
+mrt-24 10:08:08.785 [main] DEBUG nextflow.executor.ExecutorFactory - << taskConfig executor: null
+mrt-24 10:08:08.791 [main] DEBUG nextflow.executor.ExecutorFactory - >> processorType: 'local'
+mrt-24 10:08:08.794 [main] DEBUG nextflow.processor.TaskProcessor - Creating operator > simpleSum -- maxForks: 4; blocking: false
+mrt-24 10:08:08.786 [Actor Thread 18] INFO  nextflow.processor.TaskProcessor - [44/36b7a7] Cached process > myTask (2)
+mrt-24 10:08:08.798 [Actor Thread 21] INFO  nextflow.processor.TaskProcessor - [84/4a83c7] Cached process > myTask2 (2)
+mrt-24 10:08:08.790 [Actor Thread 20] INFO  nextflow.processor.TaskProcessor - [94/091f92] Cached process > myTask2 (1)
+mrt-24 10:08:08.803 [Actor Thread 16] INFO  nextflow.processor.TaskProcessor - [e8/1bdd13] Cached process > myTask (1)
+mrt-24 10:08:08.807 [main] DEBUG nextflow.script.ScriptRunner - > Await termination 
+mrt-24 10:08:08.807 [main] DEBUG nextflow.Session - Session await
+mrt-24 10:08:08.812 [Actor Thread 17] INFO  nextflow.processor.TaskProcessor - [a7/d99782] Cached process > myTask (3)
+mrt-24 10:08:08.838 [Actor Thread 22] INFO  nextflow.processor.TaskProcessor - [25/5c7e3a] Cached process > myTask2 (3)
+mrt-24 10:08:08.888 [Task submitter] INFO  nextflow.Session - [93/041f61] Submitted process > simpleSum (2)
+mrt-24 10:08:08.891 [Task submitter] INFO  nextflow.Session - [b1/4c8662] Submitted process > simpleSum (3)
+mrt-24 10:08:08.897 [Task submitter] INFO  nextflow.Session - [fe/7673fc] Submitted process > simpleSum (1)
+mrt-24 10:08:08.915 [Task monitor] DEBUG n.processor.TaskPollingMonitor - Task completed > TaskHandler[id: 14; name: simpleSum (2); status: COMPLETED; exit: -; error: -; workDir: /home/hannelore/PROJECTHH/Scripts/Trial files nextflow/work/93/041f6133a7ab1b63392e2c1e819e70]
+mrt-24 10:08:08.958 [Task monitor] DEBUG n.processor.TaskPollingMonitor - Task completed > TaskHandler[id: 15; name: simpleSum (3); status: COMPLETED; exit: -; error: -; workDir: /home/hannelore/PROJECTHH/Scripts/Trial files nextflow/work/b1/4c866229b5d6a88e975f8398ce69c7]
+mrt-24 10:08:08.964 [Task monitor] DEBUG n.processor.TaskPollingMonitor - Task completed > TaskHandler[id: 13; name: simpleSum (1); status: COMPLETED; exit: -; error: -; workDir: /home/hannelore/PROJECTHH/Scripts/Trial files nextflow/work/fe/7673fc3969d4b22f886ab16ff5c8f9]
+mrt-24 10:08:08.972 [main] DEBUG nextflow.Session - Session await > all process finished
+mrt-24 10:08:08.974 [main] DEBUG nextflow.Session - Session await > all barriers passed
+mrt-24 10:08:08.983 [main] DEBUG nextflow.trace.WorkflowStatsObserver - Workflow completed > WorkflowStats[succeededCount=3; failedCount=0; ignoredCount=0; cachedCount=13; pendingCount=0; submittedCount=0; runningCount=0; retriesCount=0; abortedCount=0; succeedDuration=23ms; failedDuration=0ms; cachedDuration=1.6s;loadCpus=0; loadMemory=0; peakRunning=1; peakCpus=1; peakMemory=0; ]
+mrt-24 10:08:09.147 [main] DEBUG nextflow.CacheDB - Closing CacheDB done
+mrt-24 10:08:09.179 [main] DEBUG nextflow.script.ScriptRunner - > Execution complete -- Goodbye

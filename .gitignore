@@ -1,7 +1,10 @@
 #ignoring raw data (too big)
 *.fastq.gz
 *.fna
+*.fna.gz
 *.fastq
+*.fasta
+*.fa
 
 #ignoring others
 *.log
