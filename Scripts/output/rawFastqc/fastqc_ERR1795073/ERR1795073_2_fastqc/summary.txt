@@ -1,0 +1,11 @@
+PASS	Basic Statistics	ERR1795073_2.fastq.gz
+WARN	Per base sequence quality	ERR1795073_2.fastq.gz
+PASS	Per tile sequence quality	ERR1795073_2.fastq.gz
+PASS	Per sequence quality scores	ERR1795073_2.fastq.gz
+FAIL	Per base sequence content	ERR1795073_2.fastq.gz
+WARN	Per sequence GC content	ERR1795073_2.fastq.gz
+PASS	Per base N content	ERR1795073_2.fastq.gz
+WARN	Sequence Length Distribution	ERR1795073_2.fastq.gz
+PASS	Sequence Duplication Levels	ERR1795073_2.fastq.gz
+PASS	Overrepresented sequences	ERR1795073_2.fastq.gz
+PASS	Adapter Content	ERR1795073_2.fastq.gz

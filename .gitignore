@@ -1,7 +1,6 @@
 #ignoring raw data (too big)
 *.fastq.gz
 *.fna
-<<<<<<< HEAD
 *.fna.gz
 *.fastq
 *.fasta
@@ -19,5 +18,3 @@ temp/
 work/
 cache/
 
-=======
->>>>>>> 5dc222df8bfe8bb36ad97c202fe8ab4d883463a1

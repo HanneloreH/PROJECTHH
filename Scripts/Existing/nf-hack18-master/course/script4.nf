@@ -38,18 +38,25 @@ process index {
     """
 }
 
-
+// PE reads matchen en kijken of het empty is dan opslaan als channel
 Channel 
     .fromFilePairs( params.reads )
     .ifEmpty { error "Oops! Cannot find any file matching: ${params.reads}"  }
     .set { read_pairs_ch } 
 
+//read_pairs_ch.println()
+
+
 process quantification {
-     
+    publishDir "$baseDir/chunks", mode: 'copy', overwrite: false
+
     input:
     file index from index_ch
     set pair_id, file(reads) from read_pairs_ch
  
+//second input is declared as a set composed by two elements: the pair_id and the reads in order to match the structure of the items emitted by the read_pairs_ch channel.
+
+
     output:
     file(pair_id) into quant_ch
  
@@ -57,5 +64,7 @@ process quantification {
     """
     salmon quant --threads $task.cpus --libType=U -i $index -1 ${reads[0]} -2 ${reads[1]} -o $pair_id
     """
+
 }
 
+quant_ch.println()
