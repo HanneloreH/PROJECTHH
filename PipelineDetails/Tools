@@ -4,14 +4,16 @@
 Quality filtering
 - Fastqc
 - Metafastqc
+- Multiqc
 
-? Making smaller files (remove duplicates)
+(OPTIONAL: Making smaller files (remove duplicates)
 - Dedupe
 - Picard
-- Samtools
+- Samtools)
 
 Trimming
 - Trimmomatic
+	* might be a problem to use in nextflow because of dependancies(?)
 - Bbduk
 
 De novo assembly
@@ -21,18 +23,21 @@ De novo assembly
 - ? Anvio (bioconda)
 (commercial software: clcbio)
 
-? Scaffolding
-- 
+(OPTIONAL: Scaffolding)
 
 QC assembly
 - Quast
-
+	
 cgMLST
 - ChewBBACA
+	* Preferred because also gives possibility to create schedules
 - BigSdb
 - Genome profiler
 - MataList
 (commercial software: Ridom SeqSphere, Bionumerics)
+
+Visualisation
+- R
 
 
 
@@ -41,7 +46,7 @@ cgMLST
 - Analysis time
 - size of generated files
 - number of generated files
-- structure of generatef diles
+- structure of generated files
 - critically look at differences in generated output
 
 
