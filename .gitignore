@@ -1,5 +1,6 @@
 #ignoring raw data (too big)
 *.fastq.gz
+*.fq.gz
 *.fna
 *.fna.gz
 *.fastq
@@ -17,4 +18,8 @@ src/
 temp/
 work/
 cache/
+output/
+
+#other GITs to ignore
+Tools/chewBBACA_tutorial
 
