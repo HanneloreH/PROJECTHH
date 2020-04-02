@@ -19,6 +19,7 @@ temp/
 work/
 cache/
 output/
+kraken-db/
 
 #other GITs to ignore
 Tools/chewBBACA_tutorial

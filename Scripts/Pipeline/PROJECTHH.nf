@@ -14,6 +14,12 @@ Do QC, trimming, assembly and cgMLST analysis on fastq data files (format *.fast
 ## DEFAULTS
 *  Only for illumina  paired end reads (nextera)
 
+## EXAMPLE INPUT
+nextflow run Pipeline/PROJECTHH.nf --PE --reads "/home/hannelore/PROJECTHH/Data/RawData-KP/*_{1,2}.fastq.gz"
+OPTIONAL 
+-resume 
+-with-docker
+
 ## AUTHOR
 Hannelore Hamerlinck <hannelore.hamerlinck@hotmail.com>
 
@@ -75,9 +81,10 @@ params.keep_phix = false
 
 // Define all folders within output
 fastq_files = params.reads
-rawfastqcdir = params.output + "/rawFastqc/"
-rawmultiqcdir = params.output + "/rawMultiqc/"
-trimmingdir = params.output + "/Trimmed/"
+rawfastqcdir = params.output + "/1-rawFastqc/"
+rawmultiqcdir = params.output + "/2-rawMultiqc/"
+trimmingdir = params.output + "/3-Trimmed/"
+minikraken2dir = params.output + "/4-minikraken2/"
 
 
 // Transform reads to files and form pairs and set channels
@@ -224,27 +231,52 @@ process trimmedSE {
 }
 
 
+
+
+
+
 // ========================= Taxonomic sequence classification ======================
 /* 
-Date creation: 27/03/2020
+Date creation: 2/4/2020
 
+Problems: installation of kraken and database required more memory, a new Virtual machine (CENOTS)
+was created.
 use: kraken and krona
 */
 
 
-process rawmultiqc {
-    publishDir "$rawmultiqcdir", mode:'copy', overwrite: true
+//Firstly data input should be the same
+
+inputkrakenpath = "$trimmingdir" + "/*/*.fastq.gz"
+trimmedreads = Channel.fromPath ("$inputkrakenpath")
+
+'''
+if (params.SE){
+    trimmedreads = trimmedSE_reads('*.fastq.gz')
+}
+
+else {
+    trimmedreads = trimmedPE_reads('*.fastq.gz')
+}
+'''
+
+//remark: minikraken is used
+process kraken2 {
+    publishDir "$minikraken2dir", mode:'copy', overwrite: true
        
     input:
-    file('*') from fastqc_ch.collect() //collect nodig om van elk paar mee te nemen en niet enkel sample1 read1&2
-    
+    file trimfq from trimmedreads
+
     output:
-    file('multiqc_report.html')  
+    file("fastqc_${trimfq}") into kraken_ch
      
     script:
     """
-    multiqc . 
+    mkdir fastqc_${trimfq}
+    fastqc --extract -t $task.cpus -q ${trimfq} -o fastqc_${trimfq}
     """
+}
+    
 
 
 
