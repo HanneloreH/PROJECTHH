@@ -77,6 +77,8 @@ params.adapter_reverse = "AGATCGGAAGAGCGTCGTGTAGGGAAAGAGTGT"
 params.mean_quality = 15
 params.trimming_quality = 15
 params.keep_phix = false
+params.krakendbpath = "/home/hannelore/PROJECTHH/Tools/kraken-db/16S_SILVA138_k2db/"
+params.kronataxonomy = "/home/hannelore/krona/taxonomy/"
 
 
 // Define all folders within output
@@ -84,7 +86,8 @@ fastq_files = params.reads
 rawfastqcdir = params.output + "/1-rawFastqc/"
 rawmultiqcdir = params.output + "/2-rawMultiqc/"
 trimmingdir = params.output + "/3-Trimmed/"
-minikraken2dir = params.output + "/4-minikraken2/"
+kraken2kronadir = params.output + "/4-kraken2-krona/"
+megahitdir = params.output + "/5-Assembly-megahit/"
 
 
 // Transform reads to files and form pairs and set channels
@@ -194,7 +197,7 @@ process trimmedPE {
     set sample_id, file(reads) from read_pairsPE_ch
 
     output:
-    set val(sample_id), file("Trimmed_${sample_id}/TRIM-*.fastq.gz") into trimmedPE_reads
+    set val(sample_id), file("Trimmed_${sample_id}/TRIM-*") into trimmedPE_reads
     file("fastp.*")
 
     when:
@@ -209,6 +212,7 @@ process trimmedPE {
 }
 
 
+
 // Trimming of SE data
 process trimmedSE {
     publishDir "$trimmingdir", mode: 'copy', overwrite: false
@@ -217,7 +221,7 @@ process trimmedSE {
     file(reads) from read_pairsSE_ch
 
     output:
-   file("Trimmed_${reads}/TRIM-*.fastq.gz") into trimmedSE_reads
+    file("Trimmed_${reads.simpleName}/TRIM-*") into trimmedSE_reads
     file("fastp.*")
 
     when:
@@ -225,58 +229,133 @@ process trimmedSE {
 
     script:
     """
-    mkdir Trimmed_${reads}
-    fastp --detect_adapter_for_pe -i "${reads[0]}" -o Trimmed_${reads}/TRIM-${reads[0]}
+    mkdir Trimmed_${reads.simpleName}
+    fastp -i "${reads}" -o Trimmed_${reads.simpleName}/TRIM-${reads}
     """
+    //remark: fastp for SE has automatic adapter searching
 }
 
 
-
-
+//split data to be able to use the channel multiple times (for kraken and for assembly)
+trimmedPE_reads.into {trimmedPE_kraken; trimmedPE_assembly}
+trimmedSE_reads.into {trimmedSE_kraken; trimmedSE_assembly}
 
 
 // ========================= Taxonomic sequence classification ======================
 /* 
 Date creation: 2/4/2020
 
-Problems: installation of kraken and database required more memory, a new Virtual machine (CENOTS)
+Problems: 
+- installation of kraken and database required more memory, a new Virtual machine (CENTOS)
 was created.
-use: kraken and krona
+- problems fixing the output of the PE trimmed reads into kraken2krona, I wanted to start from files BUT 
+than the pipeline wants to start immediately which gives no results... 
+    FIX: problem was because set was made during trimming PE reads: has been deleted
+
 */
 
-
-//Firstly data input should be the same
-
-inputkrakenpath = "$trimmingdir" + "/*/*.fastq.gz"
-trimmedreads = Channel.fromPath ("$inputkrakenpath")
-
-'''
-if (params.SE){
-    trimmedreads = trimmedSE_reads('*.fastq.gz')
-}
-
-else {
-    trimmedreads = trimmedPE_reads('*.fastq.gz')
-}
-'''
-
-//remark: minikraken is used
-process kraken2 {
-    publishDir "$minikraken2dir", mode:'copy', overwrite: true
+process kraken2kronaPE {
+    publishDir "$kraken2kronadir", mode:'copy', overwrite: true
        
     input:
-    file trimfq from trimmedreads
+    set sample_id2, file(trimfq) from trimmedPE_kraken
 
     output:
-    file("fastqc_${trimfq}") into kraken_ch
+    file("kraken2krona-${sample_id2}/*")
      
+    when:
+    params.PE
+
     script:
+    // remakr conda ngs must be activated! conda activate ngs
     """
-    mkdir fastqc_${trimfq}
-    fastqc --extract -t $task.cpus -q ${trimfq} -o fastqc_${trimfq}
+    mkdir kraken2krona-${sample_id2}
+    kraken2 --use-names --report report-${sample_id2}.txt --threads $task.cpus -db $params.krakendbpath \
+    --paired --gzip-compressed ${trimfq} > kraken2krona-${sample_id2}/output.kraken
+    
+    cat kraken2krona-${sample_id2}/output.kraken | cut -f 2,3 > kraken2krona-${sample_id2}/results.krona
+    
+    ktImportTaxonomy kraken2krona-${sample_id2}/results.krona -o kraken2krona-${sample_id2}/krona.html \
+    --taxonomy $params.kronataxonomy
     """
 }
+
+
+process kraken2kronaSE {
+    publishDir "$kraken2kronadir", mode:'copy', overwrite: true
+       
+    input:
+    file(trimfq) from trimmedSE_kraken
+
+    output:
+    file("kraken2krona-${trimfq.simpleName}/*")
     
+    when:
+    params.SE
+
+    script:
+    """
+    mkdir kraken2krona-${trimfq.simpleName}
+    kraken2 --use-names --report report-${trimfq.simpleName}.txt --threads $task.cpus -db $params.krakendbpath \
+    --gzip-compressed ${trimfq} > kraken2krona-${trimfq.simpleName}/output.kraken
+    
+    cat kraken2krona-${trimfq.simpleName}/output.kraken | cut -f 2,3 > kraken2krona-${trimfq.simpleName}/results.krona
+    
+    ktImportTaxonomy kraken2krona-${trimfq.simpleName}/results.krona --taxonomy $params.kronataxonomy
+    """
+}
+
+
+
+// ================================= ASSEMBLY  =============================
+/* 
+Date creation: 3/4/2020
+
+Problems: /
+
+Possibilities: include other assemblers and give a choice to users
+
+*/
+
+process megahitPE {
+    publishDir "$megahitdir", mode:'copy', overwrite: true
+       
+    input:
+    set sample_id, file(trimfq) from trimmedPE_assembly
+
+    output:
+    file("megahit-${sample_id}/*") into megahitPE
+    file("megahit-${sample_id}/*") into trimmedSE_reads
+     
+    when:
+    params.PE
+
+    script:
+    """
+    megahit -1 "${trimfq[0]}" -2 "${trimfq[1]}" -o megahit-${sample_id}
+    """
+}
+
+process megahitSE {
+    publishDir "$megahitdir", mode:'copy', overwrite: true
+       
+    input:
+    file(trimfq) from trimmedSE_assembly
+
+    output:
+    file("megahit-${trimfq.simpleName}/*")
+     
+    when:
+    params.SE
+
+    script:
+    """
+    megahit -r "${trimfq}" -o megahit-${trimfq.simpleName}
+    """
+}
+
+
+
 
 
 
@@ -295,6 +374,11 @@ workflow.onComplete {
 // nextflow.config
 // fastqc en multiqc after trimming
 //  use docker container (?)-> to set + make nextflow.config file!!
+// fix installation krona, via conda?? conda activate ngs
+    // also fastp via bioconda -> problems??
+// fix krona: taxnoomy db (so no 0 result :p)
+// make a list of short names (for long fastq names)
+// check if fastp.html gives view of all samples
 
 
 '''

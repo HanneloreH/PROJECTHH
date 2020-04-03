@@ -16,12 +16,17 @@ Trimming
 	* might be a problem to use in nextflow because of dependancies(?)
 - Bbduk
 
+Looking at taxonomy
+- Kraken
+- Krona
+
 De novo assembly
-- Spades
+Review a lot of assemblers: https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-019-0626-5 
 - Megahit
+	* chose megahit because almost as good sensitivity as spades but faster
+- Spades
 - Velvet
-- ? Anvio (bioconda)
-(commercial software: clcbio)
+
 
 (OPTIONAL: Scaffolding)
 
