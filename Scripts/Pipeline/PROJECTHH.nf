@@ -77,7 +77,8 @@ params.adapter_reverse = "AGATCGGAAGAGCGTCGTGTAGGGAAAGAGTGT"
 params.mean_quality = 15
 params.trimming_quality = 15
 params.keep_phix = false
-params.krakendbpath = "/home/hannelore/PROJECTHH/Tools/kraken-db/16S_SILVA138_k2db/"
+params.krakendbpathsilva = "/home/hannelore/PROJECTHH/Tools/kraken-db/16S_SILVA138_k2db/"
+params.krakendbpath = "/home/hannelore/PROJECTHH/Tools/kraken-db/minikraken_8GB_202003/minikraken_8GB_20200312"
 params.kronataxonomy = "/home/hannelore/krona/taxonomy/"
 
 
@@ -86,8 +87,10 @@ fastq_files = params.reads
 rawfastqcdir = params.output + "/1-rawFastqc/"
 rawmultiqcdir = params.output + "/2-rawMultiqc/"
 trimmingdir = params.output + "/3-Trimmed/"
+reduced4krakendir = params.output + "/4-kraken2-krona/reduced"
 kraken2kronadir = params.output + "/4-kraken2-krona/"
 megahitdir = params.output + "/5-Assembly-megahit/"
+quastdir = params.output + "/5-Assembly-megahit/quast/"
 
 
 // Transform reads to files and form pairs and set channels
@@ -244,6 +247,7 @@ trimmedSE_reads.into {trimmedSE_kraken; trimmedSE_assembly}
 // ========================= Taxonomic sequence classification ======================
 /* 
 Date creation: 2/4/2020
+Last adjusted: 7/04/2020
 
 Problems: 
 - installation of kraken and database required more memory, a new Virtual machine (CENTOS)
@@ -254,29 +258,68 @@ than the pipeline wants to start immediately which gives no results...
 
 */
 
-process kraken2kronaPE {
-    publishDir "$kraken2kronadir", mode:'copy', overwrite: true
+//FIRST take 10000 reads to test with kraken (to limit needed time for analysis)
+process reduce4krakenPE {
+    publishDir "$reduced4krakendir ", mode:'copy', overwrite: true
        
     input:
-    set sample_id2, file(trimfq) from trimmedPE_kraken
+    set sample_id, file(trimfq) from trimmedPE_kraken
 
     output:
-    file("kraken2krona-${sample_id2}/*")
+     set val(sample_id), file("reduced-*") into reducedPE_kraken
      
     when:
     params.PE
 
     script:
-    // remakr conda ngs must be activated! conda activate ngs
+    """
+    zcat ${trimfq[0]} | head -40000 | gzip > reduced-${trimfq[0]}
+    zcat ${trimfq[1]} | head -40000 | gzip > reduced-${trimfq[1]}
+    """
+}
+
+process reduce4krakenSE {
+    publishDir "$reduced4krakendir ", mode:'copy', overwrite: true
+       
+    input:
+    file(trimfq) from trimmedSE_kraken
+
+    output:
+    file("reduced-*") into reducedSE_kraken
+     
+    when:
+    params.SE
+
+    script:
+    """
+    zcat ${trimfq} | head -40000 | gzip > reduced-${trimfq}
+    """
+}
+
+// SECOND: do kraken
+process kraken2kronaPE {
+    publishDir "$kraken2kronadir", mode:'copy', overwrite: true
+       
+    input:
+    set sample_id2, file(trimfq) from reducedPE_kraken
+
+    output:
+    file("kraken2krona-${sample_id2}/*") into krakenPE
+    
+    when:
+    params.PE
+
+    script:
+    // remark conda ngs must be activated for krona! "conda activate ngs"
     """
     mkdir kraken2krona-${sample_id2}
-    kraken2 --use-names --report report-${sample_id2}.txt --threads $task.cpus -db $params.krakendbpath \
+    kraken2 --use-names --report kraken2krona-${sample_id2}/report.txt \
+    --threads $task.cpus -db $params.krakendbpathsilva \
     --paired --gzip-compressed ${trimfq} > kraken2krona-${sample_id2}/output.kraken
     
-    cat kraken2krona-${sample_id2}/output.kraken | cut -f 2,3 > kraken2krona-${sample_id2}/results.krona
-    
-    ktImportTaxonomy kraken2krona-${sample_id2}/results.krona -o kraken2krona-${sample_id2}/krona.html \
-    --taxonomy $params.kronataxonomy
+
+    cat kraken2krona-${sample_id2}/report.txt | cut -f 2,3 > kraken2krona-${sample_id2}/results.krona
+    ktImportTaxonomy kraken2krona-${trimfq.simpleName}/results.krona --taxonomy $params.kronataxonomy
     """
 }
 
@@ -285,7 +328,7 @@ process kraken2kronaSE {
     publishDir "$kraken2kronadir", mode:'copy', overwrite: true
        
     input:
-    file(trimfq) from trimmedSE_kraken
+    file(trimfq) from reducedSE_kraken
 
     output:
     file("kraken2krona-${trimfq.simpleName}/*")
@@ -296,11 +339,10 @@ process kraken2kronaSE {
     script:
     """
     mkdir kraken2krona-${trimfq.simpleName}
-    kraken2 --use-names --report report-${trimfq.simpleName}.txt --threads $task.cpus -db $params.krakendbpath \
+    kraken2 --use-names --report report-${trimfq.simpleName}.txt --threads $task.cpus -db $params.krakendbpathsilva \
     --gzip-compressed ${trimfq} > kraken2krona-${trimfq.simpleName}/output.kraken
-    
+  
     cat kraken2krona-${trimfq.simpleName}/output.kraken | cut -f 2,3 > kraken2krona-${trimfq.simpleName}/results.krona
-    
     ktImportTaxonomy kraken2krona-${trimfq.simpleName}/results.krona --taxonomy $params.kronataxonomy
     """
 }
@@ -311,7 +353,9 @@ process kraken2kronaSE {
 /* 
 Date creation: 3/4/2020
 
-Problems: /
+Problems: 
+- problems with matplotlib (quast)
+- output assembly = final.contigs.fa, but then there's no samplename anymore!
 
 Possibilities: include other assemblers and give a choice to users
 
@@ -324,23 +368,67 @@ process megahitPE {
     set sample_id, file(trimfq) from trimmedPE_assembly
 
     output:
-    file("megahit-${sample_id}/*") into megahitPE
-    file("megahit-${sample_id}/*") into trimmedSE_reads
-     
+    set val(sample_id), file("megahit-${sample_id}/final.contigs.fa") into megahitPE    
+    
     when:
     params.PE
 
     script:
     """
-    megahit -1 "${trimfq[0]}" -2 "${trimfq[1]}" -o megahit-${sample_id}
+    megahit -1 "${trimfq[0]}" -2 "${trimfq[1]}" -o megahit-${sample_id} -t $task.cpus
     """
 }
-
 process megahitSE {
     publishDir "$megahitdir", mode:'copy', overwrite: true
        
     input:
     file(trimfq) from trimmedSE_assembly
+
+    output:
+    file("megahit-${trimfq.simpleName}/final.contigs.fa") into megahitSE 
+     
+    when:
+    params.SE
+
+    script:
+    """
+    megahit -r "${trimfq}" -o megahit-${trimfq.simpleName} -t $task.cpus
+    """
+}
+
+// split the file
+megahitPE.into {megahitPE_quast; megahitPE_chew}
+megahitSE.into {megahitSE_quast; megahitSE_chew}
+
+
+// Control of assembly with Quast
+process quastPE{
+    publishDir "$quastdir", mode:'copy', overwrite: true
+       
+    input:
+    set sample_id, file(assembly) from megahitPE_quast
+
+    output:
+    file("*")
+    
+    when:
+    params.PE
+
+    script:
+    //opgelet probleem matplotlib
+    """
+    mkdir quast-${sample_id}/
+    quast.py ${assembly} -o quast-${sample_id}/
+    """
+}
+// probleem met deze opstelling verlies je je naam (nog voor SE)
+
+
+process quastSE {
+    publishDir "$quastir", mode:'copy', overwrite: true
+       
+    input:
+    file(trimfq) from megahitSE_quast
 
     output:
     file("megahit-${trimfq.simpleName}/*")
@@ -350,10 +438,9 @@ process megahitSE {
 
     script:
     """
-    megahit -r "${trimfq}" -o megahit-${trimfq.simpleName}
+    quast.py megahit-${sample_id}/final.contigs.fa -o megahit-${sample_id}/quast/
     """
 }
-
 
 
 
@@ -366,7 +453,7 @@ workflow.onComplete {
 }
 
 
-
+'''
 
 // TODO: 
 // find better way to reach adapter file
@@ -381,7 +468,7 @@ workflow.onComplete {
 // check if fastp.html gives view of all samples
 
 
-'''
+
 do -with-docker
 ALTERNATIVE in nexflow.config file:
 docker.enabled = true
