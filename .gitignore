@@ -1,10 +1,13 @@
 #ignoring raw data (too big)
 *.fastq.gz
-*.fq.gz
-*.fna
-*.fna.gz
 *.fastq
+*.fq.gz
+*.fq
+*.fna.gz
+*.fna
+*.fasta.gz
 *.fasta
+*.fa.gz
 *.fa
 
 #ignoring others

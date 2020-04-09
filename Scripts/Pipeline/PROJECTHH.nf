@@ -10,7 +10,7 @@ Do QC, trimming, assembly and cgMLST analysis on fastq data files (format *.fast
 ## MUST DEFINE
 *   --reads         :path to reads (if not in same folder)
 *   --PE or --SE    :paired or single end data
-
+ 
 ## DEFAULTS
 *  Only for illumina  paired end reads (nextera)
 
@@ -81,7 +81,7 @@ params.keep_phix = false
 params.krakendbpathsilva = "/home/hannelore/PROJECTHH/Tools/kraken-db/16S_SILVA138_k2db/"
 params.krakendbpath = "/home/hannelore/PROJECTHH/Tools/kraken-db/minikraken_8GB_202003/minikraken_8GB_20200312"
 params.kronataxonomy = "/home/hannelore/krona/taxonomy/"
-
+params.refDB = "/home/hannelore/PROJECTHH/Data/refDB"
 
 // Define all folders within output
 fastq_files = params.reads
@@ -92,6 +92,8 @@ kraken2kronadir = params.output + "/3-kraken2-krona/"
 megahitdir = params.output + "/4-Assembly-megahit/"
 quastdir = params.output + "/4-Assembly-megahit/quast/"
 
+// Folders with tool
+refAssemblyDBdir = params.refDB
 
 // Transform reads to files and form pairs and set channels
 Channel
@@ -333,7 +335,7 @@ process kraken2kronaSE {
     file("kraken2krona/output-${trimfq.simpleName}.kraken")
     file("kraken2krona/report-${trimfq.simpleName}.txt") into krakenSE4txid
     file("kraken2krona/results-${trimfq.simpleName}.krona") into krakenSE4krona
-    file("kraken2krona-/txid-${trimfq.simpleName}") into txidSE
+    file("kraken2krona-/txid-${trimfq.simpleName}") into txidSE //werkt nog niet!!
     
     when:
     params.SE
@@ -388,6 +390,106 @@ process krona {
 
     """
 }
+
+
+// ================================= REFERENCE ASSEMBLIES  =============================
+/* 
+Date creation: 9/4/2020
+
+Problems:
+- takes a long time to download, would be good to have a database (txid)
+- problem extracting txid from kraken2
+
+*/
+
+// create mutual report channel for PE and SE
+report4txid = Channel.create()
+if (params.PE) {
+report4txid = krakenPE4txid
+}
+else {
+report4txid = krakenSE4txid
+}
+
+// extract the txid
+process txid {
+
+    input:
+    file(report) from kraken4txid
+
+    output:
+    val txid into txid4assembly
+
+    script:
+    """
+    column -s, -t < kraken2krona/report-${trimfq.simpleName}.txt | awk '!{4} == "S"'| head -n 1 | cut -f5 \
+    > txid
+    """
+}
+
+
+process accessions {
+    publishDir "$refAssemblyDBdir", mode:'copy', overwrite: true
+    
+    input:
+    val txid from txid4assembly
+
+    output:
+    val (txid), file("RefAssemblyDB/accessions${txid}.txt") into accessionlist
+
+    when:
+    //enkel als de ref database niet al bestaat
+
+    script:
+    """
+    mkdir -p RefAssemblyDB
+    esearch -db assembly -query '${txid}[txid] AND "complete genome"[filter] AND "latest refseq"[filter]' \
+|   esummary | xtract -pattern DocumentSummary -element AssemblyAccession > RefAssemblyDB/accessions${txid}.txt
+
+    """
+}
+
+
+process refAssembly {
+    publishDir "$refAssemblyDBdir", mode:'copy', overwrite: true
+    
+    input:
+    val(txid), file(accesions) from accessionlist
+
+    output:
+    file("RefAssemblyDB/accessions${txid}/*") into refDB
+
+    when:
+    //enkel als de ref database niet al bestaat
+
+    script:
+    """
+    mkdir -p RefAssemblyDB/${txid}
+    bit-dl-ncbi-assemblies -w ${accesions} -f fasta -j 10
+    """
+    //how to put in the right directory?
+}
+
+
+process fetchRefAssembly {
+    publishDir "$refAssemblyDBdir", mode:'copy', overwrite: true
+    
+    input:
+
+    output:
+
+
+    when:
+    //enkel als de ref database WEL al bestaat
+
+    script:
+    """
+  
+    """
+}
+
+ 
+
 
 
 // ================================= ASSEMBLY  =============================
@@ -525,6 +627,7 @@ workflow.onComplete {
 // fix krona: taxnoomy db (so no 0 result :p)
 // make a list of short names (for long fastq names)
 // check if fastp.html gives view of all samples
+// database with already downloaded assemblies per txid
 
 
 
