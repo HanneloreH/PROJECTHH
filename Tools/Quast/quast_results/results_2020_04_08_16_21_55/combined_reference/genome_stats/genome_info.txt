@@ -1,0 +1,19 @@
+reference chromosomes:
+	Klebsiella_pneumoniae_CP049891.1 (total length: 324283 bp, total length without N's: 324283 bp, maximal covered length: 47113 bp)
+	Klebsiella_pneumoniae_MGH_43_NZ_KK036953.1 (total length: 5447116 bp, total length without N's: 5432371 bp, maximal covered length: 4866600 bp)
+	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1 (total length: 5377974 bp, total length without N's: 5377974 bp, maximal covered length: 4422254 bp)
+	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047676.1 (total length: 229024 bp, total length without N's: 229024 bp, maximal covered length: 2706 bp)
+	Klebsiella_variicola_NZ_CP047360.1 (total length: 5505304 bp, total length without N's: 5505304 bp, maximal covered length: 2246696 bp)
+
+total genome size: 16883701
+
+gap min size: 50
+partial gene/operon min size: 100
+
+
+
+assembly                 | genome    | duplication | gaps      | genes     | partial   | operons   | partial   |
+                         | fraction  | ratio       | number    |           | genes     |           | operons   |
+========================================================================================================================
+ERR1795072_contigs       | 67.410    | 1.027       | 600       | -         | -         | -         | -         |
+ERR1795073_contigs       | 65.921    | 1.018       | 570       | -         | -         | -         | -         |

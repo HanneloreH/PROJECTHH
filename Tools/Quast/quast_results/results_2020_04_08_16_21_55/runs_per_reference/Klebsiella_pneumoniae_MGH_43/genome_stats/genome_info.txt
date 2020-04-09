@@ -1,0 +1,15 @@
+reference chromosomes:
+	Klebsiella_pneumoniae_MGH_43_NZ_KK036953.1 (total length: 5447116 bp, total length without N's: 5432371 bp, maximal covered length: 4915665 bp)
+
+total genome size: 5447116
+
+gap min size: 50
+partial gene/operon min size: 100
+
+
+
+assembly                 | genome    | duplication | gaps      | genes     | partial   | operons   | partial   |
+                         | fraction  | ratio       | number    |           | genes     |           | operons   |
+========================================================================================================================
+ERR1795072-contigs_to_Kl | 89.087    | 1.003       | 116       | -         | -         | -         | -         |
+ERR1795073-contigs_to_Kl | 90.488    | 1.004       | 114       | -         | -         | -         | -         |

@@ -1,0 +1,11 @@
+Number of interspecies translocations by references: 
+References                               1  2   3   4
+Klebsiella_pneumoniae                    -  1   0   0
+Klebsiella_pneumoniae_MGH_43             1  -   15  5
+Klebsiella_pneumoniae_subsp._pneumoniae  0  15  -   5
+Klebsiella_variicola                     0  5   5   -
+References:
+1 - Klebsiella_pneumoniae
+2 - Klebsiella_pneumoniae_MGH_43
+3 - Klebsiella_pneumoniae_subsp._pneumoniae
+4 - Klebsiella_variicola

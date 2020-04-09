@@ -58,6 +58,7 @@ if (params.help){
 // ===========================  Set parameters ===========================
 /* 
 Date creation: 25/03/2020
+Last adjusted: 8/04/2020 (folders)
 
 Remarks: all parameters (files, settings, directories) are put together to find/adjust
 them easily
@@ -84,13 +85,12 @@ params.kronataxonomy = "/home/hannelore/krona/taxonomy/"
 
 // Define all folders within output
 fastq_files = params.reads
-rawfastqcdir = params.output + "/1-rawFastqc/"
-rawmultiqcdir = params.output + "/2-rawMultiqc/"
-trimmingdir = params.output + "/3-Trimmed/"
-reduced4krakendir = params.output + "/4-kraken2-krona/reduced"
-kraken2kronadir = params.output + "/4-kraken2-krona/"
-megahitdir = params.output + "/5-Assembly-megahit/"
-quastdir = params.output + "/5-Assembly-megahit/quast/"
+qualitydir = params.output + "/1-Quality/"
+trimmingdir = params.output + "/2-Trimmed&Quality/"
+reduced4krakendir = params.output + "/3-kraken2-krona/reduced"
+kraken2kronadir = params.output + "/3-kraken2-krona/"
+megahitdir = params.output + "/4-Assembly-megahit/"
+quastdir = params.output + "/4-Assembly-megahit/quast/"
 
 
 // Transform reads to files and form pairs and set channels
@@ -135,6 +135,7 @@ println """\
 // ===========================  Quality control raw data ===========================
 /* 
 Date creation: 25/03/2020
+Last adjustment: 8/04/2020 (adjusted output)
 
 Remarks: do fastqc, make one folder per sample (if PE: both FWD as REV)
 
@@ -146,13 +147,14 @@ Todo:
 
 // Quality control of raw data with FASTQC
 process rawfastqc {
-    publishDir "$rawfastqcdir", mode: 'copy', overwrite: true
+    publishDir "$qualitydir", mode: 'copy', overwrite: true
 
     input:
     file fastq from fastq_ch
 
     output:
-    file("fastqc_${fastq}") into fastqc_ch
+    file("fastqc_${fastq}/*.zip") into fastqc_ch
+    file("fastqc_${fastq}/*.html")
 
     script:
     """
@@ -163,10 +165,11 @@ process rawfastqc {
 
 // do MULTIQC
 process rawmultiqc {
-    publishDir "$rawmultiqcdir", mode:'copy', overwrite: true
+    publishDir "$qualitydir", mode:'copy', overwrite: true
        
     input:
-    file('*') from fastqc_ch.collect() //collect nodig om van elk paar mee te nemen en niet enkel sample1 read1&2
+    file('*') from fastqc_ch.collect() 
+    //collect nodig om van elk paar mee te nemen en niet enkel sample1 read1&2
     
     output:
     file('multiqc_report.html')  
@@ -213,9 +216,6 @@ process trimmedPE {
     -o Trimmed_${sample_id}/TRIM-${reads[0]} -O Trimmed_${sample_id}/TRIM-${reads[1]}
     """
 }
-
-
-
 // Trimming of SE data
 process trimmedSE {
     publishDir "$trimmingdir", mode: 'copy', overwrite: false
@@ -247,7 +247,7 @@ trimmedSE_reads.into {trimmedSE_kraken; trimmedSE_assembly}
 // ========================= Taxonomic sequence classification ======================
 /* 
 Date creation: 2/4/2020
-Last adjusted: 7/04/2020
+Last adjusted: 8/04/2020
 
 Problems: 
 - installation of kraken and database required more memory, a new Virtual machine (CENTOS)
@@ -257,6 +257,7 @@ than the pipeline wants to start immediately which gives no results...
     FIX: problem was because set was made during trimming PE reads: has been deleted
 
 */
+
 
 //FIRST take 10000 reads to test with kraken (to limit needed time for analysis)
 process reduce4krakenPE {
@@ -277,7 +278,6 @@ process reduce4krakenPE {
     zcat ${trimfq[1]} | head -40000 | gzip > reduced-${trimfq[1]}
     """
 }
-
 process reduce4krakenSE {
     publishDir "$reduced4krakendir ", mode:'copy', overwrite: true
        
@@ -296,7 +296,8 @@ process reduce4krakenSE {
     """
 }
 
-// SECOND: do kraken
+
+// SECOND: do kraken and prepare for krona
 process kraken2kronaPE {
     publishDir "$kraken2kronadir", mode:'copy', overwrite: true
        
@@ -304,25 +305,23 @@ process kraken2kronaPE {
     set sample_id2, file(trimfq) from reducedPE_kraken
 
     output:
-    file("kraken2krona-${sample_id2}/*") into krakenPE
+    file("kraken2krona/output-${sample_id2}.kraken")
+    file("kraken2krona/report-${sample_id2}.txt") into krakenPE4txid
+    file("kraken2krona/results-${sample_id2}.krona") into krakenPE4krona
     
     when:
     params.PE
 
     script:
-    // remark conda ngs must be activated for krona! "conda activate ngs"
     """
-    mkdir kraken2krona-${sample_id2}
-    kraken2 --use-names --report kraken2krona-${sample_id2}/report.txt \
+    mkdir kraken2krona
+    kraken2 --use-names --report kraken2krona/report-${sample_id2}.txt \
     --threads $task.cpus -db $params.krakendbpathsilva \
-    --paired --gzip-compressed ${trimfq} > kraken2krona-${sample_id2}/output.kraken
+    --paired --gzip-compressed ${trimfq} > kraken2krona/output-${sample_id2}.kraken
     
-
-    cat kraken2krona-${sample_id2}/report.txt | cut -f 2,3 > kraken2krona-${sample_id2}/results.krona
-    ktImportTaxonomy kraken2krona-${trimfq.simpleName}/results.krona --taxonomy $params.kronataxonomy
+    cat kraken2krona/report-${sample_id2}.txt | cut -f 2,3 > kraken2krona/results-${sample_id2}.krona
     """
 }
-
 
 process kraken2kronaSE {
     publishDir "$kraken2kronadir", mode:'copy', overwrite: true
@@ -331,22 +330,64 @@ process kraken2kronaSE {
     file(trimfq) from reducedSE_kraken
 
     output:
-    file("kraken2krona-${trimfq.simpleName}/*")
+    file("kraken2krona/output-${trimfq.simpleName}.kraken")
+    file("kraken2krona/report-${trimfq.simpleName}.txt") into krakenSE4txid
+    file("kraken2krona/results-${trimfq.simpleName}.krona") into krakenSE4krona
+    file("kraken2krona-/txid-${trimfq.simpleName}") into txidSE
     
     when:
     params.SE
 
     script:
     """
-    mkdir kraken2krona-${trimfq.simpleName}
-    kraken2 --use-names --report report-${trimfq.simpleName}.txt --threads $task.cpus -db $params.krakendbpathsilva \
-    --gzip-compressed ${trimfq} > kraken2krona-${trimfq.simpleName}/output.kraken
-  
-    cat kraken2krona-${trimfq.simpleName}/output.kraken | cut -f 2,3 > kraken2krona-${trimfq.simpleName}/results.krona
-    ktImportTaxonomy kraken2krona-${trimfq.simpleName}/results.krona --taxonomy $params.kronataxonomy
+    mkdir kraken2krona
+    kraken2 --use-names --report kraken2krona/report-${trimfq.simpleName}.txt --threads $task.cpus \
+    -db $params.krakendbpathsilva --gzip-compressed ${trimfq} > kraken2krona/output${trimfq.simpleName}.kraken
+    
+    column -s, -t < kraken2krona/report-${trimfq.simpleName}.txt | awk '!{4} == "S"'| head -n 1 | cut -f5 \
+    > kraken2krona-/txid-${trimfq.simpleName}
+
+    cat kraken2krona/report-${trimfq.simpleName}.txt | cut -f 2,3 > kraken2krona/results-${trimfq.simpleName}.krona
     """
 }
 
+// THIRD: krona
+// remark conda ngs must be activated for krona! "conda activate ngs"
+// update taxonomy
+process krona_db {
+    output:
+    file("taxonomy/taxonomy.tab") into krona_taxonomy
+
+    script:
+    """
+    ktUpdateTaxonomy.sh taxonomy
+    """
+}
+
+// create mutual channel for PE and SE
+report4krona = Channel.create()
+if (params.PE) {
+report4krona = krakenPE4krona
+}
+else {
+report4krona = krakenSE4krona
+}
+
+process krona {
+    publishDir "$kraken2kronadir", mode:'copy', overwrite: true
+    input:
+    file("taxonomy/taxonomy.tab") from krona_taxonomy
+    file (report) from report4krona
+
+    output:
+    file("*.html")
+
+    script:
+    """
+    ktImportTaxonomy ${report} -tax taxonomy -o KRONA-${report.simpleName}.html
+
+    """
+}
 
 
 // ================================= ASSEMBLY  =============================
@@ -361,6 +402,16 @@ Possibilities: include other assemblers and give a choice to users
 
 */
 
+//import matpotlib
+process matplotlib {
+    script:
+    '''
+    #!/usr/bin/env python3
+    import matplotlib
+    '''
+}
+
+//perform assembly with megahit (PE and SE)
 process megahitPE {
     publishDir "$megahitdir", mode:'copy', overwrite: true
        
@@ -368,37 +419,43 @@ process megahitPE {
     set sample_id, file(trimfq) from trimmedPE_assembly
 
     output:
-    set val(sample_id), file("megahit-${sample_id}/final.contigs.fa") into megahitPE    
+    file("megahit/*.fa") into megahitPE    
     
     when:
     params.PE
 
     script:
     """
-    megahit -1 "${trimfq[0]}" -2 "${trimfq[1]}" -o megahit-${sample_id} -t $task.cpus
+    megahit -1 "${trimfq[0]}" -2 "${trimfq[1]}" -o megahit \
+    --out-prefix ${sample_id} -t $task.cpus
     """
 }
 process megahitSE {
     publishDir "$megahitdir", mode:'copy', overwrite: true
        
     input:
-    file(trimfq) from trimmedSE_assembly
+    set val(sample_id), file("megahit/*.fa") from trimmedSE_assembly
 
     output:
-    file("megahit-${trimfq.simpleName}/final.contigs.fa") into megahitSE 
+    file("megahit/*.fa") into megahitSE 
      
     when:
     params.SE
 
     script:
     """
-    megahit -r "${trimfq}" -o megahit-${trimfq.simpleName} -t $task.cpus
+    megahit -r "${trimfq}" -o megahit \
+    --out-prefix ${trimfq.simpleName} -t $task.cpus
     """
 }
 
-// split the file
-megahitPE.into {megahitPE_quast; megahitPE_chew}
-megahitSE.into {megahitSE_quast; megahitSE_chew}
+// split the file and stop division in SE and PE for chewbbaca
+if (params.PE){
+    megahitPE.into {megahit_quast; megahit_chew}
+}
+else {
+    megahitSE.into {megahit_quast; megahit_chew}
+}
 
 
 // Control of assembly with Quast
@@ -406,7 +463,7 @@ process quastPE{
     publishDir "$quastdir", mode:'copy', overwrite: true
        
     input:
-    set sample_id, file(assembly) from megahitPE_quast
+    file(assembly) from megahit_quast
 
     output:
     file("*")
@@ -415,14 +472,16 @@ process quastPE{
     params.PE
 
     script:
-    //opgelet probleem matplotlib
     """
-    mkdir quast-${sample_id}/
-    quast.py ${assembly} -o quast-${sample_id}/
+    mkdir quast/
+    quast.py ${assembly} -o quast/
     """
 }
-// probleem met deze opstelling verlies je je naam (nog voor SE)
 
+
+'''
+
+// probleem met deze opstelling verlies je je naam (nog voor SE
 
 process quastSE {
     publishDir "$quastir", mode:'copy', overwrite: true
@@ -438,7 +497,7 @@ process quastSE {
 
     script:
     """
-    quast.py megahit-${sample_id}/final.contigs.fa -o megahit-${sample_id}/quast/
+    quast.py megahit-${trimfq.simpleName}/final.contigs.fa -o megahit-${trimfq.simpleName}/quast/
     """
 }
 
@@ -453,7 +512,7 @@ workflow.onComplete {
 }
 
 
-'''
+
 
 // TODO: 
 // find better way to reach adapter file

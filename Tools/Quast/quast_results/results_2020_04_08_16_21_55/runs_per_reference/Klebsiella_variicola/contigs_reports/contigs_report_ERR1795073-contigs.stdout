@@ -1,0 +1,1000 @@
+Aligning contigs to reference...
+	Aligning contigs to the reference
+Filtering alignments...
+Parsing coords...
+Loading reference...
+	Loaded [Klebsiella_variicola_NZ_CP047360.1]
+	Total Regions: 1
+	Total Region Length: 5505304
+Analyzing contigs...
+CONTIG: k141_19 (84908bp)
+Best alignment score: 25739.4 (LEN: 26851, IDY: 95.86), Total number of alignments: 14
+			Looking for the best set of alignments (out of 14 total alignments)
+			Skipping redundant alignments after choosing the best set of alignments
+		Skipping redundant alignment 1231752 1231851 | 84908 84809 | 100 100 | 100.0 | Klebsiella_variicola_NZ_CP047360.1 k141_19
+		Skipping redundant alignment 4473957 4474057 | 84808 84908 | 101 101 | 100.0 | Klebsiella_variicola_NZ_CP047360.1 k141_19
+		Skipping redundant alignment 452518 452618 | 84908 84808 | 101 101 | 100.0 | Klebsiella_variicola_NZ_CP047360.1 k141_19
+		Skipping redundant alignment 5344773 5344873 | 84808 84908 | 101 101 | 100.0 | Klebsiella_variicola_NZ_CP047360.1 k141_19
+		Skipping redundant alignment 5252770 5253003 | 84676 84908 | 234 233 | 96.17 | Klebsiella_variicola_NZ_CP047360.1 k141_19
+		Skipping redundant alignment 4838502 4838733 | 84676 84908 | 232 233 | 95.3 | Klebsiella_variicola_NZ_CP047360.1 k141_19
+		Skipping redundant alignment 5207847 5208078 | 84676 84908 | 232 233 | 95.3 | Klebsiella_variicola_NZ_CP047360.1 k141_19
+		This contig has several significant sets of alignments. [An ambiguously mapped contig]
+		Using only the very best set (option --ambiguity-usage is set to "one").
+			The best set is below. Score: 38642.8, number of alignments: 7, unaligned bases: 43530
+		This contig is misassembled.
+		This contig is partially unaligned. (Aligned 41378 out of 84908 non-N bases (48.73%))
+			Warning! This contig is more unaligned than misassembled. Contig length is 84908 (number of Ns: 0) and total length of all aligns is 41378
+		Alignment: 4752307 4752387 | 12 92 | 81 81 | 100.0 | Klebsiella_variicola_NZ_CP047360.1 k141_19
+		Alignment: 4752413 4752620 | 119 326 | 208 208 | 97.12 | Klebsiella_variicola_NZ_CP047360.1 k141_19
+		Alignment: 4777191 4778291 | 37431 38531 | 1101 1101 | 95.46 | Klebsiella_variicola_NZ_CP047360.1 k141_19
+		Alignment: 4786144 4786263 | 38525 38644 | 120 120 | 97.5 | Klebsiella_variicola_NZ_CP047360.1 k141_19
+		Alignment: 4787096 4813951 | 38888 65738 | 26856 26851 | 95.86 | Klebsiella_variicola_NZ_CP047360.1 k141_19
+		Alignment: 4817756 4830511 | 65860 78614 | 12756 12755 | 95.89 | Klebsiella_variicola_NZ_CP047360.1 k141_19
+		Alignment: 5449613 5449882 | 84640 84908 | 270 269 | 95.2 | Klebsiella_variicola_NZ_CP047360.1 k141_19
+		Unaligned bases: 43530
+
+CONTIG: k141_20 (130797bp)
+Best alignment score: 27801.1 (LEN: 29163, IDY: 95.33), Total number of alignments: 16
+			Looking for the best set of alignments (out of 16 total alignments)
+		This contig has several significant sets of alignments. [An ambiguously mapped contig]
+		Using only the very best set (option --ambiguity-usage is set to "one").
+			The best set is below. Score: 77646.2, number of alignments: 16, unaligned bases: 49054
+		This contig is misassembled.
+		This contig is partially unaligned. (Aligned 81743 out of 130797 non-N bases (62.50%))
+			Real Alignment 1: 5186385 5207757 | 21603 232 | 21373 21372 | 96.37 | Klebsiella_variicola_NZ_CP047360.1 k141_20
+			  Gap between these two alignments (local misassembly). Inconsistency = 811
+			Real Alignment 2: 5179956 5185535 | 27222 21642 | 5580 5581 | 95.92 | Klebsiella_variicola_NZ_CP047360.1 k141_20
+			  Extensive misassembly (relocation, inconsistency = -3152) between these two alignments
+			Real Alignment 3: 5178007 5179247 | 32321 31083 | 1241 1239 | 95.57 | Klebsiella_variicola_NZ_CP047360.1 k141_20
+			  Gap between these two alignments (local misassembly). Inconsistency = 144
+			Real Alignment 4: 5171287 5173499 | 38897 36685 | 2213 2213 | 97.38 | Klebsiella_variicola_NZ_CP047360.1 k141_20
+			  Indel (> 5bp) between these two alignments: deletion of length 9; 0 mismatches (number of Ns: 0)
+			Real Alignment 5: 5169495 5171277 | 40680 38898 | 1783 1783 | 96.58 | Klebsiella_variicola_NZ_CP047360.1 k141_20
+			  Gap between these two alignments (local misassembly). Inconsistency = 9
+			Real Alignment 6: 5157272 5158401 | 52894 51765 | 1130 1130 | 96.64 | Klebsiella_variicola_NZ_CP047360.1 k141_20
+			  Stretch of 19 mismatches between these two alignments (number of Ns: 0)
+			Real Alignment 7: 5155884 5157252 | 54282 52914 | 1369 1369 | 95.98 | Klebsiella_variicola_NZ_CP047360.1 k141_20
+			  Gap between these two alignments (local misassembly). Inconsistency = 3
+			Real Alignment 8: 5150559 5151144 | 59604 59019 | 586 586 | 97.1 | Klebsiella_variicola_NZ_CP047360.1 k141_20
+			  Gap between these two alignments (local misassembly). Inconsistency = 31
+			Real Alignment 9: 5143149 5148329 | 66983 61803 | 5181 5181 | 95.97 | Klebsiella_variicola_NZ_CP047360.1 k141_20
+			  Stretch of 62 mismatches between these two alignments (number of Ns: 0)
+			Real Alignment 10: 5140461 5143086 | 69671 67046 | 2626 2626 | 96.73 | Klebsiella_variicola_NZ_CP047360.1 k141_20
+			  Extensive misassembly (relocation, inconsistency = 2001) between these two alignments
+			Real Alignment 11: 5132598 5134828 | 75533 73303 | 2231 2231 | 96.68 | Klebsiella_variicola_NZ_CP047360.1 k141_20
+			  Gap between these two alignments (local misassembly). Inconsistency = 15
+			Real Alignment 12: 5112690 5114746 | 95426 93370 | 2057 2057 | 96.6 | Klebsiella_variicola_NZ_CP047360.1 k141_20
+			  Stretch of 4 mismatches between these two alignments (number of Ns: 0)
+			Real Alignment 13: 5110399 5112685 | 97717 95431 | 2287 2287 | 95.28 | Klebsiella_variicola_NZ_CP047360.1 k141_20
+			  Stretch of 3 mismatches between these two alignments (number of Ns: 0)
+			Real Alignment 14: 5108887 5110395 | 99229 97721 | 1509 1509 | 95.23 | Klebsiella_variicola_NZ_CP047360.1 k141_20
+			  Gap between these two alignments (local misassembly). Inconsistency = 210
+			Real Alignment 15: 5078587 5107749 | 129319 100157 | 29163 29163 | 95.33 | Klebsiella_variicola_NZ_CP047360.1 k141_20
+			  Extensive misassembly (relocation, inconsistency = 214293) between these two alignments
+			Real Alignment 16: 4862816 4864231 | 129382 130797 | 1416 1416 | 99.51 | Klebsiella_variicola_NZ_CP047360.1 k141_20
+		Unaligned bases: 49054
+
+CONTIG: k141_41 (149771bp)
+Best alignment score: 25491.4 (LEN: 26757, IDY: 95.27), Total number of alignments: 14
+			Looking for the best set of alignments (out of 14 total alignments)
+		This contig has several significant sets of alignments. [An ambiguously mapped contig]
+		Using only the very best set (option --ambiguity-usage is set to "one").
+			The best set is below. Score: 62867.0, number of alignments: 14, unaligned bases: 83861
+		This contig is misassembled.
+		This contig is partially unaligned. (Aligned 65910 out of 149771 non-N bases (44.01%))
+			Warning! This contig is more unaligned than misassembled. Contig length is 149771 (number of Ns: 0) and total length of all aligns is 65910
+		Alignment: 2745886 2750151 | 6143 1878 | 4266 4266 | 95.78 | Klebsiella_variicola_NZ_CP047360.1 k141_41
+		Alignment: 2740551 2744213 | 11467 7805 | 3663 3663 | 95.9 | Klebsiella_variicola_NZ_CP047360.1 k141_41
+		Alignment: 2733787 2740550 | 18232 11469 | 6764 6764 | 97.62 | Klebsiella_variicola_NZ_CP047360.1 k141_41
+		Alignment: 2731409 2732085 | 20616 19940 | 677 677 | 96.6 | Klebsiella_variicola_NZ_CP047360.1 k141_41
+		Alignment: 2727731 2728059 | 24293 23965 | 329 329 | 96.66 | Klebsiella_variicola_NZ_CP047360.1 k141_41
+		Alignment: 2723032 2727730 | 28993 24295 | 4699 4699 | 98.06 | Klebsiella_variicola_NZ_CP047360.1 k141_41
+		Alignment: 2707913 2708382 | 44682 44213 | 470 470 | 97.23 | Klebsiella_variicola_NZ_CP047360.1 k141_41
+		Alignment: 2676549 2703300 | 75510 48754 | 26752 26757 | 95.27 | Klebsiella_variicola_NZ_CP047360.1 k141_41
+		Alignment: 2672918 2673911 | 76731 75738 | 994 994 | 95.47 | Klebsiella_variicola_NZ_CP047360.1 k141_41
+		Alignment: 2672262 2672694 | 77367 76935 | 433 433 | 95.84 | Klebsiella_variicola_NZ_CP047360.1 k141_41
+		Alignment: 2641406 2642483 | 114150 113073 | 1078 1078 | 96.38 | Klebsiella_variicola_NZ_CP047360.1 k141_41
+		Alignment: 2640317 2641405 | 115240 114152 | 1089 1089 | 96.69 | Klebsiella_variicola_NZ_CP047360.1 k141_41
+		Alignment: 2640222 2640305 | 115324 115241 | 84 84 | 96.43 | Klebsiella_variicola_NZ_CP047360.1 k141_41
+		Alignment: 2603920 2618525 | 147315 132709 | 14606 14607 | 98.57 | Klebsiella_variicola_NZ_CP047360.1 k141_41
+		Unaligned bases: 83861
+
+CONTIG: k141_43 (111274bp)
+Best alignment score: 6615.3 (LEN: 6935, IDY: 95.39), Total number of alignments: 11
+			Looking for the best set of alignments (out of 11 total alignments)
+		This contig has several significant sets of alignments. [An ambiguously mapped contig]
+		Using only the very best set (option --ambiguity-usage is set to "one").
+			The best set is below. Score: 37776.9, number of alignments: 11, unaligned bases: 71469
+		This contig is misassembled.
+		This contig is partially unaligned. (Aligned 39805 out of 111274 non-N bases (35.77%))
+			Warning! This contig is more unaligned than misassembled. Contig length is 111274 (number of Ns: 0) and total length of all aligns is 39805
+		Alignment: 1231772 1231951 | 1 180 | 180 180 | 97.22 | Klebsiella_variicola_NZ_CP047360.1 k141_43
+		Alignment: 1251039 1257044 | 19263 25268 | 6006 6006 | 95.12 | Klebsiella_variicola_NZ_CP047360.1 k141_43
+		Alignment: 1257045 1263979 | 25270 32204 | 6935 6935 | 95.39 | Klebsiella_variicola_NZ_CP047360.1 k141_43
+		Alignment: 1264182 1268460 | 32406 36684 | 4279 4279 | 95.26 | Klebsiella_variicola_NZ_CP047360.1 k141_43
+		Alignment: 1278912 1279601 | 53896 54585 | 690 690 | 96.23 | Klebsiella_variicola_NZ_CP047360.1 k141_43
+		Alignment: 1279603 1284691 | 54586 59674 | 5089 5089 | 95.54 | Klebsiella_variicola_NZ_CP047360.1 k141_43
+		Alignment: 1289117 1293370 | 64063 68316 | 4254 4254 | 95.37 | Klebsiella_variicola_NZ_CP047360.1 k141_43
+		Alignment: 1299631 1305999 | 74580 80948 | 6369 6369 | 95.96 | Klebsiella_variicola_NZ_CP047360.1 k141_43
+		Alignment: 1306000 1306088 | 80950 81038 | 89 89 | 97.75 | Klebsiella_variicola_NZ_CP047360.1 k141_43
+		Alignment: 1306093 1306515 | 81043 81465 | 423 423 | 95.98 | Klebsiella_variicola_NZ_CP047360.1 k141_43
+		Alignment: 1306519 1312009 | 81469 86959 | 5491 5491 | 95.79 | Klebsiella_variicola_NZ_CP047360.1 k141_43
+		Unaligned bases: 71469
+
+CONTIG: k141_56 (3585bp)
+Best alignment score: 3532.0 (LEN: 3568, IDY: 98.99), Total number of alignments: 8
+		Skipping these alignments as insignificant (option --ambiguity-score is set to "0.99"):
+			Skipping alignment 5252903 5256143 | 3565 327 | 3241 3239 | 98.89 | Klebsiella_variicola_NZ_CP047360.1 k141_56
+			Skipping alignment 449378 452617 | 327 3565 | 3240 3239 | 98.86 | Klebsiella_variicola_NZ_CP047360.1 k141_56
+			Skipping alignment 5344774 5348003 | 3565 327 | 3230 3239 | 98.21 | Klebsiella_variicola_NZ_CP047360.1 k141_56
+			Skipping alignment 4474227 4477300 | 3395 327 | 3074 3069 | 99.06 | Klebsiella_variicola_NZ_CP047360.1 k141_56
+		This contig has 4 significant alignments. [An ambiguously mapped contig]
+		Using only first of these alignment (option --ambiguity-usage is set to "one"):
+			Alignment: 5207976 5211546 | 3568 1 | 3571 3568 | 98.99 | Klebsiella_variicola_NZ_CP047360.1 k141_56
+			Skipping alignment 1228296 1231871 | 1 3585 | 3576 3585 | 98.44 | Klebsiella_variicola_NZ_CP047360.1 k141_56
+			Skipping alignment 4838631 4842189 | 3568 1 | 3559 3568 | 98.21 | Klebsiella_variicola_NZ_CP047360.1 k141_56
+			Skipping alignment 5449783 5453336 | 3565 1 | 3554 3565 | 98.29 | Klebsiella_variicola_NZ_CP047360.1 k141_56
+
+CONTIG: k141_83 (35965bp)
+Best alignment score: 1682.0 (LEN: 1762, IDY: 95.46), Total number of alignments: 2
+			Looking for the best set of alignments (out of 2 total alignments)
+			The best set is below. Score: 1867.0, number of alignments: 2, unaligned bases: 34014
+		This contig is misassembled.
+		This contig is partially unaligned. (Aligned 1951 out of 35965 non-N bases (5.42%))
+			Warning! This contig is more unaligned than misassembled. Contig length is 35965 (number of Ns: 0) and total length of all aligns is 1951
+		Alignment: 1804660 1804848 | 10736 10924 | 189 189 | 97.88 | Klebsiella_variicola_NZ_CP047360.1 k141_83
+		Alignment: 1804850 1806611 | 10925 12686 | 1762 1762 | 95.46 | Klebsiella_variicola_NZ_CP047360.1 k141_83
+		Unaligned bases: 34014
+
+CONTIG: k141_90 (223228bp)
+Best alignment score: 46294.3 (LEN: 48058, IDY: 96.33), Total number of alignments: 15
+			Looking for the best set of alignments (out of 15 total alignments)
+		This contig has several significant sets of alignments. [An ambiguously mapped contig]
+		Using only the very best set (option --ambiguity-usage is set to "one").
+			The best set is below. Score: 161211.8, number of alignments: 15, unaligned bases: 54176
+		This contig is misassembled.
+		This contig is partially unaligned. (Aligned 169052 out of 223228 non-N bases (75.73%))
+			Real Alignment 1: 939132 970128 | 1 30926 | 30997 30926 | 96.06 | Klebsiella_variicola_NZ_CP047360.1 k141_90
+			  Gap between these two alignments (local misassembly). Inconsistency = 300
+			Excluding internal overlap of size 14 between Alignment 2 and 3: 1013580 1014364 | 63716 64501 | 785 786 --> 1013594 1014364 | 63730 64501 | 771 772
+			Real Alignment 2: 970514 1003228 | 31012 63729 | 32715 32718 | 95.64 | Klebsiella_variicola_NZ_CP047360.1 k141_90
+			  Extensive misassembly (relocation, inconsistency = 10365) between these two alignments
+			Real Alignment 3: 1013594 1014364 | 63730 64501 | 771 772 | 97.84 | Klebsiella_variicola_NZ_CP047360.1 k141_90
+			  Gap between these two alignments (local misassembly). Inconsistency = -741
+			Real Alignment 4: 1014364 1062375 | 65242 113299 | 48012 48058 | 96.33 | Klebsiella_variicola_NZ_CP047360.1 k141_90
+			  Extensive misassembly (relocation, inconsistency = 4507) between these two alignments
+			Real Alignment 5: 1066935 1070858 | 113352 117275 | 3924 3924 | 95.34 | Klebsiella_variicola_NZ_CP047360.1 k141_90
+			  Gap between these two alignments (local misassembly). Inconsistency = -40
+			Real Alignment 6: 1076347 1077555 | 122804 124012 | 1209 1209 | 95.86 | Klebsiella_variicola_NZ_CP047360.1 k141_90
+			  Gap between these two alignments (local misassembly). Inconsistency = 456
+			Real Alignment 7: 1086297 1086631 | 132298 132632 | 335 335 | 98.21 | Klebsiella_variicola_NZ_CP047360.1 k141_90
+			  Stretch of 24 mismatches between these two alignments (number of Ns: 0)
+			Real Alignment 8: 1086656 1087889 | 132657 133890 | 1234 1234 | 98.3 | Klebsiella_variicola_NZ_CP047360.1 k141_90
+			  Gap between these two alignments (local misassembly). Inconsistency = -69
+			Real Alignment 9: 1088369 1091093 | 134439 137163 | 2725 2725 | 95.23 | Klebsiella_variicola_NZ_CP047360.1 k141_90
+			  Gap between these two alignments (local misassembly). Inconsistency = 13
+			Real Alignment 10: 1102045 1102580 | 148102 148637 | 536 536 | 97.57 | Klebsiella_variicola_NZ_CP047360.1 k141_90
+			  Gap between these two alignments (local misassembly). Inconsistency = -23
+			Real Alignment 11: 1109892 1110282 | 155972 156362 | 391 391 | 96.93 | Klebsiella_variicola_NZ_CP047360.1 k141_90
+			  Extensive misassembly (relocation, inconsistency = -3610) between these two alignments
+			Real Alignment 12: 1127029 1137627 | 176719 187316 | 10599 10598 | 96.81 | Klebsiella_variicola_NZ_CP047360.1 k141_90
+			  Extensive misassembly (relocation, inconsistency = 22522) between these two alignments
+			Excluding internal overlap of size 7 between Alignment 13 and 14: 1160245 1168865 | 187412 196032 | 8621 8621 --> 1160245 1168858 | 187412 196025 | 8614 8614
+			Real Alignment 13: 1160245 1168858 | 187412 196025 | 8614 8614 | 96.5 | Klebsiella_variicola_NZ_CP047360.1 k141_90
+			  Extensive misassembly (relocation, inconsistency = 30706) between these two alignments
+			Real Alignment 14: 1199565 1209060 | 196026 205519 | 9496 9494 | 97.2 | Klebsiella_variicola_NZ_CP047360.1 k141_90
+			  Gap between these two alignments (local misassembly). Inconsistency = 47
+			Real Alignment 15: 1209283 1226797 | 205695 223212 | 17515 17518 | 95.65 | Klebsiella_variicola_NZ_CP047360.1 k141_90
+		Unaligned bases: 54176
+
+CONTIG: k141_92 (203826bp)
+Best alignment score: 54268.6 (LEN: 56939, IDY: 95.31), Total number of alignments: 22
+			Looking for the best set of alignments (out of 22 total alignments)
+			Skipping redundant alignments after choosing the best set of alignments
+		Skipping redundant alignment 4862816 4862955 | 203687 203826 | 140 140 | 100.0 | Klebsiella_variicola_NZ_CP047360.1 k141_92
+		This contig has several significant sets of alignments. [An ambiguously mapped contig]
+		Using only the very best set (option --ambiguity-usage is set to "one").
+			The best set is below. Score: 165215.2, number of alignments: 21, unaligned bases: 30997
+		This contig is misassembled.
+		This contig is partially unaligned. (Aligned 172829 out of 203826 non-N bases (84.79%))
+			Real Alignment 1: 413691 420541 | 6851 1 | 6851 6851 | 96.32 | Klebsiella_variicola_NZ_CP047360.1 k141_92
+			  Gap between these two alignments (local misassembly). Inconsistency = 1
+			Real Alignment 2: 405988 408181 | 14553 12360 | 2194 2194 | 95.72 | Klebsiella_variicola_NZ_CP047360.1 k141_92
+			  Indel (<= 5bp) between these two alignments: deletion of length 1; 0 mismatches (number of Ns: 0)
+			Real Alignment 3: 398991 405986 | 21549 14554 | 6996 6996 | 95.35 | Klebsiella_variicola_NZ_CP047360.1 k141_92
+			  Indel (<= 5bp) between these two alignments: deletion of length 1; 0 mismatches (number of Ns: 0)
+			Real Alignment 4: 393235 398989 | 27304 21550 | 5755 5755 | 95.48 | Klebsiella_variicola_NZ_CP047360.1 k141_92
+			  Gap between these two alignments (local misassembly). Inconsistency = 1
+			Real Alignment 5: 387968 391675 | 32570 28863 | 3708 3708 | 95.44 | Klebsiella_variicola_NZ_CP047360.1 k141_92
+			  Gap between these two alignments (local misassembly). Inconsistency = 0
+			Real Alignment 6: 378098 378961 | 42440 41577 | 864 864 | 95.25 | Klebsiella_variicola_NZ_CP047360.1 k141_92
+			  Gap between these two alignments (local misassembly). Inconsistency = -2
+			Real Alignment 7: 366623 373841 | 53917 46699 | 7219 7219 | 95.01 | Klebsiella_variicola_NZ_CP047360.1 k141_92
+			  Gap between these two alignments (local misassembly). Inconsistency = 8
+			Real Alignment 8: 363371 366421 | 57161 54111 | 3051 3051 | 96.13 | Klebsiella_variicola_NZ_CP047360.1 k141_92
+			  Indel (<= 5bp) between these two alignments: insertion of length 2; 49 mismatches (number of Ns: 0)
+			Real Alignment 9: 362128 363321 | 58406 57213 | 1194 1194 | 96.15 | Klebsiella_variicola_NZ_CP047360.1 k141_92
+			  Indel (<= 5bp) between these two alignments: deletion of length 1; 0 mismatches (number of Ns: 0)
+			Real Alignment 10: 360517 362126 | 60016 58407 | 1610 1610 | 96.4 | Klebsiella_variicola_NZ_CP047360.1 k141_92
+			  Stretch of 15 mismatches between these two alignments (number of Ns: 0)
+			Real Alignment 11: 359134 360501 | 61399 60032 | 1368 1368 | 96.13 | Klebsiella_variicola_NZ_CP047360.1 k141_92
+			  Indel (<= 5bp) between these two alignments: insertion of length 1; 74 mismatches (number of Ns: 0)
+			Real Alignment 12: 354153 359059 | 66381 61475 | 4907 4907 | 96.52 | Klebsiella_variicola_NZ_CP047360.1 k141_92
+			  Stretch of 6 mismatches between these two alignments (number of Ns: 0)
+			Real Alignment 13: 346785 354146 | 73749 66388 | 7362 7362 | 96.29 | Klebsiella_variicola_NZ_CP047360.1 k141_92
+			  Indel (> 5bp) between these two alignments: deletion of length 46; 0 mismatches (number of Ns: 0)
+			Real Alignment 14: 346596 346713 | 73892 73775 | 118 118 | 98.31 | Klebsiella_variicola_NZ_CP047360.1 k141_92
+			  Indel (> 5bp) between these two alignments: insertion of length 8; 34 mismatches (number of Ns: 0)
+			Real Alignment 15: 332200 346561 | 88296 73935 | 14362 14362 | 95.3 | Klebsiella_variicola_NZ_CP047360.1 k141_92
+			  Gap between these two alignments (local misassembly). Inconsistency = 0
+			Real Alignment 16: 328641 328832 | 91855 91664 | 192 192 | 97.92 | Klebsiella_variicola_NZ_CP047360.1 k141_92
+			  Gap between these two alignments (local misassembly). Inconsistency = 121
+			Excluding internal overlap of size 155 between Alignment 17 and 18: 314314 328501 | 106042 91874 | 14188 14169 --> 314469 328501 | 105887 91874 | 14033 14014
+			Real Alignment 17: 314469 328501 | 105887 91874 | 14033 14014 | 95.87 | Klebsiella_variicola_NZ_CP047360.1 k141_92
+			  Gap between these two alignments (local misassembly). Inconsistency = 251
+			Excluding internal overlap of size 84 between Alignment 18 and 19: 299404 314217 | 120700 105888 | 14814 14813 --> 299488 314217 | 120616 105888 | 14730 14729
+			Real Alignment 18: 299488 314217 | 120616 105888 | 14730 14729 | 96.7 | Klebsiella_variicola_NZ_CP047360.1 k141_92
+			  Gap between these two alignments (local misassembly). Inconsistency = 783
+			Real Alignment 19: 279812 298704 | 139508 120617 | 18893 18892 | 95.84 | Klebsiella_variicola_NZ_CP047360.1 k141_92
+			  Gap between these two alignments (local misassembly). Inconsistency = 722
+			Real Alignment 20: 222110 279065 | 196471 139533 | 56956 56939 | 95.31 | Klebsiella_variicola_NZ_CP047360.1 k141_92
+			  Gap between these two alignments (local misassembly). Inconsistency = 118
+			Real Alignment 21: 214804 215307 | 203659 203156 | 504 504 | 95.45 | Klebsiella_variicola_NZ_CP047360.1 k141_92
+		Unaligned bases: 30997
+
+CONTIG: k141_94 (560bp)
+Best alignment score: 540.0 (LEN: 560, IDY: 96.43), Total number of alignments: 1
+		One align captures most of this contig: 4072403 4072963 | 560 1 | 561 560 | 96.43 | Klebsiella_variicola_NZ_CP047360.1 k141_94
+
+CONTIG: k141_95 (178947bp)
+Best alignment score: 19909.4 (LEN: 20726, IDY: 96.06), Total number of alignments: 25
+			Looking for the best set of alignments (out of 25 total alignments)
+			Skipping redundant alignments after choosing the best set of alignments
+		Skipping redundant alignment 3497203 3497328 | 168801 168926 | 126 126 | 97.62 | Klebsiella_variicola_NZ_CP047360.1 k141_95
+		Skipping redundant alignment 3497566 3497721 | 168801 168957 | 156 157 | 96.18 | Klebsiella_variicola_NZ_CP047360.1 k141_95
+		Skipping redundant alignment 3497045 3497429 | 171729 172114 | 385 386 | 97.16 | Klebsiella_variicola_NZ_CP047360.1 k141_95
+		This contig has several significant sets of alignments. [An ambiguously mapped contig]
+		Using only the very best set (option --ambiguity-usage is set to "one").
+			The best set is below. Score: 122885.9, number of alignments: 22, unaligned bases: 49084
+		This contig is misassembled.
+		This contig is partially unaligned. (Aligned 129863 out of 178947 non-N bases (72.57%))
+			Real Alignment 1: 4131820 4131981 | 1 162 | 162 162 | 95.06 | Klebsiella_variicola_NZ_CP047360.1 k141_95
+			  Gap between these two alignments (local misassembly). Inconsistency = -1
+			Real Alignment 2: 4133187 4135329 | 1369 3511 | 2143 2143 | 95.01 | Klebsiella_variicola_NZ_CP047360.1 k141_95
+			  Gap between these two alignments (local misassembly). Inconsistency = 381
+			Real Alignment 3: 4135893 4156416 | 3694 24213 | 20524 20520 | 96.33 | Klebsiella_variicola_NZ_CP047360.1 k141_95
+			  Gap between these two alignments (local misassembly). Inconsistency = -280
+			Real Alignment 4: 4156379 4160704 | 24456 28780 | 4326 4325 | 95.38 | Klebsiella_variicola_NZ_CP047360.1 k141_95
+			  Gap between these two alignments (local misassembly). Inconsistency = 557
+			Real Alignment 5: 4161292 4182030 | 28811 49536 | 20739 20726 | 96.06 | Klebsiella_variicola_NZ_CP047360.1 k141_95
+			  Extensive misassembly (relocation, inconsistency = -919083) between these two alignments
+			Real Alignment 6: 3266879 3277972 | 53468 64553 | 11094 11086 | 95.15 | Klebsiella_variicola_NZ_CP047360.1 k141_95
+			  Gap between these two alignments (local misassembly). Inconsistency = 325
+			Real Alignment 7: 3288406 3288640 | 74662 74896 | 235 235 | 96.17 | Klebsiella_variicola_NZ_CP047360.1 k141_95
+			  Extensive misassembly (relocation, inconsistency = 3982) between these two alignments
+			Real Alignment 8: 3292706 3297643 | 74980 79918 | 4938 4939 | 95.67 | Klebsiella_variicola_NZ_CP047360.1 k141_95
+			  Extensive misassembly (relocation, inconsistency = 100509) between these two alignments
+			Real Alignment 9: 3402166 3413043 | 83932 94809 | 10878 10878 | 96.05 | Klebsiella_variicola_NZ_CP047360.1 k141_95
+			  Gap between these two alignments (local misassembly). Inconsistency = 370
+			Real Alignment 10: 3413531 3422336 | 94927 103734 | 8806 8808 | 95.49 | Klebsiella_variicola_NZ_CP047360.1 k141_95
+			  Extensive misassembly (relocation, inconsistency = 9786) between these two alignments
+			Real Alignment 11: 3432249 3432313 | 103861 103925 | 65 65 | 98.46 | Klebsiella_variicola_NZ_CP047360.1 k141_95
+			  Stretch of 9 mismatches between these two alignments (number of Ns: 0)
+			Real Alignment 12: 3432323 3441384 | 103935 112996 | 9062 9062 | 95.86 | Klebsiella_variicola_NZ_CP047360.1 k141_95
+			  Gap between these two alignments (local misassembly). Inconsistency = -1
+			Real Alignment 13: 3446981 3448328 | 118594 119941 | 1348 1348 | 95.4 | Klebsiella_variicola_NZ_CP047360.1 k141_95
+			  Gap between these two alignments (local misassembly). Inconsistency = -1
+			Real Alignment 14: 3452561 3463201 | 124175 134815 | 10641 10641 | 96.05 | Klebsiella_variicola_NZ_CP047360.1 k141_95
+			  Indel (<= 5bp) between these two alignments: deletion of length 1; 0 mismatches (number of Ns: 0)
+			Real Alignment 15: 3463203 3469484 | 134816 141097 | 6282 6282 | 96.24 | Klebsiella_variicola_NZ_CP047360.1 k141_95
+			  Gap between these two alignments (local misassembly). Inconsistency = -4
+			Real Alignment 16: 3480325 3480698 | 151942 152315 | 374 374 | 96.26 | Klebsiella_variicola_NZ_CP047360.1 k141_95
+			  Gap between these two alignments (local misassembly). Inconsistency = 2
+			Real Alignment 17: 3480819 3481212 | 152434 152827 | 394 394 | 98.22 | Klebsiella_variicola_NZ_CP047360.1 k141_95
+			  Gap between these two alignments (local misassembly). Inconsistency = 13
+			Real Alignment 18: 3486211 3491824 | 157813 163426 | 5614 5614 | 95.55 | Klebsiella_variicola_NZ_CP047360.1 k141_95
+			  Gap between these two alignments (local misassembly). Inconsistency = 3
+			Excluding internal overlap of size 21 between Alignment 19 and 20: 3497849 3498083 | 168723 168957 | 235 235 --> 3497870 3498083 | 168744 168957 | 214 214
+			Real Alignment 19: 3493849 3497144 | 165448 168743 | 3296 3296 | 95.48 | Klebsiella_variicola_NZ_CP047360.1 k141_95
+			  Gap between these two alignments (local misassembly). Inconsistency = 725
+			Real Alignment 20: 3497870 3498083 | 168744 168957 | 214 214 | 96.17 | Klebsiella_variicola_NZ_CP047360.1 k141_95
+			  Extensive misassembly (relocation, inconsistency = 1972) between these two alignments
+			Real Alignment 21: 3500122 3503060 | 169024 171963 | 2939 2940 | 96.5 | Klebsiella_variicola_NZ_CP047360.1 k141_95
+			  Extensive misassembly (relocation, inconsistency = 33059) between these two alignments
+			Real Alignment 22: 3537154 3542964 | 172998 178808 | 5811 5811 | 96.13 | Klebsiella_variicola_NZ_CP047360.1 k141_95
+		Unaligned bases: 49084
+
+CONTIG: k141_123 (123245bp)
+Best alignment score: 33173.2 (LEN: 34480, IDY: 96.21), Total number of alignments: 5
+			Looking for the best set of alignments (out of 5 total alignments)
+			The best set is below. Score: 111821.1, number of alignments: 5, unaligned bases: 6418
+		This contig is misassembled.
+		This contig is partially unaligned. (Aligned 116827 out of 123245 non-N bases (94.79%))
+			Real Alignment 1: 156451 190942 | 34620 141 | 34492 34480 | 96.21 | Klebsiella_variicola_NZ_CP047360.1 k141_123
+			  Gap between these two alignments (local misassembly). Inconsistency = 159
+			Real Alignment 2: 129840 156253 | 61115 34659 | 26414 26457 | 95.76 | Klebsiella_variicola_NZ_CP047360.1 k141_123
+			  Extensive misassembly (relocation, inconsistency = 5239) between these two alignments
+			Real Alignment 3: 119922 124479 | 65794 61237 | 4558 4558 | 96.23 | Klebsiella_variicola_NZ_CP047360.1 k141_123
+			  Gap between these two alignments (local misassembly). Inconsistency = 141
+			Excluding internal overlap of size 5 between Alignment 4 and 5: 61489 81272 | 123245 103512 | 19784 19734 --> 61489 81267 | 123245 103517 | 19779 19729
+			Real Alignment 4: 81987 113661 | 103516 71914 | 31675 31603 | 95.75 | Klebsiella_variicola_NZ_CP047360.1 k141_123
+			  Gap between these two alignments (local misassembly). Inconsistency = 719
+			Real Alignment 5: 61489 81267 | 123245 103517 | 19779 19729 | 96.26 | Klebsiella_variicola_NZ_CP047360.1 k141_123
+		Unaligned bases: 6418
+
+CONTIG: k141_135 (1684bp)
+Best alignment score: 1661.9 (LEN: 1684, IDY: 98.69), Total number of alignments: 4
+		Skipping these alignments as insignificant (option --ambiguity-score is set to "0.99"):
+			Skipping alignment 4477534 4478914 | 304 1684 | 1381 1381 | 99.13 | Klebsiella_variicola_NZ_CP047360.1 k141_135
+			Skipping alignment 4477218 4477442 | 58 282 | 225 225 | 96.89 | Klebsiella_variicola_NZ_CP047360.1 k141_135
+		This contig has 2 significant alignments. [An ambiguously mapped contig]
+		Using only first of these alignment (option --ambiguity-usage is set to "one"):
+			Alignment: 5347868 5349545 | 1 1684 | 1678 1684 | 98.69 | Klebsiella_variicola_NZ_CP047360.1 k141_135
+			Skipping alignment 5255996 5257685 | 1 1684 | 1690 1684 | 97.99 | Klebsiella_variicola_NZ_CP047360.1 k141_135
+
+CONTIG: k141_140 (5388bp)
+Best alignment score: 209.0 (LEN: 210, IDY: 99.52), Total number of alignments: 1
+			Looking for the best set of alignments (out of 1 total alignments)
+			The best set is below. Score: 209.0, number of alignments: 1, unaligned bases: 5178
+		This contig is partially unaligned. (Aligned 210 out of 5388 non-N bases (3.90%))
+		Alignment: 4890781 4890990 | 273 64 | 210 210 | 99.52 | Klebsiella_variicola_NZ_CP047360.1 k141_140
+		Unaligned bases: 1 to 63 (63)
+		Unaligned bases: 274 to 5388 (5115)
+
+CONTIG: k141_156 (4184bp)
+Best alignment score: 182.0 (LEN: 191, IDY: 95.31), Total number of alignments: 2
+			Looking for the best set of alignments (out of 2 total alignments)
+			Skipping redundant alignments after choosing the best set of alignments
+		Skipping redundant alignment 3367396 3367576 | 143 323 | 181 181 | 96.13 | Klebsiella_variicola_NZ_CP047360.1 k141_156
+			The best set is below. Score: 182.0, number of alignments: 1, unaligned bases: 3993
+		This contig is partially unaligned. (Aligned 191 out of 4184 non-N bases (4.57%))
+		Alignment: 2783270 2783460 | 141 331 | 191 191 | 95.31 | Klebsiella_variicola_NZ_CP047360.1 k141_156
+		Unaligned bases: 1 to 140 (140)
+		Unaligned bases: 332 to 4184 (3853)
+
+CONTIG: k141_158 (15838bp)
+Best alignment score: 12259.5 (LEN: 12561, IDY: 97.60), Total number of alignments: 2
+			Looking for the best set of alignments (out of 2 total alignments)
+			Skipping redundant alignments after choosing the best set of alignments
+		Skipping redundant alignment 3056423 3056578 | 15679 15834 | 156 156 | 98.08 | Klebsiella_variicola_NZ_CP047360.1 k141_158
+		This contig has several significant sets of alignments. [An ambiguously mapped contig]
+		Using only the very best set (option --ambiguity-usage is set to "one").
+			The best set is below. Score: 12259.5, number of alignments: 1, unaligned bases: 3277
+		This contig is partially unaligned. (Aligned 12561 out of 15838 non-N bases (79.31%))
+		Alignment: 3056407 3068964 | 15515 2955 | 12558 12561 | 97.6 | Klebsiella_variicola_NZ_CP047360.1 k141_158
+		Unaligned bases: 1 to 2954 (2954)
+		Unaligned bases: 15516 to 15838 (323)
+
+CONTIG: k141_167 (17533bp)
+Best alignment score: 16978.9 (LEN: 17513, IDY: 96.95), Total number of alignments: 1
+		One align captures most of this contig: 4891283 4908868 | 17521 9 | 17586 17513 | 96.95 | Klebsiella_variicola_NZ_CP047360.1 k141_167
+
+CONTIG: k141_168 (20955bp)
+Best alignment score: 1561.1 (LEN: 1609, IDY: 97.02), Total number of alignments: 8
+			Looking for the best set of alignments (out of 8 total alignments)
+			Skipping redundant alignments after choosing the best set of alignments
+		Skipping redundant alignment 3339950 3340189 | 3839 3600 | 240 240 | 96.25 | Klebsiella_variicola_NZ_CP047360.1 k141_168
+		This contig has several significant sets of alignments. [An ambiguously mapped contig]
+		Using only the very best set (option --ambiguity-usage is set to "one").
+			The best set is below. Score: 3685.1, number of alignments: 7, unaligned bases: 17047
+		This contig is misassembled.
+		This contig is partially unaligned. (Aligned 3908 out of 20955 non-N bases (18.65%))
+			Warning! This contig is more unaligned than misassembled. Contig length is 20955 (number of Ns: 0) and total length of all aligns is 3908
+		Alignment: 2808535 2808830 | 4275 3980 | 296 296 | 95.27 | Klebsiella_variicola_NZ_CP047360.1 k141_168
+		Alignment: 2807871 2808272 | 5243 4842 | 402 402 | 97.26 | Klebsiella_variicola_NZ_CP047360.1 k141_168
+		Alignment: 2803571 2803674 | 9526 9423 | 104 104 | 95.19 | Klebsiella_variicola_NZ_CP047360.1 k141_168
+		Alignment: 2797974 2798893 | 15623 14704 | 920 920 | 96.85 | Klebsiella_variicola_NZ_CP047360.1 k141_168
+		Alignment: 2797128 2797497 | 16725 16356 | 370 370 | 96.22 | Klebsiella_variicola_NZ_CP047360.1 k141_168
+		Alignment: 2795492 2795698 | 18931 18725 | 207 207 | 97.1 | Klebsiella_variicola_NZ_CP047360.1 k141_168
+		Alignment: 2793621 2795229 | 20820 19212 | 1609 1609 | 97.02 | Klebsiella_variicola_NZ_CP047360.1 k141_168
+		Unaligned bases: 17047
+
+CONTIG: k141_173 (319952bp)
+Best alignment score: 44519.8 (LEN: 46642, IDY: 95.45), Total number of alignments: 31
+			Looking for the best set of alignments (out of 31 total alignments)
+			Skipping redundant alignments after choosing the best set of alignments
+		Skipping redundant alignment 705491 705702 | 37433 37223 | 212 211 | 97.17 | Klebsiella_variicola_NZ_CP047360.1 k141_173
+		Skipping redundant alignment 5066712 5066792 | 40223 40303 | 81 81 | 98.77 | Klebsiella_variicola_NZ_CP047360.1 k141_173
+		Skipping redundant alignment 5066549 5066634 | 40223 40308 | 86 86 | 97.67 | Klebsiella_variicola_NZ_CP047360.1 k141_173
+		Skipping redundant alignment 5066386 5066471 | 40223 40308 | 86 86 | 97.67 | Klebsiella_variicola_NZ_CP047360.1 k141_173
+		Skipping redundant alignment 4473956 4474087 | 319811 319942 | 132 132 | 100.0 | Klebsiella_variicola_NZ_CP047360.1 k141_173
+		Skipping redundant alignment 5207979 5208118 | 319813 319952 | 140 140 | 98.57 | Klebsiella_variicola_NZ_CP047360.1 k141_173
+		Skipping redundant alignment 5344772 5344913 | 319811 319952 | 142 142 | 98.59 | Klebsiella_variicola_NZ_CP047360.1 k141_173
+		This contig has several significant sets of alignments. [An ambiguously mapped contig]
+		Using only the very best set (option --ambiguity-usage is set to "one").
+			The best set is below. Score: 134268.1, number of alignments: 24, unaligned bases: 178437
+		This contig is misassembled.
+		This contig is partially unaligned. (Aligned 141515 out of 319952 non-N bases (44.23%))
+			Warning! This contig is more unaligned than misassembled. Contig length is 319952 (number of Ns: 0) and total length of all aligns is 141515
+		Alignment: 692978 705234 | 52606 40372 | 12257 12235 | 95.01 | Klebsiella_variicola_NZ_CP047360.1 k141_173
+		Alignment: 689428 692831 | 59282 55879 | 3404 3404 | 95.59 | Klebsiella_variicola_NZ_CP047360.1 k141_173
+		Alignment: 686237 687302 | 62474 61409 | 1066 1066 | 95.12 | Klebsiella_variicola_NZ_CP047360.1 k141_173
+		Alignment: 639348 686004 | 109882 63241 | 46657 46642 | 95.45 | Klebsiella_variicola_NZ_CP047360.1 k141_173
+		Alignment: 605376 629582 | 149586 125488 | 24207 24099 | 96.1 | Klebsiella_variicola_NZ_CP047360.1 k141_173
+		Alignment: 598368 601119 | 153809 151058 | 2752 2752 | 96.11 | Klebsiella_variicola_NZ_CP047360.1 k141_173
+		Alignment: 593256 598338 | 158956 153874 | 5083 5083 | 95.34 | Klebsiella_variicola_NZ_CP047360.1 k141_173
+		Alignment: 593137 593252 | 159075 158960 | 116 116 | 98.28 | Klebsiella_variicola_NZ_CP047360.1 k141_173
+		Alignment: 592894 593128 | 159318 159084 | 235 235 | 95.74 | Klebsiella_variicola_NZ_CP047360.1 k141_173
+		Alignment: 591489 592890 | 160721 159320 | 1402 1402 | 95.86 | Klebsiella_variicola_NZ_CP047360.1 k141_173
+		Alignment: 583879 585287 | 168324 166916 | 1409 1409 | 95.53 | Klebsiella_variicola_NZ_CP047360.1 k141_173
+		Alignment: 582072 582582 | 170125 169615 | 511 511 | 95.11 | Klebsiella_variicola_NZ_CP047360.1 k141_173
+		Alignment: 548169 561559 | 217217 203827 | 13391 13391 | 96.75 | Klebsiella_variicola_NZ_CP047360.1 k141_173
+		Alignment: 545242 546442 | 220134 218934 | 1201 1201 | 95.92 | Klebsiella_variicola_NZ_CP047360.1 k141_173
+		Alignment: 535355 542978 | 230016 222393 | 7624 7624 | 96.21 | Klebsiella_variicola_NZ_CP047360.1 k141_173
+		Alignment: 533294 535354 | 232078 230018 | 2061 2061 | 96.17 | Klebsiella_variicola_NZ_CP047360.1 k141_173
+		Alignment: 532982 533293 | 232391 232080 | 312 312 | 95.83 | Klebsiella_variicola_NZ_CP047360.1 k141_173
+		Alignment: 527678 532981 | 237696 232393 | 5304 5304 | 95.57 | Klebsiella_variicola_NZ_CP047360.1 k141_173
+		Alignment: 511047 511455 | 254333 253925 | 409 409 | 96.09 | Klebsiella_variicola_NZ_CP047360.1 k141_173
+		Alignment: 504561 510766 | 260819 254614 | 6206 6206 | 95.71 | Klebsiella_variicola_NZ_CP047360.1 k141_173
+		Alignment: 501162 503696 | 264222 261688 | 2535 2535 | 97.32 | Klebsiella_variicola_NZ_CP047360.1 k141_173
+		Alignment: 499428 500763 | 265952 264617 | 1336 1336 | 95.66 | Klebsiella_variicola_NZ_CP047360.1 k141_173
+		Alignment: 486187 488013 | 270602 268776 | 1827 1827 | 95.84 | Klebsiella_variicola_NZ_CP047360.1 k141_173
+		Alignment: 485136 485490 | 271655 271301 | 355 355 | 96.62 | Klebsiella_variicola_NZ_CP047360.1 k141_173
+		Unaligned bases: 178437
+
+CONTIG: k141_178 (2078bp)
+Best alignment score: 570.0 (LEN: 594, IDY: 95.96), Total number of alignments: 7
+			Looking for the best set of alignments (out of 7 total alignments)
+			Skipping redundant alignments after choosing the best set of alignments
+		Skipping redundant alignment 3055013 3055115 | 1120 1018 | 103 103 | 95.15 | Klebsiella_variicola_NZ_CP047360.1 k141_178
+		Skipping redundant alignment 3054760 3054946 | 1972 1786 | 187 187 | 96.26 | Klebsiella_variicola_NZ_CP047360.1 k141_178
+			The best set is below. Score: 1392.3, number of alignments: 5, unaligned bases: 574
+		This contig is misassembled.
+			Excluding internal overlap of size 91 between Alignment 1 and 2: 3055623 3055901 | 510 232 | 279 279 --> 3055714 3055901 | 419 232 | 188 188
+			Real Alignment 1: 3055714 3055901 | 419 232 | 188 188 | 96.42 | Klebsiella_variicola_NZ_CP047360.1 k141_178
+			  Overlap between these two alignments (local misassembly). Inconsistency = -598
+			Real Alignment 2: 3055718 3056311 | 1013 420 | 594 594 | 95.96 | Klebsiella_variicola_NZ_CP047360.1 k141_178
+			  Stretch of 4 mismatches between these two alignments (number of Ns: 0)
+			Real Alignment 3: 3055623 3055713 | 1108 1018 | 91 91 | 98.9 | Klebsiella_variicola_NZ_CP047360.1 k141_178
+			  Gap between these two alignments (local misassembly). Inconsistency = -599
+			Real Alignment 4: 3055561 3055901 | 1769 1429 | 341 341 | 96.77 | Klebsiella_variicola_NZ_CP047360.1 k141_178
+			  Stretch of 19 mismatches between these two alignments (number of Ns: 0)
+			Real Alignment 5: 3055252 3055541 | 2078 1789 | 290 290 | 96.9 | Klebsiella_variicola_NZ_CP047360.1 k141_178
+
+CONTIG: k141_189 (151843bp)
+Best alignment score: 95947.7 (LEN: 99800, IDY: 96.14), Total number of alignments: 9
+			Looking for the best set of alignments (out of 9 total alignments)
+		This contig has several significant sets of alignments. [An ambiguously mapped contig]
+		Using only the very best set (option --ambiguity-usage is set to "one").
+			The best set is below. Score: 122192.5, number of alignments: 9, unaligned bases: 24404
+		This contig is misassembled.
+		This contig is partially unaligned. (Aligned 127439 out of 151843 non-N bases (83.93%))
+			Real Alignment 1: 784928 786655 | 1585 3312 | 1728 1728 | 95.95 | Klebsiella_variicola_NZ_CP047360.1 k141_189
+			  Gap between these two alignments (local misassembly). Inconsistency = 4
+			Excluding internal overlap of size 11 between Alignment 2 and 3: 789418 790992 | 5871 7445 | 1575 1575 --> 789429 790992 | 5882 7445 | 1564 1564
+			Real Alignment 2: 786942 789227 | 3595 5881 | 2286 2287 | 95.8 | Klebsiella_variicola_NZ_CP047360.1 k141_189
+			  Gap between these two alignments (local misassembly). Inconsistency = 201
+			Real Alignment 3: 789429 790992 | 5882 7445 | 1564 1564 | 95.68 | Klebsiella_variicola_NZ_CP047360.1 k141_189
+			  Gap between these two alignments (local misassembly). Inconsistency = 0
+			Real Alignment 4: 791316 791902 | 7769 8355 | 587 587 | 95.57 | Klebsiella_variicola_NZ_CP047360.1 k141_189
+			  Stretch of 4 mismatches between these two alignments (number of Ns: 0)
+			Real Alignment 5: 791907 794316 | 8360 10769 | 2410 2410 | 95.1 | Klebsiella_variicola_NZ_CP047360.1 k141_189
+			  Gap between these two alignments (local misassembly). Inconsistency = 1
+			Real Alignment 6: 798213 800216 | 14665 16668 | 2004 2004 | 95.06 | Klebsiella_variicola_NZ_CP047360.1 k141_189
+			  Gap between these two alignments (local misassembly). Inconsistency = 47
+			Real Alignment 7: 805520 805591 | 21925 21996 | 72 72 | 98.61 | Klebsiella_variicola_NZ_CP047360.1 k141_189
+			  Extensive misassembly (relocation, inconsistency = 3732) between these two alignments
+			Excluding internal overlap of size 2490 between Alignment 8 and 9: 919812 939272 | 132367 151843 | 19461 19477 --> 922194 939272 | 134857 151843 | 17079 16987
+			Real Alignment 8: 822384 922193 | 35057 134856 | 99810 99800 | 96.14 | Klebsiella_variicola_NZ_CP047360.1 k141_189
+			  Stretch of 0 mismatches between these two alignments (number of Ns: 0)
+			Real Alignment 9: 922194 939272 | 134857 151843 | 17079 16987 | 96.25 | Klebsiella_variicola_NZ_CP047360.1 k141_189
+		Unaligned bases: 24404
+
+CONTIG: k141_202 (262143bp)
+Best alignment score: 21216.6 (LEN: 21875, IDY: 96.99), Total number of alignments: 24
+			Looking for the best set of alignments (out of 24 total alignments)
+		This contig has several significant sets of alignments. [An ambiguously mapped contig]
+		Using only the very best set (option --ambiguity-usage is set to "one").
+			The best set is below. Score: 104500.2, number of alignments: 24, unaligned bases: 150895
+		This contig is misassembled.
+		This contig is partially unaligned. (Aligned 111248 out of 262143 non-N bases (42.44%))
+			Warning! This contig is more unaligned than misassembled. Contig length is 262143 (number of Ns: 0) and total length of all aligns is 111248
+		Alignment: 2467856 2468716 | 7157 6297 | 861 861 | 97.1 | Klebsiella_variicola_NZ_CP047360.1 k141_202
+		Alignment: 2464875 2467846 | 10138 7167 | 2972 2972 | 96.06 | Klebsiella_variicola_NZ_CP047360.1 k141_202
+		Alignment: 2454295 2462806 | 20729 12218 | 8512 8512 | 95.37 | Klebsiella_variicola_NZ_CP047360.1 k141_202
+		Alignment: 2424894 2436755 | 58558 46692 | 11862 11867 | 95.71 | Klebsiella_variicola_NZ_CP047360.1 k141_202
+		Alignment: 2412621 2420793 | 66739 58567 | 8173 8173 | 95.67 | Klebsiella_variicola_NZ_CP047360.1 k141_202
+		Alignment: 2395316 2395502 | 84416 84230 | 187 187 | 97.33 | Klebsiella_variicola_NZ_CP047360.1 k141_202
+		Alignment: 2395154 2395301 | 84578 84431 | 148 148 | 96.62 | Klebsiella_variicola_NZ_CP047360.1 k141_202
+		Alignment: 2360917 2363375 | 118831 116373 | 2459 2459 | 96.18 | Klebsiella_variicola_NZ_CP047360.1 k141_202
+		Alignment: 2324382 2329980 | 155052 149454 | 5599 5599 | 95.41 | Klebsiella_variicola_NZ_CP047360.1 k141_202
+		Alignment: 2322867 2323598 | 156552 155821 | 732 732 | 96.31 | Klebsiella_variicola_NZ_CP047360.1 k141_202
+		Alignment: 2313686 2314061 | 165731 165356 | 376 376 | 95.48 | Klebsiella_variicola_NZ_CP047360.1 k141_202
+		Alignment: 2312218 2313571 | 167085 165732 | 1354 1354 | 96.45 | Klebsiella_variicola_NZ_CP047360.1 k141_202
+		Alignment: 2311407 2311696 | 167420 167130 | 290 291 | 96.22 | Klebsiella_variicola_NZ_CP047360.1 k141_202
+		Alignment: 2294139 2296056 | 178757 176840 | 1918 1918 | 95.78 | Klebsiella_variicola_NZ_CP047360.1 k141_202
+		Alignment: 2290102 2294136 | 182792 178758 | 4035 4035 | 95.86 | Klebsiella_variicola_NZ_CP047360.1 k141_202
+		Alignment: 2288511 2288597 | 184367 184281 | 87 87 | 95.4 | Klebsiella_variicola_NZ_CP047360.1 k141_202
+		Alignment: 2285946 2287515 | 186195 184626 | 1570 1570 | 95.48 | Klebsiella_variicola_NZ_CP047360.1 k141_202
+		Alignment: 2284891 2285941 | 187246 186196 | 1051 1051 | 95.72 | Klebsiella_variicola_NZ_CP047360.1 k141_202
+		Alignment: 2266360 2278869 | 199785 187267 | 12510 12519 | 96.25 | Klebsiella_variicola_NZ_CP047360.1 k141_202
+		Alignment: 2263986 2264408 | 200317 199896 | 423 422 | 95.04 | Klebsiella_variicola_NZ_CP047360.1 k141_202
+		Alignment: 2246062 2258618 | 213188 200639 | 12557 12550 | 95.26 | Klebsiella_variicola_NZ_CP047360.1 k141_202
+		Alignment: 2242311 2244182 | 224518 222648 | 1872 1871 | 98.56 | Klebsiella_variicola_NZ_CP047360.1 k141_202
+		Alignment: 2217263 2239138 | 248505 226631 | 21876 21875 | 96.99 | Klebsiella_variicola_NZ_CP047360.1 k141_202
+		Alignment: 2181803 2191633 | 262080 252262 | 9831 9819 | 96.17 | Klebsiella_variicola_NZ_CP047360.1 k141_202
+		Unaligned bases: 150895
+
+CONTIG: k141_211 (21539bp)
+Best alignment score: 10019.9 (LEN: 10480, IDY: 95.61), Total number of alignments: 5
+			Looking for the best set of alignments (out of 5 total alignments)
+			Skipping redundant alignments after choosing the best set of alignments
+		Skipping redundant alignment 4864156 4864296 | 21539 21399 | 141 141 | 99.29 | Klebsiella_variicola_NZ_CP047360.1 k141_211
+		This contig has several significant sets of alignments. [An ambiguously mapped contig]
+		Using only the very best set (option --ambiguity-usage is set to "one").
+			The best set is below. Score: 14818.1, number of alignments: 4, unaligned bases: 6012
+		This contig is misassembled.
+		This contig is partially unaligned. (Aligned 15527 out of 21539 non-N bases (72.09%))
+			Real Alignment 1: 195726 206205 | 4929 15408 | 10480 10480 | 95.61 | Klebsiella_variicola_NZ_CP047360.1 k141_211
+			  Gap between these two alignments (local misassembly). Inconsistency = -1
+			Real Alignment 2: 207139 210326 | 16343 19530 | 3188 3188 | 95.08 | Klebsiella_variicola_NZ_CP047360.1 k141_211
+			  Indel (<= 5bp) between these two alignments: deletion of length 3; 1 mismatches (number of Ns: 0)
+			Real Alignment 3: 210334 210466 | 19535 19667 | 133 133 | 95.49 | Klebsiella_variicola_NZ_CP047360.1 k141_211
+			  Indel (<= 5bp) between these two alignments: deletion of length 2; 0 mismatches (number of Ns: 0)
+			Real Alignment 4: 210469 212194 | 19668 21393 | 1726 1726 | 95.02 | Klebsiella_variicola_NZ_CP047360.1 k141_211
+		Unaligned bases: 6012
+
+CONTIG: k141_213 (31950bp)
+Best alignment score: 6803.9 (LEN: 7138, IDY: 95.32), Total number of alignments: 6
+			Looking for the best set of alignments (out of 6 total alignments)
+			Skipping redundant alignments after choosing the best set of alignments
+		Skipping redundant alignment 4864139 4864295 | 1 157 | 157 157 | 99.36 | Klebsiella_variicola_NZ_CP047360.1 k141_213
+		This contig has several significant sets of alignments. [An ambiguously mapped contig]
+		Using only the very best set (option --ambiguity-usage is set to "one").
+			The best set is below. Score: 13420.0, number of alignments: 5, unaligned bases: 17686
+		This contig is misassembled.
+		This contig is partially unaligned. (Aligned 14264 out of 31950 non-N bases (44.64%))
+			Warning! This contig is more unaligned than misassembled. Contig length is 31950 (number of Ns: 0) and total length of all aligns is 14264
+		Alignment: 3207717 3212171 | 139 4593 | 4455 4455 | 95.98 | Klebsiella_variicola_NZ_CP047360.1 k141_213
+		Alignment: 3212216 3212328 | 13578 13690 | 113 113 | 98.23 | Klebsiella_variicola_NZ_CP047360.1 k141_213
+		Alignment: 3213621 3214101 | 14995 15475 | 481 481 | 95.43 | Klebsiella_variicola_NZ_CP047360.1 k141_213
+		Alignment: 3215151 3217227 | 16524 18600 | 2077 2077 | 97.26 | Klebsiella_variicola_NZ_CP047360.1 k141_213
+		Alignment: 3217277 3224414 | 18651 25788 | 7138 7138 | 95.32 | Klebsiella_variicola_NZ_CP047360.1 k141_213
+		Unaligned bases: 17686
+
+CONTIG: k141_221 (588bp)
+Best alignment score: 271.0 (LEN: 278, IDY: 97.48), Total number of alignments: 1
+			Looking for the best set of alignments (out of 1 total alignments)
+			The best set is below. Score: 271.0, number of alignments: 1, unaligned bases: 310
+		Alignment: 3055624 3055901 | 588 311 | 278 278 | 97.48 | Klebsiella_variicola_NZ_CP047360.1 k141_221
+
+CONTIG: k141_239 (520bp)
+Best alignment score: 507.0 (LEN: 520, IDY: 97.50), Total number of alignments: 1
+		One align captures most of this contig: 1408468 1408987 | 1 520 | 520 520 | 97.5 | Klebsiella_variicola_NZ_CP047360.1 k141_239
+
+CONTIG: k141_261 (165976bp)
+Best alignment score: 35568.7 (LEN: 37319, IDY: 95.31), Total number of alignments: 14
+			Looking for the best set of alignments (out of 14 total alignments)
+		This contig has several significant sets of alignments. [An ambiguously mapped contig]
+		Using only the very best set (option --ambiguity-usage is set to "one").
+			The best set is below. Score: 103677.0, number of alignments: 14, unaligned bases: 57021
+		This contig is misassembled.
+		This contig is partially unaligned. (Aligned 108955 out of 165976 non-N bases (65.65%))
+			Real Alignment 1: 2181803 2181880 | 78 1 | 78 78 | 97.44 | Klebsiella_variicola_NZ_CP047360.1 k141_261
+			  Gap between these two alignments (local misassembly). Inconsistency = -316
+			Real Alignment 2: 2144861 2181741 | 37319 456 | 36881 36864 | 95.79 | Klebsiella_variicola_NZ_CP047360.1 k141_261
+			  Gap between these two alignments (local misassembly). Inconsistency = -19
+			Real Alignment 3: 2144371 2144648 | 37828 37551 | 278 278 | 95.68 | Klebsiella_variicola_NZ_CP047360.1 k141_261
+			  Extensive misassembly (relocation, inconsistency = -1127) between these two alignments
+			Real Alignment 4: 2137843 2142773 | 45483 40553 | 4931 4931 | 96.35 | Klebsiella_variicola_NZ_CP047360.1 k141_261
+			  Indel (> 5bp) between these two alignments: deletion of length 8; 11 mismatches (number of Ns: 0)
+			Real Alignment 5: 2131794 2137815 | 51524 45503 | 6022 6022 | 96.0 | Klebsiella_variicola_NZ_CP047360.1 k141_261
+			  Gap between these two alignments (local misassembly). Inconsistency = 20
+			Real Alignment 6: 2112181 2123236 | 71117 60062 | 11056 11056 | 95.86 | Klebsiella_variicola_NZ_CP047360.1 k141_261
+			  Gap between these two alignments (local misassembly). Inconsistency = -2
+			Real Alignment 7: 2103165 2108266 | 80135 75034 | 5102 5102 | 95.84 | Klebsiella_variicola_NZ_CP047360.1 k141_261
+			  Gap between these two alignments (local misassembly). Inconsistency = 4
+			Real Alignment 8: 2100385 2102679 | 82911 80617 | 2295 2295 | 96.08 | Klebsiella_variicola_NZ_CP047360.1 k141_261
+			  Extensive misassembly (relocation, inconsistency = 2718) between these two alignments
+			Real Alignment 9: 2081643 2081721 | 98935 98857 | 79 79 | 97.47 | Klebsiella_variicola_NZ_CP047360.1 k141_261
+			  Gap between these two alignments (local misassembly). Inconsistency = -7
+			Real Alignment 10: 2075533 2076118 | 105052 104467 | 586 586 | 96.08 | Klebsiella_variicola_NZ_CP047360.1 k141_261
+			  Gap between these two alignments (local misassembly). Inconsistency = -1
+			Real Alignment 11: 2070216 2070445 | 110370 110141 | 230 230 | 97.39 | Klebsiella_variicola_NZ_CP047360.1 k141_261
+			  Gap between these two alignments (local misassembly). Inconsistency = -175
+			Real Alignment 12: 2032936 2070269 | 147810 110492 | 37334 37319 | 95.31 | Klebsiella_variicola_NZ_CP047360.1 k141_261
+			  Gap between these two alignments (local misassembly). Inconsistency = 126
+			Real Alignment 13: 2029916 2032790 | 150704 147830 | 2875 2875 | 95.93 | Klebsiella_variicola_NZ_CP047360.1 k141_261
+			  Gap between these two alignments (local misassembly). Inconsistency = 3
+			Real Alignment 14: 2025859 2027098 | 154758 153519 | 1240 1240 | 95.08 | Klebsiella_variicola_NZ_CP047360.1 k141_261
+		Unaligned bases: 57021
+
+CONTIG: k141_326 (134791bp)
+Best alignment score: 20152.0 (LEN: 20724, IDY: 97.24), Total number of alignments: 24
+			Looking for the best set of alignments (out of 24 total alignments)
+			Skipping redundant alignments after choosing the best set of alignments
+		Skipping redundant alignment 4862816 4862970 | 155 1 | 155 155 | 99.35 | Klebsiella_variicola_NZ_CP047360.1 k141_326
+		This contig has several significant sets of alignments. [An ambiguously mapped contig]
+		Using only the very best set (option --ambiguity-usage is set to "one").
+			The best set is below. Score: 95246.0, number of alignments: 23, unaligned bases: 35584
+		This contig is misassembled.
+		This contig is partially unaligned. (Aligned 99207 out of 134791 non-N bases (73.60%))
+			Real Alignment 1: 4089937 4091860 | 2162 239 | 1924 1924 | 96.67 | Klebsiella_variicola_NZ_CP047360.1 k141_326
+			  Extensive misassembly (relocation, inconsistency = 7250) between these two alignments
+			Real Alignment 2: 4073216 4082573 | 11634 2276 | 9358 9359 | 97.5 | Klebsiella_variicola_NZ_CP047360.1 k141_326
+			  Extensive misassembly (relocation, inconsistency = 1699) between these two alignments
+			Real Alignment 3: 4065455 4071445 | 17697 11706 | 5991 5992 | 96.45 | Klebsiella_variicola_NZ_CP047360.1 k141_326
+			  Extensive misassembly (relocation, inconsistency = 2841) between these two alignments
+			Real Alignment 4: 4041741 4062468 | 38566 17843 | 20728 20724 | 97.24 | Klebsiella_variicola_NZ_CP047360.1 k141_326
+			  Gap between these two alignments (local misassembly). Inconsistency = -9
+			Real Alignment 5: 4028789 4041393 | 51527 38923 | 12605 12605 | 97.03 | Klebsiella_variicola_NZ_CP047360.1 k141_326
+			  Gap between these two alignments (local misassembly). Inconsistency = 318
+			Real Alignment 6: 4027331 4028410 | 52667 51588 | 1080 1080 | 96.39 | Klebsiella_variicola_NZ_CP047360.1 k141_326
+			  Indel (<= 5bp) between these two alignments: insertion of length 1; 0 mismatches (number of Ns: 0)
+			Real Alignment 7: 4023374 4027330 | 56625 52669 | 3957 3957 | 95.17 | Klebsiella_variicola_NZ_CP047360.1 k141_326
+			  Gap between these two alignments (local misassembly). Inconsistency = 56
+			Real Alignment 8: 4019923 4022162 | 60020 57781 | 2240 2240 | 95.0 | Klebsiella_variicola_NZ_CP047360.1 k141_326
+			  Gap between these two alignments (local misassembly). Inconsistency = -12
+			Real Alignment 9: 4013039 4019807 | 66916 60148 | 6769 6769 | 96.74 | Klebsiella_variicola_NZ_CP047360.1 k141_326
+			  Indel (<= 5bp) between these two alignments: deletion of length 2; 18 mismatches (number of Ns: 0)
+			Real Alignment 10: 4011634 4013016 | 68319 66937 | 1383 1383 | 96.53 | Klebsiella_variicola_NZ_CP047360.1 k141_326
+			  Gap between these two alignments (local misassembly). Inconsistency = 84
+			Real Alignment 11: 4003517 4011453 | 76352 68416 | 7937 7937 | 97.38 | Klebsiella_variicola_NZ_CP047360.1 k141_326
+			  Stretch of 4 mismatches between these two alignments (number of Ns: 0)
+			Real Alignment 12: 4000444 4003512 | 79425 76357 | 3069 3069 | 96.9 | Klebsiella_variicola_NZ_CP047360.1 k141_326
+			  Stretch of 34 mismatches between these two alignments (number of Ns: 0)
+			Real Alignment 13: 3996928 4000409 | 82941 79460 | 3482 3482 | 98.02 | Klebsiella_variicola_NZ_CP047360.1 k141_326
+			  Indel (> 5bp) between these two alignments: insertion of length 7; 0 mismatches (number of Ns: 0)
+			Real Alignment 14: 3991179 3996927 | 88697 82949 | 5749 5749 | 96.12 | Klebsiella_variicola_NZ_CP047360.1 k141_326
+			  Gap between these two alignments (local misassembly). Inconsistency = 3
+			Real Alignment 15: 3987370 3991051 | 92503 88822 | 3682 3682 | 96.17 | Klebsiella_variicola_NZ_CP047360.1 k141_326
+			  Gap between these two alignments (local misassembly). Inconsistency = 1
+			Real Alignment 16: 3980605 3981171 | 99267 98701 | 567 567 | 95.94 | Klebsiella_variicola_NZ_CP047360.1 k141_326
+			  Stretch of 3 mismatches between these two alignments (number of Ns: 0)
+			Real Alignment 17: 3979501 3980601 | 100371 99271 | 1101 1101 | 95.37 | Klebsiella_variicola_NZ_CP047360.1 k141_326
+			  Gap between these two alignments (local misassembly). Inconsistency = -2
+			Real Alignment 18: 3972978 3973294 | 106896 106580 | 317 317 | 96.53 | Klebsiella_variicola_NZ_CP047360.1 k141_326
+			  Gap between these two alignments (local misassembly). Inconsistency = 10
+			Real Alignment 19: 3971533 3972780 | 108331 107084 | 1248 1248 | 95.11 | Klebsiella_variicola_NZ_CP047360.1 k141_326
+			  Gap between these two alignments (local misassembly). Inconsistency = 10
+			Real Alignment 20: 3956503 3956583 | 123351 123271 | 81 81 | 95.06 | Klebsiella_variicola_NZ_CP047360.1 k141_326
+			  Gap between these two alignments (local misassembly). Inconsistency = -2
+			Real Alignment 21: 3949108 3952928 | 130748 126928 | 3821 3821 | 95.5 | Klebsiella_variicola_NZ_CP047360.1 k141_326
+			  Gap between these two alignments (local misassembly). Inconsistency = 4
+			Real Alignment 22: 3946405 3947416 | 133447 132436 | 1012 1012 | 97.43 | Klebsiella_variicola_NZ_CP047360.1 k141_326
+			  Indel (<= 5bp) between these two alignments: deletion of length 1; 0 mismatches (number of Ns: 0)
+			Real Alignment 23: 3945296 3946403 | 134555 133448 | 1108 1108 | 96.84 | Klebsiella_variicola_NZ_CP047360.1 k141_326
+		Unaligned bases: 35584
+
+CONTIG: k141_356 (5957bp)
+Best alignment score: 1105.0 (LEN: 1148, IDY: 96.25), Total number of alignments: 1
+			Looking for the best set of alignments (out of 1 total alignments)
+			The best set is below. Score: 1105.0, number of alignments: 1, unaligned bases: 4809
+		This contig is partially unaligned. (Aligned 1148 out of 5957 non-N bases (19.27%))
+		Alignment: 2792478 2793624 | 1285 138 | 1147 1148 | 96.25 | Klebsiella_variicola_NZ_CP047360.1 k141_356
+		Unaligned bases: 1 to 137 (137)
+		Unaligned bases: 1286 to 5957 (4672)
+
+CONTIG: k141_369 (212105bp)
+Best alignment score: 23038.5 (LEN: 24041, IDY: 95.83), Total number of alignments: 33
+			Looking for the best set of alignments (out of 33 total alignments)
+			Skipping redundant alignments after choosing the best set of alignments
+		Skipping redundant alignment 3836028 3836307 | 304 25 | 280 280 | 96.43 | Klebsiella_variicola_NZ_CP047360.1 k141_369
+		Skipping redundant alignment 4071709 4071959 | 305 55 | 251 251 | 98.41 | Klebsiella_variicola_NZ_CP047360.1 k141_369
+		Skipping redundant alignment 3817710 3817961 | 54 305 | 252 252 | 97.22 | Klebsiella_variicola_NZ_CP047360.1 k141_369
+		Skipping redundant alignment 1584503 1584788 | 19 305 | 286 287 | 95.82 | Klebsiella_variicola_NZ_CP047360.1 k141_369
+		Skipping redundant alignment 4072270 4072565 | 350 55 | 296 296 | 96.96 | Klebsiella_variicola_NZ_CP047360.1 k141_369
+		Skipping redundant alignment 4072759 4073054 | 350 55 | 296 296 | 95.95 | Klebsiella_variicola_NZ_CP047360.1 k141_369
+		Skipping redundant alignment 4105934 4106230 | 350 54 | 297 297 | 95.96 | Klebsiella_variicola_NZ_CP047360.1 k141_369
+		This contig has several significant sets of alignments. [An ambiguously mapped contig]
+		Using only the very best set (option --ambiguity-usage is set to "one").
+			The best set is below. Score: 151539.3, number of alignments: 26, unaligned bases: 54260
+		This contig is misassembled.
+		This contig is partially unaligned. (Aligned 157845 out of 212105 non-N bases (74.42%))
+			Real Alignment 1: 4393363 4393665 | 303 1 | 303 303 | 96.7 | Klebsiella_variicola_NZ_CP047360.1 k141_369
+			  Gap between these two alignments (local misassembly). Inconsistency = -435
+			Excluding internal overlap of size 11 between Alignment 2 and 3: 4378767 4393319 | 15336 782 | 14553 14555 --> 4378778 4393319 | 15325 782 | 14542 14544
+			Real Alignment 2: 4378778 4393319 | 15325 782 | 14542 14544 | 95.94 | Klebsiella_variicola_NZ_CP047360.1 k141_369
+			  Gap between these two alignments (local misassembly). Inconsistency = 110
+			Real Alignment 3: 4361348 4378667 | 32642 15326 | 17320 17317 | 97.03 | Klebsiella_variicola_NZ_CP047360.1 k141_369
+			  Gap between these two alignments (local misassembly). Inconsistency = 599
+			Real Alignment 4: 4341983 4360540 | 51418 32851 | 18558 18568 | 95.2 | Klebsiella_variicola_NZ_CP047360.1 k141_369
+			  Gap between these two alignments (local misassembly). Inconsistency = 134
+			Real Alignment 5: 4334873 4335181 | 58394 58086 | 309 309 | 97.41 | Klebsiella_variicola_NZ_CP047360.1 k141_369
+			  Indel (<= 5bp) between these two alignments: insertion of length 1; 0 mismatches (number of Ns: 0)
+			Real Alignment 6: 4332058 4334872 | 61210 58396 | 2815 2815 | 95.56 | Klebsiella_variicola_NZ_CP047360.1 k141_369
+			  Gap between these two alignments (local misassembly). Inconsistency = 0
+			Real Alignment 7: 4328263 4329055 | 65005 64213 | 793 793 | 96.85 | Klebsiella_variicola_NZ_CP047360.1 k141_369
+			  Gap between these two alignments (local misassembly). Inconsistency = -1
+			Real Alignment 8: 4325656 4328099 | 67613 65170 | 2444 2444 | 96.28 | Klebsiella_variicola_NZ_CP047360.1 k141_369
+			  Indel (<= 5bp) between these two alignments: deletion of length 1; 0 mismatches (number of Ns: 0)
+			Real Alignment 9: 4318539 4325654 | 74729 67614 | 7116 7116 | 95.14 | Klebsiella_variicola_NZ_CP047360.1 k141_369
+			  Indel (<= 5bp) between these two alignments: deletion of length 1; 0 mismatches (number of Ns: 0)
+			Real Alignment 10: 4314057 4318537 | 79210 74730 | 4481 4481 | 97.57 | Klebsiella_variicola_NZ_CP047360.1 k141_369
+			  Gap between these two alignments (local misassembly). Inconsistency = -10
+			Real Alignment 11: 4312787 4312872 | 80490 80405 | 86 86 | 95.35 | Klebsiella_variicola_NZ_CP047360.1 k141_369
+			  Stretch of 4 mismatches between these two alignments (number of Ns: 0)
+			Real Alignment 12: 4311688 4312782 | 81589 80495 | 1095 1095 | 96.35 | Klebsiella_variicola_NZ_CP047360.1 k141_369
+			  Gap between these two alignments (local misassembly). Inconsistency = 3
+			Real Alignment 13: 4308398 4311068 | 84876 82206 | 2671 2671 | 96.03 | Klebsiella_variicola_NZ_CP047360.1 k141_369
+			  Indel (<= 5bp) between these two alignments: deletion of length 2; 12 mismatches (number of Ns: 0)
+			Real Alignment 14: 4303013 4308381 | 90259 84891 | 5369 5369 | 95.9 | Klebsiella_variicola_NZ_CP047360.1 k141_369
+			  Indel (<= 5bp) between these two alignments: deletion of length 1; 0 mismatches (number of Ns: 0)
+			Real Alignment 15: 4301129 4303011 | 92142 90260 | 1883 1883 | 96.92 | Klebsiella_variicola_NZ_CP047360.1 k141_369
+			  Gap between these two alignments (local misassembly). Inconsistency = 30
+			Real Alignment 16: 4298359 4298962 | 94882 94279 | 604 604 | 97.68 | Klebsiella_variicola_NZ_CP047360.1 k141_369
+			  Stretch of 36 mismatches between these two alignments (number of Ns: 0)
+			Real Alignment 17: 4296234 4298322 | 97007 94919 | 2089 2089 | 96.07 | Klebsiella_variicola_NZ_CP047360.1 k141_369
+			  Stretch of 6 mismatches between these two alignments (number of Ns: 0)
+			Real Alignment 18: 4295549 4296227 | 97692 97014 | 679 679 | 96.17 | Klebsiella_variicola_NZ_CP047360.1 k141_369
+			  Gap between these two alignments (local misassembly). Inconsistency = -6
+			Real Alignment 19: 4263530 4287081 | 129717 106166 | 23552 23552 | 96.42 | Klebsiella_variicola_NZ_CP047360.1 k141_369
+			  Gap between these two alignments (local misassembly). Inconsistency = 43
+			Real Alignment 20: 4242896 4247671 | 150308 145533 | 4776 4776 | 96.42 | Klebsiella_variicola_NZ_CP047360.1 k141_369
+			  Gap between these two alignments (local misassembly). Inconsistency = 1
+			Real Alignment 21: 4223735 4231883 | 169468 161320 | 8149 8149 | 95.41 | Klebsiella_variicola_NZ_CP047360.1 k141_369
+			  Indel (> 5bp) between these two alignments: deletion of length 12; 0 mismatches (number of Ns: 0)
+			Real Alignment 22: 4222135 4223722 | 171056 169469 | 1588 1588 | 97.29 | Klebsiella_variicola_NZ_CP047360.1 k141_369
+			  Stretch of 6 mismatches between these two alignments (number of Ns: 0)
+			Real Alignment 23: 4218959 4222128 | 174232 171063 | 3170 3170 | 96.72 | Klebsiella_variicola_NZ_CP047360.1 k141_369
+			  Indel (<= 5bp) between these two alignments: insertion of length 4; 0 mismatches (number of Ns: 0)
+			Real Alignment 24: 4217930 4218958 | 175265 174237 | 1029 1029 | 96.7 | Klebsiella_variicola_NZ_CP047360.1 k141_369
+			  Indel (<= 5bp) between these two alignments: deletion of length 1; 0 mismatches (number of Ns: 0)
+			Real Alignment 25: 4209555 4217928 | 183639 175266 | 8374 8374 | 95.55 | Klebsiella_variicola_NZ_CP047360.1 k141_369
+			  Gap between these two alignments (local misassembly). Inconsistency = -26
+			Real Alignment 26: 4185368 4209395 | 207865 183825 | 24028 24041 | 95.83 | Klebsiella_variicola_NZ_CP047360.1 k141_369
+		Unaligned bases: 54260
+
+CONTIG: k141_398 (1747bp)
+Best alignment score: 699.0 (LEN: 723, IDY: 96.68), Total number of alignments: 2
+			Looking for the best set of alignments (out of 2 total alignments)
+			The best set is below. Score: 790.0, number of alignments: 2, unaligned bases: 931
+		This contig is misassembled.
+		This contig is partially unaligned. (Aligned 816 out of 1747 non-N bases (46.71%))
+			Warning! This contig is more unaligned than misassembled. Contig length is 1747 (number of Ns: 0) and total length of all aligns is 816
+		Alignment: 3366093 3366185 | 302 394 | 93 93 | 97.85 | Klebsiella_variicola_NZ_CP047360.1 k141_398
+		Alignment: 3366189 3366911 | 400 1122 | 723 723 | 96.68 | Klebsiella_variicola_NZ_CP047360.1 k141_398
+		Unaligned bases: 931
+
+CONTIG: k141_405 (86266bp)
+Best alignment score: 27089.8 (LEN: 28157, IDY: 96.21), Total number of alignments: 8
+			Looking for the best set of alignments (out of 8 total alignments)
+			The best set is below. Score: 50561.1, number of alignments: 8, unaligned bases: 32946
+		This contig is misassembled.
+		This contig is partially unaligned. (Aligned 53320 out of 86266 non-N bases (61.81%))
+			Real Alignment 1: 2963896 2968570 | 8730 13405 | 4675 4676 | 95.55 | Klebsiella_variicola_NZ_CP047360.1 k141_405
+			  Gap between these two alignments (local misassembly). Inconsistency = 438
+			Real Alignment 2: 2969476 2983132 | 13873 27529 | 13657 13657 | 95.03 | Klebsiella_variicola_NZ_CP047360.1 k141_405
+			  Extensive misassembly (relocation, inconsistency = 10090) between these two alignments
+			Real Alignment 3: 2996794 2997795 | 31101 32102 | 1002 1002 | 95.21 | Klebsiella_variicola_NZ_CP047360.1 k141_405
+			  Indel (<= 5bp) between these two alignments: deletion of length 1; 0 mismatches (number of Ns: 0)
+			Real Alignment 4: 2997797 2999436 | 32103 33742 | 1640 1640 | 96.22 | Klebsiella_variicola_NZ_CP047360.1 k141_405
+			  Extensive misassembly (relocation, inconsistency = 3237) between these two alignments
+			Real Alignment 5: 3016111 3017306 | 47180 48375 | 1196 1196 | 96.15 | Klebsiella_variicola_NZ_CP047360.1 k141_405
+			  Indel (<= 5bp) between these two alignments: deletion of length 3; 0 mismatches (number of Ns: 0)
+			Real Alignment 6: 3017310 3018680 | 48376 49746 | 1371 1371 | 95.92 | Klebsiella_variicola_NZ_CP047360.1 k141_405
+			  Gap between these two alignments (local misassembly). Inconsistency = -12
+			Real Alignment 7: 3025235 3053415 | 56313 84469 | 28181 28157 | 96.21 | Klebsiella_variicola_NZ_CP047360.1 k141_405
+			  Gap between these two alignments (local misassembly). Inconsistency = 0
+			Real Alignment 8: 3053592 3055212 | 84646 86266 | 1621 1621 | 95.75 | Klebsiella_variicola_NZ_CP047360.1 k141_405
+		Unaligned bases: 32946
+
+CONTIG: k141_439 (135497bp)
+Best alignment score: 53138.9 (LEN: 55871, IDY: 95.11), Total number of alignments: 15
+			Looking for the best set of alignments (out of 15 total alignments)
+			Skipping redundant alignments after choosing the best set of alignments
+		Skipping redundant alignment 61405 61564 | 135338 135497 | 160 160 | 98.75 | Klebsiella_variicola_NZ_CP047360.1 k141_439
+		This contig has several significant sets of alignments. [An ambiguously mapped contig]
+		Using only the very best set (option --ambiguity-usage is set to "one").
+			The best set is below. Score: 104943.2, number of alignments: 14, unaligned bases: 24173
+		This contig is misassembled.
+		This contig is partially unaligned. (Aligned 111324 out of 135497 non-N bases (82.16%))
+			Excluding internal overlap of size 10 between Alignment 1 and 2: 4980329 4984514 | 61549 57365 | 4186 4185 --> 4980329 4984504 | 61549 57375 | 4176 4175
+			Real Alignment 1: 4985095 5040951 | 57374 1504 | 55857 55871 | 95.11 | Klebsiella_variicola_NZ_CP047360.1 k141_439
+			  Gap between these two alignments (local misassembly). Inconsistency = 590
+			Real Alignment 2: 4980329 4984504 | 61549 57375 | 4176 4175 | 95.63 | Klebsiella_variicola_NZ_CP047360.1 k141_439
+			  Extensive misassembly (relocation, inconsistency = 4165) between these two alignments
+			Real Alignment 3: 4974711 4976140 | 63004 61573 | 1430 1432 | 96.23 | Klebsiella_variicola_NZ_CP047360.1 k141_439
+			  Extensive misassembly (relocation, inconsistency = 5661) between these two alignments
+			Real Alignment 4: 4962178 4968908 | 69876 63146 | 6731 6731 | 95.45 | Klebsiella_variicola_NZ_CP047360.1 k141_439
+			  Extensive misassembly (relocation, inconsistency = -1216) between these two alignments
+			Real Alignment 5: 4950243 4961576 | 83023 71694 | 11334 11330 | 95.64 | Klebsiella_variicola_NZ_CP047360.1 k141_439
+			  Gap between these two alignments (local misassembly). Inconsistency = -384
+			Real Alignment 6: 4950370 4950515 | 83280 83135 | 146 146 | 95.21 | Klebsiella_variicola_NZ_CP047360.1 k141_439
+			  Indel (<= 5bp) between these two alignments: deletion of length 1; 0 mismatches (number of Ns: 0)
+			Real Alignment 7: 4950269 4950368 | 83380 83281 | 100 100 | 96.0 | Klebsiella_variicola_NZ_CP047360.1 k141_439
+			  Indel (<= 5bp) between these two alignments: deletion of length 2; 0 mismatches (number of Ns: 0)
+			Real Alignment 8: 4944935 4950266 | 88712 83381 | 5332 5332 | 96.77 | Klebsiella_variicola_NZ_CP047360.1 k141_439
+			  Indel (> 5bp) between these two alignments: deletion of length 8; 0 mismatches (number of Ns: 0)
+			Real Alignment 9: 4941909 4944926 | 91730 88713 | 3018 3018 | 95.49 | Klebsiella_variicola_NZ_CP047360.1 k141_439
+			  Gap between these two alignments (local misassembly). Inconsistency = -511
+			Real Alignment 10: 4935545 4938035 | 98605 96115 | 2491 2491 | 95.3 | Klebsiella_variicola_NZ_CP047360.1 k141_439
+			  Extensive misassembly (relocation, inconsistency = -4116) between these two alignments
+			Real Alignment 11: 4932310 4935454 | 105956 102812 | 3145 3145 | 95.45 | Klebsiella_variicola_NZ_CP047360.1 k141_439
+			  Indel (<= 5bp) between these two alignments: deletion of length 2; 13 mismatches (number of Ns: 0)
+			Real Alignment 12: 4931079 4932292 | 107185 105972 | 1214 1214 | 95.39 | Klebsiella_variicola_NZ_CP047360.1 k141_439
+			  Extensive misassembly (relocation, inconsistency = -5946) between these two alignments
+			Real Alignment 13: 4909070 4925285 | 135119 118925 | 16216 16195 | 96.15 | Klebsiella_variicola_NZ_CP047360.1 k141_439
+			  Gap between these two alignments (local misassembly). Inconsistency = -117
+			Real Alignment 14: 4908825 4908968 | 135481 135338 | 144 144 | 98.61 | Klebsiella_variicola_NZ_CP047360.1 k141_439
+		Unaligned bases: 24173
+
+CONTIG: k141_441 (796bp)
+Best alignment score: 787.0 (LEN: 796, IDY: 98.87), Total number of alignments: 2
+		Skipping these alignments as insignificant (option --ambiguity-score is set to "0.99"):
+			Skipping alignment 37484 38279 | 796 1 | 796 796 | 97.86 | Klebsiella_variicola_NZ_CP047360.1 k141_441
+		One align captures most of this contig: 4864744 4865539 | 796 1 | 796 796 | 98.87 | Klebsiella_variicola_NZ_CP047360.1 k141_441
+
+CONTIG: k141_460 (97206bp)
+Best alignment score: 45821.2 (LEN: 48172, IDY: 95.12), Total number of alignments: 10
+			Looking for the best set of alignments (out of 10 total alignments)
+			Skipping redundant alignments after choosing the best set of alignments
+		Skipping redundant alignment 4862816 4862956 | 141 1 | 141 141 | 100.0 | Klebsiella_variicola_NZ_CP047360.1 k141_460
+		This contig has several significant sets of alignments. [An ambiguously mapped contig]
+		Using only the very best set (option --ambiguity-usage is set to "one").
+			The best set is below. Score: 66307.0, number of alignments: 9, unaligned bases: 27795
+		This contig is misassembled.
+		This contig is partially unaligned. (Aligned 69411 out of 97206 non-N bases (71.41%))
+			Real Alignment 1: 3207213 3207719 | 631 126 | 507 506 | 99.01 | Klebsiella_variicola_NZ_CP047360.1 k141_460
+			  Gap between these two alignments (local misassembly). Inconsistency = -142
+			Real Alignment 2: 3159088 3207219 | 48938 767 | 48132 48172 | 95.12 | Klebsiella_variicola_NZ_CP047360.1 k141_460
+			  Gap between these two alignments (local misassembly). Inconsistency = 121
+			Real Alignment 3: 3157190 3158061 | 50715 49844 | 872 872 | 96.44 | Klebsiella_variicola_NZ_CP047360.1 k141_460
+			  Indel (<= 5bp) between these two alignments: deletion of length 1; 0 mismatches (number of Ns: 0)
+			Real Alignment 4: 3145674 3157188 | 62230 50716 | 11515 11515 | 97.23 | Klebsiella_variicola_NZ_CP047360.1 k141_460
+			  Indel (<= 5bp) between these two alignments: deletion of length 1; 0 mismatches (number of Ns: 0)
+			Real Alignment 5: 3143913 3145672 | 63990 62231 | 1760 1760 | 96.19 | Klebsiella_variicola_NZ_CP047360.1 k141_460
+			  Gap between these two alignments (local misassembly). Inconsistency = 2
+			Real Alignment 6: 3140745 3141752 | 67156 66149 | 1008 1008 | 96.43 | Klebsiella_variicola_NZ_CP047360.1 k141_460
+			  Gap between these two alignments (local misassembly). Inconsistency = 2
+			Real Alignment 7: 3134774 3139231 | 73125 68668 | 4458 4458 | 95.24 | Klebsiella_variicola_NZ_CP047360.1 k141_460
+			  Gap between these two alignments (local misassembly). Inconsistency = 1
+			Real Alignment 8: 3124948 3125139 | 82950 82759 | 192 192 | 95.31 | Klebsiella_variicola_NZ_CP047360.1 k141_460
+			  Gap between these two alignments (local misassembly). Inconsistency = 0
+			Real Alignment 9: 3119452 3120379 | 88446 87519 | 928 928 | 97.2 | Klebsiella_variicola_NZ_CP047360.1 k141_460
+		Unaligned bases: 27795
+
+CONTIG: k141_489 (507bp)
+Best alignment score: 499.0 (LEN: 507, IDY: 98.42), Total number of alignments: 8
+		This contig has 8 significant alignments. [An ambiguously mapped contig]
+		Using only first of these alignment (option --ambiguity-usage is set to "one"):
+			Alignment: 5208255 5208761 | 1 507 | 507 507 | 98.42 | Klebsiella_variicola_NZ_CP047360.1 k141_489
+			Skipping alignment 5450057 5450563 | 1 507 | 507 507 | 98.42 | Klebsiella_variicola_NZ_CP047360.1 k141_489
+			Skipping alignment 451837 452343 | 507 1 | 507 507 | 98.42 | Klebsiella_variicola_NZ_CP047360.1 k141_489
+			Skipping alignment 5253178 5253684 | 1 507 | 507 507 | 98.42 | Klebsiella_variicola_NZ_CP047360.1 k141_489
+			Skipping alignment 5345050 5345556 | 1 507 | 507 507 | 98.42 | Klebsiella_variicola_NZ_CP047360.1 k141_489
+			Skipping alignment 4474335 4474841 | 1 507 | 507 507 | 98.22 | Klebsiella_variicola_NZ_CP047360.1 k141_489
+			Skipping alignment 4838910 4839416 | 1 507 | 507 507 | 98.22 | Klebsiella_variicola_NZ_CP047360.1 k141_489
+			Skipping alignment 1231069 1231575 | 507 1 | 507 507 | 98.22 | Klebsiella_variicola_NZ_CP047360.1 k141_489
+
+CONTIG: k141_493 (57064bp)
+Best alignment score: 17894.5 (LEN: 18722, IDY: 95.58), Total number of alignments: 7
+			Looking for the best set of alignments (out of 7 total alignments)
+			Skipping redundant alignments after choosing the best set of alignments
+		Skipping redundant alignment 4864091 4864276 | 1 186 | 186 186 | 99.46 | Klebsiella_variicola_NZ_CP047360.1 k141_493
+		Skipping redundant alignment 4908736 4908982 | 20841 20597 | 247 245 | 95.14 | Klebsiella_variicola_NZ_CP047360.1 k141_493
+		This contig has several significant sets of alignments. [An ambiguously mapped contig]
+		Using only the very best set (option --ambiguity-usage is set to "one").
+			The best set is below. Score: 34161.3, number of alignments: 5, unaligned bases: 20709
+		This contig is misassembled.
+		This contig is partially unaligned. (Aligned 36355 out of 57064 non-N bases (63.71%))
+			Real Alignment 1: 4092206 4103328 | 430 11553 | 11123 11124 | 96.4 | Klebsiella_variicola_NZ_CP047360.1 k141_493
+			  Extensive misassembly (relocation, inconsistency = -6268) between these two alignments
+			Real Alignment 2: 4104850 4105923 | 19343 20416 | 1074 1074 | 97.3 | Klebsiella_variicola_NZ_CP047360.1 k141_493
+			  Gap between these two alignments (local misassembly). Inconsistency = -136
+			Real Alignment 3: 4105999 4111145 | 20628 25774 | 5147 5147 | 97.11 | Klebsiella_variicola_NZ_CP047360.1 k141_493
+			  Extensive misassembly (relocation, inconsistency = -9320) between these two alignments
+			Real Alignment 4: 4111113 4129904 | 35062 53783 | 18792 18722 | 95.58 | Klebsiella_variicola_NZ_CP047360.1 k141_493
+			  Extensive misassembly (relocation, inconsistency = -2969) between these two alignments
+			Real Alignment 5: 4129915 4130202 | 56763 57050 | 288 288 | 95.14 | Klebsiella_variicola_NZ_CP047360.1 k141_493
+		Unaligned bases: 20709
+
+CONTIG: k141_496 (193699bp)
+Best alignment score: 17795.7 (LEN: 18607, IDY: 95.64), Total number of alignments: 35
+			Looking for the best set of alignments (out of 35 total alignments)
+			Skipping redundant alignments after choosing the best set of alignments
+		Skipping redundant alignment 1753755 1753937 | 157481 157299 | 183 183 | 96.17 | Klebsiella_variicola_NZ_CP047360.1 k141_496
+		Skipping redundant alignment 4131922 4132003 | 157486 157567 | 82 82 | 96.34 | Klebsiella_variicola_NZ_CP047360.1 k141_496
+		Skipping redundant alignment 61593 61677 | 157486 157570 | 85 85 | 96.47 | Klebsiella_variicola_NZ_CP047360.1 k141_496
+		Skipping redundant alignment 1584515 1584787 | 157570 157299 | 273 272 | 95.6 | Klebsiella_variicola_NZ_CP047360.1 k141_496
+		This contig has several significant sets of alignments. [An ambiguously mapped contig]
+		Using only the very best set (option --ambiguity-usage is set to "one").
+			The best set is below. Score: 84997.0, number of alignments: 31, unaligned bases: 103225
+		This contig is misassembled.
+		This contig is partially unaligned. (Aligned 90474 out of 193699 non-N bases (46.71%))
+			Warning! This contig is more unaligned than misassembled. Contig length is 193699 (number of Ns: 0) and total length of all aligns is 90474
+		Alignment: 3941571 3941656 | 3758 3673 | 86 86 | 97.67 | Klebsiella_variicola_NZ_CP047360.1 k141_496
+		Alignment: 3941361 3941570 | 3969 3760 | 210 210 | 96.19 | Klebsiella_variicola_NZ_CP047360.1 k141_496
+		Alignment: 3938030 3941249 | 7189 3970 | 3220 3220 | 95.71 | Klebsiella_variicola_NZ_CP047360.1 k141_496
+		Alignment: 3935521 3938017 | 9686 7190 | 2497 2497 | 95.15 | Klebsiella_variicola_NZ_CP047360.1 k141_496
+		Alignment: 3934423 3935513 | 10784 9694 | 1091 1091 | 95.78 | Klebsiella_variicola_NZ_CP047360.1 k141_496
+		Alignment: 3930587 3934421 | 14619 10785 | 3835 3835 | 96.98 | Klebsiella_variicola_NZ_CP047360.1 k141_496
+		Alignment: 3927890 3930200 | 17314 15004 | 2311 2311 | 95.37 | Klebsiella_variicola_NZ_CP047360.1 k141_496
+		Alignment: 3904815 3923425 | 35919 17313 | 18611 18607 | 95.64 | Klebsiella_variicola_NZ_CP047360.1 k141_496
+		Alignment: 3896245 3901539 | 46283 40989 | 5295 5295 | 97.03 | Klebsiella_variicola_NZ_CP047360.1 k141_496
+		Alignment: 3889701 3891808 | 52783 50676 | 2108 2108 | 95.54 | Klebsiella_variicola_NZ_CP047360.1 k141_496
+		Alignment: 3886058 3889374 | 56423 53108 | 3317 3316 | 95.09 | Klebsiella_variicola_NZ_CP047360.1 k141_496
+		Alignment: 3878529 3885890 | 63904 56469 | 7362 7436 | 95.11 | Klebsiella_variicola_NZ_CP047360.1 k141_496
+		Alignment: 3872409 3875089 | 69873 67193 | 2681 2681 | 96.79 | Klebsiella_variicola_NZ_CP047360.1 k141_496
+		Alignment: 3868019 3872408 | 74264 69875 | 4390 4390 | 96.29 | Klebsiella_variicola_NZ_CP047360.1 k141_496
+		Alignment: 3862327 3865523 | 79955 76759 | 3197 3197 | 95.56 | Klebsiella_variicola_NZ_CP047360.1 k141_496
+		Alignment: 3755960 3756244 | 98888 98604 | 285 285 | 96.49 | Klebsiella_variicola_NZ_CP047360.1 k141_496
+		Alignment: 3808478 3813972 | 126185 120691 | 5495 5495 | 95.18 | Klebsiella_variicola_NZ_CP047360.1 k141_496
+		Alignment: 3802809 3806876 | 131851 127784 | 4068 4068 | 95.35 | Klebsiella_variicola_NZ_CP047360.1 k141_496
+		Alignment: 3798931 3802807 | 135728 131852 | 3877 3877 | 96.36 | Klebsiella_variicola_NZ_CP047360.1 k141_496
+		Alignment: 3797819 3798930 | 136852 135741 | 1112 1112 | 95.95 | Klebsiella_variicola_NZ_CP047360.1 k141_496
+		Alignment: 3794948 3797818 | 139724 136854 | 2871 2871 | 95.19 | Klebsiella_variicola_NZ_CP047360.1 k141_496
+		Alignment: 3790065 3792655 | 144608 142018 | 2591 2591 | 95.45 | Klebsiella_variicola_NZ_CP047360.1 k141_496
+		Alignment: 3787009 3787618 | 147638 147029 | 610 610 | 95.41 | Klebsiella_variicola_NZ_CP047360.1 k141_496
+		Alignment: 3778952 3780024 | 154558 153486 | 1073 1073 | 95.34 | Klebsiella_variicola_NZ_CP047360.1 k141_496
+		Alignment: 3776304 3778212 | 157206 155298 | 1909 1909 | 95.13 | Klebsiella_variicola_NZ_CP047360.1 k141_496
+		Alignment: 3769121 3769540 | 164545 164126 | 420 420 | 95.0 | Klebsiella_variicola_NZ_CP047360.1 k141_496
+		Alignment: 3756479 3758337 | 177157 175299 | 1859 1859 | 96.13 | Klebsiella_variicola_NZ_CP047360.1 k141_496
+		Alignment: 3756017 3756285 | 177457 177189 | 269 269 | 95.17 | Klebsiella_variicola_NZ_CP047360.1 k141_496
+		Alignment: 3754378 3755862 | 179081 177597 | 1485 1485 | 96.36 | Klebsiella_variicola_NZ_CP047360.1 k141_496
+		Alignment: 3747984 3749366 | 186591 185209 | 1383 1383 | 95.37 | Klebsiella_variicola_NZ_CP047360.1 k141_496
+		Alignment: 3747094 3747982 | 187480 186592 | 889 889 | 95.84 | Klebsiella_variicola_NZ_CP047360.1 k141_496
+		Unaligned bases: 103225
+
+CONTIG: k141_506 (98269bp)
+Best alignment score: 7228.4 (LEN: 7550, IDY: 95.74), Total number of alignments: 13
+			Looking for the best set of alignments (out of 13 total alignments)
+		This contig has several significant sets of alignments. [An ambiguously mapped contig]
+		Using only the very best set (option --ambiguity-usage is set to "one").
+			The best set is below. Score: 24839.7, number of alignments: 13, unaligned bases: 71570
+		This contig is misassembled.
+		This contig is partially unaligned. (Aligned 26699 out of 98269 non-N bases (27.17%))
+			Warning! This contig is more unaligned than misassembled. Contig length is 98269 (number of Ns: 0) and total length of all aligns is 26699
+		Alignment: 2484388 2485522 | 4195 5329 | 1135 1135 | 95.33 | Klebsiella_variicola_NZ_CP047360.1 k141_506
+		Alignment: 2495281 2495719 | 17554 17992 | 439 439 | 96.13 | Klebsiella_variicola_NZ_CP047360.1 k141_506
+		Alignment: 2508982 2509702 | 31256 31976 | 721 721 | 95.56 | Klebsiella_variicola_NZ_CP047360.1 k141_506
+		Alignment: 2510773 2510840 | 33058 33125 | 68 68 | 97.06 | Klebsiella_variicola_NZ_CP047360.1 k141_506
+		Alignment: 2510841 2513880 | 33127 36166 | 3040 3040 | 96.94 | Klebsiella_variicola_NZ_CP047360.1 k141_506
+		Alignment: 2537360 2543135 | 57985 63780 | 5776 5796 | 95.72 | Klebsiella_variicola_NZ_CP047360.1 k141_506
+		Alignment: 2552398 2554403 | 63827 65832 | 2006 2006 | 96.91 | Klebsiella_variicola_NZ_CP047360.1 k141_506
+		Alignment: 2554415 2556262 | 65833 67680 | 1848 1848 | 96.7 | Klebsiella_variicola_NZ_CP047360.1 k141_506
+		Alignment: 2563502 2571051 | 74900 82449 | 7550 7550 | 95.74 | Klebsiella_variicola_NZ_CP047360.1 k141_506
+		Alignment: 2577361 2579033 | 88760 90432 | 1673 1673 | 95.58 | Klebsiella_variicola_NZ_CP047360.1 k141_506
+		Alignment: 2579034 2579156 | 90434 90556 | 123 123 | 99.19 | Klebsiella_variicola_NZ_CP047360.1 k141_506
+		Alignment: 2579997 2580237 | 90700 90940 | 241 241 | 95.44 | Klebsiella_variicola_NZ_CP047360.1 k141_506
+		Alignment: 2580891 2582954 | 90996 93054 | 2064 2059 | 95.84 | Klebsiella_variicola_NZ_CP047360.1 k141_506
+		Unaligned bases: 71570
+
+CONTIG: k141_558 (567bp)
+Best alignment score: 549.0 (LEN: 567, IDY: 96.83), Total number of alignments: 1
+		One align captures most of this contig: 2889981 2890547 | 567 1 | 567 567 | 96.83 | Klebsiella_variicola_NZ_CP047360.1 k141_558
+
+CONTIG: k141_567 (65279bp)
+Best alignment score: 6774.4 (LEN: 7064, IDY: 95.90), Total number of alignments: 3
+			Looking for the best set of alignments (out of 3 total alignments)
+			The best set is below. Score: 13418.3, number of alignments: 3, unaligned bases: 50844
+		This contig is misassembled.
+		This contig is partially unaligned. (Aligned 14435 out of 65279 non-N bases (22.11%))
+			Warning! This contig is more unaligned than misassembled. Contig length is 65279 (number of Ns: 0) and total length of all aligns is 14435
+		Alignment: 3080301 3082572 | 32989 35260 | 2272 2272 | 96.65 | Klebsiella_variicola_NZ_CP047360.1 k141_567
+		Alignment: 3089081 3096144 | 36884 43947 | 7064 7064 | 95.9 | Klebsiella_variicola_NZ_CP047360.1 k141_567
+		Alignment: 3096181 3101279 | 46345 51443 | 5099 5099 | 97.04 | Klebsiella_variicola_NZ_CP047360.1 k141_567
+		Unaligned bases: 50844
+
+Analyzing coverage...
+Writing SNPs into /home/hannelore/PROJECTHH/Tools/Quast/quast_results/results_2020_04_08_16_21_55/runs_per_reference/Klebsiella_variicola/contigs_reports/minimap_output/ERR1795073-contigs.used_snps.gz
+
+Analysis is finished!
+Founded SNPs were written into /home/hannelore/PROJECTHH/Tools/Quast/quast_results/results_2020_04_08_16_21_55/runs_per_reference/Klebsiella_variicola/contigs_reports/minimap_output/ERR1795073-contigs.used_snps.gz
+
+Results:
+	Local Misassemblies: 99
+	Misassemblies: 31
+		Relocations: 31
+		Translocations: 0
+		Inversions: 0
+	Scaffold gap extensive misassemblies: 0
+	Scaffold gap local misassemblies: 0
+	Misassembled Contigs: 10
+	Misassembled Contig Bases: 1387654
+	Misassemblies Inter-Contig Overlap: 0
+Unaligned Contigs: 0 + 30 part
+Half Unaligned Contigs with Misassemblies: 12
+Unaligned Contig Bases: 1313399
+
+Ambiguously Mapped Contigs: 25
+Total Bases in Ambiguously Mapped Contigs: 3007354
+Extra Bases in Ambiguously Mapped Contigs: 0
+Note that --allow-ambiguity option was set to "one" and only first alignment per each of these contigs was used.
+
+	Covered Bases: 2042053
+
+	SNPs: 80156
+	Insertions: 1016
+	Deletions: 1590
+

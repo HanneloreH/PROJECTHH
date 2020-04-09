@@ -1,0 +1,96 @@
+S1	E1	S2	E2	Reference	Contig	IDY	Ambiguous	Best_group
+321637	321777	1	141	Klebsiella_pneumoniae_CP049891.1	k141_4	100.0		True
+CONTIG	k141_4	295014	correct_unaligned
+311705	311845	141	1	Klebsiella_pneumoniae_CP049891.1	k141_19	100.0		True
+CONTIG	k141_19	58263	correct_unaligned
+295622	295851	372828	373057	Klebsiella_pneumoniae_CP049891.1	k141_58	98.26		True
+CONTIG	k141_58	373091	correct_unaligned
+311705	313008	1	1304	Klebsiella_pneumoniae_CP049891.1	k141_70	100.0		True
+CONTIG	k141_70	1304	correct
+186168	186307	1	140	Klebsiella_pneumoniae_CP049891.1	k141_71	100.0		True
+CONTIG	k141_71	36666	correct_unaligned
+22926	23065	145368	145228	Klebsiella_pneumoniae_CP049891.1	k141_86	99.29		True
+CONTIG	k141_86	145368	correct_unaligned
+186073	186307	236	2	Klebsiella_pneumoniae_CP049891.1	k141_87	100.0		True
+CONTIG	k141_87	22495	correct_unaligned
+17527	18176	919	270	Klebsiella_pneumoniae_CP049891.1	k141_107	99.54		True
+relocation, inconsistency = -72728
+90031	90254	1143	920	Klebsiella_pneumoniae_CP049891.1	k141_107	100.0		True
+relocation, inconsistency = 5662
+84144	84368	1144	1368	Klebsiella_pneumoniae_CP049891.1	k141_107	100.0		True
+CONTIG	k141_107	1368	misassembled
+186168	186307	1	140	Klebsiella_pneumoniae_CP049891.1	k141_108	100.0		True
+CONTIG	k141_108	123259	correct_unaligned
+82938	83077	1	140	Klebsiella_pneumoniae_CP049891.1	k141_113	100.0		True
+inversion
+83074	84092	1319	280	Klebsiella_pneumoniae_CP049891.1	k141_113	97.5		True
+CONTIG	k141_113	1320	misassembled
+268718	269774	1	1057	Klebsiella_pneumoniae_CP049891.1	k141_118	98.11		True
+CONTIG	k141_118	1057	correct
+298896	299898	3373	4375	Klebsiella_pneumoniae_CP049891.1	k141_121	100.0		True
+unknown
+300544	301886	6121	7463	Klebsiella_pneumoniae_CP049891.1	k141_121	100.0		True
+unknown
+91805	92663	7713	8571	Klebsiella_pneumoniae_CP049891.1	k141_121	99.77		True
+unknown
+94286	96013	9473	11200	Klebsiella_pneumoniae_CP049891.1	k141_121	99.77		True
+unknown
+120176	120747	16360	16931	Klebsiella_pneumoniae_CP049891.1	k141_121	100.0		True
+unknown
+CONTIG	k141_121	16931	mis_unaligned
+36785	37309	525	1	Klebsiella_pneumoniae_CP049891.1	k141_122	100.0		True
+CONTIG	k141_122	665	correct
+294122	294611	659	172	Klebsiella_pneumoniae_CP049891.1	k141_151	96.94		True
+unknown
+89450	89564	774	663	Klebsiella_pneumoniae_CP049891.1	k141_151	96.52		True
+unknown
+15287	15402	1852	1737	Klebsiella_pneumoniae_CP049891.1	k141_151	100.0		True
+unknown
+CONTIG	k141_151	1990	mis_unaligned
+311704	311845	142	1	Klebsiella_pneumoniae_CP049891.1	k141_160	100.0		True
+CONTIG	k141_160	213512	correct_unaligned
+29140	29279	31951	31812	Klebsiella_pneumoniae_CP049891.1	k141_168	100.0		True
+CONTIG	k141_168	31951	correct_unaligned
+312868	313009	164908	164767	Klebsiella_pneumoniae_CP049891.1	k141_170	100.0		True
+CONTIG	k141_170	164908	correct_unaligned
+145182	145370	1086	1274	Klebsiella_pneumoniae_CP049891.1	k141_189	98.94		True
+CONTIG	k141_189	25143	correct_unaligned
+290125	290205	37	117	Klebsiella_pneumoniae_CP049891.1	k141_202	98.77		True
+CONTIG	k141_202	13943	correct_unaligned
+113487	114542	1	1058	Klebsiella_pneumoniae_CP049891.1	k141_211	98.96		True
+CONTIG	k141_211	8449	correct_unaligned
+84142	84391	250	1	Klebsiella_pneumoniae_CP049891.1	k141_219	99.6		True
+unknown
+82342	82482	1474	1614	Klebsiella_pneumoniae_CP049891.1	k141_219	100.0		True
+unknown
+CONTIG	k141_219	1614	mis_unaligned
+312868	313008	1	141	Klebsiella_pneumoniae_CP049891.1	k141_252	100.0		True
+CONTIG	k141_252	9545	correct_unaligned
+235805	235961	1	157	Klebsiella_pneumoniae_CP049891.1	k141_310	97.45		True
+CONTIG	k141_310	554	correct
+22946	23065	1	121	Klebsiella_pneumoniae_CP049891.1	k141_312	99.17		True
+unknown
+21855	21992	1747	1610	Klebsiella_pneumoniae_CP049891.1	k141_312	100.0		True
+unknown
+CONTIG	k141_312	1747	mis_unaligned
+106334	110490	1864	6020	Klebsiella_pneumoniae_CP049891.1	k141_321	98.92		True
+unknown
+110491	110780	6129	6419	Klebsiella_pneumoniae_CP049891.1	k141_321	99.31		True
+unknown
+167534	169922	30166	27729	Klebsiella_pneumoniae_CP049891.1	k141_321	95.42		True
+unknown
+120607	120943	34309	33973	Klebsiella_pneumoniae_CP049891.1	k141_321	100.0		True
+unknown
+CONTIG	k141_321	34309	mis_unaligned
+41316	41721	406	1	Klebsiella_pneumoniae_CP049891.1	k141_364	97.54		True
+inversion
+41328	41550	407	630	Klebsiella_pneumoniae_CP049891.1	k141_364	99.58		True
+CONTIG	k141_364	630	misassembled
+170020	170162	98280	98138	Klebsiella_pneumoniae_CP049891.1	k141_379	98.6		True
+CONTIG	k141_379	98280	correct_unaligned
+190855	190997	143	1	Klebsiella_pneumoniae_CP049891.1	k141_406	99.3		True
+CONTIG	k141_406	966	correct_unaligned
+311705	311845	141	1	Klebsiella_pneumoniae_CP049891.1	k141_418	100.0		True
+CONTIG	k141_418	65279	correct_unaligned
+180180	180323	144	1	Klebsiella_pneumoniae_CP049891.1	k141_444	99.31		True
+CONTIG	k141_444	157716	correct_unaligned

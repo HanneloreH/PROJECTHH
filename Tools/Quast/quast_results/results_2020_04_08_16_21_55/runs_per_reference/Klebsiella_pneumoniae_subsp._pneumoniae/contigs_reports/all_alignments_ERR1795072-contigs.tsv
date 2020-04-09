@@ -1,0 +1,321 @@
+S1	E1	S2	E2	Reference	Contig	IDY	Ambiguous	Best_group
+1990511	1993400	3095	205	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_0	99.4		True
+local misassembly
+1969222	1989890	23765	3096	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_0	99.5		True
+local misassembly
+1947390	1969257	45840	23924	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_0	99.15		True
+relocation, inconsistency = 18146
+1843379	1927823	131726	47261	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_0	99.52		True
+CONTIG	k141_0	131726	misassembled
+211967	213869	1	1903	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_1	99.68		True
+CONTIG	k141_1	1903	correct
+3600589	3619507	18919	1	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_4	99.15		True
+relocation, inconsistency = 110250
+3461001	3462896	48257	46362	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_4	99.11		True
+relocation, inconsistency = 22282
+3423764	3438718	63211	48258	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_4	99.2		True
+relocation, inconsistency = -135535
+3543567	3543868	78943	78642	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_4	98.01		True
+indel: indel (<= 5bp)
+3543365	3543565	79144	78944	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_4	96.52		True
+local misassembly
+3505181	3540895	116997	81283	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_4	99.55		True
+local misassembly
+3497114	3505055	124938	116998	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_4	98.02		True
+relocation, inconsistency = 73333
+3286601	3423780	262128	124939	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_4	99.51		True
+relocation, inconsistency = 1023
+3253231	3285479	294460	262227	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_4	99.19		True
+CONTIG	k141_4	295014	misassembled
+262673	276070	1	13398	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_16	99.45		True
+relocation, inconsistency = -5978
+277020	359970	20326	103277	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_16	99.27		True
+relocation, inconsistency = -1850
+360004	384200	105161	129357	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_16	99.36		True
+relocation, inconsistency = 748494
+1132695	1134094	130757	129358	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_16	99.71		True
+CONTIG	k141_16	130757	misassembled
+660164	680693	20583	1	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_21	97.52		True
+CONTIG	k141_21	20583	correct
+565758	565967	5487	5278	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_36	99.52		True
+CONTIG	k141_36	5646	correct_unaligned
+259058	259569	1	512	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_41	99.41		True
+CONTIG	k141_41	512	correct
+1041034	1064727	1	23694	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_51	99.36		True
+local misassembly
+1064638	1096646	23695	55740	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_51	98.67		True
+CONTIG	k141_51	57707	correct
+3957378	4042934	85588	135	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_58	99.27		True
+indel: indel (> 5bp)
+3790779	3957325	252111	85589	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_58	99.44		True
+relocation, inconsistency = -1537
+3754872	3790581	289559	253846	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_58	99.45		True
+local misassembly
+3733232	3754752	311080	289560	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_58	99.15		True
+relocation, inconsistency = 6220
+3679870	3726388	358226	311704	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_58	98.83		True
+local misassembly
+3674963	3679466	362728	358227	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_58	97.59		True
+CONTIG	k141_58	373091	misassembled
+217468	222197	4730	1	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_66	99.43		True
+CONTIG	k141_66	4730	correct
+4916736	4989797	1	73057	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_67	99.62		True
+local misassembly
+4989874	5007219	73929	91275	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_67	99.51		True
+local misassembly
+5007579	5021831	91635	105887	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_67	99.24		True
+local misassembly
+5021955	5055574	105888	139507	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_67	99.31		True
+local misassembly
+5056059	5120239	139533	203725	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_67	99.43		True
+CONTIG	k141_67	203826	correct
+1416043	1441633	25774	187	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_69	99.3		True
+relocation, inconsistency = -9302
+1392534	1415983	58660	35136	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_69	98.9		True
+local misassembly
+1392031	1392415	59045	58661	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_69	98.6		True
+local misassembly
+1346235	1391820	104624	59046	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_69	99.1		True
+CONTIG	k141_69	104761	misassembled
+1784652	1786647	2136	141	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_71	99.65		True
+CONTIG	k141_71	36666	correct_unaligned
+5269172	5293216	24039	1	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_73	99.42		True
+CONTIG	k141_73	24295	correct
+259030	259594	1	565	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_78	99.65		True
+CONTIG	k141_78	565	correct
+121941	125440	1	3507	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_79	99.06		True
+CONTIG	k141_79	3507	correct
+4889691	4916004	1	26314	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_82	99.65		True
+CONTIG	k141_82	26314	correct
+1668176	1673658	138	5620	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_86	99.38		True
+relocation, inconsistency = 7472
+1681131	1728454	5621	52944	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_86	99.32		True
+relocation, inconsistency = -34364
+1728449	1750009	87303	108875	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_86	99.43		True
+local misassembly
+1750090	1769643	109355	128908	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_86	99.2		True
+local misassembly
+1769851	1784670	129233	144054	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_86	99.3		True
+CONTIG	k141_86	145368	misassembled
+5121639	5142937	22397	1097	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_87	99.51		True
+CONTIG	k141_87	22495	correct
+547089	547611	1	525	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_94	95.43		True
+CONTIG	k141_94	528	correct
+653000	659573	6579	6	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_95	98.05		True
+CONTIG	k141_95	13115	correct
+1588694	1668179	79507	138	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_101	99.33		True
+indel: stretch of mismatches
+1518855	1588693	149349	79508	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_101	99.33		True
+CONTIG	k141_101	149488	correct
+5142932	5166978	141	24174	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_108	99.13		True
+relocation, inconsistency = -1186
+5167269	5206710	25651	65091	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_108	99.48		True
+relocation, inconsistency = 1180
+5207945	5246337	65146	103538	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_108	99.43		True
+local misassembly
+5246482	5251455	103539	108512	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_108	98.84		True
+relocation, inconsistency = 3104
+5254560	5269157	108513	123117	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_108	98.67		True
+CONTIG	k141_108	123259	misassembled
+961979	962118	1	140	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_109	98.57		True
+indel: stretch of mismatches
+962197	962390	219	412	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_109	98.45		True
+indel: indel (<= 5bp)
+962392	962637	413	658	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_109	97.97		True
+CONTIG	k141_109	658	correct
+4529436	4529513	258	335	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_128	98.72		True
+local misassembly
+4529934	4579011	337	49468	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_128	99.22		True
+relocation, inconsistency = -15813
+4579472	4595901	65742	82172	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_128	99.57		True
+relocation, inconsistency = 3469
+4599586	4608966	82388	91768	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_128	99.42		True
+relocation, inconsistency = -54737
+4609111	4840779	146650	378340	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_128	99.44		True
+relocation, inconsistency = 8598
+4849395	4878126	378358	407089	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_128	99.6		True
+relocation, inconsistency = -15995
+4878109	4884015	423067	428974	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_128	98.71		True
+CONTIG	k141_128	429580	misassembled
+733229	741938	9675	972	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_137	99.13		True
+local misassembly
+685733	733256	57248	9737	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_137	99.06		True
+CONTIG	k141_137	57248	correct
+2160684	2176215	1	15532	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_145	99.43		True
+inversion
+2176216	2178137	17460	15538	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_145	99.79		True
+relocation, inconsistency = 829246
+1341426	1346238	18192	23005	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_145	99.31		True
+CONTIG	k141_145	23141	misassembled
+2816877	2821815	137	5076	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_146	98.83		True
+CONTIG	k141_146	5212	correct
+835873	938806	103074	142	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_160	99.56		True
+local misassembly
+826220	835701	112556	103075	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_160	99.29		True
+relocation, inconsistency = -4025155
+4841503	4844858	122440	119073	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_160	97.86		True
+relocation, inconsistency = 4012936
+742058	826064	208927	124943	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_160	99.51		True
+CONTIG	k141_160	213512	misassembled
+3191073	3246332	55396	139	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_163	99.29		True
+local misassembly
+3080600	3190895	165710	55397	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_163	99.29		True
+local misassembly
+3056590	3080786	189944	165761	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_163	99.02		True
+relocation, inconsistency = 12505
+3032679	3044076	201350	189953	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_163	98.92		True
+local misassembly
+3031669	3031818	201500	201351	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_163	97.56		True
+relocation, inconsistency = -7877
+2992340	3026194	248758	214852	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_163	98.73		True
+local misassembly
+2981168	2992041	259631	248759	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_163	99.24		True
+relocation, inconsistency = 2075
+2942439	2979092	296230	259632	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_163	99.28		True
+local misassembly
+2867772	2942132	370623	296231	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_163	99.24		True
+relocation, inconsistency = -5634
+2862656	2867762	381373	376267	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_163	99.15		True
+local misassembly
+2821812	2862300	421832	381374	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_163	99.04		True
+CONTIG	k141_163	421969	misassembled
+2196358	2200813	4596	140	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_168	99.39		True
+relocation, inconsistency = -8939
+2178143	2196314	31813	13579	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_168	99.07		True
+CONTIG	k141_168	31951	misassembled
+1102072	1108643	3755	10327	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_170	99.32		True
+local misassembly
+1109101	1109175	10363	10437	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_170	97.33		True
+local misassembly
+1109101	1132649	11338	34886	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_170	98.99		True
+relocation, inconsistency = 1449
+1134099	1142650	34887	43432	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_170	98.89		True
+local misassembly
+1142776	1264096	43433	164768	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_170	99.53		True
+CONTIG	k141_170	164908	misassembled
+2200811	2294100	126	93417	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_177	99.44		True
+CONTIG	k141_177	97206	correct
+142932	212107	69261	1	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_187	99.4		True
+CONTIG	k141_187	69397	correct
+3656446	3657949	8259	6756	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_189	95.88		True
+relocation, inconsistency = 1665
+3638037	3653273	25003	9767	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_189	97.91		True
+CONTIG	k141_189	25143	misassembled
+1993531	1993669	1	139	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_190	98.56		True
+local misassembly
+1993509	2058547	161	65198	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_190	99.5		True
+relocation, inconsistency = 9789
+2068357	2077315	65219	74176	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_190	99.58		True
+local misassembly
+2078088	2088806	74177	84896	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_190	99.19		True
+relocation, inconsistency = 56557
+2145364	2160954	84897	100473	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_190	99.24		True
+CONTIG	k141_190	100600	misassembled
+3246328	3246662	1200	1534	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_194	99.1		True
+unknown
+3251258	3252126	6124	6992	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_194	96.09		True
+unknown
+CONTIG	k141_194	8653	mis_unaligned
+3624288	3638097	125	13924	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_199	98.81		True
+CONTIG	k141_199	14152	correct
+222929	257574	1	34646	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_205	99.56		True
+CONTIG	k141_205	34646	correct
+4523703	4529451	5898	150	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_206	99.41		True
+local misassembly
+4495694	4523500	33706	5899	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_206	99.5		True
+relocation, inconsistency = -1373
+4398296	4495692	132474	35081	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_206	99.39		True
+local misassembly
+4315153	4398076	215417	132475	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_206	99.48		True
+relocation, inconsistency = -1669
+4193410	4315179	338841	217060	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_206	99.24		True
+relocation, inconsistency = 22532
+4134968	4170802	374748	338917	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_206	99.22		True
+CONTIG	k141_206	374748	misassembled
+1786642	1843203	140	56603	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_207	99.35		True
+CONTIG	k141_207	56603	correct
+21040	120515	1	99475	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_244	99.38		True
+CONTIG	k141_244	99475	correct
+4915864	4916876	1013	1	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_247	99.7		True
+CONTIG	k141_247	1013	correct
+384819	396181	11484	122	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_249	99.48		True
+CONTIG	k141_249	11624	correct
+533184	547069	13884	1	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_254	99.01		True
+local misassembly
+530762	533188	16498	14072	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_254	99.18		True
+relocation, inconsistency = -5945
+513948	530685	39256	22520	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_254	99.31		True
+local misassembly
+500953	513748	52160	39368	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_254	99.17		True
+local misassembly
+489789	500316	62689	52161	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_254	99.23		True
+relocation, inconsistency = -2242
+419952	489684	134774	65036	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_254	99.42		True
+CONTIG	k141_254	134914	misassembled
+2349791	2361438	2302	13950	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_300	98.88		True
+relocation, inconsistency = 2698
+2371522	2374820	21336	24634	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_300	96.82		True
+relocation, inconsistency = 1556
+2377829	2511327	26087	159621	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_300	99.07		True
+CONTIG	k141_300	159621	misassembled
+2511244	2549033	1	37789	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_301	99.22		True
+CONTIG	k141_301	37789	correct
+3621162	3621281	1	121	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_312	99.17		True
+CONTIG	k141_312	1747	correct_unaligned
+1441630	1443652	140	2162	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_317	99.46		True
+relocation, inconsistency = 7251
+1451014	1460401	2273	11660	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_317	99.21		True
+relocation, inconsistency = 1975
+1462377	1489008	11661	38290	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_317	98.85		True
+local misassembly
+1489630	1518856	38923	68148	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_317	98.92		True
+CONTIG	k141_317	68515	misassembled
+2110246	2110485	17356	17117	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_358	95.83		True
+CONTIG	k141_358	19999	correct_unaligned
+2801021	2810076	9194	136	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_379	99.4		True
+relocation, inconsistency = 5906
+2772270	2795106	32038	9203	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_379	99.04		True
+local misassembly
+2750099	2771804	53690	32039	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_379	96.87		True
+relocation, inconsistency = -3203
+2745199	2749007	61795	57985	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_379	96.28		True
+relocation, inconsistency = -1877
+2715498	2745199	93351	63672	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_379	96.59		True
+CONTIG	k141_379	98280	misassembled
+125493	141908	1	16416	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_400	99.32		True
+CONTIG	k141_400	16553	correct
+4042925	4130386	87341	1	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_407	99.22		True
+CONTIG	k141_407	87705	correct
+500278	500943	1	668	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_408	96.86		True
+CONTIG	k141_408	690	correct
+2345287	2349803	30016	25500	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_418	95.46		True
+relocation, inconsistency = 15351
+2324692	2329277	35260	30675	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_418	99.45		True
+relocation, inconsistency = 4385
+2294085	2318688	61470	36879	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_418	99.31		True
+CONTIG	k141_418	65279	misassembled
+4227920	4227984	152	216	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_431	100.0		True
+inversion
+4227679	4227976	514	217	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_431	97.99		True
+CONTIG	k141_431	514	misassembled
+2687935	2715498	28477	890	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_444	98.96		True
+relocation, inconsistency = -2144
+2686898	2687934	31658	30622	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_444	99.81		True
+relocation, inconsistency = -7734
+2604695	2686285	121636	40005	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_444	99.19		True
+relocation, inconsistency = -1397
+2570133	2602192	157580	125536	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_444	99.31		True
+CONTIG	k141_444	157716	misassembled
+148368	149424	1	1057	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047676.1	k141_118	98.2		True
+CONTIG	k141_118	1057	correct
+74388	74959	16931	16360	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047676.1	k141_121	98.6		True
+CONTIG	k141_121	16931	correct_unaligned
+90718	111714	21244	256	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047676.1	k141_230	99.19		True
+unknown
+65926	66304	40405	40027	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047676.1	k141_230	97.36		True
+unknown
+CONTIG	k141_230	49297	mis_unaligned
+31779	31935	157	1	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047676.1	k141_310	98.09		True
+CONTIG	k141_310	554	correct
+74192	74528	33973	34309	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047676.1	k141_321	99.7		True
+CONTIG	k141_321	34309	correct_unaligned

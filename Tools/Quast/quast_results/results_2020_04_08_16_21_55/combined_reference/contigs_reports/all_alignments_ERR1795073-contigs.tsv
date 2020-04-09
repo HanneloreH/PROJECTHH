@@ -1,0 +1,2043 @@
+S1	E1	S2	E2	Reference	Contig	IDY	Ambiguous	Best_group
+787791	787910	965	846	Klebsiella_pneumoniae_MGH_43_NZ_KK036953.1	k141_0	96.67		True
+CONTIG	k141_0	980	correct_unaligned
+15737	16692	956	1	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_1	99.69	True	True
+1027972	1028927	956	1	Klebsiella_pneumoniae_MGH_43_NZ_KK036953.1	k141_1	99.37	True	True
+1224376	1225331	956	1	Klebsiella_pneumoniae_MGH_43_NZ_KK036953.1	k141_1	99.27	True	True
+211967	212922	956	1	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_1	99.16	True	True
+CONTIG	k141_1	956	ambiguous
+784761	784850	1149	1060	Klebsiella_pneumoniae_MGH_43_NZ_KK036953.1	k141_4	100.0		True
+CONTIG	k141_4	1248	correct_unaligned
+780175	784079	1	3978	Klebsiella_pneumoniae_MGH_43_NZ_KK036953.1	k141_5	98.16		True
+CONTIG	k141_5	3978	correct
+315564	317207	14922	13277	Klebsiella_pneumoniae_CP049891.1	k141_7	98.72		False
+287154	289713	3129	569	Klebsiella_pneumoniae_CP049891.1	k141_7	98.48		True
+unknown
+1344097	1345156	4494	5553	Klebsiella_pneumoniae_MGH_43_NZ_KK036953.1	k141_7	95.75		True
+unknown
+23061	24705	14922	13277	Klebsiella_pneumoniae_CP049891.1	k141_7	98.78		True
+unknown
+789465	789584	20313	20194	Klebsiella_pneumoniae_MGH_43_NZ_KK036953.1	k141_7	95.0		True
+unknown
+788306	788770	22210	21746	Klebsiella_pneumoniae_MGH_43_NZ_KK036953.1	k141_7	95.48		True
+unknown
+CONTIG	k141_7	22210	mis_unaligned
+CONTIG	k141_9	3492	unaligned
+CONTIG	k141_10	4137	unaligned
+760580	761793	1214	1	Klebsiella_pneumoniae_MGH_43_NZ_KK036953.1	k141_11	100.0		True
+CONTIG	k141_11	1214	correct
+94286	94425	140	1	Klebsiella_pneumoniae_CP049891.1	k141_12	99.29		True
+unknown
+91805	92663	1900	1042	Klebsiella_pneumoniae_CP049891.1	k141_12	99.77		True
+unknown
+300544	301886	3492	2150	Klebsiella_pneumoniae_CP049891.1	k141_12	100.0		True
+unknown
+CONTIG	k141_12	5375	mis_unaligned
+CONTIG	k141_13	1508	unaligned
+CONTIG	k141_14	616	unaligned
+3072832	3076032	1	3201	Klebsiella_pneumoniae_MGH_43_NZ_KK036953.1	k141_15	98.78		True
+CONTIG	k141_15	3334	correct
+4752432	4752502	22	92	Klebsiella_variicola_NZ_CP047360.1	k141_19	100.0		False
+4752307	4752387	12	92	Klebsiella_variicola_NZ_CP047360.1	k141_19	100.0		False
+4752549	4752627	21	99	Klebsiella_variicola_NZ_CP047360.1	k141_19	100.0		False
+765235	765313	100	22	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_19	100.0		False
+765117	765196	100	21	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_19	100.0		False
+282789	282868	21	100	Klebsiella_pneumoniae_MGH_43_NZ_KK036953.1	k141_19	100.0		False
+1176525	1176604	21	100	Klebsiella_pneumoniae_MGH_43_NZ_KK036953.1	k141_19	98.75		False
+164129	164208	21	100	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_19	98.75		False
+5306180	5306259	100	21	Klebsiella_variicola_NZ_CP047360.1	k141_19	98.75		False
+282567	282679	1	114	Klebsiella_pneumoniae_MGH_43_NZ_KK036953.1	k141_19	98.25		False
+4752325	4752403	146	224	Klebsiella_variicola_NZ_CP047360.1	k141_19	98.73		False
+765342	765420	224	146	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_19	98.73		False
+5306172	5306250	224	146	Klebsiella_variicola_NZ_CP047360.1	k141_19	97.47		False
+164138	164216	146	224	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_19	97.47		False
+1176534	1176612	146	224	Klebsiella_pneumoniae_MGH_43_NZ_KK036953.1	k141_19	97.47		False
+4752413	4752620	119	326	Klebsiella_variicola_NZ_CP047360.1	k141_19	97.12		False
+4752427	4752503	251	327	Klebsiella_variicola_NZ_CP047360.1	k141_19	98.7		False
+282587	282674	255	342	Klebsiella_pneumoniae_MGH_43_NZ_KK036953.1	k141_19	100.0		False
+4752316	4752403	255	342	Klebsiella_variicola_NZ_CP047360.1	k141_19	100.0		False
+765342	765429	342	255	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_19	100.0		False
+164129	164216	255	342	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_19	98.86		False
+5306172	5306259	342	255	Klebsiella_variicola_NZ_CP047360.1	k141_19	98.86		False
+1176525	1176612	255	342	Klebsiella_pneumoniae_MGH_43_NZ_KK036953.1	k141_19	98.86		False
+765226	765317	343	252	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_19	98.91		False
+282596	285130	146	2596	Klebsiella_pneumoniae_MGH_43_NZ_KK036953.1	k141_19	99.43		False
+282798	285247	146	2713	Klebsiella_pneumoniae_MGH_43_NZ_KK036953.1	k141_19	95.13		False
+282783	305929	249	23395	Klebsiella_pneumoniae_MGH_43_NZ_KK036953.1	k141_19	99.62		False
+4777191	4778291	37431	38531	Klebsiella_variicola_NZ_CP047360.1	k141_19	95.46		False
+306053	315948	28636	38531	Klebsiella_pneumoniae_MGH_43_NZ_KK036953.1	k141_19	99.27		False
+4786144	4786263	38525	38644	Klebsiella_variicola_NZ_CP047360.1	k141_19	97.5		False
+323801	323920	38525	38644	Klebsiella_pneumoniae_MGH_43_NZ_KK036953.1	k141_19	95.83		False
+4787096	4813951	38888	65738	Klebsiella_variicola_NZ_CP047360.1	k141_19	95.85		False
+324554	358479	38733	72614	Klebsiella_pneumoniae_MGH_43_NZ_KK036953.1	k141_19	98.85		False
+4817756	4830511	65860	78614	Klebsiella_variicola_NZ_CP047360.1	k141_19	95.89		False
+1231752	1231851	84908	84809	Klebsiella_variicola_NZ_CP047360.1	k141_19	100.0		False
+2490703	2490802	84908	84809	Klebsiella_pneumoniae_MGH_43_NZ_KK036953.1	k141_19	100.0		False
+262613	262712	84908	84809	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_19	100.0		False
+20980	21079	84908	84809	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_19	100.0		False
+1274751	1274850	84908	84809	Klebsiella_pneumoniae_MGH_43_NZ_KK036953.1	k141_19	100.0		False
+1681165	1681265	84908	84808	Klebsiella_pneumoniae_MGH_43_NZ_KK036953.1	k141_19	100.0		False
+5344773	5344873	84808	84908	Klebsiella_variicola_NZ_CP047360.1	k141_19	100.0		False
+1041052	1041152	84908	84808	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_19	100.0		False
+5443935	5444035	84808	84908	Klebsiella_pneumoniae_MGH_43_NZ_KK036953.1	k141_19	100.0		False
+1137908	1138008	84908	84808	Klebsiella_pneumoniae_MGH_43_NZ_KK036953.1	k141_19	100.0		False
+125511	125611	84908	84808	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_19	100.0		False
+4473957	4474057	84808	84908	Klebsiella_variicola_NZ_CP047360.1	k141_19	100.0		False
+4884662	4884762	84808	84908	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_19	100.0		False
+452518	452618	84908	84808	Klebsiella_variicola_NZ_CP047360.1	k141_19	100.0		False
+452762	452887	84908	84783	Klebsiella_variicola_NZ_CP047360.1	k141_19	95.24		False
+4884393	4884518	84783	84908	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_19	95.24		False
+1681409	1681534	84908	84783	Klebsiella_pneumoniae_MGH_43_NZ_KK036953.1	k141_19	95.24		False
+1033218	1033358	84908	84768	Klebsiella_pneumoniae_MGH_43_NZ_KK036953.1	k141_19	100.0		False
+217468	217608	84908	84768	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_19	100.0		False
+1229705	1229845	84908	84768	Klebsiella_pneumoniae_MGH_43_NZ_KK036953.1	k141_19	100.0		False
+5252770	5253003	84676	84908	Klebsiella_variicola_NZ_CP047360.1	k141_19	96.17		False
+5207847	5208078	84676	84908	Klebsiella_variicola_NZ_CP047360.1	k141_19	95.3		False
+4838502	4838733	84676	84908	Klebsiella_variicola_NZ_CP047360.1	k141_19	95.3		False
+4129652	4129921	84640	84908	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_19	99.26		False
+5449613	5449882	84640	84908	Klebsiella_variicola_NZ_CP047360.1	k141_19	95.2		False
+372114	379588	77452	84908	Klebsiella_pneumoniae_MGH_43_NZ_KK036953.1	k141_19	98.89		False
+742058	765449	23395	1	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_19	99.57		True
+relocation, inconsistency = -5117
+733229	741938	37335	28632	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_19	99.13		True
+local misassembly
+685733	733256	84908	37397	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_19	99.06		True
+CONTIG	k141_19	84908	misassembled
+1681185	1681264	1	80	Klebsiella_pneumoniae_MGH_43_NZ_KK036953.1	k141_20	100.0		False
+4129822	4129901	80	1	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_20	100.0		False
+5443936	5444015	80	1	Klebsiella_pneumoniae_MGH_43_NZ_KK036953.1	k141_20	100.0		False
+1137928	1138007	1	80	Klebsiella_pneumoniae_MGH_43_NZ_KK036953.1	k141_20	100.0		False
+379489	379568	80	1	Klebsiella_pneumoniae_MGH_43_NZ_KK036953.1	k141_20	100.0		False
+1033238	1033317	1	80	Klebsiella_pneumoniae_MGH_43_NZ_KK036953.1	k141_20	100.0		False
+4884663	4884742	80	1	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_20	100.0		False
+1229725	1229804	1	80	Klebsiella_pneumoniae_MGH_43_NZ_KK036953.1	k141_20	100.0		False
+125531	125610	1	80	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_20	100.0		False
+217488	217567	1	80	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_20	100.0		False
+5449783	5449862	80	1	Klebsiella_variicola_NZ_CP047360.1	k141_20	100.0		False
+5344774	5344853	80	1	Klebsiella_variicola_NZ_CP047360.1	k141_20	100.0		False
+4473958	4474037	80	1	Klebsiella_variicola_NZ_CP047360.1	k141_20	100.0		False
+685753	685832	1	80	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_20	100.0		False
+452538	452617	1	80	Klebsiella_variicola_NZ_CP047360.1	k141_20	100.0		False
+1041072	1041151	1	80	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_20	100.0		False
+5252903	5252983	80	1	Klebsiella_variicola_NZ_CP047360.1	k141_20	98.77		False
+4838631	4838713	83	1	Klebsiella_variicola_NZ_CP047360.1	k141_20	100.0		False
+1229956	1230071	64	179	Klebsiella_pneumoniae_MGH_43_NZ_KK036953.1	k141_20	96.55		False
+1033472	1033586	67	181	Klebsiella_pneumoniae_MGH_43_NZ_KK036953.1	k141_20	96.52		False
+217719	217836	64	181	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_20	97.46		False
+21000	21180	1	181	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_20	97.79		False
+1231772	1231952	1	181	Klebsiella_variicola_NZ_CP047360.1	k141_20	96.13		False
+2490723	2490904	1	182	Klebsiella_pneumoniae_MGH_43_NZ_KK036953.1	k141_20	98.35		False
+262633	276070	1	13438	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_20	99.45		False
+5186385	5207757	21603	232	Klebsiella_variicola_NZ_CP047360.1	k141_20	96.37		False
+5179956	5185535	27222	21642	Klebsiella_variicola_NZ_CP047360.1	k141_20	95.9		False
+5178007	5179247	32321	31083	Klebsiella_variicola_NZ_CP047360.1	k141_20	95.57		False
+5171290	5173499	38894	36685	Klebsiella_variicola_NZ_CP047360.1	k141_20	97.42		False
+5169508	5171279	40667	38896	Klebsiella_variicola_NZ_CP047360.1	k141_20	96.73		False
+5160989	5162630	49176	47535	Klebsiella_variicola_NZ_CP047360.1	k141_20	96.16		False
+5157272	5158401	52894	51765	Klebsiella_variicola_NZ_CP047360.1	k141_20	96.64		False
+5155884	5157252	54282	52914	Klebsiella_variicola_NZ_CP047360.1	k141_20	95.98		False
+5150559	5151144	59604	59019	Klebsiella_variicola_NZ_CP047360.1	k141_20	97.1		False
+5143149	5148329	66983	61803	Klebsiella_variicola_NZ_CP047360.1	k141_20	95.97		False
+5140461	5143086	69671	67046	Klebsiella_variicola_NZ_CP047360.1	k141_20	96.73		False
+5132598	5134828	75533	73303	Klebsiella_variicola_NZ_CP047360.1	k141_20	96.68		False
+5116168	5116414	91955	91709	Klebsiella_variicola_NZ_CP047360.1	k141_20	96.76		False
+5112690	5114746	95426	93370	Klebsiella_variicola_NZ_CP047360.1	k141_20	96.6		False
+5110399	5112685	97717	95431	Klebsiella_variicola_NZ_CP047360.1	k141_20	95.28		False
+5108887	5110395	99229	97721	Klebsiella_variicola_NZ_CP047360.1	k141_20	95.23		False
+277020	359970	20366	103317	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_20	99.26		False
+5078587	5107749	129319	100157	Klebsiella_variicola_NZ_CP047360.1	k141_20	95.28		False
+645699	645776	129397	129320	Klebsiella_pneumoniae_MGH_43_NZ_KK036953.1	k141_20	97.44		False
+384496	384573	129320	129397	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_20	97.44		False
+360004	384200	105201	129397	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_20	99.36		False
+5120262	5121661	130797	129398	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_20	99.71		False
+4330911	4332310	130797	129398	Klebsiella_pneumoniae_MGH_43_NZ_KK036953.1	k141_20	99.71		False
+1132695	1134094	130797	129398	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_20	99.71		False
+4798648	4800047	130797	129398	Klebsiella_pneumoniae_MGH_43_NZ_KK036953.1	k141_20	99.71		False
+632505	633919	129383	130797	Klebsiella_pneumoniae_MGH_43_NZ_KK036953.1	k141_20	99.65		False
+975069	976484	130797	129382	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_20	99.72		False
+1460915	1462330	129382	130797	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_20	99.65		False
+4971969	4973384	129382	130797	Klebsiella_pneumoniae_MGH_43_NZ_KK036953.1	k141_20	99.65		False
+4862816	4864231	129382	130797	Klebsiella_variicola_NZ_CP047360.1	k141_20	99.51		False
+3071556	3072972	129381	130797	Klebsiella_pneumoniae_MGH_43_NZ_KK036953.1	k141_20	99.65		False
+1274771	1310122	1	35351	Klebsiella_pneumoniae_MGH_43_NZ_KK036953.1	k141_20	99.58		True
+relocation, inconsistency = 534904
+645823	739866	129397	35352	Klebsiella_pneumoniae_MGH_43_NZ_KK036953.1	k141_20	99.51		True
+relocation, inconsistency = 239785
+404638	406037	130797	129398	Klebsiella_pneumoniae_MGH_43_NZ_KK036953.1	k141_20	99.71		True
+CONTIG	k141_20	130797	misassembled
+3057763	3071696	1	13925	Klebsiella_pneumoniae_MGH_43_NZ_KK036953.1	k141_23	98.42	True	True
+3624288	3638097	13801	2	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_23	98.82	True	True
+CONTIG	k141_23	13925	ambiguous
+3421096	3423780	1	2685	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_24	99.44		False
+3111287	3113954	2668	1	Klebsiella_pneumoniae_MGH_43_NZ_KK036953.1	k141_24	99.52		True
+interspecies translocation
+3497097	3505055	2669	10627	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_24	98.03		True
+local misassembly
+3505181	3537829	10628	43276	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_24	99.53		True
+CONTIG	k141_24	43412	misassembled
+976469	1035939	54123	113594	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_26	99.47		False
+920716	938674	140	18097	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_26	99.54		False
+938838	975021	17925	54123	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_26	99.3		False
+97385	115246	18001	140	Klebsiella_pneumoniae_MGH_43_NZ_KK036953.1	k141_26	99.61		True
+local misassembly
+1691	97284	113594	18003	Klebsiella_pneumoniae_MGH_43_NZ_KK036953.1	k141_26	99.49		True
+CONTIG	k141_26	113594	correct
+660004	680694	1	20744	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_27	97.53		True
+CONTIG	k141_27	20744	correct
+756422	756560	1	139	Klebsiella_pneumoniae_MGH_43_NZ_KK036953.1	k141_32	100.0		True
+local misassembly
+759715	760594	3372	4251	Klebsiella_pneumoniae_MGH_43_NZ_KK036953.1	k141_32	100.0		True
+inversion
+756421	759685	7516	4252	Klebsiella_pneumoniae_MGH_43_NZ_KK036953.1	k141_32	100.0		True
+CONTIG	k141_32	7516	misassembled
+CONTIG	k141_40	1560	unaligned
+2745886	2750151	6143	1878	Klebsiella_variicola_NZ_CP047360.1	k141_41	95.78		False
+2740652	2744213	11366	7805	Klebsiella_variicola_NZ_CP047360.1	k141_41	96.1		False
+2740551	2740637	11467	11381	Klebsiella_variicola_NZ_CP047360.1	k141_41	96.55		False
+2733787	2740550	18232	11469	Klebsiella_variicola_NZ_CP047360.1	k141_41	97.62		False
+2732858	2733010	19165	19013	Klebsiella_variicola_NZ_CP047360.1	k141_41	98.69		False
+2731409	2732085	20616	19940	Klebsiella_variicola_NZ_CP047360.1	k141_41	96.6		False
+3947712	3971948	24237	1	Klebsiella_pneumoniae_MGH_43_NZ_KK036953.1	k141_41	99.25		False
+2727731	2728059	24293	23965	Klebsiella_variicola_NZ_CP047360.1	k141_41	96.66		False
+2720692	2720773	31333	31252	Klebsiella_variicola_NZ_CP047360.1	k141_41	97.56		False
+2621559	2621771	43176	43387	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_41	99.06		False
+3928134	3928346	43387	43176	Klebsiella_pneumoniae_MGH_43_NZ_KK036953.1	k141_41	98.12		False
+2707913	2708382	44682	44213	Klebsiella_variicola_NZ_CP047360.1	k141_41	97.23		False
+2619735	2619945	44999	45209	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_41	99.05		False
+3929957	3930169	45211	44999	Klebsiella_pneumoniae_MGH_43_NZ_KK036953.1	k141_41	98.59		False
+3906611	3945209	66733	28137	Klebsiella_pneumoniae_MGH_43_NZ_KK036953.1	k141_41	98.78		False
+2676549	2703300	75510	48754	Klebsiella_variicola_NZ_CP047360.1	k141_41	95.24		False
+2672918	2673911	76731	75738	Klebsiella_variicola_NZ_CP047360.1	k141_41	95.47		False
+2672262	2672696	77367	76933	Klebsiella_variicola_NZ_CP047360.1	k141_41	95.86		False
+3863463	3906592	109767	66631	Klebsiella_pneumoniae_MGH_43_NZ_KK036953.1	k141_41	99.26		False
+2686898	2687934	118114	119150	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_41	99.81		False
+2603920	2618525	147315	132709	Klebsiella_variicola_NZ_CP047360.1	k141_41	98.57		False
+2687935	2715498	121295	148882	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_41	98.97		False
+287013	287150	149771	149634	Klebsiella_pneumoniae_CP049891.1	k141_41	99.28		False
+192670	192809	149632	149771	Klebsiella_pneumoniae_CP049891.1	k141_41	99.29		False
+105367	105507	149631	149771	Klebsiella_pneumoniae_CP049891.1	k141_41	99.29		False
+202768	202908	149631	149771	Klebsiella_pneumoniae_CP049891.1	k141_41	99.29		False
+190857	190997	149631	149771	Klebsiella_pneumoniae_CP049891.1	k141_41	99.29		False
+269634	269774	149771	149631	Klebsiella_pneumoniae_CP049891.1	k141_41	99.29		False
+810573	810713	149631	149771	Klebsiella_pneumoniae_MGH_43_NZ_KK036953.1	k141_41	98.58		False
+113486	113627	149630	149771	Klebsiella_pneumoniae_CP049891.1	k141_41	99.3		False
+148664	148805	149630	149771	Klebsiella_pneumoniae_CP049891.1	k141_41	99.3		False
+185576	185717	149771	149630	Klebsiella_pneumoniae_CP049891.1	k141_41	99.3		False
+149284	149425	149771	149630	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047676.1	k141_41	98.59		False
+189188	189329	149630	149771	Klebsiella_pneumoniae_CP049891.1	k141_41	98.59		False
+1318172	1318313	149630	149771	Klebsiella_pneumoniae_MGH_43_NZ_KK036953.1	k141_41	97.18		False
+180180	180323	149628	149771	Klebsiella_pneumoniae_CP049891.1	k141_41	99.31		False
+2577950	2602192	1	24237	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_41	99.32		True
+interspecies translocation
+2723889	2727730	28136	24295	Klebsiella_variicola_NZ_CP047360.1	k141_41	98.06		True
+interspecies translocation
+2604695	2686285	28137	109767	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_41	99.19		True
+interspecies translocation
+2641406	2642483	114150	113073	Klebsiella_variicola_NZ_CP047360.1	k141_41	96.38		True
+indel: indel (<= 5bp)
+2640318	2641405	115239	114152	Klebsiella_variicola_NZ_CP047360.1	k141_41	96.78		True
+indel: indel (> 5bp)
+2640222	2640305	115324	115241	Klebsiella_variicola_NZ_CP047360.1	k141_41	96.43		True
+interspecies translocation
+3823552	3855073	149631	118111	Klebsiella_pneumoniae_MGH_43_NZ_KK036953.1	k141_41	99.18		True
+CONTIG	k141_41	149771	misassembled
+1033238	1033317	1	80	Klebsiella_pneumoniae_MGH_43_NZ_KK036953.1	k141_43	100.0		False
+1041072	1041151	1	80	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_43	100.0		False
+125531	125610	1	80	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_43	100.0		False
+5344774	5344853	80	1	Klebsiella_variicola_NZ_CP047360.1	k141_43	100.0		False
+1229725	1229804	1	80	Klebsiella_pneumoniae_MGH_43_NZ_KK036953.1	k141_43	100.0		False
+379489	379568	80	1	Klebsiella_pneumoniae_MGH_43_NZ_KK036953.1	k141_43	100.0		False
+4473958	4474037	80	1	Klebsiella_variicola_NZ_CP047360.1	k141_43	100.0		False
+217488	217567	1	80	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_43	100.0		False
+5443936	5444015	80	1	Klebsiella_pneumoniae_MGH_43_NZ_KK036953.1	k141_43	100.0		False
+5449783	5449862	80	1	Klebsiella_variicola_NZ_CP047360.1	k141_43	100.0		False
+452538	452617	1	80	Klebsiella_variicola_NZ_CP047360.1	k141_43	100.0		False
+1681185	1681264	1	80	Klebsiella_pneumoniae_MGH_43_NZ_KK036953.1	k141_43	100.0		False
+685753	685832	1	80	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_43	100.0		False
+4884663	4884742	80	1	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_43	100.0		False
+1137928	1138007	1	80	Klebsiella_pneumoniae_MGH_43_NZ_KK036953.1	k141_43	100.0		False
+5252903	5252983	80	1	Klebsiella_variicola_NZ_CP047360.1	k141_43	98.77		False
+4838631	4838713	83	1	Klebsiella_variicola_NZ_CP047360.1	k141_43	100.0		False
+5207976	5208058	83	1	Klebsiella_variicola_NZ_CP047360.1	k141_43	100.0		False
+1274771	1274948	1	178	Klebsiella_pneumoniae_MGH_43_NZ_KK036953.1	k141_43	98.88		False
+1229956	1230071	64	179	Klebsiella_pneumoniae_MGH_43_NZ_KK036953.1	k141_43	98.28		False
+1231772	1231951	1	180	Klebsiella_variicola_NZ_CP047360.1	k141_43	97.22		False
+1033472	1033586	67	181	Klebsiella_pneumoniae_MGH_43_NZ_KK036953.1	k141_43	98.26		False
+217719	217836	64	181	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_43	99.15		False
+262633	262813	1	181	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_43	100.0		False
+21000	21180	1	181	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_43	98.9		False
+1251039	1257044	19263	25268	Klebsiella_variicola_NZ_CP047360.1	k141_43	95.12		False
+1257045	1263979	25270	32204	Klebsiella_variicola_NZ_CP047360.1	k141_43	95.39		False
+1264182	1268460	32406	36684	Klebsiella_variicola_NZ_CP047360.1	k141_43	95.26		False
+1271977	1274488	46979	49490	Klebsiella_variicola_NZ_CP047360.1	k141_43	95.1		False
+1278912	1279601	53896	54585	Klebsiella_variicola_NZ_CP047360.1	k141_43	96.23		False
+1279603	1284691	54586	59674	Klebsiella_variicola_NZ_CP047360.1	k141_43	95.54		False
+1289117	1293370	64063	68316	Klebsiella_variicola_NZ_CP047360.1	k141_43	95.37		False
+1300659	1305999	75608	80948	Klebsiella_variicola_NZ_CP047360.1	k141_43	96.5		False
+1306000	1306088	80950	81038	Klebsiella_variicola_NZ_CP047360.1	k141_43	97.75		False
+1306093	1306515	81043	81465	Klebsiella_variicola_NZ_CP047360.1	k141_43	95.98		False
+4042925	4129717	86955	152	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_43	99.44		False
+1306519	1312009	81469	86959	Klebsiella_variicola_NZ_CP047360.1	k141_43	95.79		False
+2490723	2562744	1	72056	Klebsiella_pneumoniae_MGH_43_NZ_KK036953.1	k141_43	99.36		True
+local misassembly
+2562708	2577521	72145	86958	Klebsiella_pneumoniae_MGH_43_NZ_KK036953.1	k141_43	99.56		True
+CONTIG	k141_43	111274	correct
+CONTIG	k141_49	7503	unaligned
+CONTIG	k141_50	9701	unaligned
+1235166	1269708	34543	1	Klebsiella_pneumoniae_MGH_43_NZ_KK036953.1	k141_54	99.63	True	True
+222929	257471	34543	1	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_54	99.56	True	True
+CONTIG	k141_54	34543	ambiguous
+259057	259594	1	538	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_55	99.63	True	True
+682271	682808	1	538	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_55	99.44	True	True
+1271294	1271831	1	538	Klebsiella_pneumoniae_MGH_43_NZ_KK036953.1	k141_55	99.07	True	True
+1029761	1030298	1	538	Klebsiella_pneumoniae_MGH_43_NZ_KK036953.1	k141_55	99.07	True	True
+CONTIG	k141_55	538	ambiguous
+2487238	2490822	1	3585	Klebsiella_pneumoniae_MGH_43_NZ_KK036953.1	k141_56	99.47	True	True
+1271294	1274870	1	3585	Klebsiella_pneumoniae_MGH_43_NZ_KK036953.1	k141_56	99.16	True	True
+379489	383052	3565	1	Klebsiella_pneumoniae_MGH_43_NZ_KK036953.1	k141_56	99.58	True	True
+17526	21099	1	3585	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_56	98.88	True	True
+1029761	1033317	1	3565	Klebsiella_pneumoniae_MGH_43_NZ_KK036953.1	k141_56	99.16	True	True
+5207976	5211546	3568	1	Klebsiella_variicola_NZ_CP047360.1	k141_56	98.99	True	True
+1228296	1231871	1	3585	Klebsiella_variicola_NZ_CP047360.1	k141_56	98.5	True	True
+CONTIG	k141_56	3585	ambiguous
+1234294	1235306	1	1013	Klebsiella_pneumoniae_MGH_43_NZ_KK036953.1	k141_57	99.9	True	True
+4915864	4916876	1013	1	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_57	99.7	True	True
+222057	223069	1	1013	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_57	99.7	True	True
+1649056	1650068	1	1013	Klebsiella_pneumoniae_MGH_43_NZ_KK036953.1	k141_57	99.61	True	True
+CONTIG	k141_57	1013	ambiguous
+787726	787955	1	229	Klebsiella_pneumoniae_MGH_43_NZ_KK036953.1	k141_60	95.69		True
+local misassembly
+788259	788399	432	572	Klebsiella_pneumoniae_MGH_43_NZ_KK036953.1	k141_60	100.0		True
+CONTIG	k141_60	572	correct
+CONTIG	k141_62	4705	unaligned
+CONTIG	k141_64	4959	unaligned
+200042	200151	39016	38907	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047676.1	k141_65	96.36		False
+821406	852455	1	31044	Klebsiella_pneumoniae_MGH_43_NZ_KK036953.1	k141_65	99.93		True
+relocation, inconsistency = 489324
+1341780	1349527	38792	31045	Klebsiella_pneumoniae_MGH_43_NZ_KK036953.1	k141_65	99.97		True
+local misassembly
+1330543	1339803	49933	40682	Klebsiella_pneumoniae_MGH_43_NZ_KK036953.1	k141_65	99.87		True
+CONTIG	k141_65	50208	misassembled
+810573	811361	790	1	Klebsiella_pneumoniae_MGH_43_NZ_KK036953.1	k141_69	99.11	True	True
+113487	114274	790	1	Klebsiella_pneumoniae_CP049891.1	k141_69	98.86	True	True
+CONTIG	k141_69	790	ambiguous
+CONTIG	k141_77	2350	unaligned
+4982566	4982675	110	1	Klebsiella_pneumoniae_MGH_43_NZ_KK036953.1	k141_80	98.18		False
+4529427	4529513	145	231	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_80	100.0		False
+1509792	1509885	1	94	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_80	100.0		False
+2036813	2036899	231	145	Klebsiella_pneumoniae_MGH_43_NZ_KK036953.1	k141_80	100.0		True
+local misassembly
+1945016	2036391	91664	233	Klebsiella_pneumoniae_MGH_43_NZ_KK036953.1	k141_80	99.35		True
+CONTIG	k141_80	109300	correct
+CONTIG	k141_82	3865	unaligned
+1804660	1804848	10736	10924	Klebsiella_variicola_NZ_CP047360.1	k141_83	97.88		False
+3094880	3096620	10820	12560	Klebsiella_pneumoniae_MGH_43_NZ_KK036953.1	k141_83	99.14		False
+3461069	3462809	12560	10820	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_83	99.02		False
+1804744	1806485	10820	12560	Klebsiella_variicola_NZ_CP047360.1	k141_83	95.12		False
+1804850	1806611	10925	12686	Klebsiella_variicola_NZ_CP047360.1	k141_83	95.46		False
+3460984	3462896	12645	10733	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_83	99.11		True
+unknown
+3423764	3438718	27582	12629	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_83	99.2		True
+unknown
+CONTIG	k141_83	35965	mis_unaligned
+CONTIG	k141_84	8085	unaligned
+634086	634659	574	1	Klebsiella_pneumoniae_MGH_43_NZ_KK036953.1	k141_86	98.26		False
+634519	634659	773	633	Klebsiella_pneumoniae_MGH_43_NZ_KK036953.1	k141_86	99.29		False
+395608	396181	1	574	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_86	99.13		True
+local misassembly
+395608	395748	633	773	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_86	99.29		True
+CONTIG	k141_86	773	correct
+939132	970128	1	30926	Klebsiella_variicola_NZ_CP047360.1	k141_90	96.06		False
+970514	1003228	31012	63729	Klebsiella_variicola_NZ_CP047360.1	k141_90	95.63		False
+4315153	4379052	63906	1	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_90	99.52		False
+1013580	1014364	63716	64501	Klebsiella_variicola_NZ_CP047360.1	k141_90	97.84		False
+1014364	1062375	65242	113299	Klebsiella_variicola_NZ_CP047360.1	k141_90	96.33		False
+1066935	1070858	113352	117275	Klebsiella_variicola_NZ_CP047360.1	k141_90	95.34		False
+1076347	1077555	122804	124012	Klebsiella_variicola_NZ_CP047360.1	k141_90	95.86		False
+1077884	1077973	124039	124128	Klebsiella_variicola_NZ_CP047360.1	k141_90	97.78		False
+5168568	5168690	132177	132055	Klebsiella_pneumoniae_MGH_43_NZ_KK036953.1	k141_90	97.56		False
+1086297	1086631	132298	132632	Klebsiella_variicola_NZ_CP047360.1	k141_90	98.21		False
+1087675	1087753	133006	133084	Klebsiella_variicola_NZ_CP047360.1	k141_90	100.0		False
+1087232	1087310	133006	133084	Klebsiella_variicola_NZ_CP047360.1	k141_90	100.0		False
+2355827	2355905	133006	133084	Klebsiella_pneumoniae_MGH_43_NZ_KK036953.1	k141_90	100.0		False
+2356270	2356348	133006	133084	Klebsiella_pneumoniae_MGH_43_NZ_KK036953.1	k141_90	100.0		False
+4246965	4247043	133084	133006	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_90	100.0		False
+2355959	2356041	133227	133309	Klebsiella_pneumoniae_MGH_43_NZ_KK036953.1	k141_90	100.0		False
+1087364	1087446	133227	133309	Klebsiella_variicola_NZ_CP047360.1	k141_90	100.0		False
+2356262	2356346	133225	133309	Klebsiella_pneumoniae_MGH_43_NZ_KK036953.1	k141_90	100.0		False
+1087005	1087083	133233	133311	Klebsiella_variicola_NZ_CP047360.1	k141_90	100.0		False
+2355600	2355678	133233	133311	Klebsiella_pneumoniae_MGH_43_NZ_KK036953.1	k141_90	100.0		False
+4247270	4247354	133311	133227	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_90	100.0		False
+1087667	1087753	133225	133311	Klebsiella_variicola_NZ_CP047360.1	k141_90	100.0		False
+4246965	4247051	133311	133225	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_90	100.0		False
+2355821	2355903	133365	133447	Klebsiella_pneumoniae_MGH_43_NZ_KK036953.1	k141_90	100.0		False
+1087226	1087308	133365	133447	Klebsiella_variicola_NZ_CP047360.1	k141_90	100.0		False
+4247408	4247492	133449	133365	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_90	100.0		False
+2356264	2356496	133365	133597	Klebsiella_pneumoniae_MGH_43_NZ_KK036953.1	k141_90	95.71		False
+4246817	4247049	133597	133365	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_90	95.28		False
+1087005	1087083	133676	133754	Klebsiella_variicola_NZ_CP047360.1	k141_90	100.0		False
+2355600	2355678	133676	133754	Klebsiella_pneumoniae_MGH_43_NZ_KK036953.1	k141_90	100.0		False
+4247635	4247713	133754	133676	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_90	100.0		False
+1087224	1087310	133668	133754	Klebsiella_variicola_NZ_CP047360.1	k141_90	100.0		False
+2355819	2355905	133668	133754	Klebsiella_pneumoniae_MGH_43_NZ_KK036953.1	k141_90	100.0		False
+4247408	4247494	133754	133668	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_90	100.0		False
+1086656	1087889	132657	133890	Klebsiella_variicola_NZ_CP047360.1	k141_90	98.3		False
+2355959	2356191	133670	133902	Klebsiella_pneumoniae_MGH_43_NZ_KK036953.1	k141_90	96.14		False
+1087364	1087596	133670	133902	Klebsiella_variicola_NZ_CP047360.1	k141_90	96.14		False
+4247122	4247354	133902	133670	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_90	96.14		False
+1088459	1091093	134529	137163	Klebsiella_variicola_NZ_CP047360.1	k141_90	95.71		False
+1091107	1091830	137170	137893	Klebsiella_variicola_NZ_CP047360.1	k141_90	97.51		False
+1102045	1102574	148102	148631	Klebsiella_variicola_NZ_CP047360.1	k141_90	98.3		False
+1109892	1110282	155972	156362	Klebsiella_variicola_NZ_CP047360.1	k141_90	96.93		False
+1127029	1137627	176719	187316	Klebsiella_variicola_NZ_CP047360.1	k141_90	96.81		False
+4193410	4315179	187321	65549	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_90	99.24		False
+1160245	1168865	187412	196032	Klebsiella_variicola_NZ_CP047360.1	k141_90	96.5		False
+2424905	2425031	195946	196072	Klebsiella_pneumoniae_MGH_43_NZ_KK036953.1	k141_90	99.21		False
+1199565	1209060	196026	205519	Klebsiella_variicola_NZ_CP047360.1	k141_90	97.2		False
+5454835	5454928	223212	223119	Klebsiella_variicola_NZ_CP047360.1	k141_90	100.0		False
+5258052	5258145	223212	223119	Klebsiella_variicola_NZ_CP047360.1	k141_90	100.0		False
+5349912	5350013	223212	223111	Klebsiella_variicola_NZ_CP047360.1	k141_90	99.02		False
+5213045	5213202	223212	223055	Klebsiella_variicola_NZ_CP047360.1	k141_90	96.84		False
+447541	447698	223055	223212	Klebsiella_variicola_NZ_CP047360.1	k141_90	96.84		False
+4479281	4479438	223212	223055	Klebsiella_variicola_NZ_CP047360.1	k141_90	96.84		False
+4843688	4843845	223212	223055	Klebsiella_variicola_NZ_CP047360.1	k141_90	96.2		False
+1209283	1226797	205695	223212	Klebsiella_variicola_NZ_CP047360.1	k141_90	95.65		False
+15934	16043	223119	223228	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_90	100.0		False
+1224573	1224682	223119	223228	Klebsiella_pneumoniae_MGH_43_NZ_KK036953.1	k141_90	100.0		False
+1028169	1028278	223119	223228	Klebsiella_pneumoniae_MGH_43_NZ_KK036953.1	k141_90	100.0		False
+212164	212273	223119	223228	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_90	100.0		False
+120367	120485	223110	223228	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_90	99.16		False
+1132760	1132878	223110	223228	Klebsiella_pneumoniae_MGH_43_NZ_KK036953.1	k141_90	98.32		False
+1269638	1269811	223055	223228	Klebsiella_pneumoniae_MGH_43_NZ_KK036953.1	k141_90	97.13		False
+1597	1770	223228	223055	Klebsiella_pneumoniae_MGH_43_NZ_KK036953.1	k141_90	97.13		False
+1676196	1676369	223055	223228	Klebsiella_pneumoniae_MGH_43_NZ_KK036953.1	k141_90	97.13		False
+4889562	4889735	223228	223055	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_90	97.13		False
+257401	257574	223055	223228	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_90	97.13		False
+1035860	1036033	223055	223228	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_90	97.13		False
+680615	680788	223055	223228	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_90	97.13		False
+384535	384708	223228	223055	Klebsiella_pneumoniae_MGH_43_NZ_KK036953.1	k141_90	96.55		False
+4134968	4170802	223228	187397	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_90	99.21		False
+2209433	2233731	1	24299	Klebsiella_pneumoniae_MGH_43_NZ_KK036953.1	k141_90	99.7		True
+local misassembly
+2233712	2273038	24377	63712	Klebsiella_pneumoniae_MGH_43_NZ_KK036953.1	k141_90	99.44		True
+relocation, inconsistency = 13259
+2286298	2418651	63713	196062	Klebsiella_pneumoniae_MGH_43_NZ_KK036953.1	k141_90	99.33		True
+relocation, inconsistency = 39938
+2458590	2485755	196063	223228	Klebsiella_pneumoniae_MGH_43_NZ_KK036953.1	k141_90	99.51		True
+CONTIG	k141_90	223228	misassembled
+1229705	1234434	4730	1	Klebsiella_pneumoniae_MGH_43_NZ_KK036953.1	k141_91	99.47	True	True
+217468	222197	4730	1	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_91	99.43	True	True
+CONTIG	k141_91	4730	ambiguous
+1234166	1234434	269	1	Klebsiella_pneumoniae_MGH_43_NZ_KK036953.1	k141_92	97.03		False
+5248409	5248677	1	269	Klebsiella_variicola_NZ_CP047360.1	k141_92	97.03		False
+221929	222197	269	1	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_92	96.28		False
+413691	420541	6851	1	Klebsiella_variicola_NZ_CP047360.1	k141_92	96.32		False
+405988	408181	14553	12360	Klebsiella_variicola_NZ_CP047360.1	k141_92	95.72		False
+398991	405951	21549	14589	Klebsiella_variicola_NZ_CP047360.1	k141_92	95.4		False
+393235	398989	27304	21550	Klebsiella_variicola_NZ_CP047360.1	k141_92	95.48		False
+387968	391675	32570	28863	Klebsiella_variicola_NZ_CP047360.1	k141_92	95.44		False
+378098	378961	42440	41577	Klebsiella_variicola_NZ_CP047360.1	k141_92	95.25		False
+366623	373841	53917	46699	Klebsiella_variicola_NZ_CP047360.1	k141_92	95.01		False
+363371	366421	57161	54111	Klebsiella_variicola_NZ_CP047360.1	k141_92	96.13		False
+362128	363321	58406	57213	Klebsiella_variicola_NZ_CP047360.1	k141_92	96.15		False
+360517	362126	60016	58407	Klebsiella_variicola_NZ_CP047360.1	k141_92	96.4		False
+359134	360501	61399	60032	Klebsiella_variicola_NZ_CP047360.1	k141_92	96.13		False
+354349	359059	66185	61475	Klebsiella_variicola_NZ_CP047360.1	k141_92	96.9		False
+4916736	4989797	1	73057	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_92	99.62		False
+346785	354146	73749	66388	Klebsiella_variicola_NZ_CP047360.1	k141_92	96.29		False
+346596	346713	73892	73775	Klebsiella_variicola_NZ_CP047360.1	k141_92	98.31		False
+340017	346561	80479	73935	Klebsiella_variicola_NZ_CP047360.1	k141_92	95.31		False
+332198	339785	88298	80711	Klebsiella_variicola_NZ_CP047360.1	k141_92	95.43		False
+329221	329837	91275	90659	Klebsiella_variicola_NZ_CP047360.1	k141_92	95.46		False
+4989874	5007219	73929	91275	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_92	99.51		False
+328638	328832	91858	91664	Klebsiella_variicola_NZ_CP047360.1	k141_92	96.92		False
+326161	328468	94217	91910	Klebsiella_variicola_NZ_CP047360.1	k141_92	95.93		False
+1543046	1543172	106035	105909	Klebsiella_pneumoniae_MGH_43_NZ_KK036953.1	k141_92	99.21		False
+1542916	1543069	106042	105888	Klebsiella_pneumoniae_MGH_43_NZ_KK036953.1	k141_92	95.48		False
+314314	328501	106042	91874	Klebsiella_variicola_NZ_CP047360.1	k141_92	95.87		False
+5007579	5021985	91635	106042	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_92	99.24		False
+299056	299139	120700	120617	Klebsiella_variicola_NZ_CP047360.1	k141_92	100.0		False
+298795	298878	120700	120617	Klebsiella_variicola_NZ_CP047360.1	k141_92	98.81		False
+299404	314217	120700	105888	Klebsiella_variicola_NZ_CP047360.1	k141_92	96.69		False
+298707	298791	120701	120617	Klebsiella_variicola_NZ_CP047360.1	k141_92	98.82		False
+5019501	5055574	103557	139507	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_92	98.98		False
+279812	298704	139508	120617	Klebsiella_variicola_NZ_CP047360.1	k141_92	95.83		False
+222110	279065	196471	139533	Klebsiella_variicola_NZ_CP047360.1	k141_92	95.3		False
+214804	215307	203659	203156	Klebsiella_variicola_NZ_CP047360.1	k141_92	95.45		False
+5056059	5120239	139533	203725	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_92	99.43		False
+4332187	4332310	203826	203703	Klebsiella_pneumoniae_MGH_43_NZ_KK036953.1	k141_92	100.0		False
+5121538	5121661	203826	203703	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_92	100.0		False
+4799924	4800047	203826	203703	Klebsiella_pneumoniae_MGH_43_NZ_KK036953.1	k141_92	100.0		False
+405914	406037	203826	203703	Klebsiella_pneumoniae_MGH_43_NZ_KK036953.1	k141_92	100.0		False
+1133971	1134094	203826	203703	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_92	100.0		False
+632505	632643	203688	203826	Klebsiella_pneumoniae_MGH_43_NZ_KK036953.1	k141_92	100.0		False
+4971969	4972108	203687	203826	Klebsiella_pneumoniae_MGH_43_NZ_KK036953.1	k141_92	100.0		False
+1460915	1461054	203687	203826	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_92	100.0		False
+4862816	4862955	203687	203826	Klebsiella_variicola_NZ_CP047360.1	k141_92	100.0		False
+976345	976484	203826	203687	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_92	99.29		False
+3071556	3071696	203686	203826	Klebsiella_pneumoniae_MGH_43_NZ_KK036953.1	k141_92	100.0		False
+1543163	1649196	106042	1	Klebsiella_pneumoniae_MGH_43_NZ_KK036953.1	k141_92	99.55		True
+local misassembly
+1445134	1542791	203702	106043	Klebsiella_pneumoniae_MGH_43_NZ_KK036953.1	k141_92	99.45		True
+CONTIG	k141_92	203826	correct
+31779	32130	13768	14119	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047676.1	k141_93	98.58		False
+120358	120709	13768	14119	Klebsiella_pneumoniae_CP049891.1	k141_93	97.73		False
+798931	799280	13768	14119	Klebsiella_pneumoniae_MGH_43_NZ_KK036953.1	k141_93	97.16		False
+3649663	3653273	137	3745	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_93	96.95		True
+unknown
+3656446	3657949	5253	6756	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_93	95.95		True
+unknown
+74426	74777	14119	13768	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047676.1	k141_93	98.58		True
+unknown
+CONTIG	k141_93	14119	mis_unaligned
+4072403	4072963	560	1	Klebsiella_variicola_NZ_CP047360.1	k141_94	96.43		True
+CONTIG	k141_94	560	correct
+3413174	3413312	139	1	Klebsiella_variicola_NZ_CP047360.1	k141_95	97.12		False
+970261	970399	1	140	Klebsiella_variicola_NZ_CP047360.1	k141_95	97.14		False
+5030525	5030665	1	141	Klebsiella_pneumoniae_MGH_43_NZ_KK036953.1	k141_95	98.58		False
+3557095	3557235	141	1	Klebsiella_variicola_NZ_CP047360.1	k141_95	97.87		False
+1420984	1421124	141	1	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_95	97.87		False
+61491	61631	1	141	Klebsiella_variicola_NZ_CP047360.1	k141_95	97.16		False
+3573743	3573883	141	1	Klebsiella_variicola_NZ_CP047360.1	k141_95	96.45		False
+2860224	2860364	141	1	Klebsiella_pneumoniae_MGH_43_NZ_KK036953.1	k141_95	95.74		False
+3844190	3844330	1	141	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_95	95.04		False
+903394	903539	146	1	Klebsiella_pneumoniae_MGH_43_NZ_KK036953.1	k141_95	96.58		False
+2511145	2511290	146	1	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_95	95.89		False
+4038670	4038815	1	146	Klebsiella_pneumoniae_MGH_43_NZ_KK036953.1	k141_95	95.89		False
+1753705	1753850	146	1	Klebsiella_variicola_NZ_CP047360.1	k141_95	95.89		False
+1755044	1755189	146	1	Klebsiella_variicola_NZ_CP047360.1	k141_95	95.21		False
+4788766	4788913	1	148	Klebsiella_pneumoniae_MGH_43_NZ_KK036953.1	k141_95	97.3		False
+1691412	1691559	148	1	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_95	96.62		False
+4393449	4393596	1	148	Klebsiella_variicola_NZ_CP047360.1	k141_95	96.62		False
+1460576	1460738	163	1	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_95	98.16		False
+5063082	5063243	1	163	Klebsiella_pneumoniae_MGH_43_NZ_KK036953.1	k141_95	96.93		False
+4106067	4106229	1	163	Klebsiella_variicola_NZ_CP047360.1	k141_95	96.32		False
+4131820	4131982	1	163	Klebsiella_variicola_NZ_CP047360.1	k141_95	95.09		False
+3836115	3836277	1	163	Klebsiella_variicola_NZ_CP047360.1	k141_95	95.09		False
+5352620	5352784	1	165	Klebsiella_pneumoniae_MGH_43_NZ_KK036953.1	k141_95	95.76		False
+4071797	4071978	1	182	Klebsiella_variicola_NZ_CP047360.1	k141_95	97.8		False
+4072403	4072584	1	182	Klebsiella_variicola_NZ_CP047360.1	k141_95	97.25		False
+3817692	3817873	182	1	Klebsiella_variicola_NZ_CP047360.1	k141_95	96.15		False
+3207337	3207518	182	1	Klebsiella_variicola_NZ_CP047360.1	k141_95	95.6		False
+4330483	4330664	182	1	Klebsiella_pneumoniae_MGH_43_NZ_KK036953.1	k141_95	95.6		False
+2201012	2201193	1	182	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_95	95.6		False
+4072892	4073073	1	182	Klebsiella_variicola_NZ_CP047360.1	k141_95	95.6		False
+3486635	3486816	182	1	Klebsiella_pneumoniae_MGH_43_NZ_KK036953.1	k141_95	95.05		False
+469690	469872	183	1	Klebsiella_pneumoniae_MGH_43_NZ_KK036953.1	k141_95	95.08		False
+3756104	3756286	1	183	Klebsiella_variicola_NZ_CP047360.1	k141_95	95.08		False
+547799	547981	1	183	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_95	95.08		False
+1108691	1108984	295	1	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_95	99.32		False
+5352092	5352386	1	295	Klebsiella_pneumoniae_MGH_43_NZ_KK036953.1	k141_95	97.63		False
+28431	29277	52228	51382	Klebsiella_pneumoniae_CP049891.1	k141_95	100.0		False
+320932	321776	52228	51382	Klebsiella_pneumoniae_CP049891.1	k141_95	99.76		False
+314495	315567	52221	53295	Klebsiella_pneumoniae_CP049891.1	k141_95	99.72		False
+21993	23064	52221	53295	Klebsiella_pneumoniae_CP049891.1	k141_95	99.63		False
+3619368	3621280	51382	53295	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_95	99.84		False
+2101819	2103731	53295	51382	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_95	99.84		False
+2176216	2178137	51382	53304	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_95	99.79		False
+3266879	3277972	53468	64553	Klebsiella_variicola_NZ_CP047360.1	k141_95	95.15		False
+3288406	3288640	74662	74896	Klebsiella_variicola_NZ_CP047360.1	k141_95	96.17		False
+3292706	3297643	74980	79918	Klebsiella_variicola_NZ_CP047360.1	k141_95	95.67		False
+3358859	3359024	83982	84147	Klebsiella_variicola_NZ_CP047360.1	k141_95	99.4		False
+3304790	3305005	83932	84147	Klebsiella_variicola_NZ_CP047360.1	k141_95	97.69		False
+2145364	2176215	84147	53310	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_95	99.4		False
+3402166	3413043	83932	94809	Klebsiella_variicola_NZ_CP047360.1	k141_95	96.04		False
+2078088	2088972	94867	83982	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_95	99.19		False
+3413531	3422336	94927	103734	Klebsiella_variicola_NZ_CP047360.1	k141_95	95.49		False
+2068357	2077403	103825	94780	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_95	99.58		False
+3432249	3432313	103861	103925	Klebsiella_variicola_NZ_CP047360.1	k141_95	98.46		False
+3432323	3441384	103935	112996	Klebsiella_variicola_NZ_CP047360.1	k141_95	95.86		False
+3446981	3448328	118594	119941	Klebsiella_variicola_NZ_CP047360.1	k141_95	95.4		False
+3448531	3450792	120145	122406	Klebsiella_variicola_NZ_CP047360.1	k141_95	95.0		False
+3452561	3463201	124175	134815	Klebsiella_variicola_NZ_CP047360.1	k141_95	96.05		False
+3463203	3465543	134816	137156	Klebsiella_variicola_NZ_CP047360.1	k141_95	97.31		False
+3465550	3469279	137163	140892	Klebsiella_variicola_NZ_CP047360.1	k141_95	96.17		False
+3480325	3480698	151942	152315	Klebsiella_variicola_NZ_CP047360.1	k141_95	96.26		False
+3480819	3481213	152434	152828	Klebsiella_variicola_NZ_CP047360.1	k141_95	98.23		False
+3486211	3491824	157813	163426	Klebsiella_variicola_NZ_CP047360.1	k141_95	95.55		False
+3502826	3502925	168644	168743	Klebsiella_variicola_NZ_CP047360.1	k141_95	100.0		False
+3493849	3497144	165448	168743	Klebsiella_variicola_NZ_CP047360.1	k141_95	95.48		False
+1990485	1990589	168748	168644	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_95	98.1		False
+3502981	3503060	168797	168876	Klebsiella_variicola_NZ_CP047360.1	k141_95	95.0		False
+3497203	3497328	168801	168926	Klebsiella_variicola_NZ_CP047360.1	k141_95	97.62		False
+3497385	3497510	168801	168926	Klebsiella_variicola_NZ_CP047360.1	k141_95	97.62		False
+1990123	1990250	168926	168799	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_95	96.88		False
+4487174	4487457	168644	168926	Klebsiella_pneumoniae_MGH_43_NZ_KK036953.1	k141_95	96.13		False
+4417309	4482398	103846	168926	Klebsiella_pneumoniae_MGH_43_NZ_KK036953.1	k141_95	99.58		False
+3497566	3497721	168801	168957	Klebsiella_variicola_NZ_CP047360.1	k141_95	96.18		False
+3497849	3498083	168723	168957	Klebsiella_variicola_NZ_CP047360.1	k141_95	96.17		False
+3497745	3497920	168800	168975	Klebsiella_variicola_NZ_CP047360.1	k141_95	97.16		False
+4482115	4482214	171729	171828	Klebsiella_pneumoniae_MGH_43_NZ_KK036953.1	k141_95	100.0		False
+1993644	1993748	171833	171729	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_95	98.1		False
+4482376	4482490	171808	171923	Klebsiella_pneumoniae_MGH_43_NZ_KK036953.1	k141_95	98.28		False
+1989767	1989890	171932	171808	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_95	96.8		False
+3500122	3503060	169024	171963	Klebsiella_variicola_NZ_CP047360.1	k141_95	96.5		False
+4487435	4487596	171808	171969	Klebsiella_pneumoniae_MGH_43_NZ_KK036953.1	k141_95	98.16		False
+3497565	3497671	171887	171993	Klebsiella_variicola_NZ_CP047360.1	k141_95	99.07		False
+3497787	3497869	171929	172011	Klebsiella_variicola_NZ_CP047360.1	k141_95	98.8		False
+3497925	3498050	171886	172011	Klebsiella_variicola_NZ_CP047360.1	k141_95	100.0		False
+4482333	4482485	171948	172100	Klebsiella_pneumoniae_MGH_43_NZ_KK036953.1	k141_95	95.42		False
+1990024	1990328	172114	171808	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_95	98.05		False
+3497306	3497610	171808	172114	Klebsiella_variicola_NZ_CP047360.1	k141_95	97.07		False
+3497045	3497429	171729	172114	Klebsiella_variicola_NZ_CP047360.1	k141_95	97.16		False
+4484469	4487559	169024	172114	Klebsiella_pneumoniae_MGH_43_NZ_KK036953.1	k141_95	98.32		False
+1392031	1392291	261	1	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_95	99.66		True
+local misassembly
+1341426	1391820	50650	262	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_95	99.12		True
+interspecies translocation
+4355043	4407499	51382	103825	Klebsiella_pneumoniae_MGH_43_NZ_KK036953.1	k141_95	99.57		True
+interspecies translocation
+1990204	2058547	172114	103846	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_95	99.37		True
+local misassembly
+1983071	1989766	178810	172115	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_95	99.59		True
+CONTIG	k141_95	178947	misassembled
+19204	20504	1	1304	Klebsiella_pneumoniae_CP049891.1	k141_97	99.77		False
+311705	313008	1	1304	Klebsiella_pneumoniae_CP049891.1	k141_97	100.0		True
+CONTIG	k141_97	10706	correct_unaligned
+811221	819326	8106	1	Klebsiella_pneumoniae_MGH_43_NZ_KK036953.1	k141_101	99.93		True
+CONTIG	k141_101	8106	correct
+761653	763008	1356	1	Klebsiella_pneumoniae_MGH_43_NZ_KK036953.1	k141_103	99.85	True	True
+94286	95640	1355	1	Klebsiella_pneumoniae_CP049891.1	k141_103	99.78	True	True
+CONTIG	k141_103	1356	ambiguous
+148368	149424	1	1057	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047676.1	k141_104	98.2	True	True
+268718	269774	1	1057	Klebsiella_pneumoniae_CP049891.1	k141_104	98.11	True	True
+180183	181239	1057	1	Klebsiella_pneumoniae_CP049891.1	k141_104	97.73	True	True
+202768	203824	1057	1	Klebsiella_pneumoniae_CP049891.1	k141_104	97.26	True	True
+CONTIG	k141_104	1057	ambiguous
+321639	321778	864	725	Klebsiella_pneumoniae_CP049891.1	k141_108	100.0		False
+29140	29279	864	725	Klebsiella_pneumoniae_CP049891.1	k141_108	100.0		False
+4355040	4355180	724	864	Klebsiella_pneumoniae_MGH_43_NZ_KK036953.1	k141_108	99.29		False
+2103594	2103734	864	724	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_108	100.0		True
+CONTIG	k141_108	864	correct_unaligned
+767967	769853	1	1887	Klebsiella_pneumoniae_MGH_43_NZ_KK036953.1	k141_110	100.0		True
+CONTIG	k141_110	1887	correct
+767967	768235	1	269	Klebsiella_pneumoniae_MGH_43_NZ_KK036953.1	k141_111	99.26		False
+310029	310298	270	1	Klebsiella_pneumoniae_CP049891.1	k141_111	99.26		False
+326	465	494	633	Klebsiella_pneumoniae_CP049891.1	k141_111	100.0		False
+83074	83213	633	494	Klebsiella_pneumoniae_CP049891.1	k141_111	100.0		False
+755768	755880	522	634	Klebsiella_pneumoniae_MGH_43_NZ_KK036953.1	k141_111	99.12		False
+54397	54536	495	634	Klebsiella_pneumoniae_CP049891.1	k141_111	100.0		False
+246742	246881	495	634	Klebsiella_pneumoniae_CP049891.1	k141_111	100.0		False
+770394	770533	634	495	Klebsiella_pneumoniae_MGH_43_NZ_KK036953.1	k141_111	100.0		False
+260505	260644	634	495	Klebsiella_pneumoniae_CP049891.1	k141_111	100.0		False
+766708	766847	495	634	Klebsiella_pneumoniae_MGH_43_NZ_KK036953.1	k141_111	100.0		False
+294802	294941	634	495	Klebsiella_pneumoniae_CP049891.1	k141_111	100.0		False
+28291	28430	634	495	Klebsiella_pneumoniae_CP049891.1	k141_111	100.0		False
+784621	784760	634	495	Klebsiella_pneumoniae_MGH_43_NZ_KK036953.1	k141_111	100.0		False
+751261	751400	634	495	Klebsiella_pneumoniae_MGH_43_NZ_KK036953.1	k141_111	99.29		False
+320793	320931	634	495	Klebsiella_pneumoniae_CP049891.1	k141_111	99.29		False
+21171	21311	494	634	Klebsiella_pneumoniae_CP049891.1	k141_111	100.0		False
+252184	252324	634	494	Klebsiella_pneumoniae_CP049891.1	k141_111	100.0		False
+313675	313815	494	634	Klebsiella_pneumoniae_CP049891.1	k141_111	100.0		False
+763287	763427	494	634	Klebsiella_pneumoniae_MGH_43_NZ_KK036953.1	k141_111	100.0		False
+260087	260227	634	494	Klebsiella_pneumoniae_CP049891.1	k141_111	100.0		False
+1350216	1350356	634	494	Klebsiella_pneumoniae_MGH_43_NZ_KK036953.1	k141_111	99.29		False
+739866	740006	494	634	Klebsiella_pneumoniae_MGH_43_NZ_KK036953.1	k141_111	99.29		False
+852455	852595	494	634	Klebsiella_pneumoniae_MGH_43_NZ_KK036953.1	k141_111	99.29		False
+1310811	1310951	634	494	Klebsiella_pneumoniae_MGH_43_NZ_KK036953.1	k141_111	99.29		False
+37466	37607	634	493	Klebsiella_pneumoniae_CP049891.1	k141_111	100.0		False
+41812	41953	634	493	Klebsiella_pneumoniae_CP049891.1	k141_111	100.0		False
+82256	82397	493	634	Klebsiella_pneumoniae_CP049891.1	k141_111	100.0		False
+1141	1281	634	493	Klebsiella_pneumoniae_CP049891.1	k141_111	99.3		False
+252602	252745	634	491	Klebsiella_pneumoniae_CP049891.1	k141_111	100.0		False
+17527	17796	270	1	Klebsiella_pneumoniae_CP049891.1	k141_111	99.26		True
+relocation, inconsistency = -72728
+90031	90254	494	271	Klebsiella_pneumoniae_CP049891.1	k141_111	100.0		True
+relocation, inconsistency = 5747
+84144	84283	495	634	Klebsiella_pneumoniae_CP049891.1	k141_111	100.0		True
+CONTIG	k141_111	634	misassembled
+CONTIG	k141_113	1168	unaligned
+20959	120515	1	99556	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_120	99.38	True	True
+1033472	1132908	108	99556	Klebsiella_pneumoniae_MGH_43_NZ_KK036953.1	k141_120	99.38	True	True
+CONTIG	k141_120	99556	ambiguous
+186168	186307	1	140	Klebsiella_pneumoniae_CP049891.1	k141_123	100.0		False
+5142932	5166978	141	24174	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_123	99.14		False
+156451	190942	34620	141	Klebsiella_variicola_NZ_CP047360.1	k141_123	96.2		False
+129840	156253	61115	34659	Klebsiella_variicola_NZ_CP047360.1	k141_123	95.74		False
+5167269	5206710	25651	65091	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_123	99.48		False
+119922	124479	65794	61237	Klebsiella_variicola_NZ_CP047360.1	k141_123	96.23		False
+81963	113661	103538	71914	Klebsiella_variicola_NZ_CP047360.1	k141_123	95.7		False
+5207945	5246337	65146	103538	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_123	99.43		False
+5246455	5251473	103512	108530	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_123	98.84		False
+5254560	5269157	108513	123117	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_123	98.65		False
+1584514	1584595	123056	123137	Klebsiella_variicola_NZ_CP047360.1	k141_123	95.12		False
+1584596	1584702	123139	123245	Klebsiella_variicola_NZ_CP047360.1	k141_123	95.33		False
+3413174	3413314	123105	123245	Klebsiella_variicola_NZ_CP047360.1	k141_123	97.16		False
+970259	970399	123245	123104	Klebsiella_variicola_NZ_CP047360.1	k141_123	96.48		False
+1392151	1392293	123103	123245	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_123	97.9		False
+1108844	1108986	123103	123245	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_123	97.9		False
+5030523	5030669	123245	123099	Klebsiella_pneumoniae_MGH_43_NZ_KK036953.1	k141_123	96.6		False
+469727	469874	123098	123245	Klebsiella_pneumoniae_MGH_43_NZ_KK036953.1	k141_123	100.0		False
+3486671	3486818	123098	123245	Klebsiella_pneumoniae_MGH_43_NZ_KK036953.1	k141_123	100.0		False
+547069	547216	123245	123098	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_123	99.32		False
+547797	547944	123245	123098	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_123	99.32		False
+4330519	4330666	123098	123245	Klebsiella_pneumoniae_MGH_43_NZ_KK036953.1	k141_123	98.65		False
+2201010	2201157	123245	123098	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_123	97.97		False
+3207373	3207520	123098	123245	Klebsiella_variicola_NZ_CP047360.1	k141_123	97.97		False
+5352090	5352237	123245	123098	Klebsiella_pneumoniae_MGH_43_NZ_KK036953.1	k141_123	97.3		False
+4071795	4071942	123245	123098	Klebsiella_variicola_NZ_CP047360.1	k141_123	97.3		False
+3817728	3817875	123098	123245	Klebsiella_variicola_NZ_CP047360.1	k141_123	97.3		False
+4072401	4072548	123245	123098	Klebsiella_variicola_NZ_CP047360.1	k141_123	96.62		False
+3756102	3756249	123245	123098	Klebsiella_variicola_NZ_CP047360.1	k141_123	95.95		False
+4788764	4788911	123245	123098	Klebsiella_pneumoniae_MGH_43_NZ_KK036953.1	k141_123	95.95		False
+4908737	4908884	123098	123245	Klebsiella_variicola_NZ_CP047360.1	k141_123	95.95		False
+1691414	1691561	123098	123245	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_123	95.27		False
+4072890	4073037	123245	123098	Klebsiella_variicola_NZ_CP047360.1	k141_123	95.27		False
+5063080	5063245	123245	123079	Klebsiella_pneumoniae_MGH_43_NZ_KK036953.1	k141_123	95.21		False
+1753685	1753852	123078	123245	Klebsiella_variicola_NZ_CP047360.1	k141_123	95.83		False
+1420959	1421126	123078	123245	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_123	95.24		False
+3557056	3557237	123064	123245	Klebsiella_variicola_NZ_CP047360.1	k141_123	95.05		False
+1460522	1460740	123027	123245	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_123	95.43		False
+61489	81272	123245	103512	Klebsiella_variicola_NZ_CP047360.1	k141_123	96.26		False
+1350356	1423366	73129	141	Klebsiella_pneumoniae_MGH_43_NZ_KK036953.1	k141_123	99.35		True
+relocation, inconsistency = 466664
+853284	883691	73130	103538	Klebsiella_pneumoniae_MGH_43_NZ_KK036953.1	k141_123	99.42		True
+local misassembly
+883836	903541	103539	123245	Klebsiella_pneumoniae_MGH_43_NZ_KK036953.1	k141_123	99.29		True
+CONTIG	k141_123	123245	misassembled
+CONTIG	k141_125	1098	unaligned
+CONTIG	k141_129	7504	unaligned
+CONTIG	k141_134	3317	unaligned
+120836	122519	1684	1	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_135	99.64	True	True
+1225033	1226713	1684	1	Klebsiella_pneumoniae_MGH_43_NZ_KK036953.1	k141_135	99.35	True	True
+1133229	1134912	1684	1	Klebsiella_pneumoniae_MGH_43_NZ_KK036953.1	k141_135	99.35	True	True
+1036384	1038060	1684	1	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_135	99.17	True	True
+5347868	5349545	1	1684	Klebsiella_variicola_NZ_CP047360.1	k141_135	98.69	True	True
+CONTIG	k141_135	1684	ambiguous
+565758	565967	64	273	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_140	99.52		False
+4890781	4890990	273	64	Klebsiella_variicola_NZ_CP047360.1	k141_140	99.52		True
+CONTIG	k141_140	5388	correct_unaligned
+5352696	5359768	1	7055	Klebsiella_pneumoniae_MGH_43_NZ_KK036953.1	k141_141	98.53		True
+CONTIG	k141_141	10647	correct
+CONTIG	k141_142	7004	unaligned
+742996	744255	1	1260	Klebsiella_pneumoniae_MGH_43_NZ_KK036953.1	k141_145	100.0		True
+CONTIG	k141_145	1260	correct
+310158	310678	790	270	Klebsiella_pneumoniae_CP049891.1	k141_146	99.81		False
+17656	18176	790	270	Klebsiella_pneumoniae_CP049891.1	k141_146	99.81		False
+742996	743262	1	267	Klebsiella_pneumoniae_MGH_43_NZ_KK036953.1	k141_146	99.25		True
+relocation, inconsistency = 24322
+767587	768107	270	790	Klebsiella_pneumoniae_MGH_43_NZ_KK036953.1	k141_146	99.81		True
+CONTIG	k141_146	790	misassembled
+CONTIG	k141_150	2745	unaligned
+762868	763427	1	560	Klebsiella_pneumoniae_MGH_43_NZ_KK036953.1	k141_154	100.0		True
+CONTIG	k141_154	560	correct
+84143	84344	202	1	Klebsiella_pneumoniae_CP049891.1	k141_155	99.5		True
+unknown
+83074	83212	1909	1771	Klebsiella_pneumoniae_CP049891.1	k141_155	100.0		True
+unknown
+CONTIG	k141_155	1910	mis_unaligned
+3367396	3367583	143	331	Klebsiella_variicola_NZ_CP047360.1	k141_156	95.77		False
+2783270	2783460	141	331	Klebsiella_variicola_NZ_CP047360.1	k141_156	95.31		True
+CONTIG	k141_156	4184	correct_unaligned
+776006	780315	141	4450	Klebsiella_pneumoniae_MGH_43_NZ_KK036953.1	k141_157	100.0		True
+CONTIG	k141_157	4450	correct
+3056423	3056578	15679	15834	Klebsiella_variicola_NZ_CP047360.1	k141_158	98.08		False
+4194023	4194187	15674	15838	Klebsiella_pneumoniae_MGH_43_NZ_KK036953.1	k141_158	98.79		False
+4194012	4207225	15515	2302	Klebsiella_pneumoniae_MGH_43_NZ_KK036953.1	k141_158	99.11		True
+CONTIG	k141_158	15838	correct
+CONTIG	k141_159	3018	unaligned
+CONTIG	k141_160	972	unaligned
+787471	787876	407	1	Klebsiella_pneumoniae_MGH_43_NZ_KK036953.1	k141_162	97.55		True
+CONTIG	k141_162	1507	correct_unaligned
+4891283	4908868	17521	9	Klebsiella_variicola_NZ_CP047360.1	k141_167	96.95		True
+CONTIG	k141_167	17533	correct
+186073	186307	862	1096	Klebsiella_pneumoniae_CP049891.1	k141_168	100.0		False
+3339950	3340189	3839	3600	Klebsiella_variicola_NZ_CP047360.1	k141_168	96.25		False
+2110246	2110485	3600	3839	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_168	95.83		False
+2808535	2808830	4275	3980	Klebsiella_variicola_NZ_CP047360.1	k141_168	95.27		True
+unknown
+2807871	2808272	5243	4842	Klebsiella_variicola_NZ_CP047360.1	k141_168	97.26		True
+unknown
+2803571	2803674	9526	9423	Klebsiella_variicola_NZ_CP047360.1	k141_168	95.19		True
+unknown
+2797974	2798893	15623	14704	Klebsiella_variicola_NZ_CP047360.1	k141_168	96.85		True
+unknown
+2797128	2797497	16725	16356	Klebsiella_variicola_NZ_CP047360.1	k141_168	96.22		True
+unknown
+2793621	2795229	20820	19212	Klebsiella_variicola_NZ_CP047360.1	k141_168	97.02		True
+unknown
+CONTIG	k141_168	20955	mis_unaligned
+CONTIG	k141_169	2427	unaligned
+1944948	1945066	37340	37223	Klebsiella_pneumoniae_MGH_43_NZ_KK036953.1	k141_173	99.16		False
+705491	705702	37433	37223	Klebsiella_variicola_NZ_CP047360.1	k141_173	97.2		False
+4608916	4609127	37223	37433	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_173	97.2		False
+632090	632301	37223	37433	Klebsiella_pneumoniae_MGH_43_NZ_KK036953.1	k141_173	96.7		False
+396882	397093	37433	37223	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_173	96.7		False
+573891	575716	191485	189660	Klebsiella_variicola_NZ_CP047360.1	k141_173	95.02		False
+2190221	2190297	215475	215551	Klebsiella_pneumoniae_MGH_43_NZ_KK036953.1	k141_173	100.0		False
+919704	919780	215475	215551	Klebsiella_variicola_NZ_CP047360.1	k141_173	100.0		False
+4398298	4398374	215551	215475	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_173	100.0		False
+919925	920001	215475	215551	Klebsiella_variicola_NZ_CP047360.1	k141_173	100.0		False
+919813	919889	215475	215551	Klebsiella_variicola_NZ_CP047360.1	k141_173	100.0		False
+4398189	4398265	215551	215475	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_173	100.0		False
+2190330	2190406	215475	215551	Klebsiella_pneumoniae_MGH_43_NZ_KK036953.1	k141_173	100.0		False
+4398079	4398155	215551	215475	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_173	100.0		False
+548169	561559	217217	203827	Klebsiella_variicola_NZ_CP047360.1	k141_173	96.75		False
+545242	546442	220134	218934	Klebsiella_variicola_NZ_CP047360.1	k141_173	95.92		False
+535355	542978	230016	222393	Klebsiella_variicola_NZ_CP047360.1	k141_173	96.21		False
+533294	535354	232078	230018	Klebsiella_variicola_NZ_CP047360.1	k141_173	96.17		False
+532982	533293	232391	232080	Klebsiella_variicola_NZ_CP047360.1	k141_173	95.83		False
+527678	532981	237696	232393	Klebsiella_variicola_NZ_CP047360.1	k141_173	95.57		False
+511047	511455	254333	253925	Klebsiella_variicola_NZ_CP047360.1	k141_173	96.09		False
+504561	510748	260819	254632	Klebsiella_variicola_NZ_CP047360.1	k141_173	95.8		False
+501162	503696	264222	261688	Klebsiella_variicola_NZ_CP047360.1	k141_173	97.32		False
+499428	500763	265952	264617	Klebsiella_variicola_NZ_CP047360.1	k141_173	95.66		False
+4827598	4827667	268643	268712	Klebsiella_pneumoniae_MGH_43_NZ_KK036953.1	k141_173	100.0		False
+486187	488013	270602	268776	Klebsiella_variicola_NZ_CP047360.1	k141_173	95.84		False
+485136	485490	271655	271301	Klebsiella_variicola_NZ_CP047360.1	k141_173	96.62		False
+1687801	1945033	297461	40223	Klebsiella_pneumoniae_MGH_43_NZ_KK036953.1	k141_173	99.5		False
+4878109	4884015	313439	319346	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_173	98.71		False
+5252917	5253033	319582	319698	Klebsiella_variicola_NZ_CP047360.1	k141_173	95.73		False
+20950	21079	319698	319569	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_173	95.38		False
+1231722	1231851	319698	319569	Klebsiella_variicola_NZ_CP047360.1	k141_173	95.38		False
+2490673	2490802	319698	319569	Klebsiella_pneumoniae_MGH_43_NZ_KK036953.1	k141_173	95.38		False
+1274721	1274850	319698	319569	Klebsiella_pneumoniae_MGH_43_NZ_KK036953.1	k141_173	95.38		False
+1681135	1681265	319698	319568	Klebsiella_pneumoniae_MGH_43_NZ_KK036953.1	k141_173	95.42		False
+1041022	1041152	319698	319568	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_173	95.42		False
+5443935	5444065	319568	319698	Klebsiella_pneumoniae_MGH_43_NZ_KK036953.1	k141_173	95.42		False
+5344773	5344903	319568	319698	Klebsiella_variicola_NZ_CP047360.1	k141_173	95.42		False
+452488	452618	319698	319568	Klebsiella_variicola_NZ_CP047360.1	k141_173	95.42		False
+125481	125611	319698	319568	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_173	95.42		False
+262581	262712	319700	319569	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_173	95.45		False
+4473957	4474089	319568	319700	Klebsiella_variicola_NZ_CP047360.1	k141_173	95.49		False
+4884662	4884794	319568	319700	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_173	95.49		False
+1137876	1138008	319700	319568	Klebsiella_pneumoniae_MGH_43_NZ_KK036953.1	k141_173	95.49		False
+221734	221815	319807	319726	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_173	100.0		False
+1233971	1234052	319807	319726	Klebsiella_pneumoniae_MGH_43_NZ_KK036953.1	k141_173	100.0		False
+5248791	5248872	319726	319807	Klebsiella_variicola_NZ_CP047360.1	k141_173	100.0		False
+262583	262712	319942	319813	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_173	100.0		False
+685703	685833	319942	319812	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_173	100.0		False
+217438	217568	319942	319812	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_173	100.0		False
+4129821	4129951	319812	319942	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_173	100.0		False
+452732	452862	319942	319812	Klebsiella_variicola_NZ_CP047360.1	k141_173	95.42		False
+4473956	4474087	319811	319942	Klebsiella_variicola_NZ_CP047360.1	k141_173	100.0		False
+1137878	1138009	319942	319811	Klebsiella_pneumoniae_MGH_43_NZ_KK036953.1	k141_173	100.0		False
+4884365	4884792	319515	319942	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_173	99.53		False
+4838634	4838768	319813	319947	Klebsiella_variicola_NZ_CP047360.1	k141_173	98.52		False
+1231717	1231851	319947	319813	Klebsiella_variicola_NZ_CP047360.1	k141_173	98.52		False
+5449782	5449917	319812	319947	Klebsiella_variicola_NZ_CP047360.1	k141_173	98.53		False
+5252902	5253038	319812	319947	Klebsiella_variicola_NZ_CP047360.1	k141_173	97.81		False
+452483	452905	319947	319525	Klebsiella_variicola_NZ_CP047360.1	k141_173	99.05		False
+20940	21079	319952	319813	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_173	100.0		False
+2490663	2490802	319952	319813	Klebsiella_pneumoniae_MGH_43_NZ_KK036953.1	k141_173	100.0		False
+1274711	1274850	319952	319813	Klebsiella_pneumoniae_MGH_43_NZ_KK036953.1	k141_173	100.0		False
+5207979	5208118	319813	319952	Klebsiella_variicola_NZ_CP047360.1	k141_173	98.57		False
+1033178	1033318	319952	319812	Klebsiella_pneumoniae_MGH_43_NZ_KK036953.1	k141_173	100.0		False
+1229665	1229805	319952	319812	Klebsiella_pneumoniae_MGH_43_NZ_KK036953.1	k141_173	100.0		False
+379488	379628	319812	319952	Klebsiella_pneumoniae_MGH_43_NZ_KK036953.1	k141_173	100.0		False
+125471	125612	319952	319811	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_173	100.0		False
+5443934	5444075	319811	319952	Klebsiella_pneumoniae_MGH_43_NZ_KK036953.1	k141_173	100.0		False
+1041012	1041153	319952	319811	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_173	100.0		False
+5344772	5344913	319811	319952	Klebsiella_variicola_NZ_CP047360.1	k141_173	98.59		False
+4609111	4742053	37255	170202	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_173	99.32		True
+local misassembly
+4742284	4840779	170203	268712	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_173	99.59		True
+relocation, inconsistency = 8598
+4849395	4878126	268730	297461	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_173	99.6		True
+interspecies translocation
+1681912	1687818	319346	313439	Klebsiella_pneumoniae_MGH_43_NZ_KK036953.1	k141_173	98.75		True
+local misassembly
+1681125	1681562	319952	319515	Klebsiella_pneumoniae_MGH_43_NZ_KK036953.1	k141_173	99.54		True
+CONTIG	k141_173	319952	misassembled
+CONTIG	k141_174	1463	unaligned
+CONTIG	k141_177	510	unaligned
+3055850	3056164	2078	1764	Klebsiella_variicola_NZ_CP047360.1	k141_178	95.24		False
+4184770	4185166	415	19	Klebsiella_pneumoniae_MGH_43_NZ_KK036953.1	k141_178	95.47		True
+interspecies translocation
+3055718	3056311	1013	420	Klebsiella_variicola_NZ_CP047360.1	k141_178	95.96		True
+indel: stretch of mismatches
+3055623	3055713	1108	1018	Klebsiella_variicola_NZ_CP047360.1	k141_178	98.9		True
+local misassembly
+3055561	3055901	1769	1429	Klebsiella_variicola_NZ_CP047360.1	k141_178	96.77		True
+indel: stretch of mismatches
+3055252	3055541	2078	1789	Klebsiella_variicola_NZ_CP047360.1	k141_178	96.9		True
+CONTIG	k141_178	2078	misassembled
+784928	786655	1585	3312	Klebsiella_variicola_NZ_CP047360.1	k141_189	95.95		False
+786942	789227	3595	5881	Klebsiella_variicola_NZ_CP047360.1	k141_189	95.8		False
+4523692	4529418	5881	155	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_189	99.48		False
+789418	790973	5871	7426	Klebsiella_variicola_NZ_CP047360.1	k141_189	96.02		False
+791317	791902	7770	8355	Klebsiella_variicola_NZ_CP047360.1	k141_189	95.73		False
+791907	794316	8360	10769	Klebsiella_variicola_NZ_CP047360.1	k141_189	95.1		False
+798226	800216	14678	16668	Klebsiella_variicola_NZ_CP047360.1	k141_189	95.33		False
+805520	805591	21925	21996	Klebsiella_variicola_NZ_CP047360.1	k141_189	98.61		False
+4495694	4523500	33678	5871	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_189	99.5		False
+2070432	2167739	35053	132360	Klebsiella_pneumoniae_MGH_43_NZ_KK036953.1	k141_189	99.45		False
+1769714	1769790	132444	132368	Klebsiella_pneumoniae_MGH_43_NZ_KK036953.1	k141_189	100.0		False
+549835	549911	132444	132368	Klebsiella_variicola_NZ_CP047360.1	k141_189	100.0		False
+4787544	4787620	132368	132444	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_189	100.0		False
+4398077	4398156	132446	132367	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_189	100.0		False
+2190329	2190408	132367	132446	Klebsiella_pneumoniae_MGH_43_NZ_KK036953.1	k141_189	100.0		False
+919924	920003	132367	132446	Klebsiella_variicola_NZ_CP047360.1	k141_189	100.0		False
+4787544	4787620	132477	132553	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_189	100.0		False
+549835	549911	132553	132477	Klebsiella_variicola_NZ_CP047360.1	k141_189	100.0		False
+1769714	1769790	132553	132477	Klebsiella_pneumoniae_MGH_43_NZ_KK036953.1	k141_189	100.0		False
+2190135	2190408	132282	132555	Klebsiella_pneumoniae_MGH_43_NZ_KK036953.1	k141_189	99.64		False
+4398077	4400742	132555	130000	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_189	95.16		False
+919703	919806	132476	132579	Klebsiella_variicola_NZ_CP047360.1	k141_189	98.08		False
+4787544	4787620	132587	132663	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_189	100.0		False
+1769714	1769790	132663	132587	Klebsiella_pneumoniae_MGH_43_NZ_KK036953.1	k141_189	100.0		False
+549835	549911	132663	132587	Klebsiella_variicola_NZ_CP047360.1	k141_189	100.0		False
+919703	919782	132586	132665	Klebsiella_variicola_NZ_CP047360.1	k141_189	100.0		False
+4398296	4398375	132665	132586	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_189	100.0		False
+4398187	4400742	132665	130000	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_189	95.16		False
+919923	921309	132585	133971	Klebsiella_variicola_NZ_CP047360.1	k141_189	98.49		False
+921310	922193	133973	134856	Klebsiella_variicola_NZ_CP047360.1	k141_189	95.93		False
+822384	922193	35057	134856	Klebsiella_variicola_NZ_CP047360.1	k141_189	96.11		False
+2190329	2192778	132586	135036	Klebsiella_pneumoniae_MGH_43_NZ_KK036953.1	k141_189	99.22		False
+2190220	2209573	132476	151843	Klebsiella_pneumoniae_MGH_43_NZ_KK036953.1	k141_189	99.43		False
+919812	939272	132367	151843	Klebsiella_variicola_NZ_CP047360.1	k141_189	96.26		False
+2036908	2070430	155	33678	Klebsiella_pneumoniae_MGH_43_NZ_KK036953.1	k141_189	99.54		True
+interspecies translocation
+4378912	4495692	151843	35053	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_189	99.38		True
+CONTIG	k141_189	151843	misassembled
+3537825	3540895	138	3208	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_190	99.77		True
+unknown
+3543365	3543565	5347	5547	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_190	96.52		True
+unknown
+3543567	3543868	5548	5849	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_190	98.01		True
+unknown
+CONTIG	k141_190	11578	mis_unaligned
+2745232	2745466	290	525	Klebsiella_pneumoniae_MGH_43_NZ_KK036953.1	k141_192	95.34		True
+CONTIG	k141_192	27758	correct_unaligned
+CONTIG	k141_196	1262	unaligned
+CONTIG	k141_197	5000	unaligned
+CONTIG	k141_199	4588	unaligned
+CONTIG	k141_200	4601	unaligned
+2816877	2821815	115	5054	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_202	98.83		False
+2467856	2468716	7157	6297	Klebsiella_variicola_NZ_CP047360.1	k141_202	97.1		False
+2464875	2467846	10138	7167	Klebsiella_variicola_NZ_CP047360.1	k141_202	96.06		False
+2456170	2462806	18854	12218	Klebsiella_variicola_NZ_CP047360.1	k141_202	95.89		False
+2821812	2862300	6251	46709	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_202	99.04		False
+2862453	2867762	46511	51816	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_202	99.15		False
+2424894	2436755	58558	46692	Klebsiella_variicola_NZ_CP047360.1	k141_202	95.71		False
+2412621	2420793	66739	58567	Klebsiella_variicola_NZ_CP047360.1	k141_202	95.67		False
+2395316	2395502	84416	84230	Klebsiella_variicola_NZ_CP047360.1	k141_202	97.33		False
+2395154	2395301	84578	84431	Klebsiella_variicola_NZ_CP047360.1	k141_202	96.62		False
+2367991	2372436	111751	107306	Klebsiella_variicola_NZ_CP047360.1	k141_202	96.92		False
+2360917	2363356	118831	116392	Klebsiella_variicola_NZ_CP047360.1	k141_202	96.31		False
+2867772	2942030	57460	131750	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_202	99.25		False
+2331952	2333387	147482	146047	Klebsiella_variicola_NZ_CP047360.1	k141_202	96.73		False
+2324382	2329980	155052	149454	Klebsiella_variicola_NZ_CP047360.1	k141_202	95.41		False
+2322867	2323598	156552	155821	Klebsiella_variicola_NZ_CP047360.1	k141_202	96.31		False
+2313688	2314061	165729	165356	Klebsiella_variicola_NZ_CP047360.1	k141_202	95.72		False
+2312218	2313572	167085	165731	Klebsiella_variicola_NZ_CP047360.1	k141_202	96.46		False
+2311407	2311696	167420	167130	Klebsiella_variicola_NZ_CP047360.1	k141_202	96.22		False
+2942326	2979092	131638	168349	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_202	99.28		False
+2294139	2296056	178757	176840	Klebsiella_variicola_NZ_CP047360.1	k141_202	95.78		False
+2981167	2992339	168349	179520	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_202	99.24		False
+2290102	2294136	182792	178758	Klebsiella_variicola_NZ_CP047360.1	k141_202	95.86		False
+2288511	2288597	184367	184281	Klebsiella_variicola_NZ_CP047360.1	k141_202	95.4		False
+2285946	2287515	186195	184626	Klebsiella_variicola_NZ_CP047360.1	k141_202	95.48		False
+2285338	2285941	186799	186196	Klebsiella_variicola_NZ_CP047360.1	k141_202	97.35		False
+2266360	2278869	199785	187267	Klebsiella_variicola_NZ_CP047360.1	k141_202	96.23		False
+2263986	2264408	200317	199896	Klebsiella_variicola_NZ_CP047360.1	k141_202	95.04		False
+2992340	3026194	179223	213129	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_202	98.73		False
+2246062	2258618	213188	200639	Klebsiella_variicola_NZ_CP047360.1	k141_202	95.46		False
+2242311	2244182	224518	222648	Klebsiella_variicola_NZ_CP047360.1	k141_202	98.56		False
+3031669	3031832	226481	226644	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_202	97.56		False
+3032679	3044076	226631	238028	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_202	98.92		False
+2217263	2239138	248505	226631	Klebsiella_variicola_NZ_CP047360.1	k141_202	96.98		False
+2181803	2191633	262080	252262	Klebsiella_variicola_NZ_CP047360.1	k141_202	96.07		False
+3056590	3080709	238037	262143	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_202	99.03		False
+3712824	3717763	5054	115	Klebsiella_pneumoniae_MGH_43_NZ_KK036953.1	k141_202	99.09		True
+relocation, inconsistency = -1200
+3672366	3712827	46707	6251	Klebsiella_pneumoniae_MGH_43_NZ_KK036953.1	k141_202	99.03		True
+local misassembly
+3661242	3672064	57530	46708	Klebsiella_pneumoniae_MGH_43_NZ_KK036953.1	k141_202	99.3		True
+relocation, inconsistency = 1422
+3585331	3659775	132040	57575	Klebsiella_pneumoniae_MGH_43_NZ_KK036953.1	k141_202	99.21		True
+local misassembly
+3550127	3584840	166813	132041	Klebsiella_pneumoniae_MGH_43_NZ_KK036953.1	k141_202	99.46		True
+local misassembly
+3538003	3549980	178814	166836	Klebsiella_pneumoniae_MGH_43_NZ_KK036953.1	k141_202	99.15		True
+local misassembly
+3529754	3538007	187178	178915	Klebsiella_pneumoniae_MGH_43_NZ_KK036953.1	k141_202	98.88		True
+relocation, inconsistency = 3285
+3487001	3526457	226644	187190	Klebsiella_pneumoniae_MGH_43_NZ_KK036953.1	k141_202	99.15		True
+local misassembly
+3450801	3486269	262102	226645	Klebsiella_pneumoniae_MGH_43_NZ_KK036953.1	k141_202	98.96		True
+CONTIG	k141_202	262143	misassembled
+CONTIG	k141_204	1479	unaligned
+95500	96013	1	514	Klebsiella_pneumoniae_CP049891.1	k141_210	99.42		True
+unknown
+120176	120709	5674	6207	Klebsiella_pneumoniae_CP049891.1	k141_210	100.0		True
+unknown
+CONTIG	k141_210	6207	mis_unaligned
+195726	206205	4929	15408	Klebsiella_variicola_NZ_CP047360.1	k141_211	95.61		False
+207139	210326	16343	19530	Klebsiella_variicola_NZ_CP047360.1	k141_211	95.08		False
+210334	210466	19535	19667	Klebsiella_variicola_NZ_CP047360.1	k141_211	95.49		False
+1444674	1444778	21289	21393	Klebsiella_pneumoniae_MGH_43_NZ_KK036953.1	k141_211	100.0		False
+1444841	1444945	21289	21393	Klebsiella_pneumoniae_MGH_43_NZ_KK036953.1	k141_211	99.05		False
+210469	212194	19668	21393	Klebsiella_variicola_NZ_CP047360.1	k141_211	95.02		False
+1423361	1444611	141	21393	Klebsiella_pneumoniae_MGH_43_NZ_KK036953.1	k141_211	99.65		False
+1445008	1445136	21289	21418	Klebsiella_pneumoniae_MGH_43_NZ_KK036953.1	k141_211	97.69		False
+5120217	5120337	21419	21539	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_211	100.0		False
+1132650	1132770	21419	21539	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_211	100.0		False
+404593	404713	21419	21539	Klebsiella_pneumoniae_MGH_43_NZ_KK036953.1	k141_211	99.17		False
+4798603	4798723	21419	21539	Klebsiella_pneumoniae_MGH_43_NZ_KK036953.1	k141_211	99.17		False
+4330866	4330986	21419	21539	Klebsiella_pneumoniae_MGH_43_NZ_KK036953.1	k141_211	99.17		False
+975005	975144	21400	21539	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_211	100.0		False
+4973309	4973448	21539	21400	Klebsiella_pneumoniae_MGH_43_NZ_KK036953.1	k141_211	99.29		False
+4864156	4864296	21539	21399	Klebsiella_variicola_NZ_CP047360.1	k141_211	99.29		False
+3072897	3073037	21539	21399	Klebsiella_pneumoniae_MGH_43_NZ_KK036953.1	k141_211	99.29		False
+633844	633984	21539	21399	Klebsiella_pneumoniae_MGH_43_NZ_KK036953.1	k141_211	99.29		False
+1462255	1462395	21539	21399	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_211	99.29		False
+5121639	5142937	21441	141	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_211	99.51		True
+CONTIG	k141_211	21539	correct
+5120217	5120354	138	1	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_213	100.0		False
+1132650	1132787	138	1	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_213	100.0		False
+4330866	4331003	138	1	Klebsiella_pneumoniae_MGH_43_NZ_KK036953.1	k141_213	99.28		False
+404593	404730	138	1	Klebsiella_pneumoniae_MGH_43_NZ_KK036953.1	k141_213	99.28		False
+4798603	4798740	138	1	Klebsiella_pneumoniae_MGH_43_NZ_KK036953.1	k141_213	99.28		False
+3072880	3073036	1	157	Klebsiella_pneumoniae_MGH_43_NZ_KK036953.1	k141_213	99.36		False
+633827	633983	1	157	Klebsiella_pneumoniae_MGH_43_NZ_KK036953.1	k141_213	99.36		False
+1462238	1462394	1	157	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_213	99.36		False
+4864139	4864295	1	157	Klebsiella_variicola_NZ_CP047360.1	k141_213	99.36		False
+975002	975161	160	1	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_213	100.0		False
+4973292	4973451	1	160	Klebsiella_pneumoniae_MGH_43_NZ_KK036953.1	k141_213	99.38		False
+3207717	3212171	139	4593	Klebsiella_variicola_NZ_CP047360.1	k141_213	95.98		False
+2196358	2200813	4595	139	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_213	99.39		False
+3212216	3212328	13578	13690	Klebsiella_variicola_NZ_CP047360.1	k141_213	98.23		False
+3213629	3214101	15003	15475	Klebsiella_variicola_NZ_CP047360.1	k141_213	96.19		False
+3215151	3217227	16524	18600	Klebsiella_variicola_NZ_CP047360.1	k141_213	97.26		False
+3217277	3224414	18651	25788	Klebsiella_variicola_NZ_CP047360.1	k141_213	95.32		False
+2178143	2196314	31812	13578	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_213	99.07		False
+243200	243332	31811	31943	Klebsiella_pneumoniae_CP049891.1	k141_213	96.24		False
+790362	790495	31810	31943	Klebsiella_pneumoniae_MGH_43_NZ_KK036953.1	k141_213	96.27		False
+3619367	3619505	31812	31950	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_213	100.0		False
+2176215	2176353	31812	31950	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_213	100.0		False
+29140	29279	31950	31811	Klebsiella_pneumoniae_CP049891.1	k141_213	100.0		False
+321639	321778	31950	31811	Klebsiella_pneumoniae_CP049891.1	k141_213	100.0		False
+2103594	2103734	31950	31810	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_213	100.0		False
+4332288	4336767	116	4595	Klebsiella_pneumoniae_MGH_43_NZ_KK036953.1	k141_213	99.53		True
+relocation, inconsistency = -8939
+4336811	4355180	13578	31950	Klebsiella_pneumoniae_MGH_43_NZ_KK036953.1	k141_213	99.49		True
+CONTIG	k141_213	31950	misassembled
+787791	787910	16	135	Klebsiella_pneumoniae_MGH_43_NZ_KK036953.1	k141_217	96.67		True
+relocation, inconsistency = -3334
+784761	785085	320	644	Klebsiella_pneumoniae_MGH_43_NZ_KK036953.1	k141_217	98.15		True
+CONTIG	k141_217	644	misassembled
+3054783	3054937	232	78	Klebsiella_variicola_NZ_CP047360.1	k141_221	95.48		True
+relocation, inconsistency = -1197
+3055624	3055901	588	311	Klebsiella_variicola_NZ_CP047360.1	k141_221	97.48		True
+CONTIG	k141_221	588	misassembled
+CONTIG	k141_227	1092	unaligned
+CONTIG	k141_231	8325	unaligned
+CONTIG	k141_233	848	unaligned
+CONTIG	k141_234	1089	unaligned
+CONTIG	k141_236	2869	unaligned
+3956744	3957263	520	1	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_239	98.08	True	True
+1408468	1408987	1	520	Klebsiella_variicola_NZ_CP047360.1	k141_239	97.5	True	True
+CONTIG	k141_239	520	ambiguous
+74192	74528	337	1	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047676.1	k141_241	95.25		False
+32028	32364	1	337	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047676.1	k141_241	95.25		False
+120607	120943	1	337	Klebsiella_pneumoniae_CP049891.1	k141_241	95.55		True
+CONTIG	k141_241	1321	correct_unaligned
+927291	1028112	100812	1	Klebsiella_pneumoniae_MGH_43_NZ_KK036953.1	k141_242	99.28		True
+CONTIG	k141_242	100812	correct
+1155328	1224516	69261	1	Klebsiella_pneumoniae_MGH_43_NZ_KK036953.1	k141_243	99.46	True	True
+142932	212107	69261	1	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_243	99.4	True	True
+CONTIG	k141_243	69397	ambiguous
+CONTIG	k141_247	3718	unaligned
+CONTIG	k141_253	538	unaligned
+CONTIG	k141_254	2055	unaligned
+CONTIG	k141_259	1620	unaligned
+2181803	2181880	78	1	Klebsiella_variicola_NZ_CP047360.1	k141_261	97.44		False
+3450801	3450900	100	1	Klebsiella_pneumoniae_MGH_43_NZ_KK036953.1	k141_261	96.0		False
+3080612	3080703	162	253	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_261	97.83		False
+3080780	3083124	449	2793	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_261	99.36		False
+2144861	2181741	37319	456	Klebsiella_variicola_NZ_CP047360.1	k141_261	95.79		False
+2144371	2144648	37828	37551	Klebsiella_variicola_NZ_CP047360.1	k141_261	95.68		False
+2137843	2142787	45483	40539	Klebsiella_variicola_NZ_CP047360.1	k141_261	96.24		False
+2131794	2137815	51524	45503	Klebsiella_variicola_NZ_CP047360.1	k141_261	96.0		False
+2129044	2129143	54249	54150	Klebsiella_variicola_NZ_CP047360.1	k141_261	95.0		False
+2112181	2123236	71117	60062	Klebsiella_variicola_NZ_CP047360.1	k141_261	95.86		False
+2103165	2108266	80135	75034	Klebsiella_variicola_NZ_CP047360.1	k141_261	95.84		False
+2100409	2102679	82887	80617	Klebsiella_variicola_NZ_CP047360.1	k141_261	96.43		False
+2081643	2081721	98935	98857	Klebsiella_variicola_NZ_CP047360.1	k141_261	97.47		False
+2075533	2076118	105052	104467	Klebsiella_variicola_NZ_CP047360.1	k141_261	96.08		False
+221457	221541	109886	109970	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_261	100.0		False
+1233694	1233778	109886	109970	Klebsiella_pneumoniae_MGH_43_NZ_KK036953.1	k141_261	100.0		False
+5249065	5249149	109970	109886	Klebsiella_variicola_NZ_CP047360.1	k141_261	100.0		False
+3341053	3341139	109971	109885	Klebsiella_pneumoniae_MGH_43_NZ_KK036953.1	k141_261	100.0		False
+2070313	2070400	109972	109885	Klebsiella_variicola_NZ_CP047360.1	k141_261	98.86		False
+1233694	1233778	110187	110271	Klebsiella_pneumoniae_MGH_43_NZ_KK036953.1	k141_261	100.0		False
+5249065	5249149	110271	110187	Klebsiella_variicola_NZ_CP047360.1	k141_261	100.0		False
+221457	221541	110187	110271	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_261	100.0		False
+3341353	3341439	110272	110186	Klebsiella_pneumoniae_MGH_43_NZ_KK036953.1	k141_261	100.0		False
+2070613	2070699	110272	110186	Klebsiella_variicola_NZ_CP047360.1	k141_261	100.0		False
+3190200	3190286	110186	110272	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_261	100.0		False
+2070216	2070445	110370	110141	Klebsiella_variicola_NZ_CP047360.1	k141_261	97.39		False
+3340436	3340578	110445	110303	Klebsiella_pneumoniae_MGH_43_NZ_KK036953.1	k141_261	97.2		False
+3190919	3191110	110254	110445	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_261	97.92		False
+3340879	3450857	110445	399	Klebsiella_pneumoniae_MGH_43_NZ_KK036953.1	k141_261	99.21		False
+2032936	2070269	147810	110492	Klebsiella_variicola_NZ_CP047360.1	k141_261	95.31		False
+2029916	2032790	150704	147830	Klebsiella_variicola_NZ_CP047360.1	k141_261	95.93		False
+2029438	2029861	151184	150761	Klebsiella_variicola_NZ_CP047360.1	k141_261	95.05		False
+2028189	2029332	152433	151290	Klebsiella_variicola_NZ_CP047360.1	k141_261	95.28		False
+2025859	2027098	154758	153519	Klebsiella_variicola_NZ_CP047360.1	k141_261	95.08		False
+3288426	3340656	162632	110400	Klebsiella_pneumoniae_MGH_43_NZ_KK036953.1	k141_261	99.3		False
+3080569	3080786	1	218	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_261	95.87		True
+local misassembly
+3080600	3190895	269	110581	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_261	99.29		True
+local misassembly
+3191073	3246332	110582	165839	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_261	99.3		True
+CONTIG	k141_261	165976	correct
+613811	632519	5051	23759	Klebsiella_pneumoniae_MGH_43_NZ_KK036953.1	k141_262	98.96		True
+local misassembly
+632414	632651	23775	24012	Klebsiella_pneumoniae_MGH_43_NZ_KK036953.1	k141_262	98.74		True
+CONTIG	k141_262	24012	correct
+3286601	3420989	33078	167476	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_264	99.52		False
+3249616	3281165	32988	1446	Klebsiella_pneumoniae_MGH_43_NZ_KK036953.1	k141_264	99.16		False
+3253231	3285479	746	32979	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_264	99.19		True
+interspecies translocation
+3114068	3248503	167469	33078	Klebsiella_pneumoniae_MGH_43_NZ_KK036953.1	k141_264	99.56		True
+CONTIG	k141_264	167499	misassembled
+2984778	3019950	1	35179	Klebsiella_pneumoniae_MGH_43_NZ_KK036953.1	k141_265	98.78		True
+indel: indel (<= 5bp)
+3019955	3027401	35180	42524	Klebsiella_pneumoniae_MGH_43_NZ_KK036953.1	k141_265	95.01		True
+CONTIG	k141_265	48857	correct
+547302	547535	1	234	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_273	95.73		True
+local misassembly
+546814	546883	243	312	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_273	95.71		True
+interspecies translocation
+469970	470128	519	361	Klebsiella_pneumoniae_MGH_43_NZ_KK036953.1	k141_273	96.23		True
+CONTIG	k141_273	519	misassembled
+CONTIG	k141_274	938	unaligned
+4646738	4695953	82779	33617	Klebsiella_pneumoniae_MGH_43_NZ_KK036953.1	k141_279	99.51		False
+4646738	4649287	82851	80230	Klebsiella_pneumoniae_MGH_43_NZ_KK036953.1	k141_279	97.14		False
+4646738	4646888	82923	82773	Klebsiella_pneumoniae_MGH_43_NZ_KK036953.1	k141_279	96.03		False
+4646743	4646888	82990	82845	Klebsiella_pneumoniae_MGH_43_NZ_KK036953.1	k141_279	95.21		False
+4637351	4646567	92142	82947	Klebsiella_pneumoniae_MGH_43_NZ_KK036953.1	k141_279	99.14		False
+2428592	2433825	1663	6897	Klebsiella_pneumoniae_MGH_43_NZ_KK036953.1	k141_279	95.78		True
+local misassembly
+2435978	2442166	9889	16077	Klebsiella_pneumoniae_MGH_43_NZ_KK036953.1	k141_279	95.82		True
+relocation, inconsistency = -1689
+2456246	2457633	31846	33233	Klebsiella_pneumoniae_MGH_43_NZ_KK036953.1	k141_279	96.18		True
+interspecies translocation
+1784652	1843203	33617	92142	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_279	99.32		True
+CONTIG	k141_279	92142	misassembled
+3979752	4000746	138	21133	Klebsiella_pneumoniae_MGH_43_NZ_KK036953.1	k141_280	99.49		True
+CONTIG	k141_280	21133	correct
+787706	787785	2016	2095	Klebsiella_pneumoniae_MGH_43_NZ_KK036953.1	k141_287	97.5		True
+unknown
+787791	787867	2100	2176	Klebsiella_pneumoniae_MGH_43_NZ_KK036953.1	k141_287	96.1		True
+unknown
+CONTIG	k141_287	2176	mis_unaligned
+766708	767527	3279	2460	Klebsiella_pneumoniae_MGH_43_NZ_KK036953.1	k141_291	99.88		False
+769714	769853	140	1	Klebsiella_pneumoniae_MGH_43_NZ_KK036953.1	k141_291	100.0		False
+767388	767527	1	140	Klebsiella_pneumoniae_MGH_43_NZ_KK036953.1	k141_291	100.0		True
+unknown
+769714	770534	2460	3280	Klebsiella_pneumoniae_MGH_43_NZ_KK036953.1	k141_291	99.88		True
+unknown
+CONTIG	k141_291	4645	mis_unaligned
+763968	766932	1	2965	Klebsiella_pneumoniae_MGH_43_NZ_KK036953.1	k141_292	100.0		True
+CONTIG	k141_292	2965	correct
+CONTIG	k141_301	1765	unaligned
+CONTIG	k141_304	2533	unaligned
+1064676	1096646	60	32067	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_317	98.64		True
+CONTIG	k141_317	34034	correct
+653000	659489	6490	1	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_318	98.29		True
+interspecies translocation
+413219	414105	6491	7377	Klebsiella_pneumoniae_MGH_43_NZ_KK036953.1	k141_318	96.5		True
+CONTIG	k141_318	13026	misassembled
+384819	395748	10930	1	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_321	99.49		False
+634519	645441	1	10923	Klebsiella_pneumoniae_MGH_43_NZ_KK036953.1	k141_321	99.56		True
+CONTIG	k141_321	11070	correct
+1133956	1134094	1	139	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_326	100.0		False
+5121523	5121661	1	139	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_326	100.0		False
+4799909	4800047	1	139	Klebsiella_pneumoniae_MGH_43_NZ_KK036953.1	k141_326	100.0		False
+405899	406037	1	139	Klebsiella_pneumoniae_MGH_43_NZ_KK036953.1	k141_326	100.0		False
+4332172	4332310	1	139	Klebsiella_pneumoniae_MGH_43_NZ_KK036953.1	k141_326	100.0		False
+632505	632658	154	1	Klebsiella_pneumoniae_MGH_43_NZ_KK036953.1	k141_326	99.35		False
+4862816	4862970	155	1	Klebsiella_variicola_NZ_CP047360.1	k141_326	99.35		False
+3071557	3071711	155	1	Klebsiella_pneumoniae_MGH_43_NZ_KK036953.1	k141_326	99.35		False
+4971968	4972123	156	1	Klebsiella_pneumoniae_MGH_43_NZ_KK036953.1	k141_326	99.36		False
+976330	976485	1	156	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_326	98.72		False
+1460913	1461069	157	1	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_326	99.36		False
+4089937	4091860	2162	239	Klebsiella_variicola_NZ_CP047360.1	k141_326	96.67		False
+1441630	1443652	140	2162	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_326	99.46		False
+4073216	4082573	11634	2276	Klebsiella_variicola_NZ_CP047360.1	k141_326	97.5		False
+1451014	1460449	2273	11708	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_326	99.21		False
+4065455	4071445	17697	11706	Klebsiella_variicola_NZ_CP047360.1	k141_326	96.45		False
+1462377	1489008	11661	38290	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_326	98.86		False
+4041741	4062468	38566	17843	Klebsiella_variicola_NZ_CP047360.1	k141_326	97.22		False
+4028789	4041393	51527	38923	Klebsiella_variicola_NZ_CP047360.1	k141_326	97.03		False
+4990261	4990379	51615	51497	Klebsiella_pneumoniae_MGH_43_NZ_KK036953.1	k141_326	97.48		False
+4027331	4028410	52667	51588	Klebsiella_variicola_NZ_CP047360.1	k141_326	96.39		False
+4023374	4027330	56625	52669	Klebsiella_variicola_NZ_CP047360.1	k141_326	95.17		False
+4019923	4022162	60020	57781	Klebsiella_variicola_NZ_CP047360.1	k141_326	95.0		False
+4013039	4019807	66916	60148	Klebsiella_variicola_NZ_CP047360.1	k141_326	96.74		False
+4011880	4013016	68073	66937	Klebsiella_variicola_NZ_CP047360.1	k141_326	97.27		False
+4003517	4011453	76352	68416	Klebsiella_variicola_NZ_CP047360.1	k141_326	97.38		False
+4000444	4003512	79425	76357	Klebsiella_variicola_NZ_CP047360.1	k141_326	96.9		False
+3996928	4000409	82941	79460	Klebsiella_variicola_NZ_CP047360.1	k141_326	98.02		False
+3991179	3996927	88697	82949	Klebsiella_variicola_NZ_CP047360.1	k141_326	96.12		False
+3987370	3991051	92503	88822	Klebsiella_variicola_NZ_CP047360.1	k141_326	96.17		False
+3981173	3982618	98700	97255	Klebsiella_variicola_NZ_CP047360.1	k141_326	96.61		False
+3980605	3981171	99267	98701	Klebsiella_variicola_NZ_CP047360.1	k141_326	95.94		False
+3979501	3980601	100371	99271	Klebsiella_variicola_NZ_CP047360.1	k141_326	95.37		False
+3972978	3973294	106896	106580	Klebsiella_variicola_NZ_CP047360.1	k141_326	96.53		False
+3971533	3972780	108331	107084	Klebsiella_variicola_NZ_CP047360.1	k141_326	95.11		False
+3956667	3961807	123188	118048	Klebsiella_variicola_NZ_CP047360.1	k141_326	95.72		False
+3956585	3956654	123270	123201	Klebsiella_variicola_NZ_CP047360.1	k141_326	95.71		False
+3956503	3956583	123351	123271	Klebsiella_variicola_NZ_CP047360.1	k141_326	95.06		False
+3949108	3952928	130748	126928	Klebsiella_variicola_NZ_CP047360.1	k141_326	95.5		False
+3946405	3947416	133447	132436	Klebsiella_variicola_NZ_CP047360.1	k141_326	97.43		False
+3945296	3946403	134555	133448	Klebsiella_variicola_NZ_CP047360.1	k141_326	96.84		False
+1489630	1585260	38923	134555	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_326	99.19		False
+5031068	5042576	11648	140	Klebsiella_pneumoniae_MGH_43_NZ_KK036953.1	k141_326	99.15		True
+local misassembly
+4990378	5030349	51615	11649	Klebsiella_pneumoniae_MGH_43_NZ_KK036953.1	k141_326	99.19		True
+local misassembly
+4973433	4990143	68325	51616	Klebsiella_pneumoniae_MGH_43_NZ_KK036953.1	k141_326	98.83		True
+relocation, inconsistency = 1448
+4905757	4971984	134555	68326	Klebsiella_pneumoniae_MGH_43_NZ_KK036953.1	k141_326	99.4		True
+CONTIG	k141_326	134791	misassembled
+802560	810713	8153	1	Klebsiella_pneumoniae_MGH_43_NZ_KK036953.1	k141_329	97.33		True
+local misassembly
+801982	802046	8411	8347	Klebsiella_pneumoniae_MGH_43_NZ_KK036953.1	k141_329	96.92		True
+relocation, inconsistency = 5538
+792165	794302	12691	10553	Klebsiella_pneumoniae_MGH_43_NZ_KK036953.1	k141_329	98.83		True
+CONTIG	k141_329	12691	misassembled
+118186	282682	141	164619	Klebsiella_pneumoniae_MGH_43_NZ_KK036953.1	k141_331	99.47		True
+CONTIG	k141_331	165038	correct
+CONTIG	k141_349	9907	unaligned
+3954526	4042934	94486	6233	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_350	99.0		False
+3790779	3957325	258213	91687	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_350	99.43		False
+2584382	2669943	6317	91876	Klebsiella_pneumoniae_MGH_43_NZ_KK036953.1	k141_350	99.5		True
+local misassembly
+2670371	2693594	91877	115101	Klebsiella_pneumoniae_MGH_43_NZ_KK036953.1	k141_350	99.36		True
+relocation, inconsistency = 77084
+2770961	2951242	115384	295661	Klebsiella_pneumoniae_MGH_43_NZ_KK036953.1	k141_350	99.45		True
+local misassembly
+2951362	2984750	295662	329050	Klebsiella_pneumoniae_MGH_43_NZ_KK036953.1	k141_350	99.14		True
+CONTIG	k141_350	329050	misassembled
+787736	788399	1	664	Klebsiella_pneumoniae_MGH_43_NZ_KK036953.1	k141_352	99.25		True
+CONTIG	k141_352	664	correct
+2792478	2793624	1285	138	Klebsiella_variicola_NZ_CP047360.1	k141_356	96.25		True
+unknown
+2788575	2789260	5373	4688	Klebsiella_variicola_NZ_CP047360.1	k141_356	95.92		True
+unknown
+CONTIG	k141_356	5957	mis_unaligned
+CONTIG	k141_357	761	unaligned
+CONTIG	k141_362	743	unaligned
+CONTIG	k141_368	1709	unaligned
+1420987	1421192	80	285	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_369	98.54		False
+5063014	5063244	285	54	Klebsiella_pneumoniae_MGH_43_NZ_KK036953.1	k141_369	96.98		False
+903402	903625	80	303	Klebsiella_pneumoniae_MGH_43_NZ_KK036953.1	k141_369	98.66		False
+4038584	4038815	303	72	Klebsiella_pneumoniae_MGH_43_NZ_KK036953.1	k141_369	98.28		False
+2511145	2511376	72	303	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_369	97.84		False
+2889978	2890209	303	72	Klebsiella_variicola_NZ_CP047360.1	k141_369	96.98		False
+2890415	2890646	303	72	Klebsiella_variicola_NZ_CP047360.1	k141_369	96.12		False
+4908736	4908968	71	303	Klebsiella_variicola_NZ_CP047360.1	k141_369	96.57		False
+61405	61689	303	19	Klebsiella_variicola_NZ_CP047360.1	k141_369	95.79		False
+4393363	4393665	303	1	Klebsiella_variicola_NZ_CP047360.1	k141_369	96.7		False
+3756017	3756250	304	71	Klebsiella_variicola_NZ_CP047360.1	k141_369	97.01		False
+1691410	1691645	68	304	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_369	96.62		False
+3836028	3836307	304	25	Klebsiella_variicola_NZ_CP047360.1	k141_369	96.43		False
+1392154	1392378	80	305	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_369	98.23		False
+4330518	4330752	71	305	Klebsiella_pneumoniae_MGH_43_NZ_KK036953.1	k141_369	97.87		False
+469726	469960	71	305	Klebsiella_pneumoniae_MGH_43_NZ_KK036953.1	k141_369	97.45		False
+546983	547217	305	71	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_369	97.02		False
+3486670	3486903	71	305	Klebsiella_pneumoniae_MGH_43_NZ_KK036953.1	k141_369	97.02		False
+547711	547946	305	70	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_369	97.03		False
+4071709	4071959	305	55	Klebsiella_variicola_NZ_CP047360.1	k141_369	98.41		False
+2200924	2201174	305	55	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_369	98.01		False
+3207356	3207606	55	305	Klebsiella_variicola_NZ_CP047360.1	k141_369	97.61		False
+3817710	3817961	54	305	Klebsiella_variicola_NZ_CP047360.1	k141_369	97.22		False
+1584503	1584788	19	305	Klebsiella_variicola_NZ_CP047360.1	k141_369	95.82		False
+4788678	4788913	306	70	Klebsiella_pneumoniae_MGH_43_NZ_KK036953.1	k141_369	97.05		False
+970170	970397	308	80	Klebsiella_variicola_NZ_CP047360.1	k141_369	96.94		False
+3844097	3844179	309	227	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_369	96.39		False
+5351959	5352239	350	70	Klebsiella_pneumoniae_MGH_43_NZ_KK036953.1	k141_369	100.0		False
+4072270	4072565	350	55	Klebsiella_variicola_NZ_CP047360.1	k141_369	96.96		False
+4072759	4073054	350	55	Klebsiella_variicola_NZ_CP047360.1	k141_369	95.95		False
+4105934	4106230	350	54	Klebsiella_variicola_NZ_CP047360.1	k141_369	95.96		False
+5030383	5030680	359	62	Klebsiella_pneumoniae_MGH_43_NZ_KK036953.1	k141_369	96.31		False
+1460522	1460880	1	359	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_369	96.38		False
+1753710	1753999	77	366	Klebsiella_variicola_NZ_CP047360.1	k141_369	95.17		False
+3557090	3557424	72	406	Klebsiella_variicola_NZ_CP047360.1	k141_369	95.22		False
+1108847	1109350	80	583	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_369	96.43		False
+5351740	5351958	681	463	Klebsiella_pneumoniae_MGH_43_NZ_KK036953.1	k141_369	95.43		False
+1109101	1109238	670	807	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_369	95.65		False
+4378767	4393319	15336	782	Klebsiella_variicola_NZ_CP047360.1	k141_369	95.89		False
+1109101	1132649	558	24106	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_369	98.98		False
+4361348	4378667	32642	15326	Klebsiella_variicola_NZ_CP047360.1	k141_369	97.04		False
+1134095	1142831	24103	32833	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_369	98.89		False
+4341983	4360540	51418	32851	Klebsiella_variicola_NZ_CP047360.1	k141_369	95.16		False
+4334873	4335181	58394	58086	Klebsiella_variicola_NZ_CP047360.1	k141_369	97.41		False
+4332058	4334872	61210	58396	Klebsiella_variicola_NZ_CP047360.1	k141_369	95.56		False
+4328263	4329055	65005	64213	Klebsiella_variicola_NZ_CP047360.1	k141_369	96.85		False
+4325656	4328099	67613	65170	Klebsiella_variicola_NZ_CP047360.1	k141_369	96.28		False
+4318539	4325654	74729	67614	Klebsiella_variicola_NZ_CP047360.1	k141_369	95.14		False
+4314057	4318537	79210	74730	Klebsiella_variicola_NZ_CP047360.1	k141_369	97.57		False
+4312787	4312872	80490	80405	Klebsiella_variicola_NZ_CP047360.1	k141_369	95.35		False
+4311688	4312782	81589	80495	Klebsiella_variicola_NZ_CP047360.1	k141_369	96.35		False
+4308398	4311068	84876	82206	Klebsiella_variicola_NZ_CP047360.1	k141_369	96.03		False
+4306860	4308381	86412	84891	Klebsiella_variicola_NZ_CP047360.1	k141_369	95.01		False
+4303013	4306854	90259	86418	Klebsiella_variicola_NZ_CP047360.1	k141_369	96.36		False
+4301134	4303011	92137	90260	Klebsiella_variicola_NZ_CP047360.1	k141_369	97.07		False
+4298359	4298962	94882	94279	Klebsiella_variicola_NZ_CP047360.1	k141_369	97.68		False
+4296234	4298322	97007	94919	Klebsiella_variicola_NZ_CP047360.1	k141_369	96.07		False
+4295549	4296227	97692	97014	Klebsiella_variicola_NZ_CP047360.1	k141_369	96.17		False
+4290850	4293001	102395	100244	Klebsiella_variicola_NZ_CP047360.1	k141_369	95.03		False
+4281438	4287074	111809	106173	Klebsiella_variicola_NZ_CP047360.1	k141_369	97.43		False
+4263530	4281428	129717	111819	Klebsiella_variicola_NZ_CP047360.1	k141_369	96.15		False
+4242896	4247671	150308	145533	Klebsiella_variicola_NZ_CP047360.1	k141_369	96.42		False
+4231311	4231883	161892	161320	Klebsiella_variicola_NZ_CP047360.1	k141_369	95.81		False
+4223735	4231305	169468	161898	Klebsiella_variicola_NZ_CP047360.1	k141_369	95.43		False
+4222136	4223722	171055	169469	Klebsiella_variicola_NZ_CP047360.1	k141_369	97.35		False
+4218959	4222128	174232	171063	Klebsiella_variicola_NZ_CP047360.1	k141_369	96.72		False
+4217930	4218958	175265	174237	Klebsiella_variicola_NZ_CP047360.1	k141_369	96.7		False
+4209555	4217928	183639	175266	Klebsiella_variicola_NZ_CP047360.1	k141_369	95.55		False
+1142776	1293761	32653	183639	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_369	99.52		False
+4248548	4248664	183818	183702	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_369	98.29		False
+2354649	2354771	183702	183824	Klebsiella_pneumoniae_MGH_43_NZ_KK036953.1	k141_369	98.37		False
+1293917	1311375	183821	201280	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_369	99.61		False
+1333119	1338006	201435	206322	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_369	99.37		False
+1340026	1341472	206420	207865	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_369	99.45		False
+4185368	4209395	207865	183825	Klebsiella_variicola_NZ_CP047360.1	k141_369	95.85		False
+5352768	5352836	69	1	Klebsiella_pneumoniae_MGH_43_NZ_KK036953.1	k141_369	98.74		True
+local misassembly
+5351752	5352239	557	70	Klebsiella_pneumoniae_MGH_43_NZ_KK036953.1	k141_369	98.0		True
+local misassembly
+5319885	5351975	32652	558	Klebsiella_pneumoniae_MGH_43_NZ_KK036953.1	k141_369	98.92		True
+local misassembly
+5144529	5319760	207864	32653	Klebsiella_pneumoniae_MGH_43_NZ_KK036953.1	k141_369	99.47		True
+CONTIG	k141_369	212105	correct
+787471	788072	4605	5207	Klebsiella_pneumoniae_MGH_43_NZ_KK036953.1	k141_377	96.03		True
+unknown
+784761	787593	5226	8058	Klebsiella_pneumoniae_MGH_43_NZ_KK036953.1	k141_377	98.62		True
+unknown
+CONTIG	k141_377	8520	mis_unaligned
+286097	286505	409	1	Klebsiella_pneumoniae_CP049891.1	k141_380	99.51		False
+811221	811629	1	409	Klebsiella_pneumoniae_MGH_43_NZ_KK036953.1	k141_380	99.27		False
+114135	114542	1	409	Klebsiella_pneumoniae_CP049891.1	k141_380	99.27		False
+148368	148776	409	1	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047676.1	k141_380	99.02		False
+191505	191913	1	409	Klebsiella_pneumoniae_CP049891.1	k141_380	99.02		False
+268718	269126	409	1	Klebsiella_pneumoniae_CP049891.1	k141_380	99.02		False
+180831	181240	1	410	Klebsiella_pneumoniae_CP049891.1	k141_380	99.51		False
+203416	203826	1	411	Klebsiella_pneumoniae_CP049891.1	k141_380	99.51		True
+CONTIG	k141_380	10066	correct_unaligned
+755188	755768	35452	34872	Klebsiella_pneumoniae_MGH_43_NZ_KK036953.1	k141_389	100.0		True
+CONTIG	k141_389	36949	correct_unaligned
+4356837	4356975	1	140	Klebsiella_pneumoniae_MGH_43_NZ_KK036953.1	k141_397	97.14		True
+CONTIG	k141_397	1257	correct_unaligned
+2178010	2178129	1	121	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_398	99.17		False
+315449	315568	1	121	Klebsiella_pneumoniae_CP049891.1	k141_398	99.17		False
+2101818	2101937	121	1	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_398	99.17		False
+3621162	3621281	1	121	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_398	99.17		False
+22946	23065	1	121	Klebsiella_pneumoniae_CP049891.1	k141_398	99.17		False
+792183	792302	1	121	Klebsiella_pneumoniae_MGH_43_NZ_KK036953.1	k141_398	95.87		False
+2782683	2782850	437	604	Klebsiella_variicola_NZ_CP047360.1	k141_398	98.21		False
+314360	314488	1747	1617	Klebsiella_pneumoniae_CP049891.1	k141_398	98.47		False
+21855	21992	1747	1610	Klebsiella_pneumoniae_CP049891.1	k141_398	100.0		False
+36786	36923	1610	1747	Klebsiella_pneumoniae_CP049891.1	k141_398	100.0		False
+320113	320250	1610	1747	Klebsiella_pneumoniae_CP049891.1	k141_398	100.0		False
+740549	740686	1747	1610	Klebsiella_pneumoniae_MGH_43_NZ_KK036953.1	k141_398	100.0		False
+1310131	1310268	1610	1747	Klebsiella_pneumoniae_MGH_43_NZ_KK036953.1	k141_398	100.0		False
+769714	769851	1610	1747	Klebsiella_pneumoniae_MGH_43_NZ_KK036953.1	k141_398	100.0		False
+783941	784078	1610	1747	Klebsiella_pneumoniae_MGH_43_NZ_KK036953.1	k141_398	100.0		False
+756423	756560	1747	1610	Klebsiella_pneumoniae_MGH_43_NZ_KK036953.1	k141_398	100.0		False
+41132	41269	1610	1747	Klebsiella_pneumoniae_CP049891.1	k141_398	100.0		False
+27611	27748	1610	1747	Klebsiella_pneumoniae_CP049891.1	k141_398	100.0		False
+763970	764107	1747	1610	Klebsiella_pneumoniae_MGH_43_NZ_KK036953.1	k141_398	100.0		False
+853138	853275	1747	1610	Klebsiella_pneumoniae_MGH_43_NZ_KK036953.1	k141_398	100.0		False
+84826	84963	1747	1610	Klebsiella_pneumoniae_CP049891.1	k141_398	100.0		False
+767390	767527	1747	1610	Klebsiella_pneumoniae_MGH_43_NZ_KK036953.1	k141_398	100.0		False
+259407	259544	1610	1747	Klebsiella_pneumoniae_CP049891.1	k141_398	100.0		False
+294122	294259	1610	1747	Klebsiella_pneumoniae_CP049891.1	k141_398	99.28		False
+82940	83078	1747	1609	Klebsiella_pneumoniae_CP049891.1	k141_398	100.0		False
+55079	55217	1747	1609	Klebsiella_pneumoniae_CP049891.1	k141_398	100.0		False
+247424	247562	1747	1609	Klebsiella_pneumoniae_CP049891.1	k141_398	100.0		False
+1349535	1349673	1609	1747	Klebsiella_pneumoniae_MGH_43_NZ_KK036953.1	k141_398	100.0		False
+251503	251641	1609	1747	Klebsiella_pneumoniae_CP049891.1	k141_398	100.0		False
+461	598	1609	1747	Klebsiella_pneumoniae_CP049891.1	k141_398	99.28		False
+4356837	4356975	1	140	Klebsiella_pneumoniae_MGH_43_NZ_KK036953.1	k141_398	97.14		True
+interspecies translocation
+3366093	3366185	302	394	Klebsiella_variicola_NZ_CP047360.1	k141_398	97.85		True
+indel: indel (<= 5bp)
+3366189	3366911	400	1122	Klebsiella_variicola_NZ_CP047360.1	k141_398	96.68		True
+interspecies translocation
+750579	750718	1608	1747	Klebsiella_pneumoniae_MGH_43_NZ_KK036953.1	k141_398	100.0		True
+CONTIG	k141_398	1747	misassembled
+2963896	2968570	8730	13405	Klebsiella_variicola_NZ_CP047360.1	k141_405	95.55		False
+2969476	2983132	13873	27529	Klebsiella_variicola_NZ_CP047360.1	k141_405	95.0		False
+4908690	4908795	27452	27557	Klebsiella_variicola_NZ_CP047360.1	k141_405	97.17		False
+4330455	4330577	27435	27557	Klebsiella_pneumoniae_MGH_43_NZ_KK036953.1	k141_405	95.12		False
+2996794	2997795	31101	32102	Klebsiella_variicola_NZ_CP047360.1	k141_405	95.21		False
+2997797	2999436	32103	33742	Klebsiella_variicola_NZ_CP047360.1	k141_405	96.22		False
+2377829	2454694	76890	1	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_405	98.94		False
+2371522	2374820	81641	78343	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_405	96.79		False
+4185558	4185793	83365	83600	Klebsiella_pneumoniae_MGH_43_NZ_KK036953.1	k141_405	98.31		False
+3016111	3053415	47180	84469	Klebsiella_variicola_NZ_CP047360.1	k141_405	95.04		False
+4179838	4180449	84647	85258	Klebsiella_pneumoniae_MGH_43_NZ_KK036953.1	k141_405	98.2		False
+4180727	4181063	85524	85860	Klebsiella_pneumoniae_MGH_43_NZ_KK036953.1	k141_405	95.25		False
+3055358	3055535	85814	85991	Klebsiella_variicola_NZ_CP047360.1	k141_405	96.63		False
+4193636	4193742	85886	85992	Klebsiella_pneumoniae_MGH_43_NZ_KK036953.1	k141_405	95.33		False
+4192480	4192798	85680	85998	Klebsiella_pneumoniae_MGH_43_NZ_KK036953.1	k141_405	96.24		False
+3055718	3055810	86174	86266	Klebsiella_variicola_NZ_CP047360.1	k141_405	98.92		False
+4185369	4185461	86174	86266	Klebsiella_pneumoniae_MGH_43_NZ_KK036953.1	k141_405	97.85		False
+4184666	4184862	86070	86266	Klebsiella_pneumoniae_MGH_43_NZ_KK036953.1	k141_405	95.94		False
+4095198	4179660	1	84469	Klebsiella_pneumoniae_MGH_43_NZ_KK036953.1	k141_405	99.01		True
+interspecies translocation
+3053592	3055212	84646	86266	Klebsiella_variicola_NZ_CP047360.1	k141_405	95.75		True
+CONTIG	k141_405	86266	misassembled
+3080625	3080778	1	154	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_407	96.13		True
+local misassembly
+3080704	3080786	199	281	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_407	95.18		True
+local misassembly
+3080704	3080796	436	528	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_407	95.7		True
+CONTIG	k141_407	528	correct
+4000922	4038716	37789	1	Klebsiella_pneumoniae_MGH_43_NZ_KK036953.1	k141_408	99.49	True	True
+2511244	2549033	1	37789	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_408	99.21	True	True
+CONTIG	k141_408	37789	ambiguous
+1969222	1983074	13989	137	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_409	99.46		False
+1947390	1969257	36064	14148	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_409	99.15		False
+1936473	1936679	36303	36097	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_409	98.07		False
+1843379	1927823	121950	37485	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_409	99.52		False
+4493672	4530192	137	36708	Klebsiella_pneumoniae_MGH_43_NZ_KK036953.1	k141_409	99.31		True
+local misassembly
+4530452	4537914	36709	44171	Klebsiella_pneumoniae_MGH_43_NZ_KK036953.1	k141_409	99.37		True
+relocation, inconsistency = 21502
+4559481	4637175	44236	121950	Klebsiella_pneumoniae_MGH_43_NZ_KK036953.1	k141_409	99.57		True
+CONTIG	k141_409	121950	misassembled
+CONTIG	k141_421	3291	unaligned
+CONTIG	k141_422	4690	unaligned
+1392151	1392415	1	265	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_426	98.08		True
+local misassembly
+1392534	1394267	266	1999	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_426	98.56		True
+CONTIG	k141_426	2002	correct
+74192	74528	33973	34309	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047676.1	k141_430	99.7		False
+32028	32364	34309	33973	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047676.1	k141_430	99.7		False
+799180	799515	34309	33972	Klebsiella_pneumoniae_MGH_43_NZ_KK036953.1	k141_430	98.82		False
+106334	110490	1864	6020	Klebsiella_pneumoniae_CP049891.1	k141_430	98.87		True
+unknown
+110491	110780	6129	6419	Klebsiella_pneumoniae_CP049891.1	k141_430	99.31		True
+unknown
+1310951	1315101	21514	25664	Klebsiella_pneumoniae_MGH_43_NZ_KK036953.1	k141_430	99.81		True
+unknown
+167534	169922	30166	27729	Klebsiella_pneumoniae_CP049891.1	k141_430	95.42		True
+unknown
+120607	120943	34309	33973	Klebsiella_pneumoniae_CP049891.1	k141_430	100.0		True
+unknown
+CONTIG	k141_430	34309	mis_unaligned
+1857022	1857097	18268	18343	Klebsiella_variicola_NZ_CP047360.1	k141_439	100.0		False
+3401442	3401517	18343	18268	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_439	100.0		False
+3133533	3133608	18268	18343	Klebsiella_pneumoniae_MGH_43_NZ_KK036953.1	k141_439	100.0		False
+590257	590334	18345	18268	Klebsiella_pneumoniae_MGH_43_NZ_KK036953.1	k141_439	100.0		False
+5023815	5023892	18345	18268	Klebsiella_variicola_NZ_CP047360.1	k141_439	100.0		False
+438375	438452	18268	18345	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_439	100.0		False
+438227	438313	18268	18354	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_439	100.0		False
+590396	590482	18354	18268	Klebsiella_pneumoniae_MGH_43_NZ_KK036953.1	k141_439	100.0		False
+5023954	5024040	18354	18268	Klebsiella_variicola_NZ_CP047360.1	k141_439	100.0		False
+3401442	3401517	18487	18412	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_439	100.0		False
+3133533	3133608	18412	18487	Klebsiella_pneumoniae_MGH_43_NZ_KK036953.1	k141_439	100.0		False
+1857022	1857097	18412	18487	Klebsiella_variicola_NZ_CP047360.1	k141_439	100.0		False
+438359	438452	18396	18489	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_439	96.81		False
+590257	590350	18489	18396	Klebsiella_pneumoniae_MGH_43_NZ_KK036953.1	k141_439	96.81		False
+5023815	5023908	18489	18396	Klebsiella_variicola_NZ_CP047360.1	k141_439	96.81		False
+5024098	5024184	18498	18412	Klebsiella_variicola_NZ_CP047360.1	k141_439	100.0		False
+590688	590774	18498	18412	Klebsiella_pneumoniae_MGH_43_NZ_KK036953.1	k141_439	100.0		False
+438083	438169	18412	18498	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_439	100.0		False
+3401442	3401517	18635	18560	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_439	100.0		False
+3133533	3133608	18560	18635	Klebsiella_pneumoniae_MGH_43_NZ_KK036953.1	k141_439	100.0		False
+1857022	1857097	18560	18635	Klebsiella_variicola_NZ_CP047360.1	k141_439	100.0		False
+590697	590774	18637	18560	Klebsiella_pneumoniae_MGH_43_NZ_KK036953.1	k141_439	100.0		False
+438083	438160	18560	18637	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_439	100.0		False
+5024107	5024184	18637	18560	Klebsiella_variicola_NZ_CP047360.1	k141_439	100.0		False
+5023963	5024056	18637	18544	Klebsiella_variicola_NZ_CP047360.1	k141_439	96.81		False
+590553	590646	18637	18544	Klebsiella_pneumoniae_MGH_43_NZ_KK036953.1	k141_439	96.81		False
+438211	438304	18544	18637	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_439	96.81		False
+4985095	5040951	57374	1504	Klebsiella_variicola_NZ_CP047360.1	k141_439	95.1		False
+4980329	4984514	61549	57365	Klebsiella_variicola_NZ_CP047360.1	k141_439	95.63		False
+419952	489684	138	69876	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_439	99.42		False
+500843	500969	83025	83151	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_439	97.64		False
+500698	501096	82752	83151	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_439	95.01		False
+500322	500688	83012	83380	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_439	97.3		False
+500317	500816	82879	83380	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_439	96.02		False
+489789	500943	72223	83380	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_439	99.11		False
+500444	513748	82752	96055	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_439	99.05		False
+4909070	4925285	135119	118925	Klebsiella_variicola_NZ_CP047360.1	k141_439	96.13		False
+3756017	3756155	135337	135475	Klebsiella_variicola_NZ_CP047360.1	k141_439	97.84		False
+4788699	4788823	135357	135481	Klebsiella_pneumoniae_MGH_43_NZ_KK036953.1	k141_439	98.4		False
+1421067	1421191	135481	135357	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_439	98.4		False
+3573826	3573965	135481	135342	Klebsiella_variicola_NZ_CP047360.1	k141_439	95.0		False
+4908825	4908967	135481	135339	Klebsiella_variicola_NZ_CP047360.1	k141_439	98.6		False
+4131734	4131877	135338	135481	Klebsiella_variicola_NZ_CP047360.1	k141_439	99.31		False
+2890415	2890558	135338	135481	Klebsiella_variicola_NZ_CP047360.1	k141_439	98.61		False
+3413255	3413398	135481	135338	Klebsiella_variicola_NZ_CP047360.1	k141_439	97.22		False
+4393363	4393506	135338	135481	Klebsiella_variicola_NZ_CP047360.1	k141_439	96.53		False
+3836028	3836172	135337	135481	Klebsiella_variicola_NZ_CP047360.1	k141_439	98.62		False
+1753793	1753937	135481	135337	Klebsiella_variicola_NZ_CP047360.1	k141_439	98.62		False
+1754686	1754830	135481	135337	Klebsiella_variicola_NZ_CP047360.1	k141_439	97.93		False
+1755132	1755276	135481	135337	Klebsiella_variicola_NZ_CP047360.1	k141_439	97.93		False
+1754239	1754383	135481	135337	Klebsiella_variicola_NZ_CP047360.1	k141_439	97.93		False
+2983154	2983298	135481	135337	Klebsiella_variicola_NZ_CP047360.1	k141_439	97.24		False
+1691502	1691645	135481	135337	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_439	97.24		False
+3557178	3557323	135481	135336	Klebsiella_variicola_NZ_CP047360.1	k141_439	97.26		False
+4105979	4106124	135336	135481	Klebsiella_variicola_NZ_CP047360.1	k141_439	96.58		False
+3031909	3032075	135315	135481	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_439	98.2		False
+1584643	1584817	135481	135307	Klebsiella_variicola_NZ_CP047360.1	k141_439	96.57		False
+2511226	2511376	135488	135338	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_439	98.01		False
+5063015	5063155	135357	135497	Klebsiella_pneumoniae_MGH_43_NZ_KK036953.1	k141_439	96.45		False
+61405	61564	135338	135497	Klebsiella_variicola_NZ_CP047360.1	k141_439	98.75		False
+903466	903625	135497	135338	Klebsiella_pneumoniae_MGH_43_NZ_KK036953.1	k141_439	98.12		False
+4038584	4038743	135338	135497	Klebsiella_pneumoniae_MGH_43_NZ_KK036953.1	k141_439	96.88		False
+2889978	2890137	135338	135497	Klebsiella_variicola_NZ_CP047360.1	k141_439	96.25		False
+5352004	5352165	135336	135497	Klebsiella_pneumoniae_MGH_43_NZ_KK036953.1	k141_439	97.53		False
+5030437	5030598	135336	135497	Klebsiella_pneumoniae_MGH_43_NZ_KK036953.1	k141_439	97.53		False
+4072315	4072476	135336	135497	Klebsiella_variicola_NZ_CP047360.1	k141_439	96.91		False
+2860291	2860452	135497	135336	Klebsiella_pneumoniae_MGH_43_NZ_KK036953.1	k141_439	96.91		False
+1460665	1460826	135497	135336	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_439	96.91		False
+5352532	5352693	135336	135497	Klebsiella_pneumoniae_MGH_43_NZ_KK036953.1	k141_439	96.91		False
+3844101	3844263	135336	135497	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_439	96.32		False
+1108911	1109072	135497	135336	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_439	96.3		False
+4072804	4072965	135336	135497	Klebsiella_variicola_NZ_CP047360.1	k141_439	96.3		False
+970173	970333	135336	135497	Klebsiella_variicola_NZ_CP047360.1	k141_439	95.68		False
+3486743	3486924	135497	135315	Klebsiella_pneumoniae_MGH_43_NZ_KK036953.1	k141_439	98.91		False
+1392218	1392399	135497	135315	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_439	96.17		False
+4071683	4071870	135310	135497	Klebsiella_variicola_NZ_CP047360.1	k141_439	96.81		False
+4330591	4330781	135497	135307	Klebsiella_pneumoniae_MGH_43_NZ_KK036953.1	k141_439	96.34		False
+3207445	3207635	135497	135307	Klebsiella_variicola_NZ_CP047360.1	k141_439	96.34		False
+2200895	2201085	135307	135497	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_439	95.81		False
+3817800	3817992	135497	135305	Klebsiella_variicola_NZ_CP047360.1	k141_439	96.37		False
+546856	547144	135209	135497	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_439	98.27		False
+547353	547872	134979	135497	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_439	96.15		False
+533184	547144	121539	135497	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_439	99.01		False
+590775	608904	18267	138	Klebsiella_pneumoniae_MGH_43_NZ_KK036953.1	k141_439	99.22		True
+local misassembly
+547346	590630	61549	18268	Klebsiella_pneumoniae_MGH_43_NZ_KK036953.1	k141_439	99.47		True
+relocation, inconsistency = 4165
+521705	543157	83023	61573	Klebsiella_pneumoniae_MGH_43_NZ_KK036953.1	k141_439	99.28		True
+local misassembly
+521729	521825	83125	83029	Klebsiella_pneumoniae_MGH_43_NZ_KK036953.1	k141_439	97.94		True
+local misassembly
+483757	521977	121351	83135	Klebsiella_pneumoniae_MGH_43_NZ_KK036953.1	k141_439	99.37		True
+local misassembly
+469799	483761	135497	121539	Klebsiella_pneumoniae_MGH_43_NZ_KK036953.1	k141_439	99.05		True
+CONTIG	k141_439	135497	misassembled
+406732	407527	796	1	Klebsiella_pneumoniae_MGH_43_NZ_KK036953.1	k141_441	99.25	True	True
+4864744	4865539	796	1	Klebsiella_variicola_NZ_CP047360.1	k141_441	98.87	True	True
+926636	927431	1	796	Klebsiella_pneumoniae_MGH_43_NZ_KK036953.1	k141_441	98.49	True	True
+CONTIG	k141_441	796	ambiguous
+739860	740005	146	1	Klebsiella_pneumoniae_MGH_43_NZ_KK036953.1	k141_444	100.0		False
+294803	294949	1	147	Klebsiella_pneumoniae_CP049891.1	k141_444	98.64		False
+83074	83222	1	148	Klebsiella_pneumoniae_CP049891.1	k141_444	98.66		False
+317	465	148	1	Klebsiella_pneumoniae_CP049891.1	k141_444	98.66		True
+CONTIG	k141_444	2662	correct_unaligned
+CONTIG	k141_450	2650	unaligned
+186168	186316	1	149	Klebsiella_pneumoniae_CP049891.1	k141_451	99.33		True
+CONTIG	k141_451	855	correct_unaligned
+787932	788007	1413	1338	Klebsiella_pneumoniae_MGH_43_NZ_KK036953.1	k141_456	96.05		True
+unknown
+787736	787892	1612	1456	Klebsiella_pneumoniae_MGH_43_NZ_KK036953.1	k141_456	98.09		True
+unknown
+CONTIG	k141_456	1612	mis_unaligned
+CONTIG	k141_457	510	unaligned
+1133970	1134094	1	125	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_460	100.0		False
+405913	406037	1	125	Klebsiella_pneumoniae_MGH_43_NZ_KK036953.1	k141_460	100.0		False
+4332186	4332310	1	125	Klebsiella_pneumoniae_MGH_43_NZ_KK036953.1	k141_460	100.0		False
+4799923	4800047	1	125	Klebsiella_pneumoniae_MGH_43_NZ_KK036953.1	k141_460	100.0		False
+5121537	5121661	1	125	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_460	100.0		False
+632505	632644	140	1	Klebsiella_pneumoniae_MGH_43_NZ_KK036953.1	k141_460	100.0		False
+3071557	3071697	141	1	Klebsiella_pneumoniae_MGH_43_NZ_KK036953.1	k141_460	100.0		False
+4862816	4862956	141	1	Klebsiella_variicola_NZ_CP047360.1	k141_460	100.0		False
+4971968	4972109	142	1	Klebsiella_pneumoniae_MGH_43_NZ_KK036953.1	k141_460	100.0		False
+976344	976485	1	142	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_460	99.3		False
+1460913	1461055	143	1	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_460	100.0		False
+3032562	3032632	128	198	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_460	98.59		False
+4507529	4507654	294	169	Klebsiella_pneumoniae_MGH_43_NZ_KK036953.1	k141_460	96.83		False
+2983127	2983298	410	239	Klebsiella_variicola_NZ_CP047360.1	k141_460	95.93		False
+1584596	1584818	430	208	Klebsiella_variicola_NZ_CP047360.1	k141_460	95.96		False
+2860227	2860452	463	238	Klebsiella_pneumoniae_MGH_43_NZ_KK036953.1	k141_460	95.58		False
+970173	970397	238	463	Klebsiella_variicola_NZ_CP047360.1	k141_460	95.58		False
+3844101	3844327	238	463	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_460	95.15		False
+61405	61636	240	471	Klebsiella_variicola_NZ_CP047360.1	k141_460	96.12		False
+3486670	3486883	472	259	Klebsiella_pneumoniae_MGH_43_NZ_KK036953.1	k141_460	96.73		False
+4908736	4908968	472	240	Klebsiella_variicola_NZ_CP047360.1	k141_460	96.14		False
+469726	469996	472	202	Klebsiella_pneumoniae_MGH_43_NZ_KK036953.1	k141_460	95.57		False
+546947	547217	202	472	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_460	95.2		False
+5063015	5063243	259	488	Klebsiella_pneumoniae_MGH_43_NZ_KK036953.1	k141_460	95.65		False
+3836028	3836277	239	488	Klebsiella_variicola_NZ_CP047360.1	k141_460	96.0		False
+5352532	5352782	238	488	Klebsiella_pneumoniae_MGH_43_NZ_KK036953.1	k141_460	96.02		False
+1460576	1460826	488	238	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_460	95.62		False
+4105979	4106229	238	488	Klebsiella_variicola_NZ_CP047360.1	k141_460	95.62		False
+2889978	2890245	240	507	Klebsiella_variicola_NZ_CP047360.1	k141_460	95.52		False
+2511109	2511376	507	240	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_460	95.15		False
+4038584	4038851	240	507	Klebsiella_pneumoniae_MGH_43_NZ_KK036953.1	k141_460	95.15		False
+5352004	5352273	238	507	Klebsiella_pneumoniae_MGH_43_NZ_KK036953.1	k141_460	95.93		False
+1753578	1753937	598	239	Klebsiella_variicola_NZ_CP047360.1	k141_460	95.0		False
+1754916	1755275	599	240	Klebsiella_variicola_NZ_CP047360.1	k141_460	95.0		False
+4072804	4073169	238	603	Klebsiella_variicola_NZ_CP047360.1	k141_460	96.72		False
+4072315	4072680	238	603	Klebsiella_variicola_NZ_CP047360.1	k141_460	96.45		False
+5030437	5030802	238	603	Klebsiella_pneumoniae_MGH_43_NZ_KK036953.1	k141_460	95.63		False
+4071688	4072074	217	603	Klebsiella_variicola_NZ_CP047360.1	k141_460	95.87		False
+3817596	3818031	603	169	Klebsiella_variicola_NZ_CP047360.1	k141_460	95.64		False
+3207213	3207719	631	126	Klebsiella_variicola_NZ_CP047360.1	k141_460	99.01		False
+3159088	3207219	48938	767	Klebsiella_variicola_NZ_CP047360.1	k141_460	95.13		False
+4280306	4330888	50684	103	Klebsiella_pneumoniae_MGH_43_NZ_KK036953.1	k141_460	99.42		False
+3157190	3158061	50715	49844	Klebsiella_variicola_NZ_CP047360.1	k141_460	96.44		False
+3145674	3157188	62230	50716	Klebsiella_variicola_NZ_CP047360.1	k141_460	97.23		False
+3143913	3145672	63990	62231	Klebsiella_variicola_NZ_CP047360.1	k141_460	96.19		False
+3140745	3141752	67156	66149	Klebsiella_variicola_NZ_CP047360.1	k141_460	96.43		False
+3134774	3139231	73125	68668	Klebsiella_variicola_NZ_CP047360.1	k141_460	95.24		False
+3124948	3125139	82950	82759	Klebsiella_variicola_NZ_CP047360.1	k141_460	95.31		False
+3121209	3124100	86689	83798	Klebsiella_variicola_NZ_CP047360.1	k141_460	95.06		False
+3119452	3120379	88446	87519	Klebsiella_variicola_NZ_CP047360.1	k141_460	97.2		False
+4242520	4280300	93417	55636	Klebsiella_pneumoniae_MGH_43_NZ_KK036953.1	k141_460	99.57		False
+2200811	2294100	126	93417	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_460	99.44		True
+CONTIG	k141_460	97206	correct
+751411	753078	1668	1	Klebsiella_pneumoniae_MGH_43_NZ_KK036953.1	k141_461	100.0		True
+relocation, inconsistency = 8392
+740685	743018	1669	4002	Klebsiella_pneumoniae_MGH_43_NZ_KK036953.1	k141_461	100.0		True
+CONTIG	k141_461	4002	misassembled
+752938	753078	141	1	Klebsiella_pneumoniae_MGH_43_NZ_KK036953.1	k141_462	100.0		True
+CONTIG	k141_462	1024	correct_unaligned
+115238	118192	140	3094	Klebsiella_pneumoniae_MGH_43_NZ_KK036953.1	k141_466	99.46		False
+917770	920724	3094	140	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_466	99.56		True
+CONTIG	k141_466	3234	correct
+CONTIG	k141_472	609	unaligned
+5208255	5208761	1	507	Klebsiella_variicola_NZ_CP047360.1	k141_489	98.42	True	True
+1040370	1040876	507	1	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_489	98.42	True	True
+5253178	5253684	1	507	Klebsiella_variicola_NZ_CP047360.1	k141_489	98.42	True	True
+2490021	2490527	507	1	Klebsiella_pneumoniae_MGH_43_NZ_KK036953.1	k141_489	98.42	True	True
+379764	380270	1	507	Klebsiella_pneumoniae_MGH_43_NZ_KK036953.1	k141_489	98.42	True	True
+5444211	5444717	1	507	Klebsiella_pneumoniae_MGH_43_NZ_KK036953.1	k141_489	98.42	True	True
+1137222	1137728	507	1	Klebsiella_pneumoniae_MGH_43_NZ_KK036953.1	k141_489	98.42	True	True
+5345050	5345556	1	507	Klebsiella_variicola_NZ_CP047360.1	k141_489	98.42	True	True
+261832	262338	507	1	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_489	98.42	True	True
+5450057	5450563	1	507	Klebsiella_variicola_NZ_CP047360.1	k141_489	98.42	True	True
+1229023	1229529	507	1	Klebsiella_pneumoniae_MGH_43_NZ_KK036953.1	k141_489	98.42	True	True
+451837	452343	507	1	Klebsiella_variicola_NZ_CP047360.1	k141_489	98.42	True	True
+4130196	4130702	1	507	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_489	98.42	True	True
+4838910	4839416	1	507	Klebsiella_variicola_NZ_CP047360.1	k141_489	98.22	True	True
+4474335	4474841	1	507	Klebsiella_variicola_NZ_CP047360.1	k141_489	98.22	True	True
+1231069	1231575	507	1	Klebsiella_variicola_NZ_CP047360.1	k141_489	98.22	True	True
+216686	217192	507	1	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_489	98.03	True	True
+685047	685553	507	1	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_489	98.03	True	True
+124829	125335	507	1	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_489	98.03	True	True
+1274069	1274575	507	1	Klebsiella_pneumoniae_MGH_43_NZ_KK036953.1	k141_489	98.03	True	True
+20298	20804	507	1	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_489	98.03	True	True
+1680482	1680988	507	1	Klebsiella_pneumoniae_MGH_43_NZ_KK036953.1	k141_489	98.03	True	True
+1032536	1033042	507	1	Klebsiella_pneumoniae_MGH_43_NZ_KK036953.1	k141_489	98.03	True	True
+4884943	4885449	1	507	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_489	98.03	True	True
+CONTIG	k141_489	507	ambiguous
+2454458	2511373	66	56993	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_492	99.2	True	True
+4038587	4095434	56993	66	Klebsiella_pneumoniae_MGH_43_NZ_KK036953.1	k141_492	99.14	True	True
+CONTIG	k141_492	56993	ambiguous
+5120217	5120402	186	1	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_493	100.0		False
+4330866	4331051	186	1	Klebsiella_pneumoniae_MGH_43_NZ_KK036953.1	k141_493	99.46		False
+4798603	4798788	186	1	Klebsiella_pneumoniae_MGH_43_NZ_KK036953.1	k141_493	99.46		False
+404593	404778	186	1	Klebsiella_pneumoniae_MGH_43_NZ_KK036953.1	k141_493	99.46		False
+1132649	1132835	187	1	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_493	100.0		False
+1462190	1462382	1	194	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_493	99.48		False
+3072832	3073024	1	194	Klebsiella_pneumoniae_MGH_43_NZ_KK036953.1	k141_493	98.97		False
+633779	633971	1	194	Klebsiella_pneumoniae_MGH_43_NZ_KK036953.1	k141_493	98.97		False
+4864091	4864283	1	194	Klebsiella_variicola_NZ_CP047360.1	k141_493	98.97		False
+975002	975209	208	1	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_493	98.56		False
+4973244	4973451	1	208	Klebsiella_pneumoniae_MGH_43_NZ_KK036953.1	k141_493	98.09		False
+4092206	4103328	430	11553	Klebsiella_variicola_NZ_CP047360.1	k141_493	96.4		False
+4104850	4105923	19343	20416	Klebsiella_variicola_NZ_CP047360.1	k141_493	97.3		False
+1391899	1392031	20668	20536	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_493	97.74		False
+1584596	1584767	20800	20629	Klebsiella_variicola_NZ_CP047360.1	k141_493	95.93		False
+3844181	3844308	20687	20814	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_493	96.09		False
+4131753	4131938	20629	20814	Klebsiella_variicola_NZ_CP047360.1	k141_493	95.16		False
+4038600	4038788	20626	20814	Klebsiella_pneumoniae_MGH_43_NZ_KK036953.1	k141_493	96.3		False
+61421	61609	20626	20814	Klebsiella_variicola_NZ_CP047360.1	k141_493	95.77		False
+2890431	2890619	20626	20814	Klebsiella_variicola_NZ_CP047360.1	k141_493	95.24		False
+2889994	2890182	20626	20814	Klebsiella_variicola_NZ_CP047360.1	k141_493	95.24		False
+903420	903606	20815	20629	Klebsiella_pneumoniae_MGH_43_NZ_KK036953.1	k141_493	96.26		False
+2511171	2511357	20815	20629	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_493	95.72		False
+1753731	1753917	20815	20629	Klebsiella_variicola_NZ_CP047360.1	k141_493	95.72		False
+1755070	1755256	20815	20629	Klebsiella_variicola_NZ_CP047360.1	k141_493	95.72		False
+3413193	3413379	20815	20629	Klebsiella_variicola_NZ_CP047360.1	k141_493	95.19		False
+1754177	1754363	20815	20629	Klebsiella_variicola_NZ_CP047360.1	k141_493	95.19		False
+1392172	1392376	20815	20611	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_493	98.05		False
+970175	970399	20611	20834	Klebsiella_variicola_NZ_CP047360.1	k141_493	95.58		False
+2860222	2860450	20837	20611	Klebsiella_pneumoniae_MGH_43_NZ_KK036953.1	k141_493	95.22		False
+3573739	3573965	20839	20615	Klebsiella_variicola_NZ_CP047360.1	k141_493	95.15		False
+4330518	4330750	20841	20611	Klebsiella_pneumoniae_MGH_43_NZ_KK036953.1	k141_493	96.57		False
+3486670	3486901	20841	20611	Klebsiella_pneumoniae_MGH_43_NZ_KK036953.1	k141_493	96.55		False
+3756018	3756250	20611	20841	Klebsiella_variicola_NZ_CP047360.1	k141_493	95.71		False
+469726	469958	20841	20611	Klebsiella_pneumoniae_MGH_43_NZ_KK036953.1	k141_493	95.71		False
+546985	547217	20611	20841	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_493	95.28		False
+4908736	4908982	20841	20597	Klebsiella_variicola_NZ_CP047360.1	k141_493	95.14		False
+4788681	4788913	20611	20842	Klebsiella_pneumoniae_MGH_43_NZ_KK036953.1	k141_493	97.42		False
+547713	547946	20611	20842	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_493	95.3		False
+4393381	4393604	20628	20850	Klebsiella_variicola_NZ_CP047360.1	k141_493	96.88		False
+5030439	5030686	20611	20856	Klebsiella_pneumoniae_MGH_43_NZ_KK036953.1	k141_493	96.37		False
+4071729	4071959	20628	20857	Klebsiella_variicola_NZ_CP047360.1	k141_493	98.27		False
+4072317	4072565	20611	20857	Klebsiella_variicola_NZ_CP047360.1	k141_493	97.19		False
+2200926	2201174	20611	20857	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_493	96.79		False
+4072806	4073054	20611	20857	Klebsiella_variicola_NZ_CP047360.1	k141_493	96.79		False
+3207356	3207604	20857	20611	Klebsiella_variicola_NZ_CP047360.1	k141_493	96.39		False
+5352006	5352254	20611	20857	Klebsiella_pneumoniae_MGH_43_NZ_KK036953.1	k141_493	95.98		False
+1108822	1109070	20857	20611	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_493	95.18		False
+5352534	5352783	20611	20858	Klebsiella_pneumoniae_MGH_43_NZ_KK036953.1	k141_493	96.8		False
+1460574	1460806	20859	20628	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_493	98.28		False
+3817709	3817959	20859	20611	Klebsiella_variicola_NZ_CP047360.1	k141_493	96.41		False
+3836029	3836279	20611	20859	Klebsiella_variicola_NZ_CP047360.1	k141_493	95.22		False
+3557056	3557321	20874	20611	Klebsiella_variicola_NZ_CP047360.1	k141_493	95.11		False
+1691374	1691644	20880	20611	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_493	95.57		False
+4105999	4111145	20628	25774	Klebsiella_variicola_NZ_CP047360.1	k141_493	97.11		False
+1416043	1441633	25774	187	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_493	99.31		False
+5068223	5083311	35136	50222	Klebsiella_pneumoniae_MGH_43_NZ_KK036953.1	k141_493	99.24		False
+4111113	4129904	35062	53783	Klebsiella_variicola_NZ_CP047360.1	k141_493	95.54		False
+4129915	4130202	56763	57050	Klebsiella_variicola_NZ_CP047360.1	k141_493	95.14		False
+5084096	5090862	50298	57064	Klebsiella_pneumoniae_MGH_43_NZ_KK036953.1	k141_493	99.2		False
+5042573	5068163	187	25774	Klebsiella_pneumoniae_MGH_43_NZ_KK036953.1	k141_493	99.32		True
+interspecies translocation
+1394130	1415983	57064	35136	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_493	98.92		True
+CONTIG	k141_493	57064	misassembled
+CONTIG	k141_495	614	unaligned
+4902192	4905937	3748	3	Klebsiella_pneumoniae_MGH_43_NZ_KK036953.1	k141_496	99.23		False
+3941057	3941133	3871	3795	Klebsiella_variicola_NZ_CP047360.1	k141_496	97.4		False
+1589424	1589500	3795	3871	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_496	97.4		False
+4901628	4901704	3871	3795	Klebsiella_pneumoniae_MGH_43_NZ_KK036953.1	k141_496	97.4		False
+3941361	3941656	3969	3673	Klebsiella_variicola_NZ_CP047360.1	k141_496	96.3		False
+3927890	3941325	17314	3894	Klebsiella_variicola_NZ_CP047360.1	k141_496	95.72		False
+3904815	3923425	35919	17313	Klebsiella_variicola_NZ_CP047360.1	k141_496	95.62		False
+3896245	3901539	46283	40989	Klebsiella_variicola_NZ_CP047360.1	k141_496	97.03		False
+3889701	3891808	52783	50676	Klebsiella_variicola_NZ_CP047360.1	k141_496	95.54		False
+3889049	3889157	53433	53325	Klebsiella_variicola_NZ_CP047360.1	k141_496	99.08		False
+3886052	3888966	56429	53515	Klebsiella_variicola_NZ_CP047360.1	k141_496	95.78		False
+3883713	3885897	58646	56462	Klebsiella_variicola_NZ_CP047360.1	k141_496	97.99		False
+3883576	3883709	58780	58647	Klebsiella_variicola_NZ_CP047360.1	k141_496	98.51		False
+1648398	1648472	62779	62853	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_496	100.0		False
+3879202	3879277	62854	62779	Klebsiella_variicola_NZ_CP047360.1	k141_496	100.0		False
+2670093	2670168	62854	62779	Klebsiella_pneumoniae_MGH_43_NZ_KK036953.1	k141_496	100.0		False
+3878674	3878756	62854	62772	Klebsiella_variicola_NZ_CP047360.1	k141_496	98.8		False
+3878894	3878971	62856	62779	Klebsiella_variicola_NZ_CP047360.1	k141_496	100.0		False
+1648702	1648779	62779	62856	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_496	100.0		False
+2669787	2669864	62856	62779	Klebsiella_pneumoniae_MGH_43_NZ_KK036953.1	k141_496	100.0		False
+3957216	3957293	62779	62856	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_496	100.0		False
+1649134	1649211	62779	62856	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_496	100.0		False
+1408438	1408515	62856	62779	Klebsiella_variicola_NZ_CP047360.1	k141_496	100.0		False
+3878563	3878640	62856	62779	Klebsiella_variicola_NZ_CP047360.1	k141_496	100.0		False
+1648917	1649001	62772	62856	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_496	98.82		False
+2670294	2670370	63056	62980	Klebsiella_pneumoniae_MGH_43_NZ_KK036953.1	k141_496	100.0		False
+3957014	3957090	62980	63056	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_496	100.0		False
+1408641	1408717	63056	62980	Klebsiella_variicola_NZ_CP047360.1	k141_496	100.0		False
+2670415	2670491	63056	62980	Klebsiella_pneumoniae_MGH_43_NZ_KK036953.1	k141_496	100.0		False
+1648603	1648699	62960	63056	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_496	97.94		False
+3878974	3879070	63056	62960	Klebsiella_variicola_NZ_CP047360.1	k141_496	97.94		False
+2669867	2669963	63056	62960	Klebsiella_pneumoniae_MGH_43_NZ_KK036953.1	k141_496	97.94		False
+1648119	1648193	63058	63132	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_496	100.0		False
+3879481	3879556	63133	63058	Klebsiella_variicola_NZ_CP047360.1	k141_496	100.0		False
+4842933	4843008	63133	63058	Klebsiella_pneumoniae_MGH_43_NZ_KK036953.1	k141_496	100.0		False
+3878565	3878640	63133	63058	Klebsiella_variicola_NZ_CP047360.1	k141_496	100.0		False
+3878896	3878972	63133	63057	Klebsiella_variicola_NZ_CP047360.1	k141_496	100.0		False
+2669789	2669865	63133	63057	Klebsiella_pneumoniae_MGH_43_NZ_KK036953.1	k141_496	100.0		False
+1649129	1649209	63053	63133	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_496	96.3		False
+3957136	3957291	62980	63133	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_496	98.72		False
+1408440	1408595	63133	62980	Klebsiella_variicola_NZ_CP047360.1	k141_496	98.72		False
+4842654	4902117	63133	3673	Klebsiella_pneumoniae_MGH_43_NZ_KK036953.1	k141_496	99.57		False
+3879145	3879443	63190	62892	Klebsiella_variicola_NZ_CP047360.1	k141_496	97.66		False
+3879145	3879554	63190	62781	Klebsiella_variicola_NZ_CP047360.1	k141_496	98.29		False
+3879279	3879375	63359	63263	Klebsiella_variicola_NZ_CP047360.1	k141_496	97.94		False
+4842731	4842827	63359	63263	Klebsiella_pneumoniae_MGH_43_NZ_KK036953.1	k141_496	97.94		False
+1648300	1648396	63263	63359	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_496	97.94		False
+1408640	1408717	63360	63283	Klebsiella_variicola_NZ_CP047360.1	k141_496	100.0		False
+2670293	2670370	63360	63283	Klebsiella_pneumoniae_MGH_43_NZ_KK036953.1	k141_496	100.0		False
+2670535	2670612	63360	63283	Klebsiella_pneumoniae_MGH_43_NZ_KK036953.1	k141_496	100.0		False
+1408761	1408838	63360	63283	Klebsiella_variicola_NZ_CP047360.1	k141_496	100.0		False
+3956893	3956970	63283	63360	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_496	100.0		False
+3957014	3957091	63283	63360	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_496	100.0		False
+2670414	2670491	63360	63283	Klebsiella_pneumoniae_MGH_43_NZ_KK036953.1	k141_496	100.0		False
+3878674	3878750	63437	63361	Klebsiella_variicola_NZ_CP047360.1	k141_496	100.0		False
+2670093	2670248	63437	63283	Klebsiella_pneumoniae_MGH_43_NZ_KK036953.1	k141_496	99.36		False
+3878563	3878640	63439	63362	Klebsiella_variicola_NZ_CP047360.1	k141_496	100.0		False
+1648119	1648196	63362	63439	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_496	100.0		False
+4842931	4843008	63439	63362	Klebsiella_pneumoniae_MGH_43_NZ_KK036953.1	k141_496	100.0		False
+1649134	1649211	63362	63439	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_496	100.0		False
+3879479	3879556	63439	63362	Klebsiella_variicola_NZ_CP047360.1	k141_496	100.0		False
+4842652	4842730	63439	63361	Klebsiella_pneumoniae_MGH_43_NZ_KK036953.1	k141_496	100.0		False
+3957136	3957293	63283	63439	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_496	99.37		False
+1408438	1408595	63439	63283	Klebsiella_variicola_NZ_CP047360.1	k141_496	99.37		False
+2669787	2670169	63439	63057	Klebsiella_pneumoniae_MGH_43_NZ_KK036953.1	k141_496	100.0		False
+2669787	2670248	63439	62980	Klebsiella_pneumoniae_MGH_43_NZ_KK036953.1	k141_496	99.57		False
+1648923	1649080	63361	63518	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_496	98.73		False
+4842837	4842904	63532	63465	Klebsiella_pneumoniae_MGH_43_NZ_KK036953.1	k141_496	97.06		False
+3879202	3879277	63659	63584	Klebsiella_variicola_NZ_CP047360.1	k141_496	100.0		False
+2670093	2670169	63659	63583	Klebsiella_pneumoniae_MGH_43_NZ_KK036953.1	k141_496	100.0		False
+3878674	3879109	63659	63224	Klebsiella_variicola_NZ_CP047360.1	k141_496	96.79		False
+3878674	3879109	63659	63224	Klebsiella_variicola_NZ_CP047360.1	k141_496	96.79		False
+1649134	1649211	63584	63661	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_496	100.0		False
+1408438	1408516	63661	63583	Klebsiella_variicola_NZ_CP047360.1	k141_496	100.0		False
+3957215	3957293	63583	63661	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_496	100.0		False
+3879479	3879563	63661	63577	Klebsiella_variicola_NZ_CP047360.1	k141_496	98.82		False
+4842931	4843015	63661	63577	Klebsiella_pneumoniae_MGH_43_NZ_KK036953.1	k141_496	98.82		False
+1648112	1648196	63577	63661	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_496	98.82		False
+4842833	4842904	63758	63687	Klebsiella_pneumoniae_MGH_43_NZ_KK036953.1	k141_496	95.83		False
+3879380	3879452	63759	63687	Klebsiella_variicola_NZ_CP047360.1	k141_496	95.89		False
+3878796	3878971	63759	63584	Klebsiella_variicola_NZ_CP047360.1	k141_496	96.59		False
+1648701	1648877	63583	63759	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_496	97.18		False
+3878674	3878749	63868	63793	Klebsiella_variicola_NZ_CP047360.1	k141_496	100.0		False
+1648394	1648473	63789	63868	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_496	97.5		False
+1648924	1649001	63793	63870	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_496	100.0		False
+1648702	1648779	63793	63870	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_496	100.0		False
+4842931	4843008	63870	63793	Klebsiella_pneumoniae_MGH_43_NZ_KK036953.1	k141_496	100.0		False
+3878894	3878971	63870	63793	Klebsiella_variicola_NZ_CP047360.1	k141_496	100.0		False
+1648119	1648196	63793	63870	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_496	100.0		False
+3879479	3879556	63870	63793	Klebsiella_variicola_NZ_CP047360.1	k141_496	100.0		False
+4842652	4842733	63870	63789	Klebsiella_pneumoniae_MGH_43_NZ_KK036953.1	k141_496	97.56		False
+3957216	3957325	63793	63902	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_496	100.0		False
+2669753	2669864	63904	63793	Klebsiella_pneumoniae_MGH_43_NZ_KK036953.1	k141_496	100.0		False
+1408404	1408515	63904	63793	Klebsiella_variicola_NZ_CP047360.1	k141_496	100.0		False
+3878529	3878673	63904	63760	Klebsiella_variicola_NZ_CP047360.1	k141_496	97.24		False
+3878529	3885890	63904	56469	Klebsiella_variicola_NZ_CP047360.1	k141_496	95.11		False
+4836819	4841800	68774	63793	Klebsiella_pneumoniae_MGH_43_NZ_KK036953.1	k141_496	99.62		False
+3872409	3875089	69873	67193	Klebsiella_variicola_NZ_CP047360.1	k141_496	96.79		False
+3868019	3872408	74264	69875	Klebsiella_variicola_NZ_CP047360.1	k141_496	96.29		False
+3862327	3865523	79955	76759	Klebsiella_variicola_NZ_CP047360.1	k141_496	95.56		False
+4808114	4827586	88316	68843	Klebsiella_pneumoniae_MGH_43_NZ_KK036953.1	k141_496	99.4		False
+4800048	4800642	88911	88316	Klebsiella_pneumoniae_MGH_43_NZ_KK036953.1	k141_496	98.83		False
+4788562	4788644	98470	98388	Klebsiella_pneumoniae_MGH_43_NZ_KK036953.1	k141_496	98.8		False
+1691741	1691823	98388	98470	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_496	98.8		False
+5063014	5063200	98812	98626	Klebsiella_pneumoniae_MGH_43_NZ_KK036953.1	k141_496	96.79		False
+1420984	1421192	98604	98812	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_496	99.04		False
+3486676	3486884	98604	98812	Klebsiella_pneumoniae_MGH_43_NZ_KK036953.1	k141_496	96.17		False
+1392144	1392359	98597	98812	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_496	97.22		False
+3573743	3573953	98604	98814	Klebsiella_variicola_NZ_CP047360.1	k141_496	96.21		False
+2890415	2890638	98830	98607	Klebsiella_variicola_NZ_CP047360.1	k141_496	96.88		False
+2511150	2511376	98604	98830	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_496	96.48		False
+4908742	4908968	98604	98830	Klebsiella_variicola_NZ_CP047360.1	k141_496	96.48		False
+903399	903625	98604	98830	Klebsiella_pneumoniae_MGH_43_NZ_KK036953.1	k141_496	96.04		False
+4038584	4038810	98830	98604	Klebsiella_pneumoniae_MGH_43_NZ_KK036953.1	k141_496	96.04		False
+61405	61631	98830	98604	Klebsiella_variicola_NZ_CP047360.1	k141_496	95.59		False
+4393363	4393597	98830	98596	Klebsiella_variicola_NZ_CP047360.1	k141_496	97.45		False
+5352533	5352757	98831	98607	Klebsiella_pneumoniae_MGH_43_NZ_KK036953.1	k141_496	97.78		False
+5352005	5352229	98831	98607	Klebsiella_pneumoniae_MGH_43_NZ_KK036953.1	k141_496	97.33		False
+2200925	2201149	98831	98607	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_496	96.0		False
+3207381	3207605	98607	98831	Klebsiella_variicola_NZ_CP047360.1	k141_496	95.56		False
+970174	970399	98831	98605	Klebsiella_variicola_NZ_CP047360.1	k141_496	95.59		False
+3031931	3032158	98831	98604	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_496	95.61		False
+469732	469959	98604	98831	Klebsiella_pneumoniae_MGH_43_NZ_KK036953.1	k141_496	95.61		False
+4330524	4330751	98604	98831	Klebsiella_pneumoniae_MGH_43_NZ_KK036953.1	k141_496	95.61		False
+546984	547211	98831	98604	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_496	95.18		False
+1108837	1109071	98597	98831	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_496	96.17		False
+3817726	3817960	98597	98831	Klebsiella_variicola_NZ_CP047360.1	k141_496	96.17		False
+4071710	4071945	98831	98596	Klebsiella_variicola_NZ_CP047360.1	k141_496	97.03		False
+3557056	3557322	98565	98831	Klebsiella_variicola_NZ_CP047360.1	k141_496	95.51		False
+1584519	1584787	98562	98831	Klebsiella_variicola_NZ_CP047360.1	k141_496	95.19		False
+1755052	1755281	98607	98836	Klebsiella_variicola_NZ_CP047360.1	k141_496	96.52		False
+1753713	1753943	98607	98837	Klebsiella_variicola_NZ_CP047360.1	k141_496	96.54		False
+1754606	1754836	98607	98837	Klebsiella_variicola_NZ_CP047360.1	k141_496	96.1		False
+1754159	1754389	98607	98837	Klebsiella_variicola_NZ_CP047360.1	k141_496	96.1		False
+2983126	2983305	98659	98838	Klebsiella_variicola_NZ_CP047360.1	k141_496	96.67		False
+5030431	5030665	98838	98604	Klebsiella_pneumoniae_MGH_43_NZ_KK036953.1	k141_496	96.6		False
+1460590	1460832	98596	98838	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_496	97.53		False
+4072309	4072551	98838	98596	Klebsiella_variicola_NZ_CP047360.1	k141_496	96.71		False
+4072798	4073040	98838	98596	Klebsiella_variicola_NZ_CP047360.1	k141_496	95.47		False
+4105973	4106252	98838	98559	Klebsiella_variicola_NZ_CP047360.1	k141_496	95.36		False
+3755929	3756244	98922	98604	Klebsiella_variicola_NZ_CP047360.1	k141_496	95.3		False
+1691203	1691285	98927	99009	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_496	100.0		False
+4789041	4789123	99009	98927	Klebsiella_pneumoniae_MGH_43_NZ_KK036953.1	k141_496	98.8		False
+1707187	1709556	114373	116742	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_496	99.2		False
+1707231	1709594	114417	116780	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_496	99.15		False
+4770732	4798602	116840	88909	Klebsiella_pneumoniae_MGH_43_NZ_KK036953.1	k141_496	99.0		False
+3817999	3818274	117034	116759	Klebsiella_variicola_NZ_CP047360.1	k141_496	96.01		False
+3818306	3818410	117083	116979	Klebsiella_variicola_NZ_CP047360.1	k141_496	95.24		False
+3818187	3818311	117083	116959	Klebsiella_variicola_NZ_CP047360.1	k141_496	96.0		False
+1709759	1712154	116944	119339	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_496	99.04		False
+1709906	1712269	117091	119454	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_496	99.32		False
+3808478	3813972	126185	120691	Klebsiella_variicola_NZ_CP047360.1	k141_496	95.18		False
+3806959	3807137	127704	127526	Klebsiella_variicola_NZ_CP047360.1	k141_496	95.53		False
+3802809	3806876	131851	127784	Klebsiella_variicola_NZ_CP047360.1	k141_496	95.35		False
+3798931	3802807	135728	131852	Klebsiella_variicola_NZ_CP047360.1	k141_496	96.36		False
+3797819	3798930	136852	135741	Klebsiella_variicola_NZ_CP047360.1	k141_496	95.95		False
+3794948	3797818	139724	136854	Klebsiella_variicola_NZ_CP047360.1	k141_496	95.19		False
+3790065	3792655	144608	142018	Klebsiella_variicola_NZ_CP047360.1	k141_496	95.45		False
+3787009	3787618	147638	147029	Klebsiella_variicola_NZ_CP047360.1	k141_496	95.41		False
+3778952	3780024	154558	153486	Klebsiella_variicola_NZ_CP047360.1	k141_496	95.34		False
+3776304	3778212	157206	155298	Klebsiella_variicola_NZ_CP047360.1	k141_496	95.13		False
+4730514	4770855	157307	116952	Klebsiella_pneumoniae_MGH_43_NZ_KK036953.1	k141_496	99.38		False
+3844102	3844176	157299	157373	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_496	97.33		False
+970174	970285	157299	157410	Klebsiella_variicola_NZ_CP047360.1	k141_496	96.43		False
+3486721	3486882	157481	157320	Klebsiella_pneumoniae_MGH_43_NZ_KK036953.1	k141_496	95.06		False
+3413217	3413398	157481	157300	Klebsiella_variicola_NZ_CP047360.1	k141_496	95.6		False
+1753755	1753937	157481	157299	Klebsiella_variicola_NZ_CP047360.1	k141_496	96.17		False
+1755094	1755276	157481	157299	Klebsiella_variicola_NZ_CP047360.1	k141_496	95.63		False
+1754201	1754383	157481	157299	Klebsiella_variicola_NZ_CP047360.1	k141_496	95.63		False
+1754648	1754830	157481	157299	Klebsiella_variicola_NZ_CP047360.1	k141_496	95.63		False
+4131922	4132003	157486	157567	Klebsiella_variicola_NZ_CP047360.1	k141_496	96.34		False
+1460552	1460632	157570	157490	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_496	96.3		False
+61593	61677	157486	157570	Klebsiella_variicola_NZ_CP047360.1	k141_496	96.47		False
+1584515	1584787	157570	157299	Klebsiella_variicola_NZ_CP047360.1	k141_496	95.6		False
+3769121	3769540	164545	164126	Klebsiella_variicola_NZ_CP047360.1	k141_496	95.0		False
+3756479	3758337	177157	175299	Klebsiella_variicola_NZ_CP047360.1	k141_496	96.13		False
+4710804	4710881	177233	177156	Klebsiella_pneumoniae_MGH_43_NZ_KK036953.1	k141_496	98.72		False
+1769722	1769799	177156	177233	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_496	97.44		False
+4710960	4730526	177239	157672	Klebsiella_pneumoniae_MGH_43_NZ_KK036953.1	k141_496	99.31		False
+970286	970399	177344	177231	Klebsiella_variicola_NZ_CP047360.1	k141_496	95.61		False
+1392146	1392358	177225	177437	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_496	95.31		False
+1420915	1421192	177161	177438	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_496	95.68		False
+3413174	3413398	177232	177456	Klebsiella_variicola_NZ_CP047360.1	k141_496	95.56		False
+4393363	4393594	177456	177225	Klebsiella_variicola_NZ_CP047360.1	k141_496	96.98		False
+2511109	2511376	177189	177456	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_496	95.15		False
+2890415	2890682	177456	177189	Klebsiella_variicola_NZ_CP047360.1	k141_496	95.15		False
+3836028	3836260	177457	177225	Klebsiella_variicola_NZ_CP047360.1	k141_496	96.57		False
+1691414	1691645	177225	177457	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_496	96.14		False
+5352532	5352765	177458	177225	Klebsiella_pneumoniae_MGH_43_NZ_KK036953.1	k141_496	96.58		False
+4788679	4788911	177458	177225	Klebsiella_pneumoniae_MGH_43_NZ_KK036953.1	k141_496	96.58		False
+4105979	4106229	177458	177208	Klebsiella_variicola_NZ_CP047360.1	k141_496	96.41		False
+3557073	3557323	177208	177458	Klebsiella_variicola_NZ_CP047360.1	k141_496	96.41		False
+1460576	1460826	177208	177458	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_496	95.62		False
+4072315	4072612	177458	177161	Klebsiella_variicola_NZ_CP047360.1	k141_496	95.64		False
+1584596	1584809	177266	177479	Klebsiella_variicola_NZ_CP047360.1	k141_496	95.33		False
+4071674	4072006	177493	177161	Klebsiella_variicola_NZ_CP047360.1	k141_496	96.1		False
+3754378	3755862	179081	177597	Klebsiella_variicola_NZ_CP047360.1	k141_496	96.36		False
+3747984	3749366	186591	185209	Klebsiella_variicola_NZ_CP047360.1	k141_496	95.37		False
+3747094	3747982	187480	186592	Klebsiella_variicola_NZ_CP047360.1	k141_496	95.84		False
+3744936	3746259	189638	188315	Klebsiella_variicola_NZ_CP047360.1	k141_496	95.09		False
+4695935	4710752	192385	177564	Klebsiella_pneumoniae_MGH_43_NZ_KK036953.1	k141_496	99.39		False
+4356817	4356955	193699	193560	Klebsiella_pneumoniae_MGH_43_NZ_KK036953.1	k141_496	99.29		False
+315429	315568	193699	193559	Klebsiella_pneumoniae_CP049891.1	k141_496	99.29		False
+3621142	3621281	193699	193559	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_496	99.29		False
+2101818	2101957	193559	193699	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_496	99.29		False
+2177990	2178129	193699	193559	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_496	99.29		False
+22926	23065	193699	193559	Klebsiella_pneumoniae_CP049891.1	k141_496	99.29		False
+792163	792302	193699	193559	Klebsiella_pneumoniae_MGH_43_NZ_KK036953.1	k141_496	96.45		False
+1585080	1588825	3	3748	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_496	99.25		True
+local misassembly
+1588976	1589120	3749	3893	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_496	98.32		True
+local misassembly
+1589232	1673659	3894	88316	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_496	99.46		True
+relocation, inconsistency = 7472
+1681132	1750009	88317	157206	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_496	99.36		True
+local misassembly
+1750090	1769643	157686	177239	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_496	99.2		True
+local misassembly
+1769851	1784670	177564	192385	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_496	99.3		True
+CONTIG	k141_496	193699	misassembled
+2570133	2578090	137	8073	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_500	99.07		False
+3971808	3979756	8073	137	Klebsiella_pneumoniae_MGH_43_NZ_KK036953.1	k141_500	99.21		True
+CONTIG	k141_500	8073	correct
+2484388	2485522	4195	5329	Klebsiella_variicola_NZ_CP047360.1	k141_506	95.33		False
+3724564	3733622	136	9194	Klebsiella_pneumoniae_MGH_43_NZ_KK036953.1	k141_506	99.23		False
+2495281	2495718	17554	17991	Klebsiella_variicola_NZ_CP047360.1	k141_506	96.12		False
+2500225	2504274	22499	26548	Klebsiella_variicola_NZ_CP047360.1	k141_506	95.28		False
+2508982	2509702	31256	31976	Klebsiella_variicola_NZ_CP047360.1	k141_506	95.56		False
+3741839	3764675	9203	32038	Klebsiella_pneumoniae_MGH_43_NZ_KK036953.1	k141_506	98.9		False
+2510773	2510840	33058	33125	Klebsiella_variicola_NZ_CP047360.1	k141_506	97.06		False
+2510841	2513880	33127	36166	Klebsiella_variicola_NZ_CP047360.1	k141_506	96.94		False
+3764630	3786538	31838	53690	Klebsiella_pneumoniae_MGH_43_NZ_KK036953.1	k141_506	96.78		False
+3787630	3791440	57985	61795	Klebsiella_pneumoniae_MGH_43_NZ_KK036953.1	k141_506	96.41		False
+2745199	2749007	61795	57985	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_506	96.28		False
+3791440	3793025	63672	65257	Klebsiella_pneumoniae_MGH_43_NZ_KK036953.1	k141_506	95.52		False
+2563502	2571051	74900	82449	Klebsiella_variicola_NZ_CP047360.1	k141_506	95.74		False
+2577361	2579033	88760	90432	Klebsiella_variicola_NZ_CP047360.1	k141_506	95.58		False
+2579034	2579156	90434	90556	Klebsiella_variicola_NZ_CP047360.1	k141_506	99.19		False
+2579997	2580237	90700	90940	Klebsiella_variicola_NZ_CP047360.1	k141_506	95.44		False
+2580891	2582954	90996	93054	Klebsiella_variicola_NZ_CP047360.1	k141_506	95.84		False
+2715498	2745199	93340	63672	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_506	96.55		False
+116679	116809	98129	98259	Klebsiella_pneumoniae_CP049891.1	k141_506	100.0		False
+114412	114542	98259	98129	Klebsiella_pneumoniae_CP049891.1	k141_506	100.0		False
+189718	189858	98269	98129	Klebsiella_pneumoniae_CP049891.1	k141_506	99.29		False
+203684	203824	98269	98129	Klebsiella_pneumoniae_CP049891.1	k141_506	99.29		False
+268718	268858	98129	98269	Klebsiella_pneumoniae_CP049891.1	k141_506	99.29		False
+181099	181239	98269	98129	Klebsiella_pneumoniae_CP049891.1	k141_506	99.29		False
+286097	286237	98129	98269	Klebsiella_pneumoniae_CP049891.1	k141_506	99.29		False
+811489	811629	98269	98129	Klebsiella_pneumoniae_MGH_43_NZ_KK036953.1	k141_506	99.29		False
+193585	193725	98269	98129	Klebsiella_pneumoniae_CP049891.1	k141_506	99.29		False
+191773	191913	98269	98129	Klebsiella_pneumoniae_CP049891.1	k141_506	99.29		False
+148368	148508	98129	98269	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047676.1	k141_506	98.58		False
+184659	184800	98128	98269	Klebsiella_pneumoniae_CP049891.1	k141_506	97.89		False
+170020	170162	98269	98127	Klebsiella_pneumoniae_CP049891.1	k141_506	98.6		False
+2801021	2810076	9194	136	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_506	99.4		True
+relocation, inconsistency = 5906
+2772270	2795106	32038	9203	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_506	99.04		True
+local misassembly
+2750099	2771804	53690	32039	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_506	96.87		True
+interspecies translocation
+2537360	2543135	57985	63780	Klebsiella_variicola_NZ_CP047360.1	k141_506	95.72		True
+relocation, inconsistency = 9216
+2552398	2554403	63827	65832	Klebsiella_variicola_NZ_CP047360.1	k141_506	96.91		True
+indel: indel (> 5bp)
+2554415	2556252	65833	67670	Klebsiella_variicola_NZ_CP047360.1	k141_506	96.9		True
+interspecies translocation
+3793096	3823561	67683	98128	Klebsiella_pneumoniae_MGH_43_NZ_KK036953.1	k141_506	97.19		True
+CONTIG	k141_506	98269	misassembled
+3076033	3094819	20660	1875	Klebsiella_pneumoniae_MGH_43_NZ_KK036953.1	k141_511	99.24		False
+3600589	3619507	1883	20801	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_511	99.15		True
+CONTIG	k141_511	20801	correct
+CONTIG	k141_518	573	unaligned
+CONTIG	k141_525	702	unaligned
+CONTIG	k141_526	1878	unaligned
+1137890	1154304	1	16416	Klebsiella_pneumoniae_MGH_43_NZ_KK036953.1	k141_528	99.6	True	True
+125493	141908	1	16416	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_528	99.33	True	True
+CONTIG	k141_528	16553	ambiguous
+1041034	1064804	1	23771	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_529	99.36	True	True
+5420374	5444053	23681	1	Klebsiella_pneumoniae_MGH_43_NZ_KK036953.1	k141_529	99.41	True	True
+CONTIG	k141_529	23944	ambiguous
+3637958	3649668	1	11713	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_532	98.24		False
+3046191	3057903	11713	1	Klebsiella_pneumoniae_MGH_43_NZ_KK036953.1	k141_532	99.11		True
+CONTIG	k141_532	11849	correct
+5269172	5292395	206	23429	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_536	99.46	True	True
+903665	926776	318	23429	Klebsiella_pneumoniae_MGH_43_NZ_KK036953.1	k141_536	99.3	True	True
+CONTIG	k141_536	23429	ambiguous
+788306	790495	2197	7	Klebsiella_pneumoniae_MGH_43_NZ_KK036953.1	k141_554	99.22		True
+CONTIG	k141_554	2197	correct
+2889981	2890547	567	1	Klebsiella_variicola_NZ_CP047360.1	k141_558	96.83		True
+CONTIG	k141_558	567	correct
+752938	755768	1	2831	Klebsiella_pneumoniae_MGH_43_NZ_KK036953.1	k141_566	98.83		True
+CONTIG	k141_566	10837	correct_unaligned
+311705	311845	141	1	Klebsiella_pneumoniae_CP049891.1	k141_567	100.0		False
+19204	19343	141	1	Klebsiella_pneumoniae_CP049891.1	k141_567	99.29		False
+2345287	2349803	30016	25500	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_567	95.48		False
+3080301	3082572	32989	35260	Klebsiella_variicola_NZ_CP047360.1	k141_567	96.65		False
+2324692	2329277	35260	30675	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_567	99.45		False
+3089081	3096144	36884	43947	Klebsiella_variicola_NZ_CP047360.1	k141_567	95.9		False
+3096181	3101279	46345	51443	Klebsiella_variicola_NZ_CP047360.1	k141_567	97.04		False
+4226459	4242535	45406	61470	Klebsiella_pneumoniae_MGH_43_NZ_KK036953.1	k141_567	99.12		False
+3619367	3619504	65142	65279	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_567	100.0		False
+2176215	2176352	65142	65279	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_567	100.0		False
+29141	29279	65279	65141	Klebsiella_pneumoniae_CP049891.1	k141_567	100.0		False
+321640	321778	65279	65141	Klebsiella_pneumoniae_CP049891.1	k141_567	100.0		False
+2103595	2103734	65279	65140	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_567	100.0		False
+4355040	4355179	65140	65279	Klebsiella_pneumoniae_MGH_43_NZ_KK036953.1	k141_567	99.29		False
+4207213	4218592	25500	36878	Klebsiella_pneumoniae_MGH_43_NZ_KK036953.1	k141_567	99.1		True
+interspecies translocation
+2294085	2318688	61470	36879	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_567	99.32		True
+CONTIG	k141_567	65279	misassembled
+3251286	3252126	2502	1662	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_572	97.15		True
+unknown
+3248080	3248576	4644	4148	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_572	97.38		True
+unknown
+3248512	3249741	6350	5121	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_572	96.43		True
+unknown
+3249845	3250796	7160	6209	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_572	97.27		True
+unknown
+3246328	3246662	7454	7120	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_572	99.1		True
+unknown
+CONTIG	k141_572	7590	mis_unaligned
+744115	750719	1	6605	Klebsiella_pneumoniae_MGH_43_NZ_KK036953.1	k141_574	100.0		True
+CONTIG	k141_574	6605	correct
+2356370	2356486	389	505	Klebsiella_pneumoniae_MGH_43_NZ_KK036953.1	k141_581	96.58		False
+2356246	2356346	127	227	Klebsiella_pneumoniae_MGH_43_NZ_KK036953.1	k141_581	98.02		False
+4246965	4247067	229	127	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_581	98.06		True
+unknown
+4246827	4246943	505	389	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_581	96.58		True
+unknown
+CONTIG	k141_581	505	mis_unaligned
+5121371	5121661	506	216	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_582	96.22		False
+405747	406037	506	216	Klebsiella_pneumoniae_MGH_43_NZ_KK036953.1	k141_582	96.22		False
+4799757	4800047	506	216	Klebsiella_pneumoniae_MGH_43_NZ_KK036953.1	k141_582	96.22		False
+4332020	4332310	506	216	Klebsiella_pneumoniae_MGH_43_NZ_KK036953.1	k141_582	96.22		False
+1460916	1461221	201	506	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_582	96.41		False
+396302	396514	213	1	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_582	95.77		True
+relocation, inconsistency = -737795
+1133804	1134094	506	216	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_582	96.22		True
+CONTIG	k141_582	586	misassembled
+269634	269775	1116	975	Klebsiella_pneumoniae_CP049891.1	k141_583	99.3		False
+190855	190997	974	1116	Klebsiella_pneumoniae_CP049891.1	k141_583	99.3		True
+CONTIG	k141_583	1116	correct_unaligned
+4889665	4916004	1	26340	Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1	k141_602	99.65	True	True
+1649928	1676266	26340	1	Klebsiella_pneumoniae_MGH_43_NZ_KK036953.1	k141_602	99.63	True	True
+CONTIG	k141_602	26340	ambiguous
+CONTIG	k141_606	1275	unaligned
+CONTIG	k141_608	6788	unaligned
+787726	787910	263	79	Klebsiella_pneumoniae_MGH_43_NZ_KK036953.1	k141_610	97.3		True
+CONTIG	k141_610	528	correct

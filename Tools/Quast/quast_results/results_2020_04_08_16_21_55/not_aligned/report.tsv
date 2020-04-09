@@ -1,0 +1,20 @@
+Assembly	ERR1795072.contigs	ERR1795073.contigs
+# contigs (>= 1000 bp)	29	42
+# contigs (>= 5000 bp)	9	9
+# contigs (>= 10000 bp)	2	0
+# contigs (>= 25000 bp)	1	0
+# contigs (>= 50000 bp)	0	0
+Total length (>= 1000 bp)	138146	155793
+Total length (>= 5000 bp)	88366	69817
+Total length (>= 10000 bp)	37662	0
+Total length (>= 25000 bp)	26018	0
+Total length (>= 50000 bp)	0	0
+# contigs	35	55
+Largest contig	26018	9907
+Total length	142240	164727
+GC (%)	52.12	51.44
+N50	7067	4690
+N75	3291	2745
+L50	7	12
+L75	14	23
+# N's per 100 kbp	0.00	0.00

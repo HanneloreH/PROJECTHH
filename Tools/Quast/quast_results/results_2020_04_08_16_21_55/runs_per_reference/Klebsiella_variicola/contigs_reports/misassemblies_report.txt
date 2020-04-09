@@ -1,0 +1,25 @@
+All statistics are based on contigs of size >= 500 bp, unless otherwise noted (e.g., "# contigs (>= 0 bp)" and "Total length (>= 0 bp)" include all contigs).
+
+Assembly                         ERR1795072.contigs  ERR1795073.contigs
+# misassemblies                  49                  31                
+  # contig misassemblies         49                  31                
+    # c. relocations             49                  31                
+    # c. translocations          0                   0                 
+    # c. inversions              0                   0                 
+  # scaffold misassemblies       0                   0                 
+    # s. relocations             0                   0                 
+    # s. translocations          0                   0                 
+    # s. inversions              0                   0                 
+# misassembled contigs           12                  10                
+Misassembled contigs length      2273449             1387654           
+# possibly misassembled contigs  4                   4                 
+    # possible misassemblies     5                   5                 
+# local misassemblies            140                 99                
+# scaffold gap ext. mis.         0                   0                 
+# scaffold gap loc. mis.         0                   0                 
+# unaligned mis. contigs         10                  12                
+# mismatches                     95964               80156             
+# indels                         1088                959               
+    # indels (<= 5 bp)           1014                894               
+    # indels (> 5 bp)            74                  65                
+Indels length                    3040                2606              

@@ -1,0 +1,876 @@
+S1	E1	S2	E2	Reference	Contig	IDY	Ambiguous	Best_group
+3500122	3503029	312	3220	Klebsiella_variicola_NZ_CP047360.1	k141_0	96.43		True
+relocation, inconsistency = 33241
+3537154	3549831	4104	16780	Klebsiella_variicola_NZ_CP047360.1	k141_0	95.97		True
+local misassembly
+3549997	3556948	16781	23735	Klebsiella_variicola_NZ_CP047360.1	k141_0	96.85		True
+local misassembly
+3557358	3573616	23870	40126	Klebsiella_variicola_NZ_CP047360.1	k141_0	95.57		True
+local misassembly
+3574079	3579683	40252	45857	Klebsiella_variicola_NZ_CP047360.1	k141_0	96.18		True
+relocation, inconsistency = 18135
+3599222	3599488	47261	47527	Klebsiella_variicola_NZ_CP047360.1	k141_0	97.0		True
+local misassembly
+3601159	3603935	49198	51974	Klebsiella_variicola_NZ_CP047360.1	k141_0	95.53		True
+indel: stretch of mismatches
+3603939	3606457	51978	54496	Klebsiella_variicola_NZ_CP047360.1	k141_0	96.47		True
+local misassembly
+3613874	3613988	61915	62029	Klebsiella_variicola_NZ_CP047360.1	k141_0	95.65		True
+local misassembly
+3633240	3683534	81425	131726	Klebsiella_variicola_NZ_CP047360.1	k141_0	95.02		True
+CONTIG	k141_0	131726	misassembled
+5453223	5455126	1903	1	Klebsiella_variicola_NZ_CP047360.1	k141_1	98.95		True
+CONTIG	k141_1	1903	correct
+1785025	1787212	142	2329	Klebsiella_variicola_NZ_CP047360.1	k141_4	96.25		True
+unknown
+1787299	1789333	2418	4452	Klebsiella_variicola_NZ_CP047360.1	k141_4	96.22		True
+unknown
+1789349	1790563	4465	5679	Klebsiella_variicola_NZ_CP047360.1	k141_4	96.63		True
+unknown
+1801346	1802392	16476	17522	Klebsiella_variicola_NZ_CP047360.1	k141_4	96.08		True
+unknown
+1804660	1804848	46365	46553	Klebsiella_variicola_NZ_CP047360.1	k141_4	97.88		True
+unknown
+1804850	1806611	46554	48315	Klebsiella_variicola_NZ_CP047360.1	k141_4	95.46		True
+unknown
+1861848	1862112	150785	151049	Klebsiella_variicola_NZ_CP047360.1	k141_4	96.6		True
+unknown
+1862907	1863038	151840	151971	Klebsiella_variicola_NZ_CP047360.1	k141_4	96.21		True
+unknown
+1878219	1881300	167174	170255	Klebsiella_variicola_NZ_CP047360.1	k141_4	96.3		True
+unknown
+1881304	1890860	170259	179815	Klebsiella_variicola_NZ_CP047360.1	k141_4	95.62		True
+unknown
+1901229	1905499	184905	189175	Klebsiella_variicola_NZ_CP047360.1	k141_4	95.74		True
+unknown
+1909985	1910050	193669	193734	Klebsiella_variicola_NZ_CP047360.1	k141_4	96.97		True
+unknown
+1915922	1916007	199601	199686	Klebsiella_variicola_NZ_CP047360.1	k141_4	95.35		True
+unknown
+1932482	1932581	216142	216241	Klebsiella_variicola_NZ_CP047360.1	k141_4	96.0		True
+unknown
+1947035	1947799	230701	231465	Klebsiella_variicola_NZ_CP047360.1	k141_4	95.16		True
+unknown
+1947818	1956309	231466	239957	Klebsiella_variicola_NZ_CP047360.1	k141_4	95.41		True
+unknown
+1961849	1963631	245492	247274	Klebsiella_variicola_NZ_CP047360.1	k141_4	95.23		True
+unknown
+1963704	1969812	247347	253455	Klebsiella_variicola_NZ_CP047360.1	k141_4	96.66		True
+unknown
+1971737	1973971	253505	255739	Klebsiella_variicola_NZ_CP047360.1	k141_4	96.24		True
+unknown
+1974163	1975975	255934	257746	Klebsiella_variicola_NZ_CP047360.1	k141_4	95.81		True
+unknown
+1976909	1981076	257770	261937	Klebsiella_variicola_NZ_CP047360.1	k141_4	96.55		True
+unknown
+1987560	1989481	262272	264193	Klebsiella_variicola_NZ_CP047360.1	k141_4	95.53		True
+unknown
+1994366	2017144	264337	287101	Klebsiella_variicola_NZ_CP047360.1	k141_4	96.78		True
+unknown
+2023161	2023587	287145	287571	Klebsiella_variicola_NZ_CP047360.1	k141_4	97.42		True
+unknown
+CONTIG	k141_4	295014	mis_unaligned
+5186385	5207757	21563	192	Klebsiella_variicola_NZ_CP047360.1	k141_16	96.37		True
+local misassembly
+5179956	5185535	27182	21602	Klebsiella_variicola_NZ_CP047360.1	k141_16	95.92		True
+relocation, inconsistency = -3152
+5178007	5179247	32281	31043	Klebsiella_variicola_NZ_CP047360.1	k141_16	95.57		True
+local misassembly
+5171287	5173499	38857	36645	Klebsiella_variicola_NZ_CP047360.1	k141_16	97.38		True
+indel: indel (> 5bp)
+5169495	5171277	40640	38858	Klebsiella_variicola_NZ_CP047360.1	k141_16	96.58		True
+local misassembly
+5157272	5158401	52854	51725	Klebsiella_variicola_NZ_CP047360.1	k141_16	96.64		True
+indel: stretch of mismatches
+5155884	5157252	54242	52874	Klebsiella_variicola_NZ_CP047360.1	k141_16	95.98		True
+local misassembly
+5150559	5151144	59564	58979	Klebsiella_variicola_NZ_CP047360.1	k141_16	97.1		True
+local misassembly
+5143149	5148329	66943	61763	Klebsiella_variicola_NZ_CP047360.1	k141_16	95.97		True
+indel: stretch of mismatches
+5140461	5143086	69631	67006	Klebsiella_variicola_NZ_CP047360.1	k141_16	96.73		True
+relocation, inconsistency = 2001
+5132598	5134828	75493	73263	Klebsiella_variicola_NZ_CP047360.1	k141_16	96.68		True
+local misassembly
+5112690	5114746	95386	93330	Klebsiella_variicola_NZ_CP047360.1	k141_16	96.6		True
+indel: stretch of mismatches
+5110399	5112685	97677	95391	Klebsiella_variicola_NZ_CP047360.1	k141_16	95.28		True
+indel: stretch of mismatches
+5108887	5110395	99189	97681	Klebsiella_variicola_NZ_CP047360.1	k141_16	95.23		True
+local misassembly
+5078587	5107749	129279	100117	Klebsiella_variicola_NZ_CP047360.1	k141_16	95.33		True
+relocation, inconsistency = 214293
+4862816	4864231	129342	130757	Klebsiella_variicola_NZ_CP047360.1	k141_16	99.51		True
+CONTIG	k141_16	130757	misassembled
+4890781	4890990	5278	5487	Klebsiella_variicola_NZ_CP047360.1	k141_36	99.52		True
+CONTIG	k141_36	5646	correct_unaligned
+1320397	1320957	3650	4210	Klebsiella_variicola_NZ_CP047360.1	k141_58	95.19		True
+indel: stretch of mismatches
+1320963	1321546	4216	4799	Klebsiella_variicola_NZ_CP047360.1	k141_58	95.21		True
+indel: indel (<= 5bp)
+1321547	1321639	4801	4893	Klebsiella_variicola_NZ_CP047360.1	k141_58	98.92		True
+relocation, inconsistency = 6005
+1335243	1340352	12492	17601	Klebsiella_variicola_NZ_CP047360.1	k141_58	95.17		True
+local misassembly
+1346694	1349951	23949	27206	Klebsiella_variicola_NZ_CP047360.1	k141_58	96.69		True
+local misassembly
+1358277	1360193	35519	37435	Klebsiella_variicola_NZ_CP047360.1	k141_58	95.51		True
+indel: stretch of mismatches
+1360197	1369732	37439	46974	Klebsiella_variicola_NZ_CP047360.1	k141_58	95.11		True
+indel: indel (<= 5bp)
+1369733	1369870	46976	47113	Klebsiella_variicola_NZ_CP047360.1	k141_58	97.1		True
+indel: indel (<= 5bp)
+1369872	1372159	47114	49401	Klebsiella_variicola_NZ_CP047360.1	k141_58	96.37		True
+indel: indel (<= 5bp)
+1372163	1376074	49402	53313	Klebsiella_variicola_NZ_CP047360.1	k141_58	96.83		True
+indel: stretch of mismatches
+1376078	1381707	53317	58946	Klebsiella_variicola_NZ_CP047360.1	k141_58	95.56		True
+indel: indel (<= 5bp)
+1381711	1389289	58947	66525	Klebsiella_variicola_NZ_CP047360.1	k141_58	95.28		True
+local misassembly
+1389549	1393763	66765	70979	Klebsiella_variicola_NZ_CP047360.1	k141_58	95.14		True
+local misassembly
+1397843	1401954	75019	79130	Klebsiella_variicola_NZ_CP047360.1	k141_58	97.64		True
+local misassembly
+1438812	1440551	115994	117733	Klebsiella_variicola_NZ_CP047360.1	k141_58	95.06		True
+local misassembly
+1441207	1442216	118391	119400	Klebsiella_variicola_NZ_CP047360.1	k141_58	95.54		True
+indel: indel (<= 5bp)
+1442217	1444124	119402	121309	Klebsiella_variicola_NZ_CP047360.1	k141_58	96.91		True
+indel: indel (<= 5bp)
+1444128	1450636	121310	127818	Klebsiella_variicola_NZ_CP047360.1	k141_58	95.47		True
+relocation, inconsistency = 4718
+1460288	1463046	132752	135510	Klebsiella_variicola_NZ_CP047360.1	k141_58	96.88		True
+indel: indel (> 5bp)
+1463053	1465666	135511	138124	Klebsiella_variicola_NZ_CP047360.1	k141_58	98.24		True
+local misassembly
+1486829	1487385	159282	159838	Klebsiella_variicola_NZ_CP047360.1	k141_58	96.59		True
+indel: indel (<= 5bp)
+1487386	1488667	159840	161121	Klebsiella_variicola_NZ_CP047360.1	k141_58	98.67		True
+indel: indel (<= 5bp)
+1488669	1492342	161122	164795	Klebsiella_variicola_NZ_CP047360.1	k141_58	96.19		True
+indel: indel (<= 5bp)
+1492343	1496634	164797	169088	Klebsiella_variicola_NZ_CP047360.1	k141_58	96.76		True
+indel: indel (<= 5bp)
+1496635	1499331	169090	171786	Klebsiella_variicola_NZ_CP047360.1	k141_58	95.37		True
+local misassembly
+1514967	1516924	187299	189256	Klebsiella_variicola_NZ_CP047360.1	k141_58	95.91		True
+indel: indel (<= 5bp)
+1516926	1519288	189257	191619	Klebsiella_variicola_NZ_CP047360.1	k141_58	96.87		True
+local misassembly
+1526160	1536006	198857	208703	Klebsiella_variicola_NZ_CP047360.1	k141_58	96.02		True
+local misassembly
+1540475	1540620	213171	213316	Klebsiella_variicola_NZ_CP047360.1	k141_58	97.26		True
+indel: stretch of mismatches
+1540630	1541218	213326	213914	Klebsiella_variicola_NZ_CP047360.1	k141_58	95.08		True
+indel: indel (<= 5bp)
+1541220	1541442	213918	214140	Klebsiella_variicola_NZ_CP047360.1	k141_58	98.65		True
+local misassembly
+1549446	1549537	222152	222243	Klebsiella_variicola_NZ_CP047360.1	k141_58	95.65		True
+indel: stretch of mismatches
+1549547	1551402	222253	224108	Klebsiella_variicola_NZ_CP047360.1	k141_58	95.8		True
+relocation, inconsistency = 5808
+1559192	1563341	226090	230239	Klebsiella_variicola_NZ_CP047360.1	k141_58	95.18		True
+local misassembly
+1578573	1579545	245473	246445	Klebsiella_variicola_NZ_CP047360.1	k141_58	96.92		True
+local misassembly
+1584912	1585769	251249	252105	Klebsiella_variicola_NZ_CP047360.1	k141_58	96.39		True
+relocation, inconsistency = 1089
+1594836	1596051	260083	261298	Klebsiella_variicola_NZ_CP047360.1	k141_58	97.53		True
+indel: stretch of mismatches
+1596085	1597066	261332	262313	Klebsiella_variicola_NZ_CP047360.1	k141_58	95.11		True
+indel: indel (<= 5bp)
+1597067	1598754	262315	264002	Klebsiella_variicola_NZ_CP047360.1	k141_58	95.79		True
+local misassembly
+1598732	1609268	264179	274715	Klebsiella_variicola_NZ_CP047360.1	k141_58	95.68		True
+relocation, inconsistency = 1648
+1610956	1621574	274755	285356	Klebsiella_variicola_NZ_CP047360.1	k141_58	95.25		True
+local misassembly
+1623816	1624441	286974	287599	Klebsiella_variicola_NZ_CP047360.1	k141_58	95.21		True
+local misassembly
+1625429	1626320	288589	289480	Klebsiella_variicola_NZ_CP047360.1	k141_58	95.75		True
+local misassembly
+1626440	1648035	289481	311080	Klebsiella_variicola_NZ_CP047360.1	k141_58	96.3		True
+relocation, inconsistency = 4579
+1653238	1656101	311704	314567	Klebsiella_variicola_NZ_CP047360.1	k141_58	98.04		True
+relocation, inconsistency = -5004
+1656215	1670218	319685	333692	Klebsiella_variicola_NZ_CP047360.1	k141_58	96.15		True
+relocation, inconsistency = 4233
+1674452	1698938	333693	358154	Klebsiella_variicola_NZ_CP047360.1	k141_58	95.52		True
+local misassembly
+1702527	1703116	361575	362164	Klebsiella_variicola_NZ_CP047360.1	k141_58	97.63		True
+CONTIG	k141_58	373091	misassembled
+413691	420541	6851	1	Klebsiella_variicola_NZ_CP047360.1	k141_67	96.32		True
+local misassembly
+405988	408181	14553	12360	Klebsiella_variicola_NZ_CP047360.1	k141_67	95.72		True
+indel: indel (<= 5bp)
+398991	405986	21549	14554	Klebsiella_variicola_NZ_CP047360.1	k141_67	95.35		True
+indel: indel (<= 5bp)
+393235	398989	27304	21550	Klebsiella_variicola_NZ_CP047360.1	k141_67	95.48		True
+local misassembly
+387968	391675	32570	28863	Klebsiella_variicola_NZ_CP047360.1	k141_67	95.44		True
+local misassembly
+378098	378961	42440	41577	Klebsiella_variicola_NZ_CP047360.1	k141_67	95.25		True
+local misassembly
+366623	373841	53917	46699	Klebsiella_variicola_NZ_CP047360.1	k141_67	95.03		True
+local misassembly
+363371	366421	57161	54111	Klebsiella_variicola_NZ_CP047360.1	k141_67	96.13		True
+indel: indel (<= 5bp)
+362128	363321	58406	57213	Klebsiella_variicola_NZ_CP047360.1	k141_67	96.15		True
+indel: indel (<= 5bp)
+360517	362126	60016	58407	Klebsiella_variicola_NZ_CP047360.1	k141_67	96.4		True
+indel: stretch of mismatches
+359134	360501	61399	60032	Klebsiella_variicola_NZ_CP047360.1	k141_67	96.13		True
+indel: indel (<= 5bp)
+354153	359059	66381	61475	Klebsiella_variicola_NZ_CP047360.1	k141_67	96.52		True
+indel: stretch of mismatches
+346785	354146	73749	66388	Klebsiella_variicola_NZ_CP047360.1	k141_67	96.29		True
+indel: indel (> 5bp)
+346596	346713	73892	73775	Klebsiella_variicola_NZ_CP047360.1	k141_67	98.31		True
+indel: indel (> 5bp)
+332200	346561	88296	73935	Klebsiella_variicola_NZ_CP047360.1	k141_67	95.3		True
+local misassembly
+328641	328832	91855	91664	Klebsiella_variicola_NZ_CP047360.1	k141_67	97.92		True
+local misassembly
+314469	328501	105887	91874	Klebsiella_variicola_NZ_CP047360.1	k141_67	95.87		True
+local misassembly
+299488	314217	120616	105888	Klebsiella_variicola_NZ_CP047360.1	k141_67	96.7		True
+local misassembly
+279812	298704	139508	120617	Klebsiella_variicola_NZ_CP047360.1	k141_67	95.84		True
+local misassembly
+222110	279065	196471	139533	Klebsiella_variicola_NZ_CP047360.1	k141_67	95.31		True
+local misassembly
+214804	215307	203659	203156	Klebsiella_variicola_NZ_CP047360.1	k141_67	95.45		True
+CONTIG	k141_67	203826	correct
+4092206	4103328	430	11553	Klebsiella_variicola_NZ_CP047360.1	k141_69	96.39		True
+relocation, inconsistency = -6268
+4104850	4105923	19343	20416	Klebsiella_variicola_NZ_CP047360.1	k141_69	97.3		True
+local misassembly
+4105999	4111145	20628	25774	Klebsiella_variicola_NZ_CP047360.1	k141_69	97.11		True
+relocation, inconsistency = -9320
+4111113	4129904	35062	53783	Klebsiella_variicola_NZ_CP047360.1	k141_69	95.58		True
+relocation, inconsistency = -3086
+4131753	4131981	58718	58946	Klebsiella_variicola_NZ_CP047360.1	k141_69	96.07		True
+local misassembly
+4133187	4135329	60153	62295	Klebsiella_variicola_NZ_CP047360.1	k141_69	95.01		True
+local misassembly
+4135893	4156416	62478	82997	Klebsiella_variicola_NZ_CP047360.1	k141_69	96.34		True
+local misassembly
+4156379	4160704	83240	87564	Klebsiella_variicola_NZ_CP047360.1	k141_69	95.38		True
+local misassembly
+4161292	4178244	87595	104532	Klebsiella_variicola_NZ_CP047360.1	k141_69	95.84		True
+CONTIG	k141_69	104761	misassembled
+3740204	3742200	141	2136	Klebsiella_variicola_NZ_CP047360.1	k141_71	96.64		True
+CONTIG	k141_71	36666	correct_unaligned
+37324	61615	1	24295	Klebsiella_variicola_NZ_CP047360.1	k141_73	97.42		True
+CONTIG	k141_73	24295	correct
+5253072	5256580	3507	1	Klebsiella_variicola_NZ_CP047360.1	k141_79	99.0		True
+CONTIG	k141_79	3507	correct
+3755960	3756244	16193	15909	Klebsiella_variicola_NZ_CP047360.1	k141_86	96.49		True
+unknown
+3799020	3813972	52944	37996	Klebsiella_variicola_NZ_CP047360.1	k141_86	95.33		True
+unknown
+3798931	3799025	87397	87303	Klebsiella_variicola_NZ_CP047360.1	k141_86	97.89		True
+unknown
+3797819	3798930	88521	87410	Klebsiella_variicola_NZ_CP047360.1	k141_86	95.95		True
+unknown
+3794948	3797818	91393	88523	Klebsiella_variicola_NZ_CP047360.1	k141_86	95.19		True
+unknown
+3790065	3792655	96277	93687	Klebsiella_variicola_NZ_CP047360.1	k141_86	95.45		True
+unknown
+3787009	3787618	99307	98698	Klebsiella_variicola_NZ_CP047360.1	k141_86	95.41		True
+unknown
+3778952	3780024	106227	105155	Klebsiella_variicola_NZ_CP047360.1	k141_86	95.34		True
+unknown
+3776304	3778212	108875	106967	Klebsiella_variicola_NZ_CP047360.1	k141_86	95.13		True
+unknown
+3769121	3769540	116214	115795	Klebsiella_variicola_NZ_CP047360.1	k141_86	95.0		True
+unknown
+3756479	3758337	128826	126968	Klebsiella_variicola_NZ_CP047360.1	k141_86	96.13		True
+unknown
+3756017	3756285	129126	128858	Klebsiella_variicola_NZ_CP047360.1	k141_86	95.17		True
+unknown
+3754378	3755862	130750	129266	Klebsiella_variicola_NZ_CP047360.1	k141_86	96.36		True
+unknown
+3747984	3749366	138260	136878	Klebsiella_variicola_NZ_CP047360.1	k141_86	95.37		True
+unknown
+3747094	3747982	139149	138261	Klebsiella_variicola_NZ_CP047360.1	k141_86	95.84		True
+unknown
+CONTIG	k141_86	145368	mis_unaligned
+195726	206205	5885	16364	Klebsiella_variicola_NZ_CP047360.1	k141_87	95.61		True
+local misassembly
+207139	210326	17299	20486	Klebsiella_variicola_NZ_CP047360.1	k141_87	95.08		True
+indel: indel (<= 5bp)
+210334	210466	20491	20623	Klebsiella_variicola_NZ_CP047360.1	k141_87	95.49		True
+indel: indel (<= 5bp)
+210469	212194	20624	22349	Klebsiella_variicola_NZ_CP047360.1	k141_87	95.02		True
+CONTIG	k141_87	22495	correct
+3862327	3865523	3019	6215	Klebsiella_variicola_NZ_CP047360.1	k141_101	95.59		True
+local misassembly
+3868019	3872408	8710	13099	Klebsiella_variicola_NZ_CP047360.1	k141_101	96.29		True
+indel: indel (<= 5bp)
+3872409	3875089	13101	15781	Klebsiella_variicola_NZ_CP047360.1	k141_101	96.79		True
+local misassembly
+3878529	3885890	19070	26505	Klebsiella_variicola_NZ_CP047360.1	k141_101	95.11		True
+local misassembly
+3886058	3889374	26551	29866	Klebsiella_variicola_NZ_CP047360.1	k141_101	95.09		True
+local misassembly
+3889701	3891808	30191	32298	Klebsiella_variicola_NZ_CP047360.1	k141_101	95.54		True
+local misassembly
+3896245	3901539	36691	41985	Klebsiella_variicola_NZ_CP047360.1	k141_101	97.03		True
+relocation, inconsistency = -1794
+3904815	3923425	47055	65661	Klebsiella_variicola_NZ_CP047360.1	k141_101	95.64		True
+relocation, inconsistency = 4466
+3927892	3941896	65662	79541	Klebsiella_variicola_NZ_CP047360.1	k141_101	95.01		True
+indel: stretch of mismatches
+3941897	3946403	79542	84048	Klebsiella_variicola_NZ_CP047360.1	k141_101	95.37		True
+indel: indel (<= 5bp)
+3946405	3947416	84049	85060	Klebsiella_variicola_NZ_CP047360.1	k141_101	97.43		True
+local misassembly
+3949108	3952928	86748	90568	Klebsiella_variicola_NZ_CP047360.1	k141_101	95.5		True
+local misassembly
+3956503	3956583	94145	94225	Klebsiella_variicola_NZ_CP047360.1	k141_101	95.06		True
+local misassembly
+3971533	3972780	109165	110412	Klebsiella_variicola_NZ_CP047360.1	k141_101	95.11		True
+local misassembly
+3972978	3973294	110600	110916	Klebsiella_variicola_NZ_CP047360.1	k141_101	96.53		True
+local misassembly
+3979501	3980601	117125	118225	Klebsiella_variicola_NZ_CP047360.1	k141_101	95.37		True
+indel: stretch of mismatches
+3980605	3981171	118229	118795	Klebsiella_variicola_NZ_CP047360.1	k141_101	95.94		True
+local misassembly
+3987370	3991051	124993	128674	Klebsiella_variicola_NZ_CP047360.1	k141_101	96.17		True
+local misassembly
+3991179	3996927	128799	134547	Klebsiella_variicola_NZ_CP047360.1	k141_101	96.12		True
+indel: indel (> 5bp)
+3996928	4000409	134555	138036	Klebsiella_variicola_NZ_CP047360.1	k141_101	98.08		True
+indel: stretch of mismatches
+4000444	4003512	138071	141139	Klebsiella_variicola_NZ_CP047360.1	k141_101	96.9		True
+indel: stretch of mismatches
+4003517	4011453	141144	149080	Klebsiella_variicola_NZ_CP047360.1	k141_101	97.38		True
+local misassembly
+4011634	4011807	149177	149350	Klebsiella_variicola_NZ_CP047360.1	k141_101	95.4		True
+CONTIG	k141_101	149488	misassembled
+156451	190942	34620	141	Klebsiella_variicola_NZ_CP047360.1	k141_108	96.21		True
+local misassembly
+129840	156253	61115	34659	Klebsiella_variicola_NZ_CP047360.1	k141_108	95.75		True
+relocation, inconsistency = 5239
+119922	124479	65794	61237	Klebsiella_variicola_NZ_CP047360.1	k141_108	96.23		True
+local misassembly
+81987	113661	103516	71914	Klebsiella_variicola_NZ_CP047360.1	k141_108	95.75		True
+local misassembly
+61475	81267	123259	103517	Klebsiella_variicola_NZ_CP047360.1	k141_108	96.27		True
+CONTIG	k141_108	123259	misassembled
+2889970	2890547	578	1	Klebsiella_variicola_NZ_CP047360.1	k141_110	96.71		True
+CONTIG	k141_110	578	correct
+778959	779806	4370	3523	Klebsiella_variicola_NZ_CP047360.1	k141_128	95.52		True
+unknown
+776242	778910	7090	4422	Klebsiella_variicola_NZ_CP047360.1	k141_128	97.15		True
+unknown
+764385	765204	18640	17821	Klebsiella_variicola_NZ_CP047360.1	k141_128	95.12		True
+unknown
+754019	757054	28895	25860	Klebsiella_variicola_NZ_CP047360.1	k141_128	96.77		True
+unknown
+752216	754018	30699	28897	Klebsiella_variicola_NZ_CP047360.1	k141_128	96.34		True
+unknown
+746994	747207	35922	35709	Klebsiella_variicola_NZ_CP047360.1	k141_128	98.13		True
+unknown
+740353	740435	42569	42487	Klebsiella_variicola_NZ_CP047360.1	k141_128	98.8		True
+unknown
+736635	740348	46287	42574	Klebsiella_variicola_NZ_CP047360.1	k141_128	96.23		True
+unknown
+734213	736599	48710	46324	Klebsiella_variicola_NZ_CP047360.1	k141_128	96.31		True
+unknown
+726547	731675	70870	65742	Klebsiella_variicola_NZ_CP047360.1	k141_128	96.08		True
+unknown
+711705	719480	85715	77940	Klebsiella_variicola_NZ_CP047360.1	k141_128	95.28		True
+unknown
+706922	710449	90498	86971	Klebsiella_variicola_NZ_CP047360.1	k141_128	95.41		True
+unknown
+705652	706885	91768	90535	Klebsiella_variicola_NZ_CP047360.1	k141_128	96.84		True
+unknown
+692978	705234	162001	149767	Klebsiella_variicola_NZ_CP047360.1	k141_128	95.01		True
+unknown
+689428	692831	168677	165274	Klebsiella_variicola_NZ_CP047360.1	k141_128	95.59		True
+unknown
+686237	687302	171869	170804	Klebsiella_variicola_NZ_CP047360.1	k141_128	95.12		True
+unknown
+639348	686004	219277	172636	Klebsiella_variicola_NZ_CP047360.1	k141_128	95.45		True
+unknown
+605376	629582	258981	234883	Klebsiella_variicola_NZ_CP047360.1	k141_128	96.1		True
+unknown
+598368	601119	263204	260453	Klebsiella_variicola_NZ_CP047360.1	k141_128	96.11		True
+unknown
+593256	598338	268351	263269	Klebsiella_variicola_NZ_CP047360.1	k141_128	95.34		True
+unknown
+593137	593252	268470	268355	Klebsiella_variicola_NZ_CP047360.1	k141_128	98.28		True
+unknown
+592894	593128	268713	268479	Klebsiella_variicola_NZ_CP047360.1	k141_128	95.74		True
+unknown
+591489	592890	270116	268715	Klebsiella_variicola_NZ_CP047360.1	k141_128	95.86		True
+unknown
+583879	585287	277719	276311	Klebsiella_variicola_NZ_CP047360.1	k141_128	95.53		True
+unknown
+581494	581664	279637	279467	Klebsiella_variicola_NZ_CP047360.1	k141_128	96.49		True
+unknown
+581840	581948	279754	279646	Klebsiella_variicola_NZ_CP047360.1	k141_128	95.41		True
+unknown
+581765	581832	279830	279763	Klebsiella_variicola_NZ_CP047360.1	k141_128	97.06		True
+unknown
+548169	561559	326845	313455	Klebsiella_variicola_NZ_CP047360.1	k141_128	96.75		True
+unknown
+545242	546442	329762	328562	Klebsiella_variicola_NZ_CP047360.1	k141_128	95.92		True
+unknown
+535355	542978	339644	332021	Klebsiella_variicola_NZ_CP047360.1	k141_128	96.21		True
+unknown
+533294	535354	341706	339646	Klebsiella_variicola_NZ_CP047360.1	k141_128	96.17		True
+unknown
+532982	533293	342019	341708	Klebsiella_variicola_NZ_CP047360.1	k141_128	95.83		True
+unknown
+527678	532981	347324	342021	Klebsiella_variicola_NZ_CP047360.1	k141_128	95.57		True
+unknown
+511047	511455	363961	363553	Klebsiella_variicola_NZ_CP047360.1	k141_128	96.09		True
+unknown
+504561	510766	370447	364242	Klebsiella_variicola_NZ_CP047360.1	k141_128	95.71		True
+unknown
+501162	503696	373850	371316	Klebsiella_variicola_NZ_CP047360.1	k141_128	97.32		True
+unknown
+499428	500763	375580	374245	Klebsiella_variicola_NZ_CP047360.1	k141_128	95.66		True
+unknown
+486187	488013	380230	378404	Klebsiella_variicola_NZ_CP047360.1	k141_128	95.84		True
+unknown
+485136	485490	381283	380929	Klebsiella_variicola_NZ_CP047360.1	k141_128	96.62		True
+unknown
+CONTIG	k141_128	429580	mis_unaligned
+4576413	4578285	1357	3229	Klebsiella_variicola_NZ_CP047360.1	k141_160	95.09		True
+unknown
+4578371	4578937	3230	3796	Klebsiella_variicola_NZ_CP047360.1	k141_160	95.59		True
+unknown
+4578939	4581552	3797	6410	Klebsiella_variicola_NZ_CP047360.1	k141_160	95.18		True
+unknown
+4588143	4589656	12990	14503	Klebsiella_variicola_NZ_CP047360.1	k141_160	96.24		True
+unknown
+4591109	4592275	15955	17121	Klebsiella_variicola_NZ_CP047360.1	k141_160	96.92		True
+unknown
+4605594	4605826	30555	30787	Klebsiella_variicola_NZ_CP047360.1	k141_160	95.28		True
+unknown
+4609335	4616161	34296	41122	Klebsiella_variicola_NZ_CP047360.1	k141_160	95.3		True
+unknown
+4616163	4627908	41123	52868	Klebsiella_variicola_NZ_CP047360.1	k141_160	95.26		True
+unknown
+4654767	4658446	79712	83391	Klebsiella_variicola_NZ_CP047360.1	k141_160	96.14		True
+unknown
+4661668	4665261	86685	90278	Klebsiella_variicola_NZ_CP047360.1	k141_160	95.72		True
+unknown
+4678032	4678784	103045	103797	Klebsiella_variicola_NZ_CP047360.1	k141_160	95.22		True
+unknown
+4686885	4687222	106346	106683	Klebsiella_variicola_NZ_CP047360.1	k141_160	97.63		True
+unknown
+4692042	4693093	111505	112556	Klebsiella_variicola_NZ_CP047360.1	k141_160	95.53		True
+unknown
+492598	495948	119073	122444	Klebsiella_variicola_NZ_CP047360.1	k141_160	95.64		True
+unknown
+4696172	4697644	127865	129337	Klebsiella_variicola_NZ_CP047360.1	k141_160	97.83		True
+unknown
+4705027	4708374	136720	140067	Klebsiella_variicola_NZ_CP047360.1	k141_160	96.39		True
+unknown
+4709623	4710465	141291	142133	Klebsiella_variicola_NZ_CP047360.1	k141_160	95.14		True
+unknown
+4716559	4744395	148461	176215	Klebsiella_variicola_NZ_CP047360.1	k141_160	95.17		True
+unknown
+4752197	4752620	185435	185858	Klebsiella_variicola_NZ_CP047360.1	k141_160	98.11		True
+unknown
+CONTIG	k141_160	213512	mis_unaligned
+2025859	2027098	11220	12459	Klebsiella_variicola_NZ_CP047360.1	k141_163	95.08		True
+local misassembly
+2029916	2032790	15274	18148	Klebsiella_variicola_NZ_CP047360.1	k141_163	95.93		True
+local misassembly
+2032936	2070269	18168	55486	Klebsiella_variicola_NZ_CP047360.1	k141_163	95.3		True
+local misassembly
+2070216	2070445	55608	55837	Klebsiella_variicola_NZ_CP047360.1	k141_163	97.39		True
+local misassembly
+2075533	2076118	60926	61511	Klebsiella_variicola_NZ_CP047360.1	k141_163	96.08		True
+local misassembly
+2081643	2081721	67043	67121	Klebsiella_variicola_NZ_CP047360.1	k141_163	97.47		True
+relocation, inconsistency = 2718
+2100385	2102679	83067	85361	Klebsiella_variicola_NZ_CP047360.1	k141_163	96.08		True
+local misassembly
+2103165	2108266	85843	90944	Klebsiella_variicola_NZ_CP047360.1	k141_163	95.84		True
+local misassembly
+2112181	2123236	94861	105916	Klebsiella_variicola_NZ_CP047360.1	k141_163	95.86		True
+local misassembly
+2131794	2137815	114454	120475	Klebsiella_variicola_NZ_CP047360.1	k141_163	96.0		True
+indel: indel (> 5bp)
+2137843	2142773	120495	125425	Klebsiella_variicola_NZ_CP047360.1	k141_163	96.35		True
+relocation, inconsistency = -1127
+2144371	2144648	128150	128427	Klebsiella_variicola_NZ_CP047360.1	k141_163	95.68		True
+local misassembly
+2144861	2181741	128659	165522	Klebsiella_variicola_NZ_CP047360.1	k141_163	95.79		True
+local misassembly
+2181803	2191633	165901	175719	Klebsiella_variicola_NZ_CP047360.1	k141_163	96.17		True
+relocation, inconsistency = 21873
+2217263	2239138	179476	201350	Klebsiella_variicola_NZ_CP047360.1	k141_163	96.99		True
+relocation, inconsistency = 1060
+2242311	2244182	203463	205333	Klebsiella_variicola_NZ_CP047360.1	k141_163	98.56		True
+relocation, inconsistency = -7580
+2246062	2258618	214793	227342	Klebsiella_variicola_NZ_CP047360.1	k141_163	95.26		True
+relocation, inconsistency = 5046
+2263986	2264408	227664	228085	Klebsiella_variicola_NZ_CP047360.1	k141_163	95.04		True
+relocation, inconsistency = 1841
+2266360	2278869	228196	240714	Klebsiella_variicola_NZ_CP047360.1	k141_163	96.24		True
+relocation, inconsistency = 6001
+2284891	2285941	240735	241785	Klebsiella_variicola_NZ_CP047360.1	k141_163	95.72		True
+indel: indel (<= 5bp)
+2285946	2287515	241786	243355	Klebsiella_variicola_NZ_CP047360.1	k141_163	95.48		True
+local misassembly
+2288511	2288597	243614	243700	Klebsiella_variicola_NZ_CP047360.1	k141_163	95.4		True
+local misassembly
+2290102	2294136	245189	249223	Klebsiella_variicola_NZ_CP047360.1	k141_163	95.86		True
+indel: indel (<= 5bp)
+2294139	2296056	249224	251141	Klebsiella_variicola_NZ_CP047360.1	k141_163	95.78		True
+relocation, inconsistency = 5931
+2311407	2311696	260561	260851	Klebsiella_variicola_NZ_CP047360.1	k141_163	96.22		True
+local misassembly
+2312218	2313571	260896	262249	Klebsiella_variicola_NZ_CP047360.1	k141_163	96.45		True
+local misassembly
+2313686	2314061	262250	262625	Klebsiella_variicola_NZ_CP047360.1	k141_163	95.48		True
+local misassembly
+2322867	2323598	271429	272160	Klebsiella_variicola_NZ_CP047360.1	k141_163	96.31		True
+local misassembly
+2324382	2329980	272929	278527	Klebsiella_variicola_NZ_CP047360.1	k141_163	95.41		True
+local misassembly
+2360917	2363375	309252	311710	Klebsiella_variicola_NZ_CP047360.1	k141_163	96.18		True
+local misassembly
+2395154	2395301	343505	343652	Klebsiella_variicola_NZ_CP047360.1	k141_163	96.62		True
+indel: stretch of mismatches
+2395316	2395502	343667	343853	Klebsiella_variicola_NZ_CP047360.1	k141_163	97.33		True
+local misassembly
+2412621	2420793	361344	369516	Klebsiella_variicola_NZ_CP047360.1	k141_163	95.67		True
+relocation, inconsistency = 4092
+2424894	2436755	369525	381391	Klebsiella_variicola_NZ_CP047360.1	k141_163	95.71		True
+relocation, inconsistency = -8423
+2454295	2462806	407354	415865	Klebsiella_variicola_NZ_CP047360.1	k141_163	95.37		True
+local misassembly
+2464875	2467846	417945	420916	Klebsiella_variicola_NZ_CP047360.1	k141_163	96.06		True
+indel: stretch of mismatches
+2467856	2468716	420926	421786	Klebsiella_variicola_NZ_CP047360.1	k141_163	97.1		True
+CONTIG	k141_163	421969	misassembled
+3207717	3212171	140	4594	Klebsiella_variicola_NZ_CP047360.1	k141_168	95.98		True
+unknown
+3212216	3212328	13579	13691	Klebsiella_variicola_NZ_CP047360.1	k141_168	98.23		True
+unknown
+3213621	3214101	14996	15476	Klebsiella_variicola_NZ_CP047360.1	k141_168	95.43		True
+unknown
+3215151	3217227	16525	18601	Klebsiella_variicola_NZ_CP047360.1	k141_168	97.26		True
+unknown
+3217277	3224414	18652	25789	Klebsiella_variicola_NZ_CP047360.1	k141_168	95.32		True
+unknown
+CONTIG	k141_168	31951	mis_unaligned
+4393781	4400339	10314	3755	Klebsiella_variicola_NZ_CP047360.1	k141_170	97.36		True
+local misassembly
+4393363	4393665	10971	10669	Klebsiella_variicola_NZ_CP047360.1	k141_170	96.7		True
+local misassembly
+4378778	4393319	26105	11562	Klebsiella_variicola_NZ_CP047360.1	k141_170	95.94		True
+local misassembly
+4361348	4378667	43422	26106	Klebsiella_variicola_NZ_CP047360.1	k141_170	97.02		True
+local misassembly
+4341983	4360540	62200	43631	Klebsiella_variicola_NZ_CP047360.1	k141_170	95.21		True
+local misassembly
+4334873	4335181	69176	68868	Klebsiella_variicola_NZ_CP047360.1	k141_170	97.41		True
+indel: indel (<= 5bp)
+4332058	4334872	71992	69178	Klebsiella_variicola_NZ_CP047360.1	k141_170	95.56		True
+local misassembly
+4328263	4329055	75787	74995	Klebsiella_variicola_NZ_CP047360.1	k141_170	96.85		True
+local misassembly
+4325656	4328099	78395	75952	Klebsiella_variicola_NZ_CP047360.1	k141_170	96.28		True
+indel: indel (<= 5bp)
+4318539	4325654	85511	78396	Klebsiella_variicola_NZ_CP047360.1	k141_170	95.14		True
+indel: indel (<= 5bp)
+4314057	4318537	89992	85512	Klebsiella_variicola_NZ_CP047360.1	k141_170	97.57		True
+local misassembly
+4312787	4312872	91272	91187	Klebsiella_variicola_NZ_CP047360.1	k141_170	95.35		True
+indel: stretch of mismatches
+4311688	4312782	92371	91277	Klebsiella_variicola_NZ_CP047360.1	k141_170	96.35		True
+local misassembly
+4308398	4311068	95658	92988	Klebsiella_variicola_NZ_CP047360.1	k141_170	96.03		True
+indel: indel (<= 5bp)
+4303013	4308381	101041	95673	Klebsiella_variicola_NZ_CP047360.1	k141_170	95.9		True
+indel: indel (<= 5bp)
+4301129	4303011	102924	101042	Klebsiella_variicola_NZ_CP047360.1	k141_170	96.92		True
+local misassembly
+4298359	4298962	105664	105061	Klebsiella_variicola_NZ_CP047360.1	k141_170	97.68		True
+indel: stretch of mismatches
+4296234	4298322	107789	105701	Klebsiella_variicola_NZ_CP047360.1	k141_170	96.07		True
+indel: stretch of mismatches
+4295549	4296227	108474	107796	Klebsiella_variicola_NZ_CP047360.1	k141_170	96.17		True
+local misassembly
+4263530	4287081	140499	116948	Klebsiella_variicola_NZ_CP047360.1	k141_170	96.42		True
+local misassembly
+4242896	4247671	161090	156315	Klebsiella_variicola_NZ_CP047360.1	k141_170	96.42		True
+CONTIG	k141_170	164908	correct
+3207213	3207719	631	126	Klebsiella_variicola_NZ_CP047360.1	k141_177	99.01		True
+local misassembly
+3159088	3207219	48938	767	Klebsiella_variicola_NZ_CP047360.1	k141_177	95.12		True
+local misassembly
+3157190	3158061	50715	49844	Klebsiella_variicola_NZ_CP047360.1	k141_177	96.44		True
+indel: indel (<= 5bp)
+3145674	3157188	62230	50716	Klebsiella_variicola_NZ_CP047360.1	k141_177	97.23		True
+indel: indel (<= 5bp)
+3143913	3145672	63990	62231	Klebsiella_variicola_NZ_CP047360.1	k141_177	96.19		True
+local misassembly
+3140745	3141752	67156	66149	Klebsiella_variicola_NZ_CP047360.1	k141_177	96.43		True
+local misassembly
+3134774	3139231	73125	68668	Klebsiella_variicola_NZ_CP047360.1	k141_177	95.24		True
+local misassembly
+3124948	3125139	82950	82759	Klebsiella_variicola_NZ_CP047360.1	k141_177	95.31		True
+local misassembly
+3119452	3120379	88446	87519	Klebsiella_variicola_NZ_CP047360.1	k141_177	97.2		True
+CONTIG	k141_177	97206	correct
+1725763	1726953	9767	10957	Klebsiella_variicola_NZ_CP047360.1	k141_189	96.56		True
+CONTIG	k141_189	25143	correct_unaligned
+3493849	3497144	3596	301	Klebsiella_variicola_NZ_CP047360.1	k141_190	95.51		True
+local misassembly
+3486211	3491824	11231	5618	Klebsiella_variicola_NZ_CP047360.1	k141_190	95.55		True
+local misassembly
+3480819	3481212	16610	16217	Klebsiella_variicola_NZ_CP047360.1	k141_190	98.22		True
+local misassembly
+3480325	3480698	17102	16729	Klebsiella_variicola_NZ_CP047360.1	k141_190	96.26		True
+local misassembly
+3463203	3469484	34228	27947	Klebsiella_variicola_NZ_CP047360.1	k141_190	96.24		True
+indel: indel (<= 5bp)
+3452561	3463201	44869	34229	Klebsiella_variicola_NZ_CP047360.1	k141_190	96.05		True
+local misassembly
+3446981	3448328	50450	49103	Klebsiella_variicola_NZ_CP047360.1	k141_190	95.4		True
+local misassembly
+3432323	3441384	65109	56048	Klebsiella_variicola_NZ_CP047360.1	k141_190	95.86		True
+indel: stretch of mismatches
+3432249	3432313	65183	65119	Klebsiella_variicola_NZ_CP047360.1	k141_190	98.46		True
+relocation, inconsistency = 9786
+3413531	3422336	74117	65310	Klebsiella_variicola_NZ_CP047360.1	k141_190	95.49		True
+local misassembly
+3402166	3413043	85112	74235	Klebsiella_variicola_NZ_CP047360.1	k141_190	96.05		True
+relocation, inconsistency = 100509
+3292706	3297643	94064	89126	Klebsiella_variicola_NZ_CP047360.1	k141_190	95.67		True
+CONTIG	k141_190	100600	misassembled
+784928	786655	1613	3340	Klebsiella_variicola_NZ_CP047360.1	k141_206	95.95		True
+local misassembly
+786942	789227	3623	5909	Klebsiella_variicola_NZ_CP047360.1	k141_206	95.76		True
+local misassembly
+789429	790992	5910	7473	Klebsiella_variicola_NZ_CP047360.1	k141_206	95.68		True
+local misassembly
+791316	791902	7797	8383	Klebsiella_variicola_NZ_CP047360.1	k141_206	95.57		True
+indel: stretch of mismatches
+791907	794316	8388	10797	Klebsiella_variicola_NZ_CP047360.1	k141_206	95.1		True
+local misassembly
+798213	800216	14693	16696	Klebsiella_variicola_NZ_CP047360.1	k141_206	95.06		True
+local misassembly
+805520	805591	21953	22024	Klebsiella_variicola_NZ_CP047360.1	k141_206	98.61		True
+relocation, inconsistency = 3732
+822384	919782	35085	132474	Klebsiella_variicola_NZ_CP047360.1	k141_206	96.1		True
+local misassembly
+920004	922193	132475	134665	Klebsiella_variicola_NZ_CP047360.1	k141_206	97.45		True
+local misassembly
+922360	970128	134740	182437	Klebsiella_variicola_NZ_CP047360.1	k141_206	96.51		True
+local misassembly
+970514	1003228	182523	215240	Klebsiella_variicola_NZ_CP047360.1	k141_206	95.64		True
+relocation, inconsistency = 10365
+1013594	1014364	215241	216012	Klebsiella_variicola_NZ_CP047360.1	k141_206	97.84		True
+local misassembly
+1014364	1062375	216753	264819	Klebsiella_variicola_NZ_CP047360.1	k141_206	96.35		True
+relocation, inconsistency = 4507
+1066935	1070858	264872	268795	Klebsiella_variicola_NZ_CP047360.1	k141_206	95.31		True
+local misassembly
+1076347	1077555	274324	275532	Klebsiella_variicola_NZ_CP047360.1	k141_206	95.86		True
+local misassembly
+1086297	1086631	283818	284152	Klebsiella_variicola_NZ_CP047360.1	k141_206	98.21		True
+indel: stretch of mismatches
+1086656	1087889	284177	285410	Klebsiella_variicola_NZ_CP047360.1	k141_206	98.38		True
+local misassembly
+1088369	1091093	285959	288683	Klebsiella_variicola_NZ_CP047360.1	k141_206	95.23		True
+local misassembly
+1102045	1102580	299622	300157	Klebsiella_variicola_NZ_CP047360.1	k141_206	97.57		True
+local misassembly
+1109892	1110282	307492	307882	Klebsiella_variicola_NZ_CP047360.1	k141_206	96.93		True
+relocation, inconsistency = -3610
+1127029	1137627	328239	338836	Klebsiella_variicola_NZ_CP047360.1	k141_206	96.82		True
+relocation, inconsistency = 22522
+1160245	1168858	338932	347545	Klebsiella_variicola_NZ_CP047360.1	k141_206	96.5		True
+relocation, inconsistency = 30706
+1199565	1209060	347546	357039	Klebsiella_variicola_NZ_CP047360.1	k141_206	97.2		True
+local misassembly
+1209283	1226797	357215	374732	Klebsiella_variicola_NZ_CP047360.1	k141_206	95.65		True
+CONTIG	k141_206	374748	misassembled
+5068659	5075231	1716	8288	Klebsiella_variicola_NZ_CP047360.1	k141_249	95.53		True
+indel: indel (<= 5bp)
+5075233	5076151	8289	9207	Klebsiella_variicola_NZ_CP047360.1	k141_249	96.95		True
+CONTIG	k141_249	11624	correct
+4908884	4908968	1	85	Klebsiella_variicola_NZ_CP047360.1	k141_254	100.0		True
+local misassembly
+4909070	4925285	304	16498	Klebsiella_variicola_NZ_CP047360.1	k141_254	96.15		True
+relocation, inconsistency = -5946
+4931079	4932292	28238	29451	Klebsiella_variicola_NZ_CP047360.1	k141_254	95.39		True
+indel: indel (<= 5bp)
+4932310	4935454	29467	32611	Klebsiella_variicola_NZ_CP047360.1	k141_254	95.45		True
+relocation, inconsistency = -4116
+4935545	4938035	36818	39308	Klebsiella_variicola_NZ_CP047360.1	k141_254	95.3		True
+local misassembly
+4941909	4944926	43693	46710	Klebsiella_variicola_NZ_CP047360.1	k141_254	95.46		True
+indel: indel (> 5bp)
+4944935	4950266	46711	52042	Klebsiella_variicola_NZ_CP047360.1	k141_254	96.77		True
+local misassembly
+4950397	4961576	52043	63218	Klebsiella_variicola_NZ_CP047360.1	k141_254	95.66		True
+relocation, inconsistency = -1216
+4962178	4968908	65036	71766	Klebsiella_variicola_NZ_CP047360.1	k141_254	95.47		True
+relocation, inconsistency = 5661
+4974711	4976140	71908	73339	Klebsiella_variicola_NZ_CP047360.1	k141_254	96.23		True
+relocation, inconsistency = 4165
+4980329	4984504	73363	77537	Klebsiella_variicola_NZ_CP047360.1	k141_254	95.63		True
+local misassembly
+4985095	5040951	77538	133408	Klebsiella_variicola_NZ_CP047360.1	k141_254	95.12		True
+CONTIG	k141_254	134914	misassembled
+2783270	2783460	138	328	Klebsiella_variicola_NZ_CP047360.1	k141_298	95.31		True
+CONTIG	k141_298	4181	correct_unaligned
+3053592	3068964	18331	2955	Klebsiella_variicola_NZ_CP047360.1	k141_300	97.17		True
+local misassembly
+3025235	3053415	46664	18508	Klebsiella_variicola_NZ_CP047360.1	k141_300	96.21		True
+local misassembly
+3017310	3018680	54601	53231	Klebsiella_variicola_NZ_CP047360.1	k141_300	95.92		True
+indel: indel (<= 5bp)
+3016111	3017306	55797	54602	Klebsiella_variicola_NZ_CP047360.1	k141_300	96.15		True
+relocation, inconsistency = 3237
+2997797	2999436	70874	69235	Klebsiella_variicola_NZ_CP047360.1	k141_300	96.22		True
+indel: indel (<= 5bp)
+2996794	2997795	71876	70875	Klebsiella_variicola_NZ_CP047360.1	k141_300	95.21		True
+relocation, inconsistency = 10090
+2969476	2983132	89104	75448	Klebsiella_variicola_NZ_CP047360.1	k141_300	95.03		True
+local misassembly
+2963896	2968570	94247	89572	Klebsiella_variicola_NZ_CP047360.1	k141_300	95.55		True
+relocation, inconsistency = 7553
+2947020	2948692	103570	101898	Klebsiella_variicola_NZ_CP047360.1	k141_300	96.29		True
+indel: stretch of mismatches
+2939397	2947011	111193	103579	Klebsiella_variicola_NZ_CP047360.1	k141_300	95.68		True
+local misassembly
+2938262	2939168	112322	111416	Klebsiella_variicola_NZ_CP047360.1	k141_300	95.59		True
+indel: indel (<= 5bp)
+2937762	2938254	112819	112327	Klebsiella_variicola_NZ_CP047360.1	k141_300	97.36		True
+indel: indel (<= 5bp)
+2937277	2937761	113305	112821	Klebsiella_variicola_NZ_CP047360.1	k141_300	100.0		True
+indel: indel (<= 5bp)
+2936532	2937275	114049	113306	Klebsiella_variicola_NZ_CP047360.1	k141_300	98.92		True
+local misassembly
+2930928	2932572	119636	117992	Klebsiella_variicola_NZ_CP047360.1	k141_300	96.35		True
+local misassembly
+2925761	2927399	124814	123176	Klebsiella_variicola_NZ_CP047360.1	k141_300	95.49		True
+local misassembly
+2924481	2924575	126095	126001	Klebsiella_variicola_NZ_CP047360.1	k141_300	95.79		True
+local misassembly
+2900321	2901367	149664	148618	Klebsiella_variicola_NZ_CP047360.1	k141_300	96.08		True
+local misassembly
+2891344	2897786	158641	152199	Klebsiella_variicola_NZ_CP047360.1	k141_300	95.62		True
+indel: stretch of mismatches
+2890777	2891340	159208	158645	Klebsiella_variicola_NZ_CP047360.1	k141_300	95.57		True
+local misassembly
+2890464	2890720	159621	159365	Klebsiella_variicola_NZ_CP047360.1	k141_300	97.28		True
+CONTIG	k141_300	159621	misassembled
+3366093	3366185	302	394	Klebsiella_variicola_NZ_CP047360.1	k141_312	97.85		True
+unknown
+3366189	3366911	400	1122	Klebsiella_variicola_NZ_CP047360.1	k141_312	96.68		True
+unknown
+CONTIG	k141_312	1747	mis_unaligned
+4089937	4091860	2162	239	Klebsiella_variicola_NZ_CP047360.1	k141_317	96.67		True
+relocation, inconsistency = 7250
+4073216	4082573	11634	2276	Klebsiella_variicola_NZ_CP047360.1	k141_317	97.5		True
+relocation, inconsistency = 1699
+4065455	4071445	17697	11706	Klebsiella_variicola_NZ_CP047360.1	k141_317	96.43		True
+relocation, inconsistency = 2841
+4041741	4062468	38566	17843	Klebsiella_variicola_NZ_CP047360.1	k141_317	97.24		True
+local misassembly
+4028820	4041393	51496	38923	Klebsiella_variicola_NZ_CP047360.1	k141_317	97.03		True
+local misassembly
+4011808	4028490	68145	51497	Klebsiella_variicola_NZ_CP047360.1	k141_317	95.21		True
+CONTIG	k141_317	68515	misassembled
+2793621	2795229	136	1744	Klebsiella_variicola_NZ_CP047360.1	k141_358	97.02		True
+unknown
+2795492	2795698	2025	2231	Klebsiella_variicola_NZ_CP047360.1	k141_358	97.1		True
+unknown
+2797128	2797497	4231	4600	Klebsiella_variicola_NZ_CP047360.1	k141_358	96.22		True
+unknown
+2797974	2798893	5333	6252	Klebsiella_variicola_NZ_CP047360.1	k141_358	96.85		True
+unknown
+2803571	2803674	11430	11533	Klebsiella_variicola_NZ_CP047360.1	k141_358	95.19		True
+unknown
+2807871	2808272	15713	16114	Klebsiella_variicola_NZ_CP047360.1	k141_358	97.26		True
+unknown
+2808535	2808830	16681	16976	Klebsiella_variicola_NZ_CP047360.1	k141_358	95.27		True
+unknown
+CONTIG	k141_358	19999	mis_unaligned
+4891216	4908864	11	17586	Klebsiella_variicola_NZ_CP047360.1	k141_373	96.89		True
+CONTIG	k141_373	17586	correct
+2484388	2485522	4195	5329	Klebsiella_variicola_NZ_CP047360.1	k141_379	95.33		True
+unknown
+2495281	2495719	17554	17992	Klebsiella_variicola_NZ_CP047360.1	k141_379	96.13		True
+unknown
+2508982	2509702	31256	31976	Klebsiella_variicola_NZ_CP047360.1	k141_379	95.56		True
+unknown
+2510773	2510840	33058	33125	Klebsiella_variicola_NZ_CP047360.1	k141_379	97.06		True
+unknown
+2510841	2513880	33127	36166	Klebsiella_variicola_NZ_CP047360.1	k141_379	96.94		True
+unknown
+2537360	2543135	57985	63780	Klebsiella_variicola_NZ_CP047360.1	k141_379	95.72		True
+unknown
+2552398	2556262	63827	67691	Klebsiella_variicola_NZ_CP047360.1	k141_379	96.82		True
+unknown
+2563502	2571051	74911	82460	Klebsiella_variicola_NZ_CP047360.1	k141_379	95.74		True
+unknown
+2577361	2579033	88771	90443	Klebsiella_variicola_NZ_CP047360.1	k141_379	95.58		True
+unknown
+2579034	2579156	90445	90567	Klebsiella_variicola_NZ_CP047360.1	k141_379	99.19		True
+unknown
+2579997	2580237	90711	90951	Klebsiella_variicola_NZ_CP047360.1	k141_379	95.44		True
+unknown
+2580891	2582954	91007	93065	Klebsiella_variicola_NZ_CP047360.1	k141_379	95.84		True
+unknown
+CONTIG	k141_379	98280	mis_unaligned
+3080301	3082572	32989	35260	Klebsiella_variicola_NZ_CP047360.1	k141_418	96.65		True
+unknown
+3089081	3096144	36884	43947	Klebsiella_variicola_NZ_CP047360.1	k141_418	95.9		True
+unknown
+3096181	3101279	46345	51443	Klebsiella_variicola_NZ_CP047360.1	k141_418	97.04		True
+unknown
+CONTIG	k141_418	65279	mis_unaligned
+CONTIG	k141_436	545	unaligned
+2603920	2618525	2457	17063	Klebsiella_variicola_NZ_CP047360.1	k141_444	98.57		True
+unknown
+2640222	2640305	34448	34531	Klebsiella_variicola_NZ_CP047360.1	k141_444	96.43		True
+unknown
+2640317	2641405	34532	35620	Klebsiella_variicola_NZ_CP047360.1	k141_444	96.69		True
+unknown
+2641406	2642483	35622	36699	Klebsiella_variicola_NZ_CP047360.1	k141_444	96.38		True
+unknown
+2672262	2672694	72405	72837	Klebsiella_variicola_NZ_CP047360.1	k141_444	95.84		True
+unknown
+2672918	2673911	73041	74034	Klebsiella_variicola_NZ_CP047360.1	k141_444	95.47		True
+unknown
+2676549	2703300	74262	101018	Klebsiella_variicola_NZ_CP047360.1	k141_444	95.26		True
+unknown
+2707913	2708382	105090	105559	Klebsiella_variicola_NZ_CP047360.1	k141_444	97.23		True
+unknown
+2723032	2727730	120780	125478	Klebsiella_variicola_NZ_CP047360.1	k141_444	98.06		True
+unknown
+2727731	2728059	125480	125808	Klebsiella_variicola_NZ_CP047360.1	k141_444	96.66		True
+unknown
+2731409	2732085	129157	129833	Klebsiella_variicola_NZ_CP047360.1	k141_444	96.6		True
+unknown
+2733787	2740550	131541	138304	Klebsiella_variicola_NZ_CP047360.1	k141_444	97.6		True
+unknown
+2740551	2744213	138306	141968	Klebsiella_variicola_NZ_CP047360.1	k141_444	95.88		True
+unknown
+2745886	2750151	143630	147895	Klebsiella_variicola_NZ_CP047360.1	k141_444	95.78		True
+unknown
+2752778	2756855	150530	154607	Klebsiella_variicola_NZ_CP047360.1	k141_444	95.61		True
+unknown
+2756859	2758811	154611	156563	Klebsiella_variicola_NZ_CP047360.1	k141_444	95.03		True
+unknown
+CONTIG	k141_444	157716	mis_unaligned
+2792478	2793624	1285	138	Klebsiella_variicola_NZ_CP047360.1	k141_461	96.25		True
+CONTIG	k141_461	5957	correct_unaligned

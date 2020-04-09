@@ -28,7 +28,9 @@ Review a lot of assemblers: https://microbiomejournal.biomedcentral.com/articles
 - Velvet
 
 
-(OPTIONAL: Scaffolding)
+Scaffolding (optional)
+	= Link together a non-contiguous series of genomic sequences into a scaffold, consisting 	of sequences separated by gaps of known length. The sequences that are linked are typically 		contiguous sequences corresponding to read overlaps.
+- contiguater
 
 QC assembly
 - Quast

@@ -1,0 +1,15 @@
+reference chromosomes:
+	Klebsiella_variicola_NZ_CP047360.1 (total length: 5505304 bp, total length without N's: 5505304 bp, maximal covered length: 2438654 bp)
+
+total genome size: 5505304
+
+gap min size: 50
+partial gene/operon min size: 100
+
+
+
+assembly                 | genome    | duplication | gaps      | genes     | partial   | operons   | partial   |
+                         | fraction  | ratio       | number    |           | genes     |           | operons   |
+========================================================================================================================
+ERR1795072-contigs_to_Kl | 44.296    | 1.001       | 314       | -         | -         | -         | -         |
+ERR1795073-contigs_to_Kl | 37.092    | 1.001       | 248       | -         | -         | -         | -         |

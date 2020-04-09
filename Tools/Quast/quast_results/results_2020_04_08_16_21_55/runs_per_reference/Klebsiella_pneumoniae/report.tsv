@@ -1,0 +1,42 @@
+Assembly	ERR1795072.contigs	ERR1795073.contigs
+# contigs (>= 1000 bp)	26	22
+# contigs (>= 5000 bp)	19	15
+# contigs (>= 10000 bp)	17	13
+# contigs (>= 25000 bp)	14	8
+# contigs (>= 50000 bp)	10	6
+Total length (>= 1000 bp)	1904522	976276
+Total length (>= 5000 bp)	1894122	965107
+Total length (>= 10000 bp)	1876128	953525
+Total length (>= 25000 bp)	1822759	875469
+Total length (>= 50000 bp)	1694690	809210
+# contigs	30	27
+Largest contig	373091	193699
+Total length	1907337	980209
+Reference length	324283	324283
+GC (%)	56.60	56.68
+Reference GC (%)	50.67	50.67
+N50	164908	149771
+NG50	373091	193699
+N75	123259	98269
+NG75	373091	178947
+L50	4	3
+LG50	1	1
+L75	7	5
+LG75	1	2
+# misassemblies	4	2
+# misassembled contigs	3	1
+Misassembled contigs length	3318	634
+# local misassemblies	0	0
+# scaffold gap ext. mis.	0	0
+# scaffold gap loc. mis.	0	0
+# unaligned mis. contigs	5	7
+# unaligned contigs	0 + 23 part	0 + 22 part
+Unaligned length	1882713	954181
+Genome fraction (%)	6.756	7.337
+Duplication ratio	1.124	1.094
+# N's per 100 kbp	0.00	0.00
+# mismatches per 100 kbp	821.58	954.10
+# indels per 100 kbp	82.16	75.66
+Largest alignment	4157	4157
+Total aligned length	23678	25766
+NGA50	-	-
