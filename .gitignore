@@ -13,8 +13,9 @@
 #ignoring others
 *.log
 *.log.*
-*zip
-*tar
+*.zip
+*.tar
+*.tsv
 *.exe
 pkg/
 src/

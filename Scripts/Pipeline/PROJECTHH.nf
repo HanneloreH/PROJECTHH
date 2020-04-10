@@ -92,8 +92,10 @@ kraken2kronadir = params.output + "/3-kraken2-krona/"
 megahitdir = params.output + "/4-Assembly-megahit/"
 quastdir = params.output + "/4-Assembly-megahit/quast/"
 
-// Folders with tool
+// Folders associated with pipeline
 refAssemblyDBdir = params.refDB
+refAssemblyACCdir = params.refDB + "/accesion-lists/"
+krakendbpath=params.krakendbpath
 
 // Transform reads to files and form pairs and set channels
 Channel
@@ -298,7 +300,6 @@ process reduce4krakenSE {
     """
 }
 
-
 // SECOND: do kraken and prepare for krona
 process kraken2kronaPE {
     publishDir "$kraken2kronadir", mode:'copy', overwrite: true
@@ -324,6 +325,34 @@ process kraken2kronaPE {
     cat kraken2krona/report-${sample_id2}.txt | cut -f 2,3 > kraken2krona/results-${sample_id2}.krona
     """
 }
+
+//ONLY ON SERVER: (use 8Gb database)
+'''
+process kraken2kronaPE8Gb {
+    publishDir "$kraken2kronadir", mode:'copy', overwrite: true
+       
+    input:
+    set sample_id2, file(trimfq) from reducedPE_kraken
+
+    output:
+    file("kraken2krona/output-${sample_id2}.kraken")
+    file("kraken2krona/report-${sample_id2}.txt") into krakenPE4txid
+    file("kraken2krona/results-${sample_id2}.krona") into krakenPE4krona
+    
+    when:
+    params.PE
+
+    script:
+    """
+    mkdir kraken2krona
+    kraken2 --use-names --report kraken2krona/report-${sample_id2}.txt \
+    --threads 1 -db $krakendbpath \
+    --paired --gzip-compressed ${trimfq} > kraken2krona/output-${sample_id2}.kraken
+    
+    cat kraken2krona/report-${sample_id2}.txt | cut -f 2,3 > kraken2krona/results-${sample_id2}.krona
+    """
+}
+'''
 
 process kraken2kronaSE {
     publishDir "$kraken2kronadir", mode:'copy', overwrite: true
@@ -395,10 +424,20 @@ process krona {
 // ================================= REFERENCE ASSEMBLIES  =============================
 /* 
 Date creation: 9/4/2020
+Las modification: 10/4/2020
 
-Problems:
+Problems/fixes:
 - takes a long time to download, would be good to have a database (txid)
-- problem extracting txid from kraken2
+- problem extracting txid from kraken2 because of dollar sign needed to indicate column with awk: 
+    * fix: shell-block
+- problem 2 how to get txid in a value (not a file): 
+    * fix: stdout 
+        New problem: stdout adds an "enter" to the result -> I can not make a new statement!
+            * Fix: make .txt: can't find way to read it without stout
+            *Fix2: change into variable
+- problem3: wanted to write accessions + fastas directly to database, is not possible, first needs to go to working dir!
+
+//remark with silva database highest level is Genus (G) in stead of (S) (more correct)!!!!
 
 */
 
@@ -411,44 +450,74 @@ else {
 report4txid = krakenSE4txid
 }
 
+
 // extract the txid
 process txid {
+    publishDir "$kraken2kronadir", mode:'copy', overwrite: true
 
     input:
-    file(report) from kraken4txid
+    file(report) from report4txid
 
     output:
-    val txid into txid4assembly
+    stdout into txid4assembly
 
-    script:
-    """
-    column -s, -t < kraken2krona/report-${trimfq.simpleName}.txt | awk '!{4} == "S"'| head -n 1 | cut -f5 \
-    > txid
-    """
+    shell:
+    '''
+    column -s, -t < !{report}| awk '$4 == "S"'| head -n 1 | cut -f5
+    '''
+    //shell-block (using shell +  ''' in stead of """ + adding !) to fix the problem of $4 : because dollar is used also by Groovy for variable interpolation
+    
+    //IF SILVA DB: "G" (OPM: manually adjusted the trial files with silva database to S: 573)
+    //IF 8GB DB :"S"
 }
 
+txid4assembly.into {txid4assembly_print; txid4assembly_accesion; txid4assembly_exists}
+//resultie.view {it.trim()}
 
-process accessions {
-    publishDir "$refAssemblyDBdir", mode:'copy', overwrite: true
-    
+
+
+//print txid - OPTIONAL
+process printtxid {
+
     input:
-    val txid from txid4assembly
+    tuple txid from txid4assembly_print
 
     output:
-    val (txid), file("RefAssemblyDB/accessions${txid}.txt") into accessionlist
+    stdout result
 
-    when:
+    exec:
+    """
+    echo txid of reference assembly is: ${txid}
+    """
+    //use get.text() or print?
+}
+result.view {it.trim()}
+
+
+
+// get accesion numbers if not yet in database
+process accessions {
+    publishDir "$refAssemblyACCdir", mode:'copy', overwrite: true
+    
+    input:
+    tuple txid from txid4assembly_accesion
+
+    output:
+    file("${txid}accessions.txt") into accessionlist
+    //val(txid)
+
+   // when:
+    //file("$refAssemblyACCdir/accessions${txid}.txt", checkIfExists: false)
     //enkel als de ref database niet al bestaat
 
     script:
     """
-    mkdir -p RefAssemblyDB
     esearch -db assembly -query '${txid}[txid] AND "complete genome"[filter] AND "latest refseq"[filter]' \
-|   esummary | xtract -pattern DocumentSummary -element AssemblyAccession > RefAssemblyDB/accessions${txid}.txt
-
+    | esummary | xtract -pattern DocumentSummary -element AssemblyAccession > ${txid}accessions.txt
     """
 }
 
+'''
 
 process refAssembly {
     publishDir "$refAssemblyDBdir", mode:'copy', overwrite: true
@@ -475,7 +544,7 @@ process fetchRefAssembly {
     publishDir "$refAssemblyDBdir", mode:'copy', overwrite: true
     
     input:
-
+    txid4assembly_exists
     output:
 
 
@@ -487,7 +556,7 @@ process fetchRefAssembly {
   
     """
 }
-
+'''
  
 
 
@@ -568,15 +637,15 @@ process quastPE{
     file(assembly) from megahit_quast
 
     output:
-    file("*")
+    file("quast-${assembly.simpleName}/*")
     
     when:
     params.PE
 
     script:
     """
-    mkdir quast/
-    quast.py ${assembly} -o quast/
+    mkdir quast-${assembly.simpleName}/
+    quast.py ${assembly} -o quast-${assembly.simpleName}/
     """
 }
 
