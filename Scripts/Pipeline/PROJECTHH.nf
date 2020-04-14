@@ -424,17 +424,23 @@ process krona {
 // ================================= REFERENCE ASSEMBLIES  =============================
 /* 
 Date creation: 9/4/2020
-Las modification: 10/4/2020
+Last modification: 14/4/2020 (introducing python to get txid)
 
 Problems/fixes:
 - takes a long time to download, would be good to have a database (txid)
 - problem extracting txid from kraken2 because of dollar sign needed to indicate column with awk: 
-    * fix: shell-block
-- problem 2 how to get txid in a value (not a file): 
-    * fix: stdout 
-        New problem: stdout adds an "enter" to the result -> I can not make a new statement!
-            * Fix: make .txt: can't find way to read it without stout
-            *Fix2: change into variable
+    * fix: shell-block(using shell +  ''' in stead of """ + adding !) to fix the problem of $4 : 
+            because dollar is used also by Groovy for variable interpolation
+- problem 2 how to get txid in a value: 
+    FIX
+        * BASH first (shell-block): column -s, -t < !{report}| awk '$4 == "S"'| head -n 1 | cut -f5
+        * BASH better: awk -F, '$4 == "S" { printf("%s", $5); exit }' "!{report}"
+        * HOW OUTPUT?
+            - Fixed by using stdout as output
+            - New problem: stdout trails "newline" to the result -> can not make a new statement!
+                *Fix2.1: make .txt: can't find way to read it without stout: not found
+                *Fix2.2: change into variable: not found
+                *Fix2.3: change language: python!
 - problem3: wanted to write accessions + fastas directly to database, is not possible, first needs to go to working dir!
 
 //remark with silva database highest level is Genus (G) in stead of (S) (more correct)!!!!
@@ -451,22 +457,32 @@ report4txid = krakenSE4txid
 }
 
 
-// extract the txid
+// extract the txid with bash: too many problems -> go 
 process txid {
     publishDir "$kraken2kronadir", mode:'copy', overwrite: true
 
     input:
-    file(report) from report4txid
+    file('report*') from report4txid
 
     output:
     stdout into txid4assembly
 
-    shell:
+    script:
     '''
-    column -s, -t < !{report}| awk '$4 == "S"'| head -n 1 | cut -f5
+    #!/usr/bin/env python3
+    import csv
+
+    with open(report*, mode='r') as report:
+        txtreader = csv.reader(report, delimiter='\t')
+        line_count = 1
+        for row in txtreader:
+            if(row[3]=="S"):
+                if(line_count<=1):           
+                    print(row[4])
+                    line_count += 1
+    report.close()
     '''
-    //shell-block (using shell +  ''' in stead of """ + adding !) to fix the problem of $4 : because dollar is used also by Groovy for variable interpolation
-    
+  
     //IF SILVA DB: "G" (OPM: manually adjusted the trial files with silva database to S: 573)
     //IF 8GB DB :"S"
 }
@@ -480,7 +496,7 @@ txid4assembly.into {txid4assembly_print; txid4assembly_accesion; txid4assembly_e
 process printtxid {
 
     input:
-    tuple txid from txid4assembly_print
+    val(txid) from txid4assembly_print
 
     output:
     stdout result
@@ -494,7 +510,7 @@ process printtxid {
 result.view {it.trim()}
 
 
-
+'''
 // get accesion numbers if not yet in database
 process accessions {
     publishDir "$refAssemblyACCdir", mode:'copy', overwrite: true
@@ -517,7 +533,7 @@ process accessions {
     """
 }
 
-'''
+
 
 process refAssembly {
     publishDir "$refAssemblyDBdir", mode:'copy', overwrite: true
