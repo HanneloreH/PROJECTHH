@@ -24,6 +24,7 @@ work/
 cache/
 output/
 kraken-db/
+refDB/
 
 #other GITs to ignore
 Tools/chewBBACA_tutorial

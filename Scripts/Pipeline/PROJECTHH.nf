@@ -424,7 +424,7 @@ process krona {
 // ================================= REFERENCE ASSEMBLIES  =============================
 /* 
 Date creation: 9/4/2020
-Last modification: 14/4/2020 (introducing python to get txid)
+Last modification: 15/4/2020 (introducing python to get txid)
 
 Problems/fixes:
 - takes a long time to download, would be good to have a database (txid)
@@ -438,9 +438,14 @@ Problems/fixes:
         * HOW OUTPUT?
             - Fixed by using stdout as output
             - New problem: stdout trails "newline" to the result -> can not make a new statement!
-                *Fix2.1: make .txt: can't find way to read it without stout: not found
-                *Fix2.2: change into variable: not found
+                *Fix2.1: make .txt: can't find way to read it without stout: not found: FAIL
+                *Fix2.2: change into variable: not found: FAIL
                 *Fix2.3: change language: python!
+                    PROBLEM: variable is also not working
+                    Save script seperately as pythong module: FAIL, module will not load
+                        see ReadTxid.py (in folder Tests)
+                *Fix2.4: write groovy script to get the number: FAIL
+                *Fix2.5: back to bash: add tr -dc '0-9' to extract only numbers
 - problem3: wanted to write accessions + fastas directly to database, is not possible, first needs to go to working dir!
 
 //remark with silva database highest level is Genus (G) in stead of (S) (more correct)!!!!
@@ -456,41 +461,25 @@ else {
 report4txid = krakenSE4txid
 }
 
-
 // extract the txid with bash: too many problems -> go 
 process txid {
     publishDir "$kraken2kronadir", mode:'copy', overwrite: true
 
     input:
-    file('report*') from report4txid
+    file(report) from report4txid
 
     output:
     stdout into txid4assembly
 
-    script:
+    shell:
     '''
-    #!/usr/bin/env python3
-    import csv
-
-    with open(report*, mode='r') as report:
-        txtreader = csv.reader(report, delimiter='\t')
-        line_count = 1
-        for row in txtreader:
-            if(row[3]=="S"):
-                if(line_count<=1):           
-                    print(row[4])
-                    line_count += 1
-    report.close()
+    column -s, -t < !{report}| awk '$4 == "S"'| head -n 1 | cut -f5 | tr -dc '0-9'
     '''
-  
     //IF SILVA DB: "G" (OPM: manually adjusted the trial files with silva database to S: 573)
     //IF 8GB DB :"S"
 }
 
 txid4assembly.into {txid4assembly_print; txid4assembly_accesion; txid4assembly_exists}
-//resultie.view {it.trim()}
-
-
 
 //print txid - OPTIONAL
 process printtxid {
@@ -509,22 +498,21 @@ process printtxid {
 }
 result.view {it.trim()}
 
-
-'''
 // get accesion numbers if not yet in database
 process accessions {
     publishDir "$refAssemblyACCdir", mode:'copy', overwrite: true
     
     input:
-    tuple txid from txid4assembly_accesion
+    val txid from txid4assembly_accesion
 
     output:
     file("${txid}accessions.txt") into accessionlist
-    //val(txid)
+    val(txid) into accesontxid
 
-   // when:
-    //file("$refAssemblyACCdir/accessions${txid}.txt", checkIfExists: false)
-    //enkel als de ref database niet al bestaat
+    when:
+    acc=file("$refAssemblyACCdir/${txid}accessions.txt")
+    acc.exists() == false
+    //enkel als de txid accessionfile niet al bestaat
 
     script:
     """
@@ -533,34 +521,37 @@ process accessions {
     """
 }
 
-
-
 process refAssembly {
     publishDir "$refAssemblyDBdir", mode:'copy', overwrite: true
     
     input:
-    val(txid), file(accesions) from accessionlist
+    file(accesions) from accessionlist
+    val(txid) from accesontxid
 
     output:
-    file("RefAssemblyDB/accessions${txid}/*") into refDB
+    file("refDB-${txid}/*") into refDB
 
-    when:
+    //when:
+    //acc=file("$refAssemblyDBdir/refDB-${txid}/*")
+    //acc.exists() == false
     //enkel als de ref database niet al bestaat
 
     script:
     """
-    mkdir -p RefAssemblyDB/${txid}
+    mkdir -p refDB-${txid}
+    cp ${accesions} refDB-${txid}
+    cd refDB-${txid}
     bit-dl-ncbi-assemblies -w ${accesions} -f fasta -j 10
     """
-    //how to put in the right directory?
+    //how to put in the right directory, no output parameter
 }
 
-
+'''
 process fetchRefAssembly {
     publishDir "$refAssemblyDBdir", mode:'copy', overwrite: true
     
     input:
-    txid4assembly_exists
+    val(txid) from txid4assembly_exists
     output:
 
 
@@ -665,7 +656,6 @@ process quastPE{
     """
 }
 
-
 '''
 
 // probleem met deze opstelling verlies je je naam (nog voor SE
@@ -687,9 +677,19 @@ process quastSE {
     quast.py megahit-${trimfq.simpleName}/final.contigs.fa -o megahit-${trimfq.simpleName}/quast/
     """
 }
+'''
 
+// ================================= Scaffolding =============================
+/* 
+Date creation: 3/4/2020
 
+Problems: 
+- problems with matplotlib (quast)
+- output assembly = final.contigs.fa, but then there's no samplename anymore!
 
+Possibilities: include other assemblers and give a choice to users
+
+*/
 
 
 
@@ -715,7 +715,7 @@ workflow.onComplete {
 // database with already downloaded assemblies per txid
 
 
-
+'''
 do -with-docker
 ALTERNATIVE in nexflow.config file:
 docker.enabled = true
