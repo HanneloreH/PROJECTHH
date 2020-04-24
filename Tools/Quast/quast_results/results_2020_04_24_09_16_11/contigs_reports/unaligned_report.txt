@@ -1,0 +1,8 @@
+All statistics are based on contigs of size >= 500 bp, unless otherwise noted (e.g., "# contigs (>= 0 bp)" and "Total length (>= 0 bp)" include all contigs).
+
+Assembly                       ERR1795073.contigs
+# fully unaligned contigs      41                
+Fully unaligned length         105919            
+# partially unaligned contigs  45                
+Partially unaligned length     357231            
+# N's                          0                 

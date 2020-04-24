@@ -1,5 +1,0 @@
-Assemblies                               ERR1795072.contigs  ERR1795073.contigs
-Klebsiella_pneumoniae                    6.756               7.337             
-Klebsiella_pneumoniae_MGH_43             89.087              90.488            
-Klebsiella_pneumoniae_subsp._pneumoniae  81.244              80.085            
-Klebsiella_variicola                     44.296              37.092            

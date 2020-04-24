@@ -1,0 +1,18 @@
+reference chromosomes:
+	NZ_CP006659.2 (total length: 5435746 bp, total length without N's: 5435746 bp, maximal covered length: 5147924 bp)
+	NZ_CP006663.1 (total length: 117755 bp, total length without N's: 117755 bp, maximal covered length: 82637 bp)
+	NZ_CP006662.2 (total length: 85161 bp, total length without N's: 85161 bp, maximal covered length: 32136 bp)
+	NZ_CP006660.1 (total length: 2014 bp, total length without N's: 2014 bp, maximal covered length: 0 bp)
+	NZ_CP006661.1 (total length: 140825 bp, total length without N's: 140825 bp, maximal covered length: 4590 bp)
+
+total genome size: 5781501
+
+gap min size: 50
+partial gene/operon min size: 100
+
+
+
+assembly                 | genome    | duplication | gaps      | genes     | partial   | operons   | partial   |
+                         | fraction  | ratio       | number    |           | genes     |           | operons   |
+========================================================================================================================
+ERR1795073_contigs       | 91.106    | 1.005       | 99        | -         | -         | -         | -         |

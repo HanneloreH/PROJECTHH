@@ -1,3 +1,0 @@
-Assembly	# misassemblies	  # contig misassemblies	    # c. relocations	    # c. translocations	    # c. inversions	  # scaffold misassemblies	    # s. relocations	    # s. translocations	    # s. inversions	# misassembled contigs	Misassembled contigs length	# possibly misassembled contigs	    # possible misassemblies	# local misassemblies	# scaffold gap ext. mis.	# scaffold gap loc. mis.	# unaligned mis. contigs	# mismatches	# indels	    # indels (<= 5 bp)	    # indels (> 5 bp)	Indels length
-ERR1795072.contigs	49	49	49	0	0	0	0	0	0	12	2273449	4	5	140	0	0	10	95964	1088	1014	74	3040
-ERR1795073.contigs	31	31	31	0	0	0	0	0	0	10	1387654	4	5	99	0	0	12	80156	959	894	65	2606

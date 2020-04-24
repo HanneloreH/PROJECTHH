@@ -447,6 +447,7 @@ Problems/fixes:
                 *Fix2.4: write groovy script to get the number: FAIL
                 *Fix2.5: back to bash: add tr -dc '0-9' to extract only numbers
 - problem3: wanted to write accessions + fastas directly to database, is not possible, first needs to go to working dir!
+- Problem4: how to put ref assembly in the right directory, no output parameter: FIX: go into the directory
 
 //remark with silva database highest level is Genus (G) in stead of (S) (more correct)!!!!
 
@@ -529,12 +530,10 @@ process refAssembly {
     val(txid) from accesontxid
 
     output:
-    file("refDB-${txid}/*") into refDB
+    file("refDB-${txid}/GC*") into refDB
 
     //when:
-    //acc=file("$refAssemblyDBdir/refDB-${txid}/*")
-    //acc.exists() == false
-    //enkel als de ref database niet al bestaat
+    //moet niet want reeds gedifineerd door accesions!
 
     script:
     """
@@ -543,28 +542,31 @@ process refAssembly {
     cd refDB-${txid}
     bit-dl-ncbi-assemblies -w ${accesions} -f fasta -j 10
     """
-    //how to put in the right directory, no output parameter
+    
 }
 
 '''
+//NIET NODIG: ALLEEN PATH
 process fetchRefAssembly {
-    publishDir "$refAssemblyDBdir", mode:'copy', overwrite: true
     
     input:
     val(txid) from txid4assembly_exists
+
     output:
 
 
     when:
     //enkel als de ref database WEL al bestaat
+    acc=file("$refAssemblyDBdir/refDB-${txid}/GC*")
+    acc.exists() == true
 
     script:
     """
-  
+    cd $refAssemblyDBdir/refDB-${txid}
+
     """
 }
 '''
- 
 
 
 
@@ -637,7 +639,7 @@ else {
 
 
 // Control of assembly with Quast
-process quastPE{
+process quast{
     publishDir "$quastdir", mode:'copy', overwrite: true
        
     input:
@@ -645,9 +647,6 @@ process quastPE{
 
     output:
     file("quast-${assembly.simpleName}/*")
-    
-    when:
-    params.PE
 
     script:
     """
@@ -656,28 +655,6 @@ process quastPE{
     """
 }
 
-'''
-
-// probleem met deze opstelling verlies je je naam (nog voor SE
-
-process quastSE {
-    publishDir "$quastir", mode:'copy', overwrite: true
-       
-    input:
-    file(trimfq) from megahitSE_quast
-
-    output:
-    file("megahit-${trimfq.simpleName}/*")
-     
-    when:
-    params.SE
-
-    script:
-    """
-    quast.py megahit-${trimfq.simpleName}/final.contigs.fa -o megahit-${trimfq.simpleName}/quast/
-    """
-}
-'''
 
 // ================================= Scaffolding =============================
 /* 
@@ -690,6 +667,15 @@ Problems:
 Possibilities: include other assemblers and give a choice to users
 
 */
+
+
+val txid from txid4assembly_exists 
+    //because assembly takes long time it's not a problem for samples which do not yet have a
+    //ref before starting the protoco
+
+
+
+
 
 
 

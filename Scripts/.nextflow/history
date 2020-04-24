@@ -325,3 +325,5 @@
 2020-04-15 16:24:28	3.3s	wise_magritte	ERR	e0610b9b8e28b758c5ed2f831f40c9c8	683bc142-3fd8-4566-b853-c1a85434977f	nextflow run Pipeline/PROJECTHH.nf --PE --reads '/home/hannelore/PROJECTHH/Data/RawData-KP/*_{1,2}.fastq.gz' -resume
 2020-04-15 16:25:25	2.5s	confident_kalman	OK	67e4128ac1255ae71942dc500bb51ccd	683bc142-3fd8-4566-b853-c1a85434977f	nextflow run Pipeline/PROJECTHH.nf --PE --reads '/home/hannelore/PROJECTHH/Data/RawData-KP/*_{1,2}.fastq.gz' -resume
 2020-04-15 16:25:35	41m 6s	voluminous_swartz	OK	67e4128ac1255ae71942dc500bb51ccd	683bc142-3fd8-4566-b853-c1a85434977f	nextflow run Pipeline/PROJECTHH.nf --PE --reads '/home/hannelore/PROJECTHH/Data/RawData-KP/*_{1,2}.fastq.gz' -resume
+2020-04-17 16:52:13	20.2s	jolly_bohr	OK	67e4128ac1255ae71942dc500bb51ccd	683bc142-3fd8-4566-b853-c1a85434977f	nextflow run Pipeline/PROJECTHH.nf --PE --reads '/home/hannelore/PROJECTHH/Data/RawData-KP/*_{1,2}.fastq.gz' -resume
+2020-04-17 17:03:02	26.3s	cheesy_fourier	OK	36f9eadb5930d67511efc2588d4c4f9a	683bc142-3fd8-4566-b853-c1a85434977f	nextflow run Pipeline/PROJECTHH.nf --PE --reads '/home/hannelore/PROJECTHH/Data/RawData-KP/*_{1,2}.fastq.gz' -resume
