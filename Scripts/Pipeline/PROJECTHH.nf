@@ -656,15 +656,15 @@ process quast{
 }
 
 
+'''
 // ================================= Scaffolding =============================
 /* 
 Date creation: 3/4/2020
 
 Problems: 
-- problems with matplotlib (quast)
-- output assembly = final.contigs.fa, but then there's no samplename anymore!
 
-Possibilities: include other assemblers and give a choice to users
+
+Possibilities:
 
 */
 
@@ -672,6 +672,22 @@ Possibilities: include other assemblers and give a choice to users
 val txid from txid4assembly_exists 
     //because assembly takes long time it's not a problem for samples which do not yet have a
     //ref before starting the protoco
+'''
+
+
+
+// ================================= cgMLST analysis
+ =============================
+/* 
+Date creation: 3/4/2020
+
+Problems: 
+
+
+Possibilities:
+
+*/
+
 
 
 

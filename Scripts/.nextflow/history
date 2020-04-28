@@ -327,3 +327,4 @@
 2020-04-15 16:25:35	41m 6s	voluminous_swartz	OK	67e4128ac1255ae71942dc500bb51ccd	683bc142-3fd8-4566-b853-c1a85434977f	nextflow run Pipeline/PROJECTHH.nf --PE --reads '/home/hannelore/PROJECTHH/Data/RawData-KP/*_{1,2}.fastq.gz' -resume
 2020-04-17 16:52:13	20.2s	jolly_bohr	OK	67e4128ac1255ae71942dc500bb51ccd	683bc142-3fd8-4566-b853-c1a85434977f	nextflow run Pipeline/PROJECTHH.nf --PE --reads '/home/hannelore/PROJECTHH/Data/RawData-KP/*_{1,2}.fastq.gz' -resume
 2020-04-17 17:03:02	26.3s	cheesy_fourier	OK	36f9eadb5930d67511efc2588d4c4f9a	683bc142-3fd8-4566-b853-c1a85434977f	nextflow run Pipeline/PROJECTHH.nf --PE --reads '/home/hannelore/PROJECTHH/Data/RawData-KP/*_{1,2}.fastq.gz' -resume
+2020-04-28 15:32:43	-	jovial_waddington	-	26b7a2b4e8d972b3be85f8cc7562a6aa	683bc142-3fd8-4566-b853-c1a85434977f	nextflow run Pipeline/PROJECTHH.nf --PE --reads '/home/hannelore/PROJECTHH/Data/RawData-KP/*_{1,2}.fastq.gz' -resume
