@@ -25,13 +25,18 @@ concat("/home/hannelore/PROJECTHH/Tools/chewBBACA_run1/cgMLST_completegenomes/cg
 
 
 #alternative: use pandas
-
+#download via pip wa snot suffcient, also done via conda install pandas!
 
 def concat (file1, file2):
-    import pandas
-    fil1 = pandas.read_csv(file1, sep='\t', header=0)
-    fil2 = pandas.read_csv(file2, sep='\t', header=0)
-    concat = pandas.merge(fil2, on ='column_name')
-    #write file
+    import pandas as pd #does work in terminal
+    fil1 = pd.read_csv(file1, sep='\t', header=0)
+    fil2 = pd.read_csv(file2, sep='\t', header=0)
+    files = [fil1, fil2]
+    combine = pd.concat(files, join="inner", ignore_index=True)
+    #combineD = combine.drop(combine.columns[0], axis=1)
+    #if deleting column 0 = FILE, how to delete -1?
+    combine.to_csv("output.tsv", sep='\t', index=False) #added index=False
+
+    
 
 concat("/home/hannelore/PROJECTHH/Tools/chewBBACA_run1/cgMLST_completegenomes/cgMLST.tsv", "/home/hannelore/PROJECTHH/Tools/chewBBACA_run1/results/results_20200427T171943/results_alleles.tsv")
