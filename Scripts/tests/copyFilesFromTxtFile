@@ -1,0 +1,26 @@
+import os
+import shutil
+from glob import glob
+
+#namelist = open('/Users/C.txt').read().splitlines()
+# context manager will take care of closing the file after open 
+# no need read as one string and do splitlines, readlines take care of that
+with open('/Users/C.txt') as fp:
+    namelist = fp.readlines()
+input = '/Users/A'
+output = '/Users/B'
+path = '/Users/A'
+files = os.listdir(path)
+# dont need glob import as you already imported os 
+#files = glob(path)
+# loop only through files mentioned in the text file and see if they are available in 
+# folder A
+for file_name in namelist:
+    file_path = os.path.join(input,file_name)
+    if file_path in files:
+        dest_path = os.path.join(output,file_name)
+        shutil.copy(file_path,dest_path)
+#for path in files:
+#   filedir, filename = os.path.split(path)
+#   for filename in namelist:
+#     shutil.copy2(input,output)

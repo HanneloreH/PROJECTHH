@@ -1,14 +1,15 @@
 #ignoring raw data (too big)
-*.fastq.gz
-*.fastq
-*.fq.gz
-*.fq
-*.fna.gz
-*.fna
-*.fasta.gz
-*.fasta
-*.fa.gz
-*.fa
+*.fastq.gz*
+*.fastq*
+*.fq.gz*
+*.fq*
+*.fna.gz*
+*.fna*
+*.fasta.gz*
+*.fasta*
+*.fa.gz*
+*.fa*
+multi-txid*
 
 #ignoring others
 *.log
