@@ -10,9 +10,7 @@ Do QC, trimming, assembly and cgMLST analysis on fastq data files (format *.fast
 ## MUST DEFINE
 *   --reads         :path to reads (if not in same folder)
 *   --PE or --SE    :paired or single end data
- 
-## DEFAULTS
-*  Only for illumina  paired end reads (nextera)
+
 
 ## EXAMPLE INPUT
 nextflow run Pipeline/PROJECTHH.nf --PE --reads "/home/hannelore/PROJECTHH/Data/RawData-KP/*_{1,2}.fastq.gz"
@@ -253,6 +251,9 @@ trimmedSE_reads.into {trimmedSE_kraken; trimmedSE_assembly}
 Date creation: 2/4/2020
 Last adjusted: 8/04/2020
 
+Define with kraken what your species txid is in the sample (needed for scaffolding / cgMLST allele calling)
+to lower computational needs do analysis on mini-fastq
+
 Problems: 
 - installation of kraken and database required more memory, a new Virtual machine (CENTOS)
 was created.
@@ -426,6 +427,8 @@ process krona {
 Date creation: 9/4/2020
 Last modification: 15/4/2020 (introducing python to get txid)
 
+Get reference assemblies from NCBI for the given txid, necessary for scaffolding AND cgMLST scheme creation
+
 Problems/fixes:
 - takes a long time to download, would be good to have a database (txid)
 - problem extracting txid from kraken2 because of dollar sign needed to indicate column with awk: 
@@ -574,6 +577,8 @@ process fetchRefAssembly {
 /* 
 Date creation: 3/4/2020
 
+Make de novo assembly with megahit and QA of the assembly with quast
+
 Problems: 
 - problems with matplotlib (quast)
 - output assembly = final.contigs.fa, but then there's no samplename anymore!
@@ -665,19 +670,17 @@ Problems:
 
 
 Possibilities:
-
 */
 
 
 val txid from txid4assembly_exists 
     //because assembly takes long time it's not a problem for samples which do not yet have a
     //ref before starting the protoco
-'''
 
 
 
-// ================================= cgMLST analysis
- =============================
+
+// ================================= cgMLST analysis =============================
 /* 
 Date creation: 3/4/2020
 
@@ -689,7 +692,7 @@ Possibilities:
 */
 
 
-
+'''
 
 
 

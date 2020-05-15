@@ -49,11 +49,17 @@ tekst= '/home/hannelore/PROJECTHH/Data/cgMLSTschemes/MLST-158836/cgMLST/cgMLSTsc
 inputtie = '/home/hannelore/PROJECTHH/Data/cgMLSTschemes/MLST-158836/wgMLST/schema-158836/'
 outputtie ='/home/hannelore/PROJECTHH/Data/cgMLSTschemes/MLST-158836/cgMLST/scheme-158836-cgMLST/'
 
-"""
+
 
 tekst= '/home/hannelore/PROJECTHH/Data/cgMLSTschemes/MLST-573/cgMLSTschema.txt'
 inputtie = '/home/hannelore/PROJECTHH/Data/cgMLSTschemes/MLST-573/wgMLST/schema/'
 outputtie ='/home/hannelore/PROJECTHH/Data/cgMLSTschemes/MLST-573/cgMLST/scheme-573-cgMLST/'
+"""
+
+tekst= '/home/hannelore/PROJECTHH/Data/cgMLSTschemes/MLST-287/cgMLST/cgMLSTschema.txt'
+inputtie = '/home/hannelore/PROJECTHH/Data/cgMLSTschemes/MLST-287/wgMLST/schema-287/'
+outputtie ='/home/hannelore/PROJECTHH/Data/cgMLSTschemes/MLST-287/cgMLST/scheme-287-cgMLST/'
+
 
 
 MLSTcopy(tekst, inputtie, outputtie)
