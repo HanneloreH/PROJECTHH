@@ -76,6 +76,13 @@ params.output= "$baseDir/output-schemeMLST" //nog aanpassen met outputdir
 params.refDB = "/home/hannelore/PROJECTHH/Data/refDB/"
 params.scheme = "/home/hannelore/PROJECTHH/Data/cgMLSTschemes/"
 params.krakendbpath = "/home/hannelore/PROJECTHH/Tools/kraken-db/16S_SILVA138_k2db/" //SILVA!
+params.txid = "zero"
+
+refDBx = params.refDB
+refDBa = refDBx + "accession-lists/"
+
+
+
 
 //TODO: remove final / from chosen folders
 
@@ -91,9 +98,8 @@ Divide the flow between txid or fastq
 
 
 //divide between txid given or fastq given
-if (!params.txid){
-    //=f no txid is given
-
+if (params.txid=="zero"){
+    //if no txid is given
     if (params.fastq){
         //=if fastq is given
 
@@ -155,8 +161,22 @@ if (!params.txid){
             '''
         }
 
+        TXID.into {txida; txidb}
 
-        println " the txid is ${TXID}"
+        process printtxid {
+            input:
+            val(txid) from txidb
+
+            output:
+            stdout txidX
+
+            exec:
+            """
+            Txid of given fastq file is: ${txid}
+            """
+        }
+
+        txidX.view {it.trim()}
 
     }
     else {
@@ -167,30 +187,26 @@ if (!params.txid){
 
 else {
     //if txid is given use this one
-    TXID = params.txid
+    txida = params.txid
+
+    println """The given txid is ${txida}""".stripIndent()
 }
 
 
 
-
 // get accesion numbers if not yet in database
-
-println " the txid is ${TXID}"
-//problem does not print from fastq-path because it is done before the end of the process
-
-'''
 process accessions {
-    publishDir "$refAssemblyACCdir", mode:'copy', overwrite: true
+    publishDir "$refDBa", mode:'copy', overwrite: true
         
     input:
-    val txid from TXID
+    val txid from txida
 
     output:
     file("${txid}accessions.txt") into accessionlist
-    val(txid) into accesontxid
+    val(txid) into acctxid
 
     when:
-    acc=file("$refAssemblyACCdir/${txid}accessions.txt")
+    acc=file("$refDBa/${txid}accessions.txt")
     acc.exists() == false
     //enkel als de txid accessionfile niet al bestaat
 
@@ -201,6 +217,27 @@ process accessions {
     """
     }
 
-'''
+process refAssembly {
+    publishDir "$refDBx", mode:'copy', overwrite: true
+    
+    input:
+    file(accesions) from accessionlist
+    val(txid) from acctxid
+
+    output:
+    file("refDB-${txid}/GC*") into refDB
+
+    //when:
+    //moet niet want reeds gedifineerd door accesions!
+
+    script:
+    """
+    mkdir -p refDB-${txid}
+    cp ${accesions} refDB-${txid}
+    cd refDB-${txid}
+    bit-dl-ncbi-assemblies -w ${accesions} -f fasta -j 10
+    """
+}
+
 
 
