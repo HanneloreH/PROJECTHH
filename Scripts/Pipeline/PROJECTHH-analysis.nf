@@ -246,6 +246,11 @@ trimmedPE_reads.into {trimmedPE_kraken; trimmedPE_assembly}
 trimmedSE_reads.into {trimmedSE_kraken; trimmedSE_assembly}
 
 
+
+//REMARK: this piece has been adjusted to PROJECTHH-scheme.nf
+//krona has not been integrated because the analysis was of little use
+
+'''
 // ========================= Taxonomic sequence classification ======================
 /* 
 Date creation: 2/4/2020
@@ -262,7 +267,6 @@ than the pipeline wants to start immediately which gives no results...
     FIX: problem was because set was made during trimming PE reads: has been deleted
 
 */
-
 
 //FIRST take 10000 reads to test with kraken (to limit needed time for analysis)
 process reduce4krakenPE {
@@ -328,7 +332,6 @@ process kraken2kronaPE {
 }
 
 //ONLY ON SERVER: (use 8Gb database)
-'''
 process kraken2kronaPE8Gb {
     publishDir "$kraken2kronadir", mode:'copy', overwrite: true
        
@@ -353,7 +356,7 @@ process kraken2kronaPE8Gb {
     cat kraken2krona/report-${sample_id2}.txt | cut -f 2,3 > kraken2krona/results-${sample_id2}.krona
     """
 }
-'''
+
 
 process kraken2kronaSE {
     publishDir "$kraken2kronadir", mode:'copy', overwrite: true
@@ -420,8 +423,11 @@ process krona {
 
     """
 }
+'''
 
 
+//REMARK: this piece has been adjusted to PROJECTHH-scheme.nf
+'''
 // ================================= REFERENCE ASSEMBLIES  =============================
 /* 
 Date creation: 9/4/2020
@@ -432,7 +438,7 @@ Get reference assemblies from NCBI for the given txid, necessary for scaffolding
 Problems/fixes:
 - takes a long time to download, would be good to have a database (txid)
 - problem extracting txid from kraken2 because of dollar sign needed to indicate column with awk: 
-    * fix: shell-block(using shell +  ''' in stead of """ + adding !) to fix the problem of $4 : 
+    * fix: shell-block(using shell +  ' ' ' in stead of """ + adding !) to fix the problem of $4 : 
             because dollar is used also by Groovy for variable interpolation
 - problem 2 how to get txid in a value: 
     FIX
@@ -452,8 +458,7 @@ Problems/fixes:
 - problem3: wanted to write accessions + fastas directly to database, is not possible, first needs to go to working dir!
 - Problem4: how to put ref assembly in the right directory, no output parameter: FIX: go into the directory
 
-//remark with silva database highest level is Genus (G) in stead of (S) (more correct)!!!!
-
+remark with silva database highest level is Genus (G) in stead of (S) (more correct)!!!!
 */
 
 // create mutual report channel for PE and SE
@@ -465,111 +470,8 @@ else {
 report4txid = krakenSE4txid
 }
 
-// extract the txid with bash: too many problems -> go 
-process txid {
-    publishDir "$kraken2kronadir", mode:'copy', overwrite: true
-
-    input:
-    file(report) from report4txid
-
-    output:
-    stdout into txid4assembly
-
-    shell:
-    '''
-    column -s, -t < !{report}| awk '$4 == "S"'| head -n 1 | cut -f5 | tr -dc '0-9'
-    '''
-    //IF SILVA DB: "G" (OPM: manually adjusted the trial files with silva database to S: 573)
-    //IF 8GB DB :"S"
-}
-
-txid4assembly.into {txid4assembly_print; txid4assembly_accesion; txid4assembly_exists}
-
-//print txid - OPTIONAL
-process printtxid {
-
-    input:
-    val(txid) from txid4assembly_print
-
-    output:
-    stdout result
-
-    exec:
-    """
-    echo txid of reference assembly is: ${txid}
-    """
-    //use get.text() or print?
-}
-result.view {it.trim()}
-
-// get accesion numbers if not yet in database
-process accessions {
-    publishDir "$refAssemblyACCdir", mode:'copy', overwrite: true
-    
-    input:
-    val txid from txid4assembly_accesion
-
-    output:
-    file("${txid}accessions.txt") into accessionlist
-    val(txid) into accesontxid
-
-    when:
-    acc=file("$refAssemblyACCdir/${txid}accessions.txt")
-    acc.exists() == false
-    //enkel als de txid accessionfile niet al bestaat
-
-    script:
-    """
-    esearch -db assembly -query '${txid}[txid] AND "complete genome"[filter] AND "latest refseq"[filter]' \
-    | esummary | xtract -pattern DocumentSummary -element AssemblyAccession > ${txid}accessions.txt
-    """
-}
-
-process refAssembly {
-    publishDir "$refAssemblyDBdir", mode:'copy', overwrite: true
-    
-    input:
-    file(accesions) from accessionlist
-    val(txid) from accesontxid
-
-    output:
-    file("refDB-${txid}/GC*") into refDB
-
-    //when:
-    //moet niet want reeds gedifineerd door accesions!
-
-    script:
-    """
-    mkdir -p refDB-${txid}
-    cp ${accesions} refDB-${txid}
-    cd refDB-${txid}
-    bit-dl-ncbi-assemblies -w ${accesions} -f fasta -j 10
-    """
-    
-}
-
 '''
-//NIET NODIG: ALLEEN PATH
-process fetchRefAssembly {
-    
-    input:
-    val(txid) from txid4assembly_exists
 
-    output:
-
-
-    when:
-    //enkel als de ref database WEL al bestaat
-    acc=file("$refAssemblyDBdir/refDB-${txid}/GC*")
-    acc.exists() == true
-
-    script:
-    """
-    cd $refAssemblyDBdir/refDB-${txid}
-
-    """
-}
-'''
 
 
 
@@ -661,6 +563,8 @@ process quast{
 }
 
 
+
+
 '''
 // ================================= Scaffolding =============================
 /* 
@@ -668,10 +572,8 @@ Date creation: 3/4/2020
 
 Problems: 
 
-
 Possibilities:
 */
-
 
 val txid from txid4assembly_exists 
     //because assembly takes long time it's not a problem for samples which do not yet have a
@@ -682,13 +584,11 @@ val txid from txid4assembly_exists
 
 // ================================= cgMLST analysis =============================
 /* 
-Date creation: 3/4/2020
+Date creation: 
 
 Problems: 
 
-
 Possibilities:
-
 */
 
 
