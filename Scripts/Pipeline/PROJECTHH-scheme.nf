@@ -13,9 +13,7 @@ INPUT:
     * txid
 OUTPUT: 
     *wgMLST scheme 
-    *cgMLST scheme 95%
-    *cgMLST scheme 99%
-
+    *cgMLST scheme (default 95%)
 
 MUST DEFINE
     *--fastq    : give 1 fastq file (zipped)
@@ -37,24 +35,29 @@ Hannelore Hamerlinck <hannelore.hamerlinck@hotmail.com>
 /* 
 - Goal: Show the help message when asked for help, give all possible parametesr
 - Date creation: 15/05/2020
-- Last adjusted: 19/05/2020
+- Last adjusted: 22/05/2020
 */
 
 def helpMessage() {
     log.info"""
-    Create a cg/wgMLST scheme for your analysis based on NCBI reference assemblies based on txid OR 1 fastq sample (zipped)
+    Create a cg/wgMLST scheme for your WGS bacterial analysis 
+    based on NCBI reference assemblies based on txid OR 1 fastq sample (zipped)
 
     example1:   nextflow run PROJECTHH-scheme.nf --txid "573"
-    example2:   nextflow run Pipeline/PROJECTHH-scheme.nf --fastq "DNA123.fastq.gz"
+    example2:   nextflow run PROJECTHH-scheme.nf --fastq "DNA123.fastq.gz"
+
+    !REMARK: define every parameter with ""
 
 
-    --fastq     give a fastq file that's zipped
+    --count     give a maximum number of reference assemblies to use in the scheme (default 100)
+    --fastq     give a fastq file (zipped)
     --help      show help message
-    --krakendb  give path to kraken database
-    --output    give output folder name
-    --refDB     give path to place/search reference assemblies (format : "refDB-txid")
-    --scheme    give path to place/search generated cg/wgMLST schemes (format: "MLST-txid")
-    --training  give path to training file
+    --krakendb  give path to kraken database 
+    --krakenout give path to folder where output of kraken2 can be stored (default current directory)
+    --perc      give percentage for cgMLST creation (default 0.95)
+    --refDB     give path to place/search reference assemblies (=output folder for reference assemblies)
+    --scheme    give path to wg/cg schemes (=output folder for the scheme)
+    --training  give path to training file (=output folder for the training file)
     --txid      give a known txid number (NCBI): https://www.ncbi.nlm.nih.gov/taxonomy
     
     -resume     use to continue an analysis that was run (partly) before
@@ -68,30 +71,37 @@ if (params.help){
 }
 
 
-
 // ============================================= Set Parameters ========================================
 /* 
 - Goal: define all default parameters and folders (can by adjusted by user in command prompt)
 - Date creation: 15/05/2020
-- Last adjusted: 19/05/2020
+- Last adjusted: 22/05/2020
+- Faced problems:
+    * problem cutting of / at the end (first script took the first / -> unknown folder)
+      Fix: use [0..-2]
 */
  
 // Define general parameters (defaults)
-params.output= "$baseDir/output-schemeMLST" //nog aanpassen met outputdir
+params.count = 100
+params.fastq //no default
+params.krakendb = "/home/hannelore/PROJECTHH/Tools/kraken-db/16S_SILVA138_k2db" //SILVA, TO ADJUST!
+params.krakenout = "$baseDir/outputKraken"
+params.perc = 0.95
 params.refDB = "/home/hannelore/PROJECTHH/Data/refDB"
 params.scheme = "/home/hannelore/PROJECTHH/Data/cgMLSTschemes"
-params.krakendbpath = "/home/hannelore/PROJECTHH/Tools/kraken-db/16S_SILVA138_k2db" //SILVA!
 params.training= "/home/hannelore/PROJECTHH/Data/TrainingFiles"
 params.txid = "zero"
 
-// Define folders
-outputdir = "/home/hannelore/PROJECTHH/Scripts/testoutput"
-refDBx = params.refDB
+//Remove final "/"" from workingfolders and define them:
+//function to trim final /
+def trimFolder = { 
+    it.endsWith("/") ? it[0..-2] : it
+}
+//do it for working folders
+trainingx = trimFolder("$params.training")
+refDBx = trimFolder("$params.refDB")
+cgMLSTx = trimFolder("$params.scheme")
 refDBa = refDBx + "/accession-lists"
-trainingx = params.training
-cgMLSTx = params.scheme
-
-//TODO: remove final / from chosen folders
 
 
 
@@ -151,7 +161,7 @@ if (params.txid=="zero"){
         
         //Perform kraken2 to get txid from mini-fastq
         process kraken2 {
-            publishDir "$outputdir", mode:'copy', overwrite: true
+            publishDir "$krakenout", mode:'copy', overwrite: true
             
             input:
             file(miniFQ) from reduced4kraken
@@ -165,7 +175,7 @@ if (params.txid=="zero"){
             script:
             """
             kraken2 --use-names --report report-mini-fastq.txt --threads $task.cpus \
-            -db $params.krakendbpath --gzip-compressed ${miniFQ} > output.txt
+            -db $params.krakendb --gzip-compressed ${miniFQ} > output.txt
             """
         }
 
@@ -190,24 +200,30 @@ if (params.txid=="zero"){
         gtxid.into {gtxid1; gtxid2; txida}
     
         //define raw value???????????????????????????????????????????????????????????????????????????
-        TXID =  gtxid1.view {it.trim()}
+        //TXID =  gtxid1.view {it.trim()}
+        //TXID = gtxid1.subscribe { println "value: $it" }
+        //println "please please please: ${TXID}"
+        TXID=gtxid1
 
         //Print txid to user
         process printtxid {
-            input:""
+            publishDir "$outputdir", mode:'copy', overwrite: true
+            input:
             val(txid) from gtxid2
 
             output:
-            stdout txidP
+            stdout into TXID
 
-            exec:
+            script:
             """
-            Txid of given fastq file is: ${txid}
+            echo '${txid}'
             """
         }
-        txidP.view {it.trim()}
-        
+        TXID2 = file("$outputdir/printtxid.txt").getText('UTF-8')
+       //GET TXID!!!
+       println "txid2 is ${TXID2}"
     }
+
     else {
         //=if no fastq is given
         println "please provide either a txid OR fastq file with --txid OR --fastq"
@@ -263,7 +279,7 @@ else {
         val txid from txida
 
         output:
-        file("${txid}accessions.txt") into accessionlist
+        file("${txid}accessions-all.txt") into accessionlistALL
         val(txid) into acctxid
 
         when:
@@ -275,9 +291,31 @@ else {
         script:
         """
         esearch -db assembly -query '${txid}[txid] AND "complete genome"[filter] AND "latest refseq"[filter]' \
-        | esummary | xtract -pattern DocumentSummary -element AssemblyAccession > ${txid}accessions.txt
+        | esummary | xtract -pattern DocumentSummary -element AssemblyAccession > ${txid}accessions-all.txt
         """
     }
+
+    process limitAssemblies{
+        publishDir "$refDBa", mode:'copy', overwrite: true
+            
+        input:
+        val(txid) from acctxid
+        file(access) from accessionlistALL
+
+        output:
+        file("${txid}accessions-${params.count}.txt") into accessionlist
+        val(txid) into acctxid2
+
+        script:
+        """
+        while IFS= read -r lijntje; do
+            echo "$lijntje" >> ${txid}accessions-${params.count}.txt
+        done < ${access}
+        """
+        //NEEDS FIXING !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+          //output="${txid}accessions-${params.count}.txt"
+    }
+
 
     // get the fasta files matching the accession numbers and save in refDB
     process refAssembly {
@@ -285,11 +323,11 @@ else {
         
         input:
         file(accesions) from accessionlist
-        val(txid) from acctxid
+        val(txid) from acctxid2
 
         output:
         file("refDB-${txid}/GC*")
-        val(txid) into acctxid2
+        val(txid) into acctxid3
 
         //when:
         //when is not necessary because it has already been defined by accesions!
@@ -301,18 +339,19 @@ else {
         cd refDB-${txid}
         bit-dl-ncbi-assemblies -w ${accesions} -f fasta -j 10
         """
+
     }
 
-    // get the fasta files matching the accession numbers and save in refDB
+    // unzip the fasta files
     process unzip {
         publishDir "$refDBx/refDB-${txid}/", mode:'copy', overwrite: true
         
         input:
-        val(txid) from acctxid2
+        val(txid) from acctxid3
 
         output:
         file("unzipped/GC*")
-        val(txid) into acctxid3
+        val(txid) into acctxid4
 
         //when:
         //when is not necessary because it has already been defined by accesions!
@@ -332,7 +371,7 @@ else {
         publishDir "$trainingx", mode:'copy', overwrite: true
         
         input:
-        val(txid) from acctxid3
+        val(txid) from acctxid4
 
         output:
         file("multi-txid${txid}.fa")
@@ -354,11 +393,13 @@ else {
 /*
 - Goal: Create a wgMLST scheme based on loci from reference assemblies
 - Date creation: 19/05/2020
-- Last adjusted: 19/05/2020
+- Last adjusted: 22/05/2020
 - Faced problems:
         * Problems trying to make processes run sequential but loose from each other (based on what's already available)
           FIX:treat cgMLST analysis as one entity, and stop the script if the scheme already exists
         * Problem: wgMSLT analysis and allele calling: time consuming step!
+        * Problem: paralogs: cannot predict name of folder under allelecalling
+          FIX: use *
 */
 
 //end script if analysis is available in the given database
@@ -383,11 +424,6 @@ process training {
     file("txid${txid}.trn")
     val(txid) into mtxid1
 
-    when:
-    train=file("$trainingx/txid${txid}.trn")
-    train.exists() == false
-    //only if training file does not exist already
-
     script:
     """
     prodigal -i $trainingx/multi-txid${txid}.fa -p single -t txid${txid}.trn 
@@ -410,13 +446,152 @@ process wgMLST {
     """
     mkdir MLST-${txid}
     mkdir MLST-${txid}/wgMLST
-    cd MLST-${txid}/wgMLST
     chewBBACA.py CreateSchema -i $refDBx/refDB-${txid}/unzipped/ \
     -o MLST-${txid}/wgMLST/schema-${txid} --cpu $task.cpus --ptf $trainingx/txid548.trn
     """
 }
 
+// allele calling 1 of reference assemblies on wgMLST scheme
+// REMARK: TIME CONSUMING (>> depending on number of genomes)
+process allelcall1 {
+    publishDir "$cgMLSTx/MLST-${txid}/wgMLST/", mode:'copy', overwrite: true
+    
+    input:
+    val(txid) from mtxid2
+
+    output:
+    file("allelecalling/*")
+    val(txid) into mtxid3
+
+    script:
+    """
+    mkdir allelecalling
+    chewBBACA.py AlleleCall -i $refDBx/refDB-${txid}/unzipped/ \
+    -g $cgMLSTx/MLST-${txid}/wgMLST/schema-${txid}/ -o allelecalling \
+    --cpu $task.cpus --ptf $trainingx/txid${txid}.trn
+    """
+}
+
+// Remove paralogs
+process paralogs {
+    publishDir "$cgMLSTx/MLST-${txid}/wgMLST/", mode:'copy', overwrite: true
+    
+    input:
+    val(txid) from mtxid3
+
+    output:
+    file("alleleCallMatrix_cg.tsv")
+    val(txid) into mtxid4
+
+    script:
+    """
+    chewBBACA.py RemoveGenes -i $cgMLSTx/MLST-${txid}/wgMLST/allelecalling/*/results_alleles.tsv \
+    -g $cgMLSTx/MLST-${txid}/wgMLST/allelecalling/*/RepeatedLoci.txt -o alleleCallMatrix_cg
+    """
+}
+
+
+// Check quality of wgMLST scheme (visual in html)
+process gquality {
+    publishDir "$cgMLSTx/MLST-${txid}/wgMLST/", mode:'copy', overwrite: true
+    
+    input:
+    val(txid) from mtxid4
+
+    output:
+    file("GenomeQualityPlot.html")
+    file("Genes_95%.txt")
+    file("removedGenomes.txt")
+    val(txid) into mtxid5
+    
+    script:
+    """
+    chewBBACA.py TestGenomeQuality -i $cgMLSTx/MLST-${txid}/wgMLST/alleleCallMatrix_cg.tsv -n 13 -t 200 -s 5
+    """
+}
+
+// Define loci present in params.perc % of reference genomes (default= 95%)
+process cgMLST {
+    publishDir "$cgMLSTx/MLST-${txid}/", mode:'copy', overwrite: true
+    
+    input:
+    val(txid) from mtxid5
+
+    output:
+    file("cgMLST/*")
+    val(txid) into mtxid6
+    
+    script:
+    """
+    mkdir cgMLST
+    mkdir cgMLST/scheme-${txid}-cgMLST
+    mkdir cgMLST/scheme-${txid}-cgMLST/short
+    chewBBACA.py ExtractCgMLST -i $cgMLSTx/MLST-${txid}/wgMLST/alleleCallMatrix_cg.tsv \
+    -o cgMLST/ -p $params.perc
+    """
+}
+'''
+//Select loci that are present in 95% of the reference genomes with python script
+process cgMLSTloci{
+    echo true
+
+    input:
+    val(txid) from mtxid6
+    
+    """
+    #!/usr/bin/env python3
+
+    def MLSTcopy (filo,inputpath,outputpath):
+        import os
+        import shutil
+        fileList = os.listdir(inputpath)
+        cfil = open (filo, 'r')
+        for line in cfil:
+            line=line[:-1]
+            for item in fileList:
+                if(line == item):
+                    #move basis
+                    inputto= str(inputpath) + str(line)
+                    outputto= str(outputpath) + str(line)
+                    shutil.copyfile(str(inputto), str(outputto))
+                
+                    #move files in folder short
+                    #remakr create folder short in advance!
+                    line2= line[:-6]
+                    lineA= line2 + "_short.fasta"
+                    lineB= line2 + "_short.fasta_bsr.txt"
+
+                    inputtoA= str(inputpath) + "short/" + str(lineA)
+                    outputtoA= str(outputpath) + "short/" + str(lineA)
+                    shutil.copyfile(str(inputtoA), str(outputtoA))
+
+                    inputtoB= str(inputpath) + "short/" + str(lineB)
+                    outputtoB= str(outputpath) + "short/" + str(lineB)
+                    shutil.copyfile(str(inputtoB), str(outputtoB))
+        cfil.close()
+
+    tekst= '$cgMLSTx/MLST-${txid}/cgMLST/cgMLSTschema.txt'
+    inputtie = '$cgMLSTx/MLST-${txid}/wgMLST/schema-${txid}/'
+    outputtie ='$cgMLSTx/MLST-${txid}/cgMLST/scheme-${txid}-cgMLST/'
+
+    MLSTcopy(tekst, inputtie, outputtie)
+    """
+}
+'''
+
+
+// =============================  Finished message ====================================
+workflow.onComplete {
+	log.info ( workflow.success ? "\nCreated scheme for txid ${TXID}!\n" : "Oops something went wrong!" )
+}
+
+
 
 //trial with txid 817: bact. fragilis (only 14 ref assemblies)
-//limit number of reference assemblies to use in cgMLST?
+
+
+//TO FIX
+// counter in process limitAssemblies
+// TXID variable from fastq file (as value)
+// python script fails: cgMLSTloci
 

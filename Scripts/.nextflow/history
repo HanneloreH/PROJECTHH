@@ -496,3 +496,64 @@
 2020-05-19 18:21:45	2s	sharp_thompson	OK	b21e505549fbbc7b51808f8abd1eef62	97e81834-dd98-4e40-97f3-f79324cd1d07	nextflow run Pipeline/PROJECTHH-scheme.nf --txid 817 -resume
 2020-05-19 18:22:09	1.8s	nasty_goodall	OK	7d51e108da90f3e17c03f4507369257c	97e81834-dd98-4e40-97f3-f79324cd1d07	nextflow run Pipeline/PROJECTHH-scheme.nf --txid 817 -resume
 2020-05-19 18:22:57	1.6s	grave_hamilton	OK	8941722fa2c9e9f1fbcad60c5dd20332	97e81834-dd98-4e40-97f3-f79324cd1d07	nextflow run Pipeline/PROJECTHH-scheme.nf --txid 817 -resume
+2020-05-20 13:41:00	2.2s	intergalactic_sammet	OK	82fd6fd1e09f36ab1f28d37aa31be601	97e81834-dd98-4e40-97f3-f79324cd1d07	nextflow Pipeline/PROJECTHH-scheme.nf --txid 817 -resume
+2020-05-20 13:41:48	-	nasty_hamilton	-	82fd6fd1e09f36ab1f28d37aa31be601	97e81834-dd98-4e40-97f3-f79324cd1d07	nextflow Pipeline/PROJECTHH-scheme.nf --fastq input/ERR1795072_1.fastq.gz -resume
+2020-05-20 13:42:19	57.4s	determined_snyder	ERR	d8d6fc7a511f9c6b4b08d8c686f9e2b8	97e81834-dd98-4e40-97f3-f79324cd1d07	nextflow Pipeline/PROJECTHH-scheme.nf --fastq input/ERR1795072_1.fastq.gz -resume
+2020-05-20 13:49:14	2.8s	kickass_sammet	OK	d8d6fc7a511f9c6b4b08d8c686f9e2b8	97e81834-dd98-4e40-97f3-f79324cd1d07	nextflow Pipeline/PROJECTHH-scheme.nf --fastq input/ERR1795072_1.fastq.gz -resume
+2020-05-20 13:50:23	1.5s	suspicious_curie	OK	009543db080c7be0aa951e507ae4759a	97e81834-dd98-4e40-97f3-f79324cd1d07	nextflow Pipeline/PROJECTHH-scheme.nf --fastq input/ERR1795072_1.fastq.gz -resume
+2020-05-20 13:58:14	-	boring_watson	-	e53558db9395bbdab8e277f100313bc5	97e81834-dd98-4e40-97f3-f79324cd1d07	nextflow Pipeline/PROJECTHH-scheme.nf --fastq input/ERR1795072_1.fastq.gz -resume
+2020-05-20 13:59:20	-	insane_hamilton	-	bdbc02c6e95a3cdb8c38607787e9d63f	97e81834-dd98-4e40-97f3-f79324cd1d07	nextflow Pipeline/PROJECTHH-scheme.nf --fastq input/ERR1795072_1.fastq.gz -resume
+2020-05-20 13:59:57	-	clever_boyd	-	c9d90e7f65d3e1e23133b80d5867edd1	97e81834-dd98-4e40-97f3-f79324cd1d07	nextflow Pipeline/PROJECTHH-scheme.nf --fastq input/ERR1795072_1.fastq.gz -resume
+2020-05-20 14:01:23	-	kickass_magritte	-	93965a0bead4ec3450009e4ce32007c8	97e81834-dd98-4e40-97f3-f79324cd1d07	nextflow Pipeline/PROJECTHH-scheme.nf --fastq input/ERR1795072_1.fastq.gz -resume
+2020-05-20 14:03:14	-	lonely_khorana	-	79ebe74d64f3fcbc7ffc92bef192e9a9	97e81834-dd98-4e40-97f3-f79324cd1d07	nextflow Pipeline/PROJECTHH-scheme.nf --fastq input/ERR1795072_1.fastq.gz -resume
+2020-05-20 14:14:30	-	tender_perlman	-	8b3da1e37dc569fb87bfef1d8918e3a8	97e81834-dd98-4e40-97f3-f79324cd1d07	nextflow Pipeline/PROJECTHH-scheme.nf --fastq input/ERR1795072_1.fastq.gz -resume
+2020-05-20 14:15:46	-	hungry_feynman	-	2a5dcfc59a694a62c211c85828b58fac	97e81834-dd98-4e40-97f3-f79324cd1d07	nextflow Pipeline/PROJECTHH-scheme.nf --fastq input/ERR1795072_1.fastq.gz -resume
+2020-05-20 14:15:59	1.6s	curious_allen	ERR	45823f82d3389d3780c2eb8fdcb43758	97e81834-dd98-4e40-97f3-f79324cd1d07	nextflow Pipeline/PROJECTHH-scheme.nf --fastq input/ERR1795072_1.fastq.gz -resume
+2020-05-20 14:27:16	2.5s	cranky_fourier	ERR	4f3f9cf65284b41401e5933e813a8013	97e81834-dd98-4e40-97f3-f79324cd1d07	nextflow Pipeline/PROJECTHH-scheme.nf --fastq input/ERR1795072_1.fastq.gz -resume
+2020-05-20 14:28:21	2.1s	grave_joliot	ERR	9308e0c9d7e2573a996fc534f2d825e7	97e81834-dd98-4e40-97f3-f79324cd1d07	nextflow Pipeline/PROJECTHH-scheme.nf --fastq input/ERR1795072_1.fastq.gz -resume
+2020-05-20 14:28:41	2.6s	clever_wilson	OK	b64a6eec0909cf5ae597bd9e692ccf4b	97e81834-dd98-4e40-97f3-f79324cd1d07	nextflow Pipeline/PROJECTHH-scheme.nf --fastq input/ERR1795072_1.fastq.gz -resume
+2020-05-20 14:31:35	-	shrivelled_coulomb	-	3c720b41c6edbcbce7962f42c4b2ad90	97e81834-dd98-4e40-97f3-f79324cd1d07	nextflow Pipeline/PROJECTHH-scheme.nf --fastq input/ERR1795072_1.fastq.gz -resume
+2020-05-20 14:31:48	1.4s	pedantic_gutenberg	ERR	7ecb9cf1f0c0c8b980c4ffc87a28a604	97e81834-dd98-4e40-97f3-f79324cd1d07	nextflow Pipeline/PROJECTHH-scheme.nf --fastq input/ERR1795072_1.fastq.gz -resume
+2020-05-20 14:33:26	2.7s	golden_payne	OK	d4d447f02fee6714dc6197cb09522ead	97e81834-dd98-4e40-97f3-f79324cd1d07	nextflow Pipeline/PROJECTHH-scheme.nf --fastq input/ERR1795072_1.fastq.gz -resume
+2020-05-20 14:38:38	2.3s	distraught_aryabhata	OK	d4d447f02fee6714dc6197cb09522ead	97e81834-dd98-4e40-97f3-f79324cd1d07	nextflow Pipeline/PROJECTHH-scheme.nf --fastq input/ERR1795072_1.fastq.gz -resume
+2020-05-20 14:38:53	-	tender_hamilton	-	d4d447f02fee6714dc6197cb09522ead	97e81834-dd98-4e40-97f3-f79324cd1d07	nextflow Pipeline/PROJECTHH-scheme.nf --fastq input/ERR1795072_1.fastq.gz -resume
+2020-05-22 13:41:45	7m 59s	marvelous_mestorf	ERR	c08f622b084a2c788d585b78c062216a	97e81834-dd98-4e40-97f3-f79324cd1d07	nextflow Pipeline/PROJECTHH-scheme.nf --txid 817 -resume
+2020-05-22 13:50:18	1.3s	nasty_dijkstra	OK	cc8554980d889d8cb40d3bcb3b9ae9fd	97e81834-dd98-4e40-97f3-f79324cd1d07	nextflow Pipeline/PROJECTHH-scheme.nf --txid 817 -resume
+2020-05-22 13:54:13	19m 53s	curious_lamport	ERR	f124fba9debe25fdc9ca552b2fc9b4ba	97e81834-dd98-4e40-97f3-f79324cd1d07	nextflow Pipeline/PROJECTHH-scheme.nf --txid 817 -resume
+2020-05-22 14:16:01	1.6s	tender_wozniak	OK	f01df696c195e4b9d00dccd4739ef7c7	97e81834-dd98-4e40-97f3-f79324cd1d07	nextflow Pipeline/PROJECTHH-scheme.nf --txid 817 -resume
+2020-05-22 14:16:37	3.1s	drunk_boyd	ERR	aa8f04b897ba69ca45ac997e37946a32	97e81834-dd98-4e40-97f3-f79324cd1d07	nextflow Pipeline/PROJECTHH-scheme.nf --txid 817 -resume
+2020-05-22 14:21:11	2.8s	pedantic_dijkstra	ERR	b37d99b01941e10e210b1b95a4cf880f	97e81834-dd98-4e40-97f3-f79324cd1d07	nextflow Pipeline/PROJECTHH-scheme.nf --txid 817 -resume
+2020-05-22 14:21:56	3.1s	angry_church	OK	6b90dfc66143d70acbbd5368f79e0bdd	97e81834-dd98-4e40-97f3-f79324cd1d07	nextflow Pipeline/PROJECTHH-scheme.nf --txid 817 -resume
+2020-05-22 14:29:32	10.8s	desperate_davinci	ERR	1ef72e425e47781e72aadecc5d11b3a5	97e81834-dd98-4e40-97f3-f79324cd1d07	nextflow Pipeline/PROJECTHH-scheme.nf --txid 817 -resume
+2020-05-22 14:31:10	9.7s	disturbed_visvesvaraya	ERR	1ef72e425e47781e72aadecc5d11b3a5	97e81834-dd98-4e40-97f3-f79324cd1d07	nextflow Pipeline/PROJECTHH-scheme.nf --txid 817 -resume
+2020-05-22 14:31:30	8s	furious_avogadro	OK	37695e0348b30b6ff1f8d56ee4296b10	97e81834-dd98-4e40-97f3-f79324cd1d07	nextflow Pipeline/PROJECTHH-scheme.nf --txid 817 -resume
+2020-05-22 14:36:52	-	fabulous_swanson	-	f9a71ddc1bd8a15fb67037ae3b972dae	97e81834-dd98-4e40-97f3-f79324cd1d07	nextflow Pipeline/PROJECTHH-scheme.nf --txid 817 -resume
+2020-05-22 14:38:05	-	disturbed_majorana	-	5ada86f4a40d96592dbb0270fe762495	97e81834-dd98-4e40-97f3-f79324cd1d07	nextflow Pipeline/PROJECTHH-scheme.nf --txid 817 -resume
+2020-05-22 14:38:55	2.7s	nice_heyrovsky	ERR	5ada86f4a40d96592dbb0270fe762495	97e81834-dd98-4e40-97f3-f79324cd1d07	nextflow Pipeline/PROJECTHH-scheme.nf --txid 817 -resume
+2020-05-22 14:40:44	-	deadly_noyce	-	5ada86f4a40d96592dbb0270fe762495	97e81834-dd98-4e40-97f3-f79324cd1d07	nextflow Pipeline/PROJECTHH-scheme.nf --txid 817 -resume
+2020-05-22 14:40:56	2.3s	jovial_kirch	ERR	5ada86f4a40d96592dbb0270fe762495	97e81834-dd98-4e40-97f3-f79324cd1d07	nextflow Pipeline/PROJECTHH-scheme.nf --txid 817 -resume
+2020-05-22 14:42:05	3.2s	distraught_avogadro	ERR	3eb516eb947ab1b689448e5e15000af8	97e81834-dd98-4e40-97f3-f79324cd1d07	nextflow Pipeline/PROJECTHH-scheme.nf --txid 817 -resume
+2020-05-22 14:42:32	4.4s	deadly_galileo	ERR	f8b11c811d5048af3bd0dd239a21a7a9	97e81834-dd98-4e40-97f3-f79324cd1d07	nextflow Pipeline/PROJECTHH-scheme.nf --txid 817 -resume
+2020-05-22 14:44:58	10s	distracted_majorana	ERR	d73f7719b0a0f262083fa007c7a607c3	97e81834-dd98-4e40-97f3-f79324cd1d07	nextflow Pipeline/PROJECTHH-scheme.nf --txid 817 -resume
+2020-05-22 14:47:40	2.7s	hopeful_blackwell	ERR	2a81954a31e3703893675b611722f379	97e81834-dd98-4e40-97f3-f79324cd1d07	nextflow Pipeline/PROJECTHH-scheme.nf --txid 817 -resume
+2020-05-22 14:48:12	4.5s	distraught_brenner	OK	e03089a01c77d047597e73ad89581378	97e81834-dd98-4e40-97f3-f79324cd1d07	nextflow Pipeline/PROJECTHH-scheme.nf --txid 817 -resume
+2020-05-22 15:29:51	12.9s	soggy_kalam	ERR	38921800f5433a8f60156957390dac76	7fbfb89b-e860-40b9-93bb-42fb5d25081e	nextflow Pipeline/PROJECTHH-scheme.nf --txid 817
+2020-05-22 15:30:21	13m 25s	mighty_gates	ERR	38921800f5433a8f60156957390dac76	795074cb-995f-4481-a035-da2047004313	nextflow Pipeline/PROJECTHH-scheme.nf --txid 817
+2020-05-22 15:44:44	51.2s	jolly_engelbart	ERR	38921800f5433a8f60156957390dac76	569a2c8c-7446-4181-95b3-4f2cc05efc63	nextflow Pipeline/PROJECTHH-scheme.nf --txid 817 --scheme /home/hannelore/PROJECTHH/Data/cgMLSTschemes/
+2020-05-22 15:46:23	6.3s	golden_fourier	ERR	38921800f5433a8f60156957390dac76	b2e61283-278c-4a45-9c08-9d95800eb67e	nextflow Pipeline/PROJECTHH-scheme.nf --txid 817 --refDB /home/hannelore/PROJECTHH/Data/refDB/
+2020-05-22 15:47:08	1.8s	suspicious_austin	ERR	38921800f5433a8f60156957390dac76	016b3527-ca00-4eed-a6e3-7f7428820309	nextflow Pipeline/PROJECTHH-scheme.nf --txid 817 --refDB /home/hannelore/PROJECTHH/Data/refDB/
+2020-05-22 15:52:29	2.1s	zen_bartik	ERR	ce2962327781438138fe65416eab4080	19afba76-585c-44fe-bc6f-0a8cc56c3889	nextflow Pipeline/PROJECTHH-scheme.nf --txid 817 --refDB /home/hannelore/PROJECTHH/Data/refDB/
+2020-05-22 15:52:40	3.9s	maniac_hodgkin	ERR	ce2962327781438138fe65416eab4080	4c8164c5-293a-4d47-918b-0d1a985b452d	nextflow Pipeline/PROJECTHH-scheme.nf --txid 817 --refDB /home/hannelore/PROJECTHH/Data/refDB
+2020-05-22 16:19:44	5.1s	exotic_galileo	ERR	03a8e4182be447b5ab7c0aac3324f5b5	440ba174-faa7-43d7-b9a3-ff2a2f5607c7	nextflow Pipeline/PROJECTHH-scheme.nf --txid 543 --refDB /home/hannelore/PROJECTHH/Data/cgMLSTschemes/
+2020-05-22 16:20:17	1.6s	nostalgic_kalman	ERR	03a8e4182be447b5ab7c0aac3324f5b5	8a08aa83-9e23-40d1-9ca6-6fedb6cbd31e	nextflow Pipeline/PROJECTHH-scheme.nf --txid 543 --refDB /home/hannelore/PROJECTHH/Data/cgMLSTschemes/
+2020-05-22 16:24:35	14.3s	furious_goldberg	ERR	03a8e4182be447b5ab7c0aac3324f5b5	751c4aba-fba5-48ee-8bb2-91282d2f3263	nextflow Pipeline/PROJECTHH-scheme.nf --txid 543 --scheme /home/hannelore/PROJECTHH/Data/cgMLSTschemes/
+2020-05-22 16:25:25	16.6s	modest_marconi	ERR	03a8e4182be447b5ab7c0aac3324f5b5	e81c6236-e042-46f7-91a7-b1d20b9f8ccb	nextflow Pipeline/PROJECTHH-scheme.nf --txid 817 --scheme /home/hannelore/PROJECTHH/Data/cgMLSTschemes/
+2020-05-22 16:43:57	-	prickly_mercator	-	41ac9cc2fcfba0bfc2f19aaf649639b1	785480e0-5ac1-4465-9440-5540ff24d7c1	nextflow Pipeline/PROJECTHH-scheme.nf --txid 817 --count 5
+2020-05-22 16:44:12	3.6s	maniac_goldstine	ERR	49ae0a8978db08761a491e37d42eade3	ae8c6493-f3e2-41a9-9147-6746db7c71b8	nextflow Pipeline/PROJECTHH-scheme.nf --txid 817 --count 5
+2020-05-22 16:46:10	3.6s	goofy_nightingale	ERR	8706892a59b9f398e82c57ea782c213d	507cf456-ed81-46ff-bc41-c343f47d3994	nextflow Pipeline/PROJECTHH-scheme.nf --txid 817 --count 5
+2020-05-22 16:47:17	3.6s	desperate_leavitt	ERR	f1398ae89fa43e490f07af42f9139bbe	d8244cd8-fe05-49fd-8513-81e49e741426	nextflow Pipeline/PROJECTHH-scheme.nf --txid 817 --count 5
+2020-05-22 16:48:02	3.6s	cheeky_galileo	ERR	05fe6501460541e7a0bd7f2bfe4c0b25	be9b53cc-d5c9-46c5-961e-60f22f106ff9	nextflow Pipeline/PROJECTHH-scheme.nf --txid 817 --count 5
+2020-05-22 16:48:27	4s	tender_bohr	ERR	a3a4cb5c2b517e5a9866bd1774146fb5	b9f48db0-e739-48c9-885b-48dc610fba79	nextflow Pipeline/PROJECTHH-scheme.nf --txid 817 --count 5
+2020-05-22 16:54:09	4.2s	irreverent_tesla	ERR	fe7b1cfd9cee05a3c0be4779ac800f17	d45bc8bd-8f8f-41ab-bcd1-e34fe9499c5e	nextflow Pipeline/PROJECTHH-scheme.nf --txid 817 --count 5
+2020-05-22 16:56:16	4.2s	nostalgic_newton	ERR	17658636fe19cdfa57e8c7b763945fd1	ca1080d5-c58c-4784-866f-71000884a668	nextflow Pipeline/PROJECTHH-scheme.nf --txid 817 --count 5
+2020-05-22 16:57:23	4s	dreamy_becquerel	ERR	46ca10722162deb27af7cad01dda93bb	90294c53-2dfc-4ce6-8dc9-b9af52e9a40f	nextflow Pipeline/PROJECTHH-scheme.nf --txid 817 --count 5
