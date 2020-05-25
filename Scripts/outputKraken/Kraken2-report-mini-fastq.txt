@@ -5,7 +5,7 @@
   0.84	84	11	C	3303	      Gammaproteobacteria
   0.55	55	6	O	46449	        Enterobacterales
   0.46	46	2	F	46454	          Enterobacteriaceae
-  0.32	32	32	S	817	           HH: adjusted
+  0.32	32	32	G	46465	            Klebsiella
   0.07	7	7	G	46462	            Enterobacter
   0.03	3	3	G	46474	            Salmonella
   0.02	2	2	G	46463	            Escherichia-Shigella
