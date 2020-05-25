@@ -8,3 +8,4 @@ This project will be executed as part of an internship "banaba bio-informatics" 
 
 FOLDER STRUCTURE
 https://github.com/HanneloreH/PROJECTHH
+xx
