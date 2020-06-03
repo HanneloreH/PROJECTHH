@@ -7,18 +7,14 @@
 SUMMARY
 Create a cg/wgMLST scheme for your WGS bacterial analysis by using a number of NCBI reference assemblies based on a txid OR a fastq file
 
-INPUT: 
-    * fastq file 
-    OR
-    * txid
-OUTPUT: 
-    *wgMLST scheme 
-    *cgMLST scheme (default 95%)
-
-MUST DEFINE
+INPUT (must define):
     *--fastq    : give 1 fastq file (zipped)
     OR
     *--txid     : give the txid
+
+OUTPUT: 
+    *wgMLST scheme 
+    *cgMLST scheme (default 95%)
 
 EXAMPLE INPUT
     *nextflow run Pipeline/PROJECTHH-scheme.nf --txid 573   
@@ -96,7 +92,7 @@ params.scheme = "/home/hannelore/PROJECTHH/Data/cgMLSTschemes"
 params.training= "/home/hannelore/PROJECTHH/Data/TrainingFiles"
 params.txid = "zero"
 
-//Remove final "/"" from workingfolders and define them:
+//Remove final "/" from workingfolders and define them:
 //function to trim final /
 def trimFolder = { 
     it.endsWith("/") ? it[0..-2] : it
@@ -191,6 +187,24 @@ if (params.txid=="zero"){
             """
         }
 
+
+        //Extract TXID from report
+               
+        rep = file("$krakenx/report-mini-fastq.txt")
+        allLines  = rep.readLines()
+        for( line in allLines ) {
+            if (line.split(/,/)[3] == 'G'){
+            TXID = line.split(/,/)[4].replaceAll(/\D/, "")
+        break
+            }
+        }
+        println TXID
+
+
+
+
+
+/*
         //Extract txid from kraken2 report
         process GetTxid {
             input:
@@ -207,10 +221,12 @@ if (params.txid=="zero"){
             column -s, -t < !{rep}| awk '$4 == "S"'| head -n 1 | cut -f5 | tr -dc '0-9'
             '''
         }
-    
+
+
+*/
     
         // split channel into several for  basic value (gtxid1) + print (gtxid2) + further use (txida)
-        gtxid.into {gtxid1; gtxid2; txida}
+        //gtxid.into {gtxid1; gtxid2; txida}
     
         //define raw value???????????????????????????????????????????????????????????????????????????
         //TXID =  gtxid1.view {it.trim()}
@@ -238,7 +254,7 @@ if (params.txid=="zero"){
         //testje = gtxidLIST[0]
        // println ("go go go $testje")
 
-         TXID = "test"
+        // TXID = "test"
 
         
         //TXID=gtxid1.collect()
@@ -247,7 +263,7 @@ if (params.txid=="zero"){
         // println("here it comes")
         // TXID= gtxid1.print {it}
 
-
+'''
         process printtxid {
             input:
             val(txid) from gtxid2
@@ -261,6 +277,7 @@ if (params.txid=="zero"){
             """
         }
         resultTXID.view {it.trim()}
+        '''
     }
 
     else {
@@ -279,7 +296,7 @@ else {
 }
 
 
-
+'''
 // =================================== Get Reference Assemblies ====================================
 /*
 - Goal: Get reference assemblies from NCBI via txid, 
@@ -702,6 +719,7 @@ process feedback{
 results.view({it.trim()})
 
 
+'''
 
 // =============================  Finished message ====================================
 workflow.onComplete {

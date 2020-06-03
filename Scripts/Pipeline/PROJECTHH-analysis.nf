@@ -2,25 +2,28 @@
  
 /*
 ========================================================================================
-                         cgMLST pipeline
+                         cgMLST analysis on fastq data
 ========================================================================================
-## SUMMARY
-Do QC, trimming, assembly and cgMLST analysis on fastq data files (format *.fastq.gz).
+SUMMARY
+Do WGS bacterial analysis on fastq files (format *.fastq.gz) based on a known scheme for cg/wgMLST (includes trimming and assembly)
 
-## MUST DEFINE
-*   --reads         :path to reads (if not in same folder)
-*   --PE or --SE    :paired or single end data
+INPUT (must define):
+    * --PE or --SE  :paired or single end data
+    * --reads       :path to reads (if not in same folder)
+    * --scheme      :path to scheme (folder with fasta files defined by scheme)
+
+OUTPUT: 
+    * QA results before and after trimming in folder "Quality" 
+    * Assembly for every sample and assembly quality parameters in folder "Assemblies-*"
+    * Minimum Spanning Tree and conclusion in folder "Results"
+
+EXAMPLE INPUT:
+    * nextflow run Pipeline/PROJECTHH-analysis2.nf --PE --reads "/home/hannelore/PROJECTHH/Data/RawData-KP/" \
+      --scheme "/home/hannelore/PROJECTHH/Data/cgMLSTschemes/MLST-287-all/cgMLST/scheme-287-all-cgMLST"
 
 
-## EXAMPLE INPUT
-nextflow run Pipeline/PROJECTHH.nf --PE --reads "/home/hannelore/PROJECTHH/Data/RawData-KP/*_{1,2}.fastq.gz"
-OPTIONAL 
--resume 
--with-docker
-
-## AUTHOR
+AUTHOR
 Hannelore Hamerlinck <hannelore.hamerlinck@hotmail.com>
-
 ----------------------------------------------------------------------------------------
 */
 
@@ -28,22 +31,35 @@ Hannelore Hamerlinck <hannelore.hamerlinck@hotmail.com>
 
 // =============================  Show help message ====================================
 /* 
-Date creation: 25/03/2020
-
-Remarks: first the helpmessage is defined in a function. Standard params.help=false (also 
-see nextflow.contig) but when used in command this is set to true and the function is
-activated with an if-clause.
-
-Problems during creation: in the beginning this set-up did not print the help-message, 
-this was overcome by adding "log.info"
-
-Todo: add help-message itself :)
+- Date creation: 25/03/2020
+- Last adjusted: 3/06/2020
+- Goal: Give help message if asked
+- Remarks: first the helpmessage is defined in a function. Standard params.help=false (also 
+  see nextflow.contig) but when used in command this is set to true and the function is
+  activated with an if-clause.
+- Faced problems:
+    * in the beginning this set-up did not print the help-message,this was overcome by adding "log.info"
 */
 
 def helpMessage() {
     log.info"""
-    Here's some help information...
-    PLEASE HELP ME
+    Do WGS bacterial analysis on fastq files based on a known scheme for cg/wgMLST
+
+    example:   nextflow run Pipeline/PROJECTHH.nf --PE --reads "Data/*_{1,2}.fastq.gz" --scheme "Scheme/cgMLST"
+
+    --assem     OPTIONAL give path to established assemblies that need to be included in the analysis (format: *.fa)
+    --cpu       give maximal number of CPUs (default = 1)
+    --help      show help message
+    --output    give path to output folder
+    --PE        use for paired end data
+    --reads     give path to input fastq files (format *.fastq.gz)
+    --scheme    give path to wg/cg scheme folder 
+    --SE        use for single end data
+    --training  give path to training file 
+    
+    -resume     use to continue an analysis that was run (partly) before
+    -with-docker ***under construction***
+
     """.stripIndent()
 }
 
@@ -53,103 +69,101 @@ if (params.help){
 }
 
 
+
 // ===========================  Set parameters ===========================
 /* 
-Date creation: 25/03/2020
-Last adjusted: 8/04/2020 (folders)
-
-Remarks: all parameters (files, settings, directories) are put together to find/adjust
-them easily
-
-Todo: add extra when necessary
+- Date creation: 25/03/2020
+- Last adjusted: 3/06/2020
+- Goal: All parameters (files, settings, directories) are put together to find/adjust
+  them easily
+- Faced problems:
+    *Problem with input paths: some have "/" at the end others did not, fixed by adding a function that trims the final /
 */
  
 // Define general parameters (defaults)
-params.reads = "$baseDir/*_{1,2}.fastq.gz"
-params.SE = false
-params.PE = false
+params.assem = false
+params.cpu= 1
 params.help = false
-params.adapters = "/opt/Trimmomatic-0.39/adapters/NexteraPE-PE.fa"
 params.output= "$baseDir/output"
-params.adapter_forward = "AGATCGGAAGAGCACACGTCTGAACTCCAGTCA"
-params.adapter_reverse = "AGATCGGAAGAGCGTCGTGTAGGGAAAGAGTGT"
-params.mean_quality = 15
-params.trimming_quality = 15
-params.keep_phix = false
-params.krakendbpathsilva = "/home/hannelore/PROJECTHH/Tools/kraken-db/16S_SILVA138_k2db/"
-params.krakendbpath = "/home/hannelore/PROJECTHH/Tools/kraken-db/minikraken_8GB_202003/minikraken_8GB_20200312"
-params.kronataxonomy = "/home/hannelore/krona/taxonomy/"
-params.refDB = "/home/hannelore/PROJECTHH/Data/refDB"
+params.PE = false
+params.reads = "$baseDir/*_{1,2}.fastq.gz"
+params.scheme = "$baseDir/cgMLST"
+params.SE = false
+params.training = "$baseDir/*.trn"
 
-// Define all folders within output
-fastq_files = params.reads
-qualitydir = params.output + "/1-Quality/"
-trimmingdir = params.output + "/2-Trimmed&Quality/"
-reduced4krakendir = params.output + "/3-kraken2-krona/reduced"
-kraken2kronadir = params.output + "/3-kraken2-krona/"
-megahitdir = params.output + "/4-Assembly-megahit/"
-quastdir = params.output + "/4-Assembly-megahit/quast/"
-
-// Folders associated with pipeline
-refAssemblyDBdir = params.refDB
-refAssemblyACCdir = params.refDB + "/accesion-lists/"
-krakendbpath=params.krakendbpath
+// Define all folders 
+//Remove final "/" from workingfolders and define them:
+//function to trim final /
+def trimFolder = { 
+    it.endsWith("/") ? it[0..-2] : it
+}
+//input folders
+fastq_f = trimFolder("$params.reads")
+fastq_files = fastq_f + "/*_{1,2}.fastq.gz"
+inputscheme = trimFolder("$params.scheme")
+trainingfile = trimFolder("$params.training")
+assdir = trimFolder("$params.assem")
+assemdir = assdir + "/*.fa"
+//output folders
+outputdir = trimFolder("$params.output")
+qualitydirPRE = outputdir + "/Quality/raw"
+qualitydirPOST = outputdir + "/Quality/trimmed"
+megahitdir = outputdir + "/Assemblies-megahit"
+quastdir = megahitdir + "/assembly-quality"
+input4dir = outputdir + "/Analysis/input4analysis/"
+//resultdir = outputdir + "/Results"  //defined in analysis
 
 // Transform reads to files and form pairs and set channels
+//1) Input channel for quality control
 Channel
-    .fromPath( params.reads)
+    .fromPath("${fastq_files}")
     .ifEmpty { error "Cannot find any fastq.gz files: $fastq_files" }
-    .set { fastq_ch }
-
-//for PE files
-Channel 
-    .fromFilePairs( params.reads ) //form pairs
-    .ifEmpty { error "No paired files for: ${params.reads}"  } //check if empty
-    .set { read_pairsPE_ch } //make a set
-
-//For SE files
-Channel
-    .fromPath( params.reads ) //get data from path
-    .ifEmpty { error "Cannot find any files: ${params.reads}" } //check if empty
-    .set { read_pairsSE_ch } //make a set
-'''
+    .set {fastq_ch}
+//2) Input channel for further analysis (split between PE and SE reads with if-clause)
 if (params.SE){
+    Channel
+    .fromPath("${fastq_files}") //get data from path
+    .ifEmpty { error "Cannot find any files: $fastq_files" } //check if empty
+    .set {read_pairs_ch} //make a set
 }
 else {
-    read_pairsSE_ch=false
+    Channel 
+    .fromFilePairs("${fastq_files}") //form pairs
+    .ifEmpty { error "No paired files for: $fastq_files"  } //check if empty
+    .set {read_pairs_ch} //make a set
 }
-'''
 
-// Print the relevant parameters set
+// Print the parameters set
 println """\
-         PROJECTHH   chosen parameters:   
-         ============================
-         reads        : ${params.reads}
-         fastq_files      : ${fastq_files}
-         channels:
-         - fastq_ch : ${fastq_ch}
+        Analysis starting using following parameters:   
+        ==============================================================
+        * Path to extra assemblies        : ${assemdir}
+        * Number of CPUs                  : ${params.cpu}
+        * Output-folder                   : ${outputdir}
+        * Folder with input reads         : ${fastq_f}
+        * Folder with chosen MLST scheme  : ${inputscheme}
+        * Training file to use            : ${trainingfile} 
+        * PE reads                        : ${params.PE}
+        * SE reads                        : ${params.SE}
          """
          .stripIndent()
 
 
 
-
 // ===========================  Quality control raw data ===========================
 /* 
-Date creation: 25/03/2020
-Last adjustment: 8/04/2020 (adjusted output)
-
-Remarks: do fastqc, make one folder per sample (if PE: both FWD as REV)
-
-Problems during creation: only one file wad done due to wrong input during run of the command,
-"" were not added
-
-Todo: 
+- Date creation: 25/03/2020
+- Last adjustment: 3/6/2020
+- Goal: Do multiqc on raw data
+- Remarks: one file is made per sample (if PE: both FWD as REV)
+- Faced problems:
+    * only one file was done (of batch) due to wrong input at command line, this was fixed with ""
+    * Not all output should be copied with publishdir, fixed with "pattern"
 */
 
 // Quality control of raw data with FASTQC
 process rawfastqc {
-    publishDir "$qualitydir", mode: 'copy', overwrite: true
+    publishDir "$qualitydirPRE", mode: 'copy', overwrite: true, pattern: "fastqc_${fastq}/*.html"
 
     input:
     file fastq from fastq_ch
@@ -161,13 +175,13 @@ process rawfastqc {
     script:
     """
     mkdir fastqc_${fastq}
-    fastqc --extract -t $task.cpus -q ${fastq} -o fastqc_${fastq}
+    fastqc --extract -t $params.cpu -q ${fastq} -o fastqc_${fastq}
     """
 }
 
 // do MULTIQC
 process rawmultiqc {
-    publishDir "$qualitydir", mode:'copy', overwrite: true
+    publishDir "$qualitydirPRE", mode:'copy', overwrite: true
        
     input:
     file('*') from fastqc_ch.collect() 
@@ -183,12 +197,22 @@ process rawmultiqc {
 } 
 
 
+
 // ===========================  Data Trimming ===========================
 /* 
-Date creation: 27/03/2020
-
-Remarks: Chosen fastp for trimming + adaptor clipping because easier in use than trimmomatic
-+ faster + direct quality parametesr
+- Date creation: 27/03/2020
+- Last adjustment: 3/6/2020
+- Goal: Trim the raw files
+- Remarks: I chose "fastp" for trimming + adaptor clipping because easier in use than trimmomatic
+  + faster + direct quality parametesr
+- Faced problems:
+    * Make command that takes into account adding a certain parameter or not
+      FIX: ....
+    * Originally I made two different processes (one for PE and one for SE data), use was defined by when-parameter
+      It was pointed to me that this may be combined into one process to remove redundant code
+      I tried this using an if-clause at several positions in the process "trimming", 
+      however this gave errors which I was not able to fix, that's why I remained keeping 2 split 
+      processes for as long as necessary.
 
 Todo: add extra parametesr to fastp
     -g for polyG tail trimming, -x for polyX tail trimming
@@ -196,355 +220,193 @@ Todo: add extra parametesr to fastp
     --detect_adapter_for_pe
 */
 
+ //Trimming
+ //split file
+ read_pairs_ch.into {read_pairsSE_ch; read_pairsPE_ch}
 
-// Trimming of PE data
-process trimmedPE {
-    publishDir "$trimmingdir", mode: 'copy', overwrite: true
+ if (params.SE){
+    // Trimming of SE data
+    process trimmedSE {
+        publishDir "$qualitydirPOST", mode: 'copy', overwrite: false,  pattern: "fastp.html"
 
-    input:
-    set sample_id, file(reads) from read_pairsPE_ch
+        input:
+        file(reads) from read_pairsSE_ch
 
-    output:
-    set val(sample_id), file("Trimmed_${sample_id}/TRIM-*") into trimmedPE_reads
-    file("fastp.*")
+        output:
+        file("Trimmed_${reads.simpleName}/TRIM-*") into trimmedSE_reads
+        file("Trimmed_${reads.simpleName}/TRIM-*") into trimmedSE_quality
+        file("fastp.html")
 
-    when:
-    params.PE
+        when:
+        params.SE
 
-    script:
-    """
-    mkdir Trimmed_${sample_id}
-    fastp --detect_adapter_for_pe -i "${reads[0]}" -I "${reads[1]}" \
-    -o Trimmed_${sample_id}/TRIM-${reads[0]} -O Trimmed_${sample_id}/TRIM-${reads[1]}
-    """
+        script:
+        """
+        mkdir Trimmed_${reads.simpleName}
+        fastp -i "${reads}" -o Trimmed_${reads.simpleName}/TRIM-${reads}
+        """
+        //remark: fastp for SE has automatic adapter searching
+    }
+ }
+ else{
+    //Trimming of PE data
+    process trimmedPE {
+        publishDir "$qualitydirPOST", mode: 'copy', overwrite: true, pattern: "fastp.html"
+
+        input:
+        set sample_id, file(reads) from read_pairsPE_ch
+
+        output:
+        set val(sample_id), file("Trimmed_${sample_id}/TRIM-*fastq.gz") into trimmedPE_reads
+        file("Trimmed_${sample_id}/TRIM-*fastq.gz") into trimmedPE_quality
+        file("fastp.html")
+
+        when:
+        params.PE
+
+        script:
+        """
+        mkdir Trimmed_${sample_id}
+        fastp --detect_adapter_for_pe -i "${reads[0]}" -I "${reads[1]}" \
+        -o Trimmed_${sample_id}/TRIM-${reads[0]} -O Trimmed_${sample_id}/TRIM-${reads[1]}
+        """
+    }
+ }
+// Quality control on PE trimmed data
+ if (params.SE){
+    //Quality control on SE trimmed data
+    process trimfastqcSE {
+
+        input:
+        file (fastq) from trimmedSE_quality
+
+        output:
+        file("*.zip") into fastqc_SE_trim_ch
+        file("*.html")
+
+        script:
+        """
+        fastqc --extract -t $params.cpu -q ${fastq}
+        """
+    }
+ }
+else{
+    process trimfastqcPE {
+
+        input:
+        file (fastq) from trimmedPE_quality
+
+        output:
+        file("*.zip") into fastqc_PE_trim_ch
+        file("*.html")
+
+        script:
+        """
+        fastqc --extract -t $params.cpu -q ${fastq[0]}
+        fastqc --extract -t $params.cpu -q ${fastq[1]}
+        """
+    }
 }
-// Trimming of SE data
-process trimmedSE {
-    publishDir "$trimmingdir", mode: 'copy', overwrite: false
-
-    input:
-    file(reads) from read_pairsSE_ch
-
-    output:
-    file("Trimmed_${reads.simpleName}/TRIM-*") into trimmedSE_reads
-    file("fastp.*")
-
-    when:
-    params.SE
-
-    script:
-    """
-    mkdir Trimmed_${reads.simpleName}
-    fastp -i "${reads}" -o Trimmed_${reads.simpleName}/TRIM-${reads}
-    """
-    //remark: fastp for SE has automatic adapter searching
-}
-
-
-//split data to be able to use the channel multiple times (for kraken and for assembly)
-trimmedPE_reads.into {trimmedPE_kraken; trimmedPE_assembly}
-trimmedSE_reads.into {trimmedSE_kraken; trimmedSE_assembly}
-
-
-
-//REMARK: this piece has been adjusted to PROJECTHH-scheme.nf
-//krona has not been integrated because the analysis was of little use
-
-'''
-// ========================= Taxonomic sequence classification ======================
-/* 
-Date creation: 2/4/2020
-Last adjusted: 8/04/2020
-
-Define with kraken what your species txid is in the sample (needed for scaffolding / cgMLST allele calling)
-to lower computational needs do analysis on mini-fastq
-
-Problems: 
-- installation of kraken and database required more memory, a new Virtual machine (CENTOS)
-was created.
-- problems fixing the output of the PE trimmed reads into kraken2krona, I wanted to start from files BUT 
-than the pipeline wants to start immediately which gives no results... 
-    FIX: problem was because set was made during trimming PE reads: has been deleted
-
-*/
-
-//FIRST take 10000 reads to test with kraken (to limit needed time for analysis)
-process reduce4krakenPE {
-    publishDir "$reduced4krakendir ", mode:'copy', overwrite: true
-       
-    input:
-    set sample_id, file(trimfq) from trimmedPE_kraken
-
-    output:
-     set val(sample_id), file("reduced-*") into reducedPE_kraken
-     
-    when:
-    params.PE
-
-    script:
-    """
-    zcat ${trimfq[0]} | head -40000 | gzip > reduced-${trimfq[0]}
-    zcat ${trimfq[1]} | head -40000 | gzip > reduced-${trimfq[1]}
-    """
-}
-process reduce4krakenSE {
-    publishDir "$reduced4krakendir ", mode:'copy', overwrite: true
-       
-    input:
-    file(trimfq) from trimmedSE_kraken
-
-    output:
-    file("reduced-*") into reducedSE_kraken
-     
-    when:
-    params.SE
-
-    script:
-    """
-    zcat ${trimfq} | head -40000 | gzip > reduced-${trimfq}
-    """
-}
-
-// SECOND: do kraken and prepare for krona
-process kraken2kronaPE {
-    publishDir "$kraken2kronadir", mode:'copy', overwrite: true
-       
-    input:
-    set sample_id2, file(trimfq) from reducedPE_kraken
-
-    output:
-    file("kraken2krona/output-${sample_id2}.kraken")
-    file("kraken2krona/report-${sample_id2}.txt") into krakenPE4txid
-    file("kraken2krona/results-${sample_id2}.krona") into krakenPE4krona
-    
-    when:
-    params.PE
-
-    script:
-    """
-    mkdir kraken2krona
-    kraken2 --use-names --report kraken2krona/report-${sample_id2}.txt \
-    --threads $task.cpus -db $params.krakendbpathsilva \
-    --paired --gzip-compressed ${trimfq} > kraken2krona/output-${sample_id2}.kraken
-    
-    cat kraken2krona/report-${sample_id2}.txt | cut -f 2,3 > kraken2krona/results-${sample_id2}.krona
-    """
-}
-
-//ONLY ON SERVER: (use 8Gb database)
-process kraken2kronaPE8Gb {
-    publishDir "$kraken2kronadir", mode:'copy', overwrite: true
-       
-    input:
-    set sample_id2, file(trimfq) from reducedPE_kraken
-
-    output:
-    file("kraken2krona/output-${sample_id2}.kraken")
-    file("kraken2krona/report-${sample_id2}.txt") into krakenPE4txid
-    file("kraken2krona/results-${sample_id2}.krona") into krakenPE4krona
-    
-    when:
-    params.PE
-
-    script:
-    """
-    mkdir kraken2krona
-    kraken2 --use-names --report kraken2krona/report-${sample_id2}.txt \
-    --threads 1 -db $krakendbpath \
-    --paired --gzip-compressed ${trimfq} > kraken2krona/output-${sample_id2}.kraken
-    
-    cat kraken2krona/report-${sample_id2}.txt | cut -f 2,3 > kraken2krona/results-${sample_id2}.krona
-    """
-}
-
-
-process kraken2kronaSE {
-    publishDir "$kraken2kronadir", mode:'copy', overwrite: true
-       
-    input:
-    file(trimfq) from reducedSE_kraken
-
-    output:
-    file("kraken2krona/output-${trimfq.simpleName}.kraken")
-    file("kraken2krona/report-${trimfq.simpleName}.txt") into krakenSE4txid
-    file("kraken2krona/results-${trimfq.simpleName}.krona") into krakenSE4krona
-    file("kraken2krona-/txid-${trimfq.simpleName}") into txidSE //werkt nog niet!!
-    
-    when:
-    params.SE
-
-    script:
-    """
-    mkdir kraken2krona
-    kraken2 --use-names --report kraken2krona/report-${trimfq.simpleName}.txt --threads $task.cpus \
-    -db $params.krakendbpathsilva --gzip-compressed ${trimfq} > kraken2krona/output${trimfq.simpleName}.kraken
-    
-    column -s, -t < kraken2krona/report-${trimfq.simpleName}.txt | awk '!{4} == "S"'| head -n 1 | cut -f5 \
-    > kraken2krona-/txid-${trimfq.simpleName}
-
-    cat kraken2krona/report-${trimfq.simpleName}.txt | cut -f 2,3 > kraken2krona/results-${trimfq.simpleName}.krona
-    """
-}
-
-// THIRD: krona
-// remark conda ngs must be activated for krona! "conda activate ngs"
-// update taxonomy
-process krona_db {
-    output:
-    file("taxonomy/taxonomy.tab") into krona_taxonomy
-
-    script:
-    """
-    ktUpdateTaxonomy.sh taxonomy
-    """
-}
-
-// create mutual channel for PE and SE
-report4krona = Channel.create()
-if (params.PE) {
-report4krona = krakenPE4krona
+//merge into one channel
+if (params.PE){
+    fastqc_trim_ch=fastqc_PE_trim_ch
 }
 else {
-report4krona = krakenSE4krona
+    fastqc_trim_ch=fastqc_SE_trim_ch
 }
-
-process krona {
-    publishDir "$kraken2kronadir", mode:'copy', overwrite: true
+// do MULTIQC after trimming
+process trimmultiqc {
+    publishDir "$qualitydirPOST", mode:'copy', overwrite: true
+       
     input:
-    file("taxonomy/taxonomy.tab") from krona_taxonomy
-    file (report) from report4krona
-
+    file('*') from fastqc_trim_ch.collect() 
+    //collect nodig om van elk paar mee te nemen en niet enkel sample1 read1&2
+    
     output:
-    file("*.html")
-
+    file('multiqc_report.html')  
+     
     script:
     """
-    ktImportTaxonomy ${report} -tax taxonomy -o KRONA-${report.simpleName}.html
-
+    multiqc . 
     """
-}
-'''
-
-
-//REMARK: this piece has been adjusted to PROJECTHH-scheme.nf
-'''
-// ================================= REFERENCE ASSEMBLIES  =============================
-/* 
-Date creation: 9/4/2020
-Last modification: 15/4/2020 (introducing python to get txid)
-
-Get reference assemblies from NCBI for the given txid, necessary for scaffolding AND cgMLST scheme creation
-
-Problems/fixes:
-- takes a long time to download, would be good to have a database (txid)
-- problem extracting txid from kraken2 because of dollar sign needed to indicate column with awk: 
-    * fix: shell-block(using shell +  ' ' ' in stead of """ + adding !) to fix the problem of $4 : 
-            because dollar is used also by Groovy for variable interpolation
-- problem 2 how to get txid in a value: 
-    FIX
-        * BASH first (shell-block): column -s, -t < !{report}| awk '$4 == "S"'| head -n 1 | cut -f5
-        * BASH better: awk -F, '$4 == "S" { printf("%s", $5); exit }' "!{report}"
-        * HOW OUTPUT?
-            - Fixed by using stdout as output
-            - New problem: stdout trails "newline" to the result -> can not make a new statement!
-                *Fix2.1: make .txt: can't find way to read it without stout: not found: FAIL
-                *Fix2.2: change into variable: not found: FAIL
-                *Fix2.3: change language: python!
-                    PROBLEM: variable is also not working
-                    Save script seperately as pythong module: FAIL, module will not load
-                        see ReadTxid.py (in folder Tests)
-                *Fix2.4: write groovy script to get the number: FAIL
-                *Fix2.5: back to bash: add tr -dc '0-9' to extract only numbers
-- problem3: wanted to write accessions + fastas directly to database, is not possible, first needs to go to working dir!
-- Problem4: how to put ref assembly in the right directory, no output parameter: FIX: go into the directory
-
-remark with silva database highest level is Genus (G) in stead of (S) (more correct)!!!!
-*/
-
-// create mutual report channel for PE and SE
-report4txid = Channel.create()
-if (params.PE) {
-report4txid = krakenPE4txid
-}
-else {
-report4txid = krakenSE4txid
-}
-
-'''
-
+} 
 
 
 
 // ================================= ASSEMBLY  =============================
 /* 
-Date creation: 3/4/2020
-
-Make de novo assembly with megahit and QA of the assembly with quast
-
-Problems: 
-- problems with matplotlib (quast)
-- output assembly = final.contigs.fa, but then there's no samplename anymore!
+- Date creation: 03/04/2020
+- Last adjustment: 3/6/2020
+- Goal: Make de novo assembly with megahit and QA of the assembly with quast
+- Faced problems:
+    *problems with matplotlib (quast)
+    *output assembly = final.contigs.fa, but then there's no samplename anymore!
 
 Possibilities: include other assemblers and give a choice to users
-
 */
 
-//import matpotlib
-process matplotlib {
-    script:
-    '''
-    #!/usr/bin/env python3
-    import matplotlib
-    '''
+if(params.SE){
+    //perform assembly with megahit for SE data
+    process megahitSE {
+        publishDir "$megahitdir", mode:'copy', overwrite: true
+        
+        input:
+        file(trimfq) from trimmedSE_reads
+
+        output:
+        file("assembly/*.fa") into megahitSE 
+        //path("assembly/*.fa") into megahitSE-chew 
+        
+        when:
+        params.SE
+
+        script:
+        """
+        megahit -r "${trimfq}" -o assembly --out-prefix ${trimfq.simpleName} -t $params.cpu
+        """
+    }
 }
+else{
+    //perform assembly with megahit for PE data
+    process megahitPE {
+        publishDir "$megahitdir", mode:'copy', overwrite: true
+        
+        input:
+        set sample_id, file(trimfq) from trimmedPE_reads
 
-//perform assembly with megahit (PE and SE)
-process megahitPE {
-    publishDir "$megahitdir", mode:'copy', overwrite: true
-       
-    input:
-    set sample_id, file(trimfq) from trimmedPE_assembly
+        output:
+        file("assembly/*.fa") into megahitPE  
+        //path("assembly/*.fa") into megahitPE-chew  
+        
+        when:
+        params.PE
 
-    output:
-    file("megahit/*.fa") into megahitPE    
-    
-    when:
-    params.PE
-
-    script:
-    """
-    megahit -1 "${trimfq[0]}" -2 "${trimfq[1]}" -o megahit \
-    --out-prefix ${sample_id} -t $task.cpus
-    """
+        script:
+        """
+        megahit -1 "${trimfq[0]}" -2 "${trimfq[1]}" -o assembly --out-prefix ${sample_id} -t $params.cpu
+        """
+    }
 }
-process megahitSE {
-    publishDir "$megahitdir", mode:'copy', overwrite: true
-       
-    input:
-    set val(sample_id), file("megahit/*.fa") from trimmedSE_assembly
+// split the file and stop division in SE and PE for quality control and further analysis with chewbbaca
+if (params.SE){
+    megahitSE.into {megahit_quast; megahit_chew}
+    //megahit_quast = megahitSE
+    //megahit_chew = megahitSE-chew
 
-    output:
-    file("megahit/*.fa") into megahitSE 
-     
-    when:
-    params.SE
-
-    script:
-    """
-    megahit -r "${trimfq}" -o megahit \
-    --out-prefix ${trimfq.simpleName} -t $task.cpus
-    """
-}
-
-// split the file and stop division in SE and PE for chewbbaca
-if (params.PE){
-    megahitPE.into {megahit_quast; megahit_chew}
 }
 else {
-    megahitSE.into {megahit_quast; megahit_chew}
+    megahitPE.into {megahit_quast; megahit_chew}
+    //megahit_quast = megahitPE
+    //megahit_chew = megahitPE-chew
 }
-
-
+//import matpotlib for quast
+process matplotlib {
+    script:
+    """
+    #!/usr/bin/env python3
+    import matplotlib
+    """
+}
 // Control of assembly with Quast
 process quast{
     publishDir "$quastdir", mode:'copy', overwrite: true
@@ -553,7 +415,8 @@ process quast{
     file(assembly) from megahit_quast
 
     output:
-    file("quast-${assembly.simpleName}/*")
+    file("quast-${assembly.simpleName}/report.html")
+    file("quast-${assembly.simpleName}/report.pdf")
 
     script:
     """
@@ -564,62 +427,98 @@ process quast{
 
 
 
-
-'''
 // ================================= Scaffolding =============================
 /* 
-Date creation: 3/4/2020
+- Date creation: 03/04/2020
+- Last adjustment: 3/6/2020
+- Goal: 
 
-Problems: 
+TODOOOOOOOOOOOOOOOOOO
 
-Possibilities:
 */
-
-val txid from txid4assembly_exists 
-    //because assembly takes long time it's not a problem for samples which do not yet have a
-    //ref before starting the protoco
 
 
 
 
 // ================================= cgMLST analysis =============================
 /* 
-Date creation: 
-
-Problems: 
-
-Possibilities:
+- Date creation: 3/6/2020
+- Last adjustment: 3/6/2020
+- Goal: Do actual cg/wgMLST analysis based on given scheme
+- Faced problems
+    * run stops because previous files are detected, however because nextflow is not interactive we 
+      can not type to continue by "yes" -> fix by defining -fr = forced reset
+    * analysis file by file but should provide a path to include ALL files at once
+        ONly need to do this once!! -> Fix make input4 folder
+    * make sure processes are done in sequential manner with maxForks 1
 */
+//define the folder with the assemblies
+//copy generated assemblies to the input folder for analysis
+process input4a{
+        maxForks 13
+
+        input:
+        file(assembly) from megahit_chew 
+
+        script:
+        """
+        mkdir -p $outputdir
+        mkdir -p $outputdir/Analysis
+        mkdir -p $outputdir/Analysis/input4analysis
+        cp ${assembly} $input4dir
+        """
+    }
+//also copy given assemblies to the input folder for analysis
+if (params.assem){
+    Channel
+    .fromPath("${assemdir}")
+    .set {assem_ch}
+    process input4b{
+        maxForks 14
+
+        input:
+        file(assem) from assem_ch
+
+        script:
+        """
+        cp ${assem} $input4dir
+        """
+    }
+}
 
 
-'''
+///TO FIX: problem with missing ANALYSIS FOLDER!!!
 
 
+//do analysis
+process analysis{
+    maxForks 15
+
+    publishDir "$input4dir", mode:'copy', overwrite: true
+
+    output:
+    file("*")
+
+    script:
+    """
+    chewBBACA.py AlleleCall -i $input4dir -g $inputscheme -o Results --cpu $params.cpu --ptf $trainingfile --fr
+    """
+}
 
 
 
 // =============================  Finished message ====================================
 workflow.onComplete {
-	log.info ( workflow.success ? "\nDone!\n" : "Oops something went wrong!" )
+	log.info ( workflow.success ? "\nFINISHED!\n" : "Oops something went wrong!" )
 }
-
-
 
 
 // TODO: 
 // find better way to reach adapter file
 // test for zipped or not fastqs
 // nextflow.config
-// fastqc en multiqc after trimming
 //  use docker container (?)-> to set + make nextflow.config file!!
-// fix installation krona, via conda?? conda activate ngs
-    // also fastp via bioconda -> problems??
-// fix krona: taxnoomy db (so no 0 result :p)
-// make a list of short names (for long fastq names)
-// check if fastp.html gives view of all samples
 // database with already downloaded assemblies per txid
-
-
 '''
 do -with-docker
 ALTERNATIVE in nexflow.config file:
