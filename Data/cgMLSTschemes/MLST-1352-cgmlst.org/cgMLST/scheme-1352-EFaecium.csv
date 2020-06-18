@@ -1,0 +1,1424 @@
+Locus	Gene	Start	Length	Product	Allele Count	Alleles	
+	EFAU004_00001	dnaA	1	1335	chromosomal replication initiation protein, DnaA	229	EFAU004_00001.fasta	
+	EFAU004_00002	dnaB	1533	1131	DNA polymerase III subunit beta, DnaB	201	EFAU004_00002.fasta	
+	EFAU004_00004	recF	3121	1125	recombination protein F, RecF	244	EFAU004_00004.fasta	
+	EFAU004_00005	gyrB	4242	1947	DNA gyrase subunit B, GyrB	261	EFAU004_00005.fasta	
+	EFAU004_00006	gyrA	6208	2472	DNA gyrase, A subunit, GyrA	365	EFAU004_00006.fasta	
+	EFAU004_00007	rpsF	8915	300	30S ribosomal protein S6	54	EFAU004_00007.fasta	
+	EFAU004_00008		9264	513	single-strand binding protein	83	EFAU004_00008.fasta	
+	EFAU004_00009	rpsR	9802	237	30S ribosomal protein S18	46	EFAU004_00009.fasta	
+	EFAU004_00010		10056	105	hypothetical protein	39	EFAU004_00010.fasta	
+	EFAU004_00015		13047	1461	DHH family protein	285	EFAU004_00015.fasta	
+	EFAU004_00016	rplI	14513	453	50S ribosomal protein L9	117	EFAU004_00016.fasta	
+	EFAU004_00017		15239	1368	replicative DNA helicase	210	EFAU004_00017.fasta	
+	EFAU004_00018	purA	17386	1293	adenylosuccinate synthetase	186	EFAU004_00018.fasta	
+	EFAU004_00022		22355	864	DegV family protein	189	EFAU004_00022.fasta	
+	EFAU004_00023	ykpA	23347	1623	ABC transporter ATP-binding protein	321	EFAU004_00023.fasta	
+	EFAU004_00024		25218	522	acid-resistance membrane protein	141	EFAU004_00024.fasta	
+	EFAU004_00025		25925	1731	pyruvate oxidase	336	EFAU004_00025.fasta	
+	EFAU004_00073	guaA	74484	1566	GMP synthase	265	EFAU004_00073.fasta	
+	EFAU004_00074	coaA	76108	924	pantothenate kinase	143	EFAU004_00074.fasta	
+	EFAU004_00075		77227	606	16S rRNA small subunit methyltransferase C	115	EFAU004_00075.fasta	
+	EFAU004_00076		78140	1017	LacI family transcriptional regulator	245	EFAU004_00076.fasta	
+	EFAU004_00077	pdp	79297	1302	pyrimidine-nucleoside phosphorylase	258	EFAU004_00077.fasta	
+	EFAU004_00078	deoC	80644	663	deoxyribose-phosphate aldolase	148	EFAU004_00078.fasta	
+	EFAU004_00079		81327	399	cytidine deaminase	107	EFAU004_00079.fasta	
+	EFAU004_00080		81791	1083	Basic membrane lipopprotein	249	EFAU004_00080.fasta	
+	EFAU004_00081	yufO	83085	1563	ABC transporter ATP-binding protein	246	EFAU004_00081.fasta	
+	EFAU004_00083		85773	957	ABC transporter permease	157	EFAU004_00083.fasta	
+	EFAU004_00084	deoB	86828	1167	phosphopentomutase	184	EFAU004_00084.fasta	
+	EFAU004_00085		88018	819	purine nucleoside phosphorylase	138	EFAU004_00085.fasta	
+	EFAU004_00086		88853	708	purine nucleoside phosphorylase	130	EFAU004_00086.fasta	
+	EFAU004_00087	gpmA	89858	687	phosphoglycerate mutase	125	EFAU004_00087.fasta	
+	EFAU004_00088		90716	582	resolvase family site-specific recombinase	143	EFAU004_00088.fasta	
+	EFAU004_00089	rpiA	91430	684	ribose 5-phosphate isomerase A	124	EFAU004_00089.fasta	
+	EFAU004_00090	rpsL	92432	414	30S ribosomal protein S12	70	EFAU004_00090.fasta	
+	EFAU004_00091	rpsG	92929	471	30S ribosomal protein S7	77	EFAU004_00091.fasta	
+	EFAU004_00092	fusA	93493	2088	translation elongation factor G	270	EFAU004_00092.fasta	
+	EFAU004_00093	tuf	95752	1188	elongation factor Tu	159	EFAU004_00093.fasta	
+	EFAU004_00094	rpsJ	97346	309	30S ribosomal protein S10	94	EFAU004_00094.fasta	
+	EFAU004_00096	rplD	98342	624	50S ribosomal protein L4	114	EFAU004_00096.fasta	
+	EFAU004_00097	rplW	98965	291	50S ribosomal protein L23	56	EFAU004_00097.fasta	
+	EFAU004_00098	rplB	99294	834	50S ribosomal protein L2	120	EFAU004_00098.fasta	
+	EFAU004_00099	rpsS	100170	279	30S ribosomal protein S19	54	EFAU004_00099.fasta	
+	EFAU004_00100	rplV	100471	348	50S ribosomal protein L22	48	EFAU004_00100.fasta	
+	EFAU004_00101	rpsC	100832	657	30S ribosomal protein S3	128	EFAU004_00101.fasta	
+	EFAU004_00102	rplP	101491	435	50S ribosomal protein L16	79	EFAU004_00102.fasta	
+	EFAU004_00104	rpsQ	102128	267	30S ribosomal protein S17	44	EFAU004_00104.fasta	
+	EFAU004_00105	rplN	102452	369	50S ribosomal protein L14	49	EFAU004_00105.fasta	
+	EFAU004_00106	rplX	102857	309	50S ribosomal protein L24	114	EFAU004_00106.fasta	
+	EFAU004_00107	rplE	103193	540	50S ribosomal protein L5	96	EFAU004_00107.fasta	
+	EFAU004_00108	rpsZ	103751	186	30S ribosomal protein S14	36	EFAU004_00108.fasta	
+	EFAU004_00109	rpsH	103972	399	30S ribosomal protein S8	58	EFAU004_00109.fasta	
+	EFAU004_00110	rplF	104402	537	50S ribosomal protein L6	93	EFAU004_00110.fasta	
+	EFAU004_00111	rplR	105099	357	50S ribosomal protein L18	61	EFAU004_00111.fasta	
+	EFAU004_00112	rpsE	105476	501	30S ribosomal protein S5	74	EFAU004_00112.fasta	
+	EFAU004_00113	rpmD	105991	180	50S ribosomal protein L30	33	EFAU004_00113.fasta	
+	EFAU004_00114	rplO	106214	441	50S ribosomal protein L15	100	EFAU004_00114.fasta	
+	EFAU004_00115	secY	106654	1296	preprotein translocase subunit SecY	209	EFAU004_00115.fasta	
+	EFAU004_00116	adk	108011	648	adenylate kinase	124	EFAU004_00116.fasta	
+	EFAU004_00117	infA	108849	219	translation initiation factor IF-1	39	EFAU004_00117.fasta	
+	EFAU004_00118		109100	117	50S ribosomal protein L36	23	EFAU004_00118.fasta	
+	EFAU004_00119	rpsM	109234	366	30S ribosomal protein S13	67	EFAU004_00119.fasta	
+	EFAU004_00120	rpsK	109627	390	30S ribosomal protein S11	72	EFAU004_00120.fasta	
+	EFAU004_00121	rpoA	110096	939	DNA-directed RNA polymerase subunit alpha	199	EFAU004_00121.fasta	
+	EFAU004_00122	rplQ	111062	381	50S ribosomal protein L17	53	EFAU004_00122.fasta	
+	EFAU004_00124	cbiO_2	112529	870	cobalt import ATP-binding protein CbiO 2	187	EFAU004_00124.fasta	
+	EFAU004_00126		114388	747	tRNA pseudouridine synthase A	180	EFAU004_00126.fasta	
+	EFAU004_00127	yfhO	115467	2670	Bacterial membrane protein YfhO	480	EFAU004_00127.fasta	
+	EFAU004_00128	rpmB	118374	189	50S ribosomal protein L28	40	EFAU004_00128.fasta	
+	EFAU004_00129		118832	363	alkaline-shock protein	53	EFAU004_00129.fasta	
+	EFAU004_00130	yloV	119246	1683	DAK2 domain fusion protein YloV	288	EFAU004_00130.fasta	
+	EFAU004_00131	recG	121045	2037	ATP-dependent DNA helicase RecG	364	EFAU004_00131.fasta	
+	EFAU004_00132	plsX	123130	1002	fatty acid/phospholipid synthesis protein PlsX	231	EFAU004_00132.fasta	
+	EFAU004_00133		124253	243	acyl carrier protein	47	EFAU004_00133.fasta	
+	EFAU004_00134		124763	1005	peptide ABC transporter ATP-binding protein	151	EFAU004_00134.fasta	
+	EFAU004_00135	oppF	125768	945	peptide ABC transporter ATP-binding protein	163	EFAU004_00135.fasta	
+	EFAU004_00136		126712	963	ABC transporter permease	126	EFAU004_00136.fasta	
+	EFAU004_00137		127701	915	ABC transporter permease	139	EFAU004_00137.fasta	
+	EFAU004_00138		128641	1782	family 5 extracellular solute-binding protein	311	EFAU004_00138.fasta	
+	EFAU004_00139	rnc	130770	687	ribonuclease III	135	EFAU004_00139.fasta	
+	EFAU004_00140		131476	3582	chromosome partition protein SMC	575	EFAU004_00140.fasta	
+	EFAU004_00141		135066	810	HAD superfamily hydrolase	183	EFAU004_00141.fasta	
+	EFAU004_00142	ftsY	135886	999	signal recognition particle-docking protein FtsY	200	EFAU004_00142.fasta	
+	EFAU004_00143		137071	2268	bifunctional glutamate--cysteine ligase/glutathione synthetase	373	EFAU004_00143.fasta	
+	EFAU004_00144		139427	453	hypothetical protein	194	EFAU004_00144.fasta	
+	EFAU004_00146		140972	960	iron ABC transporter system permease	262	EFAU004_00146.fasta	
+	EFAU004_00147	yclP	141928	756	iron ABC transporter ATP-binding protein	177	EFAU004_00147.fasta	
+	EFAU004_00148		142706	954	iron ABC transporter substrate-binding protein	275	EFAU004_00148.fasta	
+	EFAU004_00151		144954	357	hypothetical protein	78	EFAU004_00151.fasta	
+	EFAU004_00152		145320	900	Calcineurin-like phosphoesterase	192	EFAU004_00152.fasta	
+	EFAU004_00162		155131	735	glycerol uptake facilitator protein	95	EFAU004_00162.fasta	
+	EFAU004_00164		156595	702	LrgB family protein	210	EFAU004_00164.fasta	
+	EFAU004_00165		157296	1587	M protein trans-acting positive regulator	345	EFAU004_00165.fasta	
+	EFAU004_00166		158901	222	hypothetical protein	55	EFAU004_00166.fasta	
+	EFAU004_00167		159119	762	aldose dehydrogenase	166	EFAU004_00167.fasta	
+	EFAU004_00168		160260	510	hypothetical protein	144	EFAU004_00168.fasta	
+	EFAU004_00169		160844	540	BioY family protein	117	EFAU004_00169.fasta	
+	EFAU004_00170	rpsD	161523	612	30S ribosomal protein S4	96	EFAU004_00170.fasta	
+	EFAU004_00171		162450	798	formate/nitrite transporter	208	EFAU004_00171.fasta	
+	EFAU004_00172		163275	636	DNA alkylation repair protein	219	EFAU004_00172.fasta	
+	EFAU004_00173		163930	774	HAD superfamily hydrolase	152	EFAU004_00173.fasta	
+	EFAU004_00174		165111	798	calcineurin-like phosphoesterase	137	EFAU004_00174.fasta	
+	EFAU004_00176	mutS	166283	2646	DNA mismatch repair protein MutS	396	EFAU004_00176.fasta	
+	EFAU004_00177		168946	2109	DNA mismatch repair protein	436	EFAU004_00177.fasta	
+	EFAU004_00178		171076	561	maf protein	129	EFAU004_00178.fasta	
+	EFAU004_00179		171721	1989	PTS system, trehalose/maltose-specific, IIBCA component	357	EFAU004_00179.fasta	
+	EFAU004_00180		173932	714	GntR family transcriptional regulator	145	EFAU004_00180.fasta	
+	EFAU004_00181	msrB	174722	447	peptide methionine sulfoxide reductase MsrB	97	EFAU004_00181.fasta	
+	EFAU004_00182	ruvA	175338	603	Holliday junction DNA helicase RuvA	130	EFAU004_00182.fasta	
+	EFAU004_00183	ruvB	175953	1002	Holliday junction DNA helicase RuvB	154	EFAU004_00183.fasta	
+	EFAU004_00184		176983	579	TetR family dihydroxyacetone kinase regulator	132	EFAU004_00184.fasta	
+	EFAU004_00185		177613	483	phosphotyrosine protein phosphatase	178	EFAU004_00185.fasta	
+	EFAU004_00186		178212	375	hypothetical protein	120	EFAU004_00186.fasta	
+	EFAU004_00188		180548	1353	branched-chain amino acid transport system II carrier protein	275	EFAU004_00188.fasta	
+	EFAU004_00190	aapA	182765	1350	amino acid permease	267	EFAU004_00190.fasta	
+	EFAU004_00191		184282	741	amino acid ABC transporter ATP-binding protein	153	EFAU004_00191.fasta	
+	EFAU004_00192		185035	1593	amino acid ABC transporter permease	374	EFAU004_00192.fasta	
+	EFAU004_00193		186666	192	hypothetical protein	72	EFAU004_00193.fasta	
+	EFAU004_00194		187195	297	hypothetical protein	67	EFAU004_00194.fasta	
+	EFAU004_00196		188385	843	maltose O-acetyltransferase	250	EFAU004_00196.fasta	
+	EFAU004_00197		189230	522	transcriptional regulator	123	EFAU004_00197.fasta	
+	EFAU004_00198	def	190004	564	peptide deformylase	116	EFAU004_00198.fasta	
+	EFAU004_00199	rpsO	190818	270	30S ribosomal protein S15	88	EFAU004_00199.fasta	
+	EFAU004_00200	pnp	191275	2127	Polyribonucleotide nucleotidyltransferase	336	EFAU004_00200.fasta	
+	EFAU004_00201		193911	267	transglycosylase	103	EFAU004_00201.fasta	
+	EFAU004_00202	kup	194321	1992	K+ uptake transporter	317	EFAU004_00202.fasta	
+	EFAU004_00203		196542	1302	hemolysin	265	EFAU004_00203.fasta	
+	EFAU004_00204		197973	1371	MATE efflux family protein	219	EFAU004_00204.fasta	
+	EFAU004_00205		199525	324	hypothetical protein	59	EFAU004_00205.fasta	
+	EFAU004_00206	rplY	200173	606	50S ribosomal protein L25	126	EFAU004_00206.fasta	
+	EFAU004_00207		201108	717	16S rRNA pseudouridine synthase A	132	EFAU004_00207.fasta	
+	EFAU004_00209	udk	202616	630	uridine kinase	89	EFAU004_00209.fasta	
+	EFAU004_00211		205169	603	hypothetical protein	194	EFAU004_00211.fasta	
+	EFAU004_00213		206603	1374	hypothetical protein	269	EFAU004_00213.fasta	
+	EFAU004_00215		208677	1746	ABC1 family protein	367	EFAU004_00215.fasta	
+	EFAU004_00216	ddl	210618	1077	D-alanine--D-alanine ligase	319	EFAU004_00216.fasta	
+	EFAU004_00217		211787	1413	UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D- alanine ligase	271	EFAU004_00217.fasta	
+	EFAU004_00218		213521	1512	DEAD/DEAH box helicase	298	EFAU004_00218.fasta	
+	EFAU004_00219		215162	351	holo-[acyl-carrier-protein] synthase	74	EFAU004_00219.fasta	
+	EFAU004_00220		215528	1122	alanine racemase	215	EFAU004_00220.fasta	
+	EFAU004_00221	ndoA	216660	363	toxin-antitoxin system, toxin component, MazF family	92	EFAU004_00221.fasta	
+	EFAU004_00222	rpsN	217198	270	30S ribosomal protein S14	107	EFAU004_00222.fasta	
+	EFAU004_00223		217657	948	zinc-containing alcohol dehydrogenase	236	EFAU004_00223.fasta	
+	EFAU004_00225		222213	1824	amino acid permease	344	EFAU004_00225.fasta	
+	EFAU004_00231		227266	918	glycine betaine/carnitine/choline ABC transporter	199	EFAU004_00231.fasta	
+	EFAU004_00232		228180	642	glycine betaine/carnitine/choline ABC transporter permease	152	EFAU004_00232.fasta	
+	EFAU004_00234	queA	230193	1032	S-adenosylmethionine--tRNA ribosyltransferase-isomerase	189	EFAU004_00234.fasta	
+	EFAU004_00237	tgt	235566	1146	queuine tRNA-ribosyltransferase	238	EFAU004_00237.fasta	
+	EFAU004_00238		236808	381	preprotein translocase subunit YajC	100	EFAU004_00238.fasta	
+	EFAU004_00239		237493	2598	aldehyde-alcohol dehydrogenase	397	EFAU004_00239.fasta	
+	EFAU004_00256		255949	807	gluconate 5-dehydrogenase	158	EFAU004_00256.fasta	
+	EFAU004_00257		257004	1065	isopentenyl-diphosphate delta-isomerase	271	EFAU004_00257.fasta	
+	EFAU004_00258		258065	1086	phosphomevalonate kinase	222	EFAU004_00258.fasta	
+	EFAU004_00259		259163	978	diphosphomevalonate decarboxylase	247	EFAU004_00259.fasta	
+	EFAU004_00261		261399	654	deoxynucleoside kinase	153	EFAU004_00261.fasta	
+	EFAU004_00262		262137	906	CorA-like Mg2+ transporter protein	239	EFAU004_00262.fasta	
+	EFAU004_00264	infC	263996	525	translation initiation factor IF-3	101	EFAU004_00264.fasta	
+	EFAU004_00265	rpmI	264592	201	50S ribosomal protein L35	66	EFAU004_00265.fasta	
+	EFAU004_00266	rplT	264845	360	50S ribosomal protein L20	68	EFAU004_00266.fasta	
+	EFAU004_00268		266840	2130	hydantoinase/oxoprolinase	452	EFAU004_00268.fasta	
+	EFAU004_00270		270041	687	GntR family transcriptional regulator	232	EFAU004_00270.fasta	
+	EFAU004_00271		270863	168	hypothetical protein	61	EFAU004_00271.fasta	
+	EFAU004_00272		271107	441	thioesterase	157	EFAU004_00272.fasta	
+	EFAU004_00273		271551	846	YjeF protein	217	EFAU004_00273.fasta	
+	EFAU004_00274	pepV	272545	1419	dipeptidase PepV	306	EFAU004_00274.fasta	
+	EFAU004_00361	yybA	360302	453	MarR family transcriptional regulator	121	EFAU004_00361.fasta	
+	EFAU004_00362		360767	522	GNAT family acetyltransferase	177	EFAU004_00362.fasta	
+	EFAU004_00363		361306	711	B3/4 domain-containing protein	183	EFAU004_00363.fasta	
+	EFAU004_00366		363070	1314	xanthine/uracil permease family protein	245	EFAU004_00366.fasta	
+	EFAU004_00367	dexB	364711	1623	glucan 1,6-alpha-glucosidase	241	EFAU004_00367.fasta	
+	EFAU004_00372		373839	435	MarR family transcriptional regulator	125	EFAU004_00372.fasta	
+	EFAU004_00373		374374	1092	oxidoreductase FAD/FMN-binding protein	242	EFAU004_00373.fasta	
+	EFAU004_00374		375495	678	DJ-1/PfpI family protein	134	EFAU004_00374.fasta	
+	EFAU004_00376		377789	1461	helix-turn-helix domain-containing protein	388	EFAU004_00376.fasta	
+	EFAU004_00377	glpK	379385	1497	glycerol kinase	283	EFAU004_00377.fasta	
+	EFAU004_00378	glpO	380895	1824	alpha-glycerophosphate oxidase	330	EFAU004_00378.fasta	
+	EFAU004_00379		382719	717	glycerol uptake facilitator protein	140	EFAU004_00379.fasta	
+	EFAU004_00382		385796	555	CDP-diacylglycerol--glycerol-3-phosphate 3-phosphatidyltransferase	168	EFAU004_00382.fasta	
+	EFAU004_00383		387080	315	DsrE/DsrF-like family protein	87	EFAU004_00383.fasta	
+	EFAU004_00384	frmR	387408	261	regulator protein FrmR	62	EFAU004_00384.fasta	
+	EFAU004_00385		387838	315	rhodanese-like domain-containing protein	99	EFAU004_00385.fasta	
+	EFAU004_00386		388154	1656	coenzyme A disulfide reductase	365	EFAU004_00386.fasta	
+	EFAU004_00387		389892	2136	ATP-dependent DNA helicase IV	352	EFAU004_00387.fasta	
+	EFAU004_00390		394120	858	LPXTG-motif protein cell wall anchor domain protein	266	EFAU004_00390.fasta	
+	EFAU004_00391		395089	321	hypothetical protein	111	EFAU004_00391.fasta	
+	EFAU004_00393		395933	1011	dihydroxyacetone kinase subunit DhaK	194	EFAU004_00393.fasta	
+	EFAU004_00394		396971	606	dihydroxyacetone kinase, DhaL subunit	149	EFAU004_00394.fasta	
+	EFAU004_00396		398671	660	cyclic nucleotide-binding domain-containing protein	174	EFAU004_00396.fasta	
+	EFAU004_00397		399407	1611	tetronasin resistance transmembrane protein	364	EFAU004_00397.fasta	
+	EFAU004_00399		402165	600	TetR family transcriptional regulator	212	EFAU004_00399.fasta	
+	EFAU004_00401	tyrS1	404714	1257	tyrosyl-tRNA synthetase	274	EFAU004_00401.fasta	
+	EFAU004_00402		406261	1878	tyrosine decarboxylase	318	EFAU004_00402.fasta	
+	EFAU004_00403		408381	1422	amino acid permease	262	EFAU004_00403.fasta	
+	EFAU004_00404		409911	1368	Na+/H+ antiporter	347	EFAU004_00404.fasta	
+	EFAU004_00405		411559	1020	LacI family transcriptional regulator	189	EFAU004_00405.fasta	
+	EFAU004_00406		412600	1008	aldose 1-epimerase	252	EFAU004_00406.fasta	
+	EFAU004_00408		414258	2295	glycoside hydrolase, family 65	396	EFAU004_00408.fasta	
+	EFAU004_00409		416812	2166	PTS system glucose-specific transporter subunit IIABC	359	EFAU004_00409.fasta	
+	EFAU004_00410		419281	834	endonuclease/exonuclease/phosphatase family protein	217	EFAU004_00410.fasta	
+	EFAU004_00411		420216	1662	hypothetical protein	355	EFAU004_00411.fasta	
+	EFAU004_00413		423599	444	GNAT family acetyltransferase	119	EFAU004_00413.fasta	
+	EFAU004_00414	padC	424525	531	Phenolic acid decarboxylase	126	EFAU004_00414.fasta	
+	EFAU004_00415		425160	552	PadR family transcriptional regulator	152	EFAU004_00415.fasta	
+	EFAU004_00416		425864	474	MerR family transcriptional regulator	94	EFAU004_00416.fasta	
+	EFAU004_00417		426475	1473	major facilitator superfamily transporter	287	EFAU004_00417.fasta	
+	EFAU004_00418		427944	711	Urea transporter	167	EFAU004_00418.fasta	
+	EFAU004_00419		428886	285	hypothetical protein	94	EFAU004_00419.fasta	
+	EFAU004_00420		429451	420	hypothetical protein	136	EFAU004_00420.fasta	
+	EFAU004_00421		429872	585	aromatic acid decarboxylase	146	EFAU004_00421.fasta	
+	EFAU004_00422		430503	1476	3-octaprenyl-4-hydroxybenzoate carboxy-lyase	310	EFAU004_00422.fasta	
+	EFAU004_00423		432159	312	hypothetical protein	117	EFAU004_00423.fasta	
+	EFAU004_00424		432585	2337	ABC transporter ATP-binding protein/permease	388	EFAU004_00424.fasta	
+	EFAU004_00425		435063	669	DNA-binding response regulator	159	EFAU004_00425.fasta	
+	EFAU004_00426		435734	1044	sensor histidine kinase	234	EFAU004_00426.fasta	
+	EFAU004_00427		437014	882	LysR family transcriptional regulator	230	EFAU004_00427.fasta	
+	EFAU004_00428		438054	729	hypothetical protein	190	EFAU004_00428.fasta	
+	EFAU004_00430		439248	609	membrane protein	174	EFAU004_00430.fasta	
+	EFAU004_00431		439872	831	hypothetical protein	223	EFAU004_00431.fasta	
+	EFAU004_00432		440840	489	hypothetical protein	115	EFAU004_00432.fasta	
+	EFAU004_00433		441379	873	hypothetical protein	230	EFAU004_00433.fasta	
+	EFAU004_00434		442427	363	hypothetical protein	128	EFAU004_00434.fasta	
+	EFAU004_00435		442798	753	ABC transporter ATP-binding protein	170	EFAU004_00435.fasta	
+	EFAU004_00438		446043	642	aldose 1-epimerase	160	EFAU004_00438.fasta	
+	EFAU004_00441		450610	396	D-ribose pyranase	130	EFAU004_00441.fasta	
+	EFAU004_00442		451033	918	ribokinase	156	EFAU004_00442.fasta	
+	EFAU004_00443		452058	1014	LacI family transcriptional regulator	200	EFAU004_00443.fasta	
+	EFAU004_00444		453152	600	isochorismatase family protein	179	EFAU004_00444.fasta	
+	EFAU004_00445		453937	702	ABC transporter ATP-binding protein	121	EFAU004_00445.fasta	
+	EFAU004_00447		457810	1629	glucan 1,6-alpha-glucosidase	282	EFAU004_00447.fasta	
+	EFAU004_00448		459498	1182	putative permease	264	EFAU004_00448.fasta	
+	EFAU004_00449		460931	1524	periplasmic solute binding protein	362	EFAU004_00449.fasta	
+	EFAU004_00450		462523	729	response regulator receiver domain-containing protein	236	EFAU004_00450.fasta	
+	EFAU004_00451		463264	1281	sensor histidine kinase	453	EFAU004_00451.fasta	
+	EFAU004_00453		464684	603	accessory regulator agrBfs protein	160	EFAU004_00453.fasta	
+	EFAU004_00454		465531	207	hypothetical protein	52	EFAU004_00454.fasta	
+	EFAU004_00455		466061	708	deoxynucleoside kinase	161	EFAU004_00455.fasta	
+	EFAU004_00456		466849	684	membrane protein	197	EFAU004_00456.fasta	
+	EFAU004_00457	pcrA	467750	2187	ATP-dependent DNA helicase PcrA	383	EFAU004_00457.fasta	
+	EFAU004_00458		470282	411	transcriptional regulator Spx-family	130	EFAU004_00458.fasta	
+	EFAU004_00459		470706	357	Spx/MgsR family transcriptional regulator	93	EFAU004_00459.fasta	
+	EFAU004_00462	luxS	477448	459	S-ribosylhomocysteinase	81	EFAU004_00462.fasta	
+	EFAU004_00463	metB	478077	1146	cystathionine gamma-synthase	240	EFAU004_00463.fasta	
+	EFAU004_00464	cysM	479235	918	cysteine synthase A	206	EFAU004_00464.fasta	
+	EFAU004_00465	efp	480580	564	translation elongation factor P	104	EFAU004_00465.fasta	
+	EFAU004_00466		481629	1260	diaminopimelate decarboxylase	288	EFAU004_00466.fasta	
+	EFAU004_00468		483678	882	dihydrodipicolinate synthase	203	EFAU004_00468.fasta	
+	EFAU004_00469		484556	717	dihydrodipicolinate reductase	185	EFAU004_00469.fasta	
+	EFAU004_00470		485278	696	2,3,4,5-tetrahydropyridine-2,6-carboxylate N-succinyltransferase	149	EFAU004_00470.fasta	
+	EFAU004_00471		485989	1002	aspartate-semialdehyde dehydrogenase	190	EFAU004_00471.fasta	
+	EFAU004_00472		486987	1362	aspartate kinase	267	EFAU004_00472.fasta	
+	EFAU004_00474		489434	1170	aromatic amino acid aminotransferase	266	EFAU004_00474.fasta	
+	EFAU004_00475		490778	1380	NADH peroxidase	285	EFAU004_00475.fasta	
+	EFAU004_00478		493424	669	membrane protein	182	EFAU004_00478.fasta	
+	EFAU004_00480		494650	1383	DNA directed DNA polymerase	340	EFAU004_00480.fasta	
+	EFAU004_00481		496188	1188	galactokinase	239	EFAU004_00481.fasta	
+	EFAU004_00482		497382	1032	aldose 1-epimerase	284	EFAU004_00482.fasta	
+	EFAU004_00483		498429	1455	sodium/galactoside symporter	318	EFAU004_00483.fasta	
+	EFAU004_00484		500058	906	AraC-like ligand binding domain protein	259	EFAU004_00484.fasta	
+	EFAU004_00485		501054	678	NAD(P)H dehydrogenase	148	EFAU004_00485.fasta	
+	EFAU004_00486		501728	171	hypothetical protein	37	EFAU004_00486.fasta	
+	EFAU004_00487		502012	897	hypothetical protein	227	EFAU004_00487.fasta	
+	EFAU004_00488	ybxG	502963	1371	amino acid permease	281	EFAU004_00488.fasta	
+	EFAU004_00489		504571	747	ABC transporter ATP-binding protein	237	EFAU004_00489.fasta	
+	EFAU004_00490		505314	840	metal ion ABC transporter permease	182	EFAU004_00490.fasta	
+	EFAU004_00491		506154	951	periplasmic solute binding protein	246	EFAU004_00491.fasta	
+	EFAU004_00492		507245	753	hypothetical protein	180	EFAU004_00492.fasta	
+	EFAU004_00493		508016	1152	iron-sulfur cluster-binding protein	258	EFAU004_00493.fasta	
+	EFAU004_00494		509550	609	LysM domain-containing protein	103	EFAU004_00494.fasta	
+	EFAU004_00495		510326	1638	phosphoenolpyruvate carboxykinase	334	EFAU004_00495.fasta	
+	EFAU004_00496		512035	1113	FAD dependent oxidoreductase	263	EFAU004_00496.fasta	
+	EFAU004_00497		513222	1374	major facilitator superfamily transporter	403	EFAU004_00497.fasta	
+	EFAU004_00498		514816	618	hypothetical protein	214	EFAU004_00498.fasta	
+	EFAU004_00499		515531	456	arginine repressor protein	108	EFAU004_00499.fasta	
+	EFAU004_00500		516004	1503	phosphoglucomutase/phosphomannomutase family protein	336	EFAU004_00500.fasta	
+	EFAU004_00501		517601	207	hypothetical protein	94	EFAU004_00501.fasta	
+	EFAU004_00502		517893	402	peroxiredoxin, Ohr family protein	116	EFAU004_00502.fasta	
+	EFAU004_00503		518449	1332	pyridine nucleotide-disulfide oxidoreductase	256	EFAU004_00503.fasta	
+	EFAU004_00504		519802	627	isochorismatase hydrolase	179	EFAU004_00504.fasta	
+	EFAU004_00505		520611	582	TetR family transcriptional regulator	134	EFAU004_00505.fasta	
+	EFAU004_00506		521924	348	hypothetical protein	84	EFAU004_00506.fasta	
+	EFAU004_00524		540335	675	DNA-binding response regulator	165	EFAU004_00524.fasta	
+	EFAU004_00525		541027	1026	sensor histidine kinase	300	EFAU004_00525.fasta	
+	EFAU004_00526		542141	867	glucose uptake protein	180	EFAU004_00526.fasta	
+	EFAU004_00527		543044	1377	amino acid permease	349	EFAU004_00527.fasta	
+	EFAU004_00528		544521	1197	tellurite resistance protein	229	EFAU004_00528.fasta	
+	EFAU004_00529		545841	663	5-bromo-4-chloroindolyl phosphate hydrolysis protein	173	EFAU004_00529.fasta	
+	EFAU004_00530		546731	564	nudix hydrolase, YffH family	151	EFAU004_00530.fasta	
+	EFAU004_00531		547307	285	hypothetical protein	108	EFAU004_00531.fasta	
+	EFAU004_00532		547610	693	5'-methylthioadenosine/S-adenosylhomocysteine nucleosidase	118	EFAU004_00532.fasta	
+	EFAU004_00533		548314	546	isochorismatase family protein	150	EFAU004_00533.fasta	
+	EFAU004_00535		552949	1908	Peptidase family M13	421	EFAU004_00535.fasta	
+	EFAU004_00537	prs2	555941	975	ribose-phosphate pyrophosphokinase	181	EFAU004_00537.fasta	
+	EFAU004_00538		557104	1137	Putative cysteine desulfurase	237	EFAU004_00538.fasta	
+	EFAU004_00539		558377	345	hypothetical protein	76	EFAU004_00539.fasta	
+	EFAU004_00542	mnmA	561419	1122	tRNA-specific 2-thiouridylase MnmA	242	EFAU004_00542.fasta	
+	EFAU004_00543		562786	1422	amino acid permease	314	EFAU004_00543.fasta	
+	EFAU004_00544		564221	1119	aspartate aminotransferase	279	EFAU004_00544.fasta	
+	EFAU004_00546		566841	561	TetR family transcriptional regulator	171	EFAU004_00546.fasta	
+	EFAU004_00547		567530	378	hypothetical protein	92	EFAU004_00547.fasta	
+	EFAU004_00548		567942	1971	DNA topoisomerase III	373	EFAU004_00548.fasta	
+	EFAU004_00549		570123	948	glycosyl transferase family protein	234	EFAU004_00549.fasta	
+	EFAU004_00550		571316	465	methylated-DNA--protein-cysteine methyltransferase	121	EFAU004_00550.fasta	
+	EFAU004_00551		571842	1044	membrane protein	252	EFAU004_00551.fasta	
+	EFAU004_00552		573262	966	C4-dicarboxylate transporter/malic acid transport protein	219	EFAU004_00552.fasta	
+	EFAU004_00553		574461	846	LysR family transcriptional regulator	180	EFAU004_00553.fasta	
+	EFAU004_00554		575497	1188	FtsW/RodA/SpoVE family cell cycle protein	255	EFAU004_00554.fasta	
+	EFAU004_00555		576690	357	ArsC family protein	106	EFAU004_00555.fasta	
+	EFAU004_00556		577048	339	glycine cleavage H-protein	63	EFAU004_00556.fasta	
+	EFAU004_00557	metN2	577772	1044	ABC transporter ATP-binding protein	198	EFAU004_00557.fasta	
+	EFAU004_00559	metQ	579518	849	putative D-methionine-binding lipoprotein MetQ	168	EFAU004_00559.fasta	
+	EFAU004_00560		580563	774	ABC transporter ATP-binding protein	174	EFAU004_00560.fasta	
+	EFAU004_00561	sufD	581349	1287	FeS assembly protein SufD	277	EFAU004_00561.fasta	
+	EFAU004_00562	csd	582632	1236	cysteine desulfurase	269	EFAU004_00562.fasta	
+	EFAU004_00564	sufB	584329	1392	FeS assembly protein SufB	423	EFAU004_00564.fasta	
+	EFAU004_00583		610425	639	ABC transporter ATP-binding protein	222	EFAU004_00583.fasta	
+	EFAU004_00585	prsA	611976	912	putative foldase protein PrsA	239	EFAU004_00585.fasta	
+	EFAU004_00587		613635	885	diacylglycerol kinase catalytic subunit	257	EFAU004_00587.fasta	
+	EFAU004_00596		623692	228	HxlR-like helix-turn-helix protein	93	EFAU004_00596.fasta	
+	EFAU004_00597		624042	327	MazG nucleotide pyrophosphohydrolase	151	EFAU004_00597.fasta	
+	EFAU004_00598		624436	714	sortase family protein	230	EFAU004_00598.fasta	
+	EFAU004_00599		625459	852	BglG family transcriptional antiterminator	292	EFAU004_00599.fasta	
+	EFAU004_00601		626431	1866	PTS system beta-glucoside-specific transporter subunit IIABC	428	EFAU004_00601.fasta	
+	EFAU004_00602		628344	1410	6-phospho-beta-glucosidase	186	EFAU004_00602.fasta	
+	EFAU004_00603		629861	702	GntR family transcriptional regulator	183	EFAU004_00603.fasta	
+	EFAU004_00606		632048	576	putative lysine decarboxylase	205	EFAU004_00606.fasta	
+	EFAU004_00607		632623	441	Nucleoside 2-deoxyribosyltransferase	154	EFAU004_00607.fasta	
+	EFAU004_00608		633079	702	deoxynucleoside kinase	198	EFAU004_00608.fasta	
+	EFAU004_00609		634009	174	hypothetical protein	65	EFAU004_00609.fasta	
+	EFAU004_00610		634268	426	hypothetical protein	159	EFAU004_00610.fasta	
+	EFAU004_00611		635067	972	LacI family transcriptional regulator	290	EFAU004_00611.fasta	
+	EFAU004_00612		636070	1398	putative 6-phospho-beta-glucosidase	377	EFAU004_00612.fasta	
+	EFAU004_00613		637626	624	hypothetical protein	224	EFAU004_00613.fasta	
+	EFAU004_00616		642139	438	nucleoside diphosphate kinase	140	EFAU004_00616.fasta	
+	EFAU004_00617		643265	2649	magnesium-translocating P-type ATPase	513	EFAU004_00617.fasta	
+	EFAU004_00618		646000	672	HAD superfamily hydrolase	243	EFAU004_00618.fasta	
+	EFAU004_00620	metN1	647318	1074	ABC transporter ATP-binding protein	293	EFAU004_00620.fasta	
+	EFAU004_00621		648393	681	ABC transporter permease	192	EFAU004_00621.fasta	
+	EFAU004_00622		649090	840	YaeC family lipoprotein	217	EFAU004_00622.fasta	
+	EFAU004_00623		649960	1224	peptidase M20D	330	EFAU004_00623.fasta	
+	EFAU004_00624		651586	1419	Na+/H+ antiporter	329	EFAU004_00624.fasta	
+	EFAU004_00625		653508	444	hypothetical protein	127	EFAU004_00625.fasta	
+	EFAU004_00626		654169	1341	amino acid permease	377	EFAU004_00626.fasta	
+	EFAU004_00627		655778	897	hypothetical protein	297	EFAU004_00627.fasta	
+	EFAU004_00628		656824	942	2-dehydropantoate 2-reductase	268	EFAU004_00628.fasta	
+	EFAU004_00629		657891	1122	glycerate kinase	359	EFAU004_00629.fasta	
+	EFAU004_00630		659270	1503	ABC transporter ATP-binding protein	424	EFAU004_00630.fasta	
+	EFAU004_00631		660839	528	phosphoglycerate mutase family protein	138	EFAU004_00631.fasta	
+	EFAU004_00632		661577	1062	hypothetical protein	291	EFAU004_00632.fasta	
+	EFAU004_00633	murQ	662641	897	N-acetylmuramic acid 6-phosphate etherase	210	EFAU004_00633.fasta	
+	EFAU004_00635	nrdI	665598	447	putative flavoprotein NrdI	146	EFAU004_00635.fasta	
+	EFAU004_00636		666255	1425	putative arginine/ornithine antiporter	348	EFAU004_00636.fasta	
+	EFAU004_00637		667860	774	ABC transporter protein	213	EFAU004_00637.fasta	
+	EFAU004_00639		669689	321	SMR family multidrug resistance protein	90	EFAU004_00639.fasta	
+	EFAU004_00640		670483	687	hypothetical protein	179	EFAU004_00640.fasta	
+	EFAU004_00641		671171	945	membrane protein	228	EFAU004_00641.fasta	
+	EFAU004_00642		672314	645	pyrrolidone-carboxylate peptidase	154	EFAU004_00642.fasta	
+	EFAU004_00643		673037	1278	hypothetical protein	328	EFAU004_00643.fasta	
+	EFAU004_00644	pnuC	674498	750	nicotinamide mononucleotide transporter PnuC	176	EFAU004_00644.fasta	
+	EFAU004_00647		676639	180	hypothetical protein	54	EFAU004_00647.fasta	
+	EFAU004_00648		676873	564	GNAT family acetyltransferase	133	EFAU004_00648.fasta	
+	EFAU004_00649		677483	516	hypothetical protein	104	EFAU004_00649.fasta	
+	EFAU004_00650		678024	870	HAD superfamily hydrolase	198	EFAU004_00650.fasta	
+	EFAU004_00651	ung	679019	681	uracil-DNA glycosylase	204	EFAU004_00651.fasta	
+	EFAU004_00652		679852	981	phosphate acetyltransferase	181	EFAU004_00652.fasta	
+	EFAU004_00654		681421	525	GNAT family acetyltransferase	143	EFAU004_00654.fasta	
+	EFAU004_00655		682435	534	exonuclease, DNA polymerase III, epsilon subunit family protein	175	EFAU004_00655.fasta	
+	EFAU004_00656		683832	753	exodeoxyribonuclease III	234	EFAU004_00656.fasta	
+	EFAU004_00657		684697	921	oxidoreductase family, NAD-binding Rossmann fold protein	290	EFAU004_00657.fasta	
+	EFAU004_00658	murB	685690	936	UDP-N-acetylenolpyruvoylglucosamine reductase	221	EFAU004_00658.fasta	
+	EFAU004_00662		692340	570	GNAT family acetyltransferase	240	EFAU004_00662.fasta	
+	EFAU004_00663		693084	807	hypothetical protein	233	EFAU004_00663.fasta	
+	EFAU004_00664		694028	1515	fumarate reductase flavoprotein subunit	405	EFAU004_00664.fasta	
+	EFAU004_00665		695945	984	NAD(P)H quinone oxidoreductase	210	EFAU004_00665.fasta	
+	EFAU004_00666		696933	648	NAD dependent epimerase/dehydratase family protein	193	EFAU004_00666.fasta	
+	EFAU004_00667		697665	633	hypothetical protein	139	EFAU004_00667.fasta	
+	EFAU004_00668	coaC	698313	552	phosphopantothenoylcysteine decarboxylase	128	EFAU004_00668.fasta	
+	EFAU004_00669		698861	738	phosphopantothenate--cysteine ligase	216	EFAU004_00669.fasta	
+	EFAU004_00670		699595	990	YhdH/YhfP family quinone oxidoreductase	258	EFAU004_00670.fasta	
+	EFAU004_00671		700842	543	helix-turn-helix domain-containing protein	127	EFAU004_00671.fasta	
+	EFAU004_00672	potA	701401	1086	Spermidine/putrescine import ATP-binding protein PotA	214	EFAU004_00672.fasta	
+	EFAU004_00673		702498	807	spermidine/putrescine ABC superfamily ATP binding cassette transporter, membrane protein	196	EFAU004_00673.fasta	
+	EFAU004_00674	potC	703305	828	spermidine/putrescine transport system permease protein PotC	202	EFAU004_00674.fasta	
+	EFAU004_00675		704129	1074	spermidine/putrescine-binding periplasmic protein PotD	255	EFAU004_00675.fasta	
+	EFAU004_00689		721056	1131	methionine synthase	318	EFAU004_00689.fasta	
+	EFAU004_00691		723563	393	MerR family transcriptional regulator	97	EFAU004_00691.fasta	
+	EFAU004_00692	glnA	723983	1341	glutamine synthetase, type I	224	EFAU004_00692.fasta	
+	EFAU004_00694	pyrG	726516	1611	CTP synthase	299	EFAU004_00694.fasta	
+	EFAU004_00695	fba	728418	870	fructose-bisphosphate aldolase	135	EFAU004_00695.fasta	
+	EFAU004_00696	murA1	729452	1272	UDP-N-acetylglucosamine 1-carboxyvinyltransferase	300	EFAU004_00696.fasta	
+	EFAU004_00697	rho	730720	1296	transcription termination factor Rho	335	EFAU004_00697.fasta	
+	EFAU004_00698	rpmE2	732114	264	50S ribosomal protein L31	62	EFAU004_00698.fasta	
+	EFAU004_00703		736700	366	hypothetical protein	85	EFAU004_00703.fasta	
+	EFAU004_00704		737213	1209	transporter, major facilitator family protein	227	EFAU004_00704.fasta	
+	EFAU004_00705		738440	279	hypothetical protein	47	EFAU004_00705.fasta	
+	EFAU004_00706		738871	696	CarD family transcriptional regulator	161	EFAU004_00706.fasta	
+	EFAU004_00707		740008	798	hypothetical protein	245	EFAU004_00707.fasta	
+	EFAU004_00708		740802	1185	hypothetical protein	339	EFAU004_00708.fasta	
+	EFAU004_00709		742011	1248	Putative virion core protein	254	EFAU004_00709.fasta	
+	EFAU004_00710		743473	1746	DNA polymerase III subunits gamma and tau	284	EFAU004_00710.fasta	
+	EFAU004_00711		745238	315	hypothetical protein	80	EFAU004_00711.fasta	
+	EFAU004_00712	recR	745577	597	recombination protein RecR	105	EFAU004_00712.fasta	
+	EFAU004_00713	tmk	746237	645	thymidylate kinase	124	EFAU004_00713.fasta	
+	EFAU004_00714		746896	330	hypothetical protein	79	EFAU004_00714.fasta	
+	EFAU004_00715		747239	939	DNA polymerase III subunit delta'	259	EFAU004_00715.fasta	
+	EFAU004_00716		748213	825	stage 0 sporulation family protein	244	EFAU004_00716.fasta	
+	EFAU004_00718		749446	873	tetrapyrrole methylase family protein	265	EFAU004_00718.fasta	
+	EFAU004_00720		751602	603	anaerobic ribonucleoside-triphosphate reductase activating protein	141	EFAU004_00720.fasta	
+	EFAU004_00721		752519	2190	anaerobic ribonucleoside triphosphate reductase	344	EFAU004_00721.fasta	
+	EFAU004_00723		755791	2043	efflux ABC transporter permease	507	EFAU004_00723.fasta	
+	EFAU004_00724		758114	150	hypothetical protein	41	EFAU004_00724.fasta	
+	EFAU004_00725		758274	1515	D-alanine--poly(phosphoribitol) ligase subunit 1	359	EFAU004_00725.fasta	
+	EFAU004_00726		759785	1206	membrane bound O-acyl transferase	282	EFAU004_00726.fasta	
+	EFAU004_00727	dltC	761035	234	D-alanine--poly(phosphoribitol) ligase subunit 2	53	EFAU004_00727.fasta	
+	EFAU004_00729		762680	1083	M42 glutamyl aminopeptidase	211	EFAU004_00729.fasta	
+	EFAU004_00730		763762	804	integral membrane protein	192	EFAU004_00730.fasta	
+	EFAU004_00731		764635	741	metallo-beta-lactamase domain-containing protein	143	EFAU004_00731.fasta	
+	EFAU004_00732		765386	1005	lipoyltransferase and lipoate-protein ligase A	237	EFAU004_00732.fasta	
+	EFAU004_00735		769137	684	O-methyltransferase	180	EFAU004_00735.fasta	
+	EFAU004_00737		770843	1632	sulfate transporter/STAS domain-containing protein	412	EFAU004_00737.fasta	
+	EFAU004_00739	rplU	773459	309	50S ribosomal protein L21	75	EFAU004_00739.fasta	
+	EFAU004_00740		773794	345	putative ribosomal protein	57	EFAU004_00740.fasta	
+	EFAU004_00741	rpmA	774151	294	50S ribosomal protein L27	50	EFAU004_00741.fasta	
+	EFAU004_00743		777876	492	PTS system, mannose/fructose/sorbose-specific IIB component	137	EFAU004_00743.fasta	
+	EFAU004_00748		781826	246	transglycosylase associated protein	67	EFAU004_00748.fasta	
+	EFAU004_00749		782243	1065	Xaa-Pro dipeptidase	226	EFAU004_00749.fasta	
+	EFAU004_00751	nusB	783971	450	transcription antitermination factor NusB	113	EFAU004_00751.fasta	
+	EFAU004_00752	folD	784517	855	tetrahydrofolate dehydrogenase/cyclohydrolase, NAD(P)-binding domain protein	180	EFAU004_00752.fasta	
+	EFAU004_00753	xseA	785372	1338	exodeoxyribonuclease VII large subunit	290	EFAU004_00753.fasta	
+	EFAU004_00754		786714	225	exodeoxyribonuclease VII small subunit	43	EFAU004_00754.fasta	
+	EFAU004_00755		786940	891	geranyltranstransferase	202	EFAU004_00755.fasta	
+	EFAU004_00756		787839	819	hemolysin A	207	EFAU004_00756.fasta	
+	EFAU004_00757		788764	450	arginine repressor protein	76	EFAU004_00757.fasta	
+	EFAU004_00758	recN	789231	1683	DNA repair protein RecN	346	EFAU004_00758.fasta	
+	EFAU004_00759		790968	117	hypothetical protein	40	EFAU004_00759.fasta	
+	EFAU004_00760		791157	957	CorA-like Mg2+ transporter protein	247	EFAU004_00760.fasta	
+	EFAU004_00761		792284	369	hypothetical protein	118	EFAU004_00761.fasta	
+	EFAU004_00762	mraZ	792822	432	cell division protein MraZ	116	EFAU004_00762.fasta	
+	EFAU004_00763	mraW	793274	960	S-adenosyl-methyltransferase MraW	194	EFAU004_00763.fasta	
+	EFAU004_00764	ftsL	794238	402	cell division protein FtsL	150	EFAU004_00764.fasta	
+	EFAU004_00765		794640	2193	peptidoglycan glycosyltransferase	494	EFAU004_00765.fasta	
+	EFAU004_00766	mraY	796858	963	phospho-N-acetylmuramoyl-pentapeptide- transferase	248	EFAU004_00766.fasta	
+	EFAU004_00767	murD	797834	1362	UDP-N-acetylmuramoylalanine--D-glutamate ligase	348	EFAU004_00767.fasta	
+	EFAU004_00768	murG	799221	1089	undecaprenyldiphospho-muramoylpentapeptide beta-N-acetylglucosaminyltransferase	257	EFAU004_00768.fasta	
+	EFAU004_00769	ftsQ	800324	1221	cell division protein FtsQ	325	EFAU004_00769.fasta	
+	EFAU004_00770	ftsA	801700	1326	cell division protein FtsA	198	EFAU004_00770.fasta	
+	EFAU004_00771	ftsZ	803048	1242	cell division protein FtsZ	218	EFAU004_00771.fasta	
+	EFAU004_00772		804306	678	alanine racemase	119	EFAU004_00772.fasta	
+	EFAU004_00773		804997	600	hypothetical protein	196	EFAU004_00773.fasta	
+	EFAU004_00774		805947	783	S4 domain-containing protein	184	EFAU004_00774.fasta	
+	EFAU004_00775		806750	708	cell division protein DivIVA	141	EFAU004_00775.fasta	
+	EFAU004_00776	ileS	807719	2799	isoleucyl-tRNA synthetase	423	EFAU004_00776.fasta	
+	EFAU004_00777		810566	1527	glucose-6-phosphate 1-dehydrogenase	294	EFAU004_00777.fasta	
+	EFAU004_00778		812107	648	iron dependent repressor, DNA binding domain protein	134	EFAU004_00778.fasta	
+	EFAU004_00779		812938	342	hypothetical protein	122	EFAU004_00779.fasta	
+	EFAU004_00781		814188	1014	oxidoreductase family, NAD-binding Rossmann fold protein	240	EFAU004_00781.fasta	
+	EFAU004_00782		815201	1278	DEAD/DEAH box helicase	379	EFAU004_00782.fasta	
+	EFAU004_00784		818608	636	transcriptional antiterminator bglG/Sigma-54 factor	173	EFAU004_00784.fasta	
+	EFAU004_00785		819395	318	PTS system lactose/cellobiose-specific transporter subunit IIB	83	EFAU004_00785.fasta	
+	EFAU004_00786		819742	321	PTS system, lactose/cellobiose-specific IIA component	101	EFAU004_00786.fasta	
+	EFAU004_00787		820170	1461	PTS system lactose/cellobiose-specific transporter subunit IIC	287	EFAU004_00787.fasta	
+	EFAU004_00788		821698	222	hypothetical protein	57	EFAU004_00788.fasta	
+	EFAU004_00789		821950	183	hypothetical protein	66	EFAU004_00789.fasta	
+	EFAU004_00790		822132	414	hypothetical protein	115	EFAU004_00790.fasta	
+	EFAU004_00791		822668	1182	acetyltransferase	324	EFAU004_00791.fasta	
+	EFAU004_00792		823920	165	hypothetical protein	86	EFAU004_00792.fasta	
+	EFAU004_00870		879917	2037	penicillin binding protein transpeptidase domain protein	948	EFAU004_00870.fasta	
+	EFAU004_00871	napA	882062	1152	transporter, monovalent cation:proton antiporter-2 family protein	273	EFAU004_00871.fasta	
+	EFAU004_00872		883367	531	hypothetical protein	160	EFAU004_00872.fasta	
+	EFAU004_00875	ahpC	886042	564	alkyl hydroperoxide reductase subunit C	155	EFAU004_00875.fasta	
+	EFAU004_00876		886749	663	GntR family transcriptional regulator	181	EFAU004_00876.fasta	
+	EFAU004_00877		887595	1647	mannitol dehydrogenase protein	461	EFAU004_00877.fasta	
+	EFAU004_00882	marR	894606	441	DNA-binding transcriptional repressor MarR	175	EFAU004_00882.fasta	
+	EFAU004_00883		895103	411	peroxiredoxin, Ohr family protein	132	EFAU004_00883.fasta	
+	EFAU004_00884		895694	435	MerR family transcriptional regulator	134	EFAU004_00884.fasta	
+	EFAU004_00887		899333	1260	extracellular solute-binding protein	288	EFAU004_00887.fasta	
+	EFAU004_00888		900739	1302	ABC transporter permease	319	EFAU004_00888.fasta	
+	EFAU004_00889	mdxG	902043	852	ABC transporter permease	303	EFAU004_00889.fasta	
+	EFAU004_00890		902907	816	integral membrane protein	245	EFAU004_00890.fasta	
+	EFAU004_00891		903873	1167	cyclopropane-fatty-acyl-phospholipid synthase	277	EFAU004_00891.fasta	
+	EFAU004_00892		905269	648	lysis protein	219	EFAU004_00892.fasta	
+	EFAU004_00893	pyrDA	906000	945	dihydroorotate dehydrogenase 1A	282	EFAU004_00893.fasta	
+	EFAU004_00894		907079	1452	amidase	374	EFAU004_00894.fasta	
+	EFAU004_00895		908551	837	family 3 extracellular solute-binding protein	314	EFAU004_00895.fasta	
+	EFAU004_00896		909387	660	amino acid ABC transporter, amino acid-binding/permease	185	EFAU004_00896.fasta	
+	EFAU004_00897		910172	690	hypothetical protein	178	EFAU004_00897.fasta	
+	EFAU004_00898		910867	957	hypothetical protein	256	EFAU004_00898.fasta	
+	EFAU004_00899		911867	513	GNAT family acetyltransferase	160	EFAU004_00899.fasta	
+	EFAU004_00901	nupC	913272	1182	Na dependent nucleoside transporter, NupC family	298	EFAU004_00901.fasta	
+	EFAU004_00902		914689	1509	ATP-dependent Zn protease	333	EFAU004_00902.fasta	
+	EFAU004_00903		916356	192	hypothetical protein	54	EFAU004_00903.fasta	
+	EFAU004_00905		917660	1074	hypothetical protein	245	EFAU004_00905.fasta	
+	EFAU004_00906		918881	519	hypothetical protein	161	EFAU004_00906.fasta	
+	EFAU004_00908		919848	936	cation diffusion facilitator family transporter	234	EFAU004_00908.fasta	
+	EFAU004_00909		920916	780	putative azaleucine resistance protein AzlC	255	EFAU004_00909.fasta	
+	EFAU004_00911		922249	1611	polysaccharide biosynthesis family protein	325	EFAU004_00911.fasta	
+	EFAU004_00912		924016	849	EDD domain-containing protein, DegV family	324	EFAU004_00912.fasta	
+	EFAU004_00914		926606	480	hypothetical protein	150	EFAU004_00914.fasta	
+	EFAU004_00915	clpX	927118	2229	ATP-dependent protease ATP-binding subunit ClpX	527	EFAU004_00915.fasta	
+	EFAU004_00916		929475	1644	alpha amylase	344	EFAU004_00916.fasta	
+	EFAU004_00917		931191	546	hypothetical protein	190	EFAU004_00917.fasta	
+	EFAU004_00919		932234	813	phosphomethylpyrimidine kinase	213	EFAU004_00919.fasta	
+	EFAU004_00921	xerC	934826	1032	site-specific tyrosine recombinase XerC-family	223	EFAU004_00921.fasta	
+	EFAU004_00922		936581	987	hypothetical protein	270	EFAU004_00922.fasta	
+	EFAU004_00936		954072	306	hypothetical protein	88	EFAU004_00936.fasta	
+	EFAU004_00945	ldhB	963051	945	L-lactate dehydrogenase	219	EFAU004_00945.fasta	
+	EFAU004_00950		968310	411	3-demethylubiquinone-9 3-methyltransferase	138	EFAU004_00950.fasta	
+	EFAU004_00951		968837	1164	transcriptional regulator, PSR protein	356	EFAU004_00951.fasta	
+	EFAU004_00952		970178	855	shikimate 5-dehydrogenase	263	EFAU004_00952.fasta	
+	EFAU004_00953		971311	771	ABC transporter ATP-binding protein	225	EFAU004_00953.fasta	
+	EFAU004_00954		972084	882	amino acid or sugar ABC transport system, permease protein	212	EFAU004_00954.fasta	
+	EFAU004_00955		972962	1050	ABC transporter substrate binding protein	347	EFAU004_00955.fasta	
+	EFAU004_00956		974461	624	hypothetical protein	195	EFAU004_00956.fasta	
+	EFAU004_00958		976328	1707	fibronectin-binding protein A	393	EFAU004_00958.fasta	
+	EFAU004_00959		978192	903	LysR family transcriptional regulator	225	EFAU004_00959.fasta	
+	EFAU004_00960		979091	705	carbonic anhydrase	210	EFAU004_00960.fasta	
+	EFAU004_00961		979826	642	HD domain-containing protein	166	EFAU004_00961.fasta	
+	EFAU004_00962	pyrE	980807	630	orotate phosphoribosyltransferase	178	EFAU004_00962.fasta	
+	EFAU004_00963		981443	717	Orotidine 5'-phosphate decarboxylase	196	EFAU004_00963.fasta	
+	EFAU004_00964	pyrDB	982156	933	Dihydroorotate dehydrogenase 1B	215	EFAU004_00964.fasta	
+	EFAU004_00965		983085	777	dihydroorotate dehydrogenase, electron transfer subunit	193	EFAU004_00965.fasta	
+	EFAU004_00966	carB	983915	3186	carbamoyl-phosphate synthase large subunit	490	EFAU004_00966.fasta	
+	EFAU004_00967	carA	987105	1077	carbamoyl-phosphate synthase small subunit	219	EFAU004_00967.fasta	
+	EFAU004_00968	pyrC	988186	1281	Dihydroorotase	415	EFAU004_00968.fasta	
+	EFAU004_00969	pyrB	989485	927	aspartate carbamoyltransferase	200	EFAU004_00969.fasta	
+	EFAU004_00970		990424	1284	uracil permease	280	EFAU004_00970.fasta	
+	EFAU004_00971	pyrR	991721	540	pyrimidine operon regulatory protein/uracil phosphoribosyltransferase PyrR	113	EFAU004_00971.fasta	
+	EFAU004_00972		992495	912	RluA family pseudouridine synthase	188	EFAU004_00972.fasta	
+	EFAU004_00973	lspA	993403	465	lipoprotein signal peptidase	126	EFAU004_00973.fasta	
+	EFAU004_00974		993872	699	hypothetical protein	184	EFAU004_00974.fasta	
+	EFAU004_00976	fhs2	995090	1671	Formate--tetrahydrofolate ligase	363	EFAU004_00976.fasta	
+	EFAU004_00977		996943	234	cold shock domain-containing protein	53	EFAU004_00977.fasta	
+	EFAU004_00979		997785	414	ribonuclease HI	140	EFAU004_00979.fasta	
+	EFAU004_00980		998236	1149	cation diffusion facilitator family transporter	337	EFAU004_00980.fasta	
+	EFAU004_00981		999506	597	integral membrane protein	153	EFAU004_00981.fasta	
+	EFAU004_00982	alaS	1000302	2643	alanyl-tRNA synthetase	459	EFAU004_00982.fasta	
+	EFAU004_00983		1003332	432	GNAT family acetyltransferase	152	EFAU004_00983.fasta	
+	EFAU004_00984		1003808	1350	DEAD/DEAH box helicase	321	EFAU004_00984.fasta	
+	EFAU004_00986		1006519	324	hypothetical protein	83	EFAU004_00986.fasta	
+	EFAU004_00988		1008443	954	NAD-dependent nucleoside-diphosphate-sugar epimerase	286	EFAU004_00988.fasta	
+	EFAU004_00991		1011333	684	HD domain-containing protein	217	EFAU004_00991.fasta	
+	EFAU004_00992		1012097	1497	carboxypeptidase Taq metallopeptidase	340	EFAU004_00992.fasta	
+	EFAU004_00994		1015403	420	cell division protein DivIVA	104	EFAU004_00994.fasta	
+	EFAU004_00995		1015912	540	hypothetical protein	171	EFAU004_00995.fasta	
+	EFAU004_00997		1017152	2382	penicillin-binding protein 1A	487	EFAU004_00997.fasta	
+	EFAU004_00999		1020489	678	endonuclease III	231	EFAU004_00999.fasta	
+	EFAU004_01000		1021173	699	DnaD and phage-associated domain protein	216	EFAU004_01000.fasta	
+	EFAU004_01002		1023329	444	MarR family transcriptional regulator	147	EFAU004_01002.fasta	
+	EFAU004_01004	nox	1024456	1353	NADH oxidase	253	EFAU004_01004.fasta	
+	EFAU004_01005	perR	1026081	447	Fur family transcriptional regulator	124	EFAU004_01005.fasta	
+	EFAU004_01006		1026763	927	cysteine synthase A	227	EFAU004_01006.fasta	
+	EFAU004_01007		1027829	888	N-acetylmuramoyl-L-alanine amidase	242	EFAU004_01007.fasta	
+	EFAU004_01009	tkt	1030029	1998	transketolase	336	EFAU004_01009.fasta	
+	EFAU004_01010		1032128	252	hypothetical protein	124	EFAU004_01010.fasta	
+	EFAU004_01011	lexA	1032526	624	LexA repressor	136	EFAU004_01011.fasta	
+	EFAU004_01012		1033329	219	hypothetical protein	46	EFAU004_01012.fasta	
+	EFAU004_01013	apt	1033836	513	adenine phosphoribosyltransferase	114	EFAU004_01013.fasta	
+	EFAU004_01014	recJ	1034362	2298	single-stranded-DNA-specific exonuclease RecJ	487	EFAU004_01014.fasta	
+	EFAU004_01015		1036801	435	hypothetical protein	129	EFAU004_01015.fasta	
+	EFAU004_01016		1037245	789	short chain dehydrogenase/reductase family oxidoreductase	221	EFAU004_01016.fasta	
+	EFAU004_01017	rnz	1038030	942	Ribonuclease Z	197	EFAU004_01017.fasta	
+	EFAU004_01018		1039148	588	hypothetical protein	129	EFAU004_01018.fasta	
+	EFAU004_01019	obg	1039956	1314	Obg family GTPase CgtA	255	EFAU004_01019.fasta	
+	EFAU004_01020		1041557	1011	glyceraldehyde 3-phosphate dehydrogenase	181	EFAU004_01020.fasta	
+	EFAU004_01021		1042652	936	x-Pro dipeptidyl-peptidase	246	EFAU004_01021.fasta	
+	EFAU004_01023		1044826	1095	alpha3-beta1 integrin-binding family protein	220	EFAU004_01023.fasta	
+	EFAU004_01024		1046109	762	cyclophilin type peptidyl-prolyl cis-trans isomerase	244	EFAU004_01024.fasta	
+	EFAU004_01025	fabZ1	1046985	441	(3R)-hydroxymyristoyl-[acyl carrier protein] dehydratase	127	EFAU004_01025.fasta	
+	EFAU004_01026	fabI	1047645	756	Enoyl-[acyl-carrier-protein] reductase	169	EFAU004_01026.fasta	
+	EFAU004_01027	ilvE	1048510	1014	branched-chain amino acid aminotransferase	179	EFAU004_01027.fasta	
+	EFAU004_01028		1049688	921	transporter, small conductance mechanosensitive ion channel family protein	238	EFAU004_01028.fasta	
+	EFAU004_01030		1051495	519	phosphodiesterase	147	EFAU004_01030.fasta	
+	EFAU004_01031		1052014	1356	Ribonuclease PH/Ham1 protein	353	EFAU004_01031.fasta	
+	EFAU004_01032	murI	1053372	834	glutamate racemase	206	EFAU004_01032.fasta	
+	EFAU004_01033		1054355	657	ABC transporter permease	148	EFAU004_01033.fasta	
+	EFAU004_01034		1055027	648	ABC transporter permease	184	EFAU004_01034.fasta	
+	EFAU004_01035		1055687	816	putative adhesin/ABC transporter aspartate/glutamate-binding protein	201	EFAU004_01035.fasta	
+	EFAU004_01036	glnQ	1056516	738	ABC transporter ATP-binding protein	196	EFAU004_01036.fasta	
+	EFAU004_01037	trpS	1057507	1011	Tryptophanyl-tRNA synthetase II	228	EFAU004_01037.fasta	
+	EFAU004_01038	pheT	1058687	2421	phenylalanyl-tRNA synthetase subunit beta	406	EFAU004_01038.fasta	
+	EFAU004_01039	pheS	1061112	1044	phenylalanyl-tRNA synthetase subunit alpha	214	EFAU004_01039.fasta	
+	EFAU004_01040		1062464	342	HxlR-like helix-turn-helix	97	EFAU004_01040.fasta	
+	EFAU004_01041		1062874	3723	ATP-dependent helicase/nuclease subunit A	567	EFAU004_01041.fasta	
+	EFAU004_01042		1066593	3528	ATP-dependent helicase/deoxyribonuclease subunit B	515	EFAU004_01042.fasta	
+	EFAU004_01045		1071820	1467	amino acid/peptide transporter	315	EFAU004_01045.fasta	
+	EFAU004_01046		1073673	597	nitroreductase family protein	167	EFAU004_01046.fasta	
+	EFAU004_01047		1074327	483	hypothetical protein	141	EFAU004_01047.fasta	
+	EFAU004_01048		1074915	198	hypothetical protein	47	EFAU004_01048.fasta	
+	EFAU004_01049		1075407	759	hypothetical protein	274	EFAU004_01049.fasta	
+	EFAU004_01051		1076921	372	hypothetical protein	97	EFAU004_01051.fasta	
+	EFAU004_01052		1077507	186	hypothetical protein	58	EFAU004_01052.fasta	
+	EFAU004_01053		1077775	189	hypothetical protein	63	EFAU004_01053.fasta	
+	EFAU004_01054		1077987	264	hypothetical protein	77	EFAU004_01054.fasta	
+	EFAU004_01058	uspA	1079411	435	universal stress protein UspA	109	EFAU004_01058.fasta	
+	EFAU004_01067	uppP	1088809	834	undecaprenyl-diphosphatase	172	EFAU004_01067.fasta	
+	EFAU004_01068		1089839	1929	cadmium-translocating P-type ATPase	433	EFAU004_01068.fasta	
+	EFAU004_01070		1092830	270	hypothetical protein	71	EFAU004_01070.fasta	
+	EFAU004_01071	rpsT	1093499	255	30S ribosomal protein S20	64	EFAU004_01071.fasta	
+	EFAU004_01072		1093842	1047	DNA polymerase III subunit delta	272	EFAU004_01072.fasta	
+	EFAU004_01077	comEA	1098443	618	competence protein, ComEA	192	EFAU004_01077.fasta	
+	EFAU004_01078		1099330	1044	PDZ domain protein	247	EFAU004_01078.fasta	
+	EFAU004_01080		1100851	561	RsmD family RNA methyltransferase	175	EFAU004_01080.fasta	
+	EFAU004_01083		1102279	1125	hypothetical protein	268	EFAU004_01083.fasta	
+	EFAU004_01084		1103424	3429	pyruvate carboxylase	542	EFAU004_01084.fasta	
+	EFAU004_01085	ftsW	1106878	1164	cell cycle protein FtsW	308	EFAU004_01085.fasta	
+	EFAU004_01086		1108044	303	hypothetical protein	66	EFAU004_01086.fasta	
+	EFAU004_01087	recQ	1108460	1773	ATP-dependent DNA helicase RecQ	412	EFAU004_01087.fasta	
+	EFAU004_01088	typA	1110493	1830	GTP-binding protein TypA/BipA	339	EFAU004_01088.fasta	
+	EFAU004_01089		1112490	759	inositol monophosphatase family protein	234	EFAU004_01089.fasta	
+	EFAU004_01090		1113263	276	hypothetical protein	92	EFAU004_01090.fasta	
+	EFAU004_01091	pdhD	1113700	1407	Dihydrolipoyl dehydrogenase	296	EFAU004_01091.fasta	
+	EFAU004_01093	pdhB	1116782	978	transketolase	184	EFAU004_01093.fasta	
+	EFAU004_01094	pdhA	1117762	1110	pyruvate dehydrogenase E1 component subunit alpha	233	EFAU004_01094.fasta	
+	EFAU004_01095		1119332	1425	GntR family transcriptional regulator	338	EFAU004_01095.fasta	
+	EFAU004_01097		1122254	1206	amino acid or sugar ABC transport system, permease protein	341	EFAU004_01097.fasta	
+	EFAU004_01098	araG	1123461	1527	ABC transporter ATP-binding protein	382	EFAU004_01098.fasta	
+	EFAU004_01099	chvE	1125041	1089	multiple sugar-binding periplasmic receptor ChvE family protein	272	EFAU004_01099.fasta	
+	EFAU004_01102		1128823	1566	AraC family transcriptional regulator	427	EFAU004_01102.fasta	
+	EFAU004_01103		1130521	915	oxidoreductase, aldo/keto reductase family protein	253	EFAU004_01103.fasta	
+	EFAU004_01104		1131557	1275	Phosphoribosylamine--glycine ligase	319	EFAU004_01104.fasta	
+	EFAU004_01105	purH	1132847	1536	bifunctional purine biosynthesis protein PurH	295	EFAU004_01105.fasta	
+	EFAU004_01106		1134379	579	Phosphoribosylglycinamide formyltransferase	185	EFAU004_01106.fasta	
+	EFAU004_01107		1134954	1053	Phosphoribosylformylglycinamidine cyclo-ligase	247	EFAU004_01107.fasta	
+	EFAU004_01109	purL	1137453	2223	Phosphoribosylformylglycinamidine synthase II	422	EFAU004_01109.fasta	
+	EFAU004_01110	purQ	1139676	672	Phosphoribosylformylglycinamidine synthase I	184	EFAU004_01110.fasta	
+	EFAU004_01111		1140349	255	phosphoribosylformylglycinamidine synthase subunit PurS	82	EFAU004_01111.fasta	
+	EFAU004_01112	purC	1140603	729	Phosphoribosylaminoimidazole-succinocarboxamide synthase	226	EFAU004_01112.fasta	
+	EFAU004_01113		1141587	378	hypothetical protein	126	EFAU004_01113.fasta	
+	EFAU004_01115	purB	1143664	1296	Adenylosuccinate lyase	316	EFAU004_01115.fasta	
+	EFAU004_01116		1144972	1125	phosphoribosylaminoimidazole carboxylase, ATPase subunit	270	EFAU004_01116.fasta	
+	EFAU004_01118		1146993	1308	xanthine permease	246	EFAU004_01118.fasta	
+	EFAU004_01119	xpt	1148303	582	xanthine phosphoribosyltransferase	131	EFAU004_01119.fasta	
+	EFAU004_01122		1151371	837	ABC transporter permease	232	EFAU004_01122.fasta	
+	EFAU004_01124		1153127	1284	extracellular solute-binding protein	343	EFAU004_01124.fasta	
+	EFAU004_01125		1155093	684	hypothetical protein	138	EFAU004_01125.fasta	
+	EFAU004_01126		1155794	618	N-acetylmuramoyl-L-alanine amidase	181	EFAU004_01126.fasta	
+	EFAU004_01127		1156421	825	serine-type D-Ala-D-Ala carboxypeptidase	165	EFAU004_01127.fasta	
+	EFAU004_01129		1157972	957	oxidoreductase family, NAD-binding Rossmann fold protein	251	EFAU004_01129.fasta	
+	EFAU004_01130		1159233	957	membrane spanning protein	274	EFAU004_01130.fasta	
+	EFAU004_01131		1160293	603	membrane protein	189	EFAU004_01131.fasta	
+	EFAU004_01132	yuaG	1160983	1500	hypothetical protein	309	EFAU004_01132.fasta	
+	EFAU004_01133		1162498	525	hypothetical protein	139	EFAU004_01133.fasta	
+	EFAU004_01136		1164814	717	response regulator receiver domain-containing protein	260	EFAU004_01136.fasta	
+	EFAU004_01137		1165632	1020	D-isomer specific 2-hydroxyacid dehydrogenase	274	EFAU004_01137.fasta	
+	EFAU004_01139		1167949	1149	N-acetylglucosamine-6-phosphate deacetylase	251	EFAU004_01139.fasta	
+	EFAU004_01140		1169173	837	helix-turn-helix domain-containing protein	205	EFAU004_01140.fasta	
+	EFAU004_01141	alaT	1170193	1221	aminotransferase AlaT	215	EFAU004_01141.fasta	
+	EFAU004_01152		1178549	738	ABC transporter ATPase	195	EFAU004_01152.fasta	
+	EFAU004_01153		1179298	993	ABC-type transporter, periplasmic component	260	EFAU004_01153.fasta	
+	EFAU004_01154		1180305	744	ABC transporter permease	235	EFAU004_01154.fasta	
+	EFAU004_01155		1181289	1323	pyridine nucleotide-disulfide oxidoreductase	348	EFAU004_01155.fasta	
+	EFAU004_01157		1183560	1539	glycine betaine/carnitine/choline ABC transporter	312	EFAU004_01157.fasta	
+	EFAU004_01158		1185514	288	hypothetical protein	128	EFAU004_01158.fasta	
+	EFAU004_01159		1185935	669	hypothetical protein	221	EFAU004_01159.fasta	
+	EFAU004_01161		1187764	948	LacI family transcriptional regulator	279	EFAU004_01161.fasta	
+	EFAU004_01162		1188840	765	putative lipase/esterase	274	EFAU004_01162.fasta	
+	EFAU004_01163		1189608	390	hypothetical protein	128	EFAU004_01163.fasta	
+	EFAU004_01164		1190132	543	hypothetical protein	121	EFAU004_01164.fasta	
+	EFAU004_01165		1190822	633	hypothetical protein	277	EFAU004_01165.fasta	
+	EFAU004_01167	ppaC	1192922	927	manganese-dependent inorganic pyrophosphatase	183	EFAU004_01167.fasta	
+	EFAU004_01168		1193933	762	pyruvate formate-lyase activating enzyme	167	EFAU004_01168.fasta	
+	EFAU004_01169		1194938	2232	formate acetyltransferase	321	EFAU004_01169.fasta	
+	EFAU004_01170	parC	1197446	2451	DNA topoisomerase IV subunit A	458	EFAU004_01170.fasta	
+	EFAU004_01171	parE	1199908	2046	DNA topoisomerase IV subunit B	393	EFAU004_01171.fasta	
+	EFAU004_01172		1202119	435	CoA-binding protein	128	EFAU004_01172.fasta	
+	EFAU004_01173	plsY	1202680	639	acyl-phosphate glycerol 3-phosphate acyltransferase	174	EFAU004_01173.fasta	
+	EFAU004_01174		1203450	876	aldose 1-epimerase	205	EFAU004_01174.fasta	
+	EFAU004_01175	codY	1204407	792	GTP-sensing transcriptional pleiotropic repressor CodY	170	EFAU004_01175.fasta	
+	EFAU004_01176	hslU	1205216	1401	ATP-dependent carboxylate-amine ligase	315	EFAU004_01176.fasta	
+	EFAU004_01177	hslV	1206630	549	ATP-dependent protease HslVU, peptidase subunit	118	EFAU004_01177.fasta	
+	EFAU004_01178	xerC	1207215	906	site-specific tyrosine recombinase XerC-family	265	EFAU004_01178.fasta	
+	EFAU004_01179		1208318	1326	glucose inhibited division protein	238	EFAU004_01179.fasta	
+	EFAU004_01180	topA	1209663	2079	DNA topoisomerase I	348	EFAU004_01180.fasta	
+	EFAU004_01183	ylqF	1213536	861	ribosome biogenesis GTP-binding protein YlqF	226	EFAU004_01183.fasta	
+	EFAU004_01186		1215915	552	signal peptidase I	135	EFAU004_01186.fasta	
+	EFAU004_01187		1216618	228	hypothetical protein	64	EFAU004_01187.fasta	
+	EFAU004_01188	msrA	1216842	519	methionine sulfoxide reductase MsrA	143	EFAU004_01188.fasta	
+	EFAU004_01189		1217380	714	hypothetical protein	156	EFAU004_01189.fasta	
+	EFAU004_01190		1218096	897	GDSL-like lipase/acylhydrolase	231	EFAU004_01190.fasta	
+	EFAU004_01191		1219150	843	DegV family protein	205	EFAU004_01191.fasta	
+	EFAU004_01192		1220124	654	hemolysin III family channel protein	157	EFAU004_01192.fasta	
+	EFAU004_01193	dfrD_1	1220840	528	dihydrofolate reductase	135	EFAU004_01193.fasta	
+	EFAU004_01194	thyA	1221387	948	thymidylate synthase	228	EFAU004_01194.fasta	
+	EFAU004_01195		1222346	1887	ABC transporter ATP-binding protein	398	EFAU004_01195.fasta	
+	EFAU004_01196		1224392	2079	Na+/H+ antiporter	361	EFAU004_01196.fasta	
+	EFAU004_01197		1226483	276	hypothetical protein	102	EFAU004_01197.fasta	
+	EFAU004_01198		1227120	456	hypothetical protein	104	EFAU004_01198.fasta	
+	EFAU004_01199		1227729	1209	tRNA nucleotidyltransferase/poly(A) polymerase family protein	252	EFAU004_01199.fasta	
+	EFAU004_01200		1229049	333	MazG nucleotide pyrophosphohydrolase domain-containing protein	133	EFAU004_01200.fasta	
+	EFAU004_01201		1229529	876	hypothetical protein	220	EFAU004_01201.fasta	
+	EFAU004_01202		1230486	582	hypothetical protein	172	EFAU004_01202.fasta	
+	EFAU004_01203		1231073	1260	hypothetical protein	264	EFAU004_01203.fasta	
+	EFAU004_01204		1232334	1047	hypothetical protein	309	EFAU004_01204.fasta	
+	EFAU004_01205	hupA	1233615	276	DNA-binding protein HU	55	EFAU004_01205.fasta	
+	EFAU004_01206	der	1234133	1311	ribosome-associated GTPase EngA	212	EFAU004_01206.fasta	
+	EFAU004_01208	cmk	1236989	681	cytidylate kinase	210	EFAU004_01208.fasta	
+	EFAU004_01209		1237718	636	LysM domain-containing protein	114	EFAU004_01209.fasta	
+	EFAU004_01210		1238419	1404	RecQ familyATP-dependent DNA helicase	368	EFAU004_01210.fasta	
+	EFAU004_01212		1240871	222	ferredoxin	70	EFAU004_01212.fasta	
+	EFAU004_01213		1241257	738	hydrolase	239	EFAU004_01213.fasta	
+	EFAU004_01214		1242147	1341	Putative dipeptidase	248	EFAU004_01214.fasta	
+	EFAU004_01215		1243724	1524	C4-dicarboxylate anaerobic carrier	248	EFAU004_01215.fasta	
+	EFAU004_01216		1245625	612	membrane protein	167	EFAU004_01216.fasta	
+	EFAU004_01217		1246566	717	16S rRNA pseudouridine synthase A	170	EFAU004_01217.fasta	
+	EFAU004_01219		1247841	798	segregation and condensation protein A	218	EFAU004_01219.fasta	
+	EFAU004_01221	xerD	1248998	888	site-specific tyrosine recombinase XerD-family	188	EFAU004_01221.fasta	
+	EFAU004_01224		1250559	864	hypothetical protein	205	EFAU004_01224.fasta	
+	EFAU004_01226	rpoD	1253937	1110	RNA polymerase sigma factor RpoD	250	EFAU004_01226.fasta	
+	EFAU004_01227		1255070	1842	DNA primase	337	EFAU004_01227.fasta	
+	EFAU004_01228		1257093	2316	cation transporter E1-E2 family ATPase	405	EFAU004_01228.fasta	
+	EFAU004_01229		1259593	861	membrane protein	312	EFAU004_01229.fasta	
+	EFAU004_01230		1260512	633	hypothetical protein	246	EFAU004_01230.fasta	
+	EFAU004_01231		1261353	720	alpha/beta hydrolase	234	EFAU004_01231.fasta	
+	EFAU004_01232		1262098	2592	ysyl-tRNA synthetase	461	EFAU004_01232.fasta	
+	EFAU004_01233	tuf_1	1264877	1188	translation elongation factor Tu	220	EFAU004_01233.fasta	
+	EFAU004_01234		1266432	357	hypothetical protein	142	EFAU004_01234.fasta	
+	EFAU004_01235		1267029	1005	hypothetical protein	263	EFAU004_01235.fasta	
+	EFAU004_01236		1268199	852	oxidoreductase, aldo/keto reductase family protein	189	EFAU004_01236.fasta	
+	EFAU004_01237		1269067	246	hypothetical protein	87	EFAU004_01237.fasta	
+	EFAU004_01238		1269499	705	hypothetical protein	159	EFAU004_01238.fasta	
+	EFAU004_01239		1270533	2442	acetyl-CoA acetyltransferase/hydroxymethylglutaryl-CoA reductase, degradative	488	EFAU004_01239.fasta	
+	EFAU004_01240		1273159	1155	hydroxymethylglutaryl-CoA synthase	278	EFAU004_01240.fasta	
+	EFAU004_01242		1275451	2667	calcium-translocating P-type ATPase	585	EFAU004_01242.fasta	
+	EFAU004_01243		1278458	1452	cardiolipin synthetase	342	EFAU004_01243.fasta	
+	EFAU004_01244		1280238	816	phosphomethylpyrimidine kinase	195	EFAU004_01244.fasta	
+	EFAU004_01245		1281347	276	hypothetical protein	133	EFAU004_01245.fasta	
+	EFAU004_01248		1283334	327	PadR family transcriptional regulator	116	EFAU004_01248.fasta	
+	EFAU004_01249		1283808	441	universal stress protein	104	EFAU004_01249.fasta	
+	EFAU004_01250		1284329	1398	6-phospho-beta-glucosidase	266	EFAU004_01250.fasta	
+	EFAU004_01251		1285879	1272	PTS system lactose/cellobiose-specific transporter subunit IIC	236	EFAU004_01251.fasta	
+	EFAU004_01252		1287277	720	GntR family transcriptional regulator	186	EFAU004_01252.fasta	
+	EFAU004_01285		1326062	1506	sensor histidine kinase	506	EFAU004_01285.fasta	
+	EFAU004_01286		1327564	687	DNA-binding response regulator	174	EFAU004_01286.fasta	
+	EFAU004_01287	gnd	1328443	1422	6-phosphogluconate dehydrogenase	298	EFAU004_01287.fasta	
+	EFAU004_01288	rpmF3	1330034	180	50S ribosomal protein L32	52	EFAU004_01288.fasta	
+	EFAU004_01289		1330271	570	nucleic acid-binding protein	119	EFAU004_01289.fasta	
+	EFAU004_01290		1331026	903	LysR family transcriptional regulator	212	EFAU004_01290.fasta	
+	EFAU004_01291		1331963	1785	Pyruvate kinase	293	EFAU004_01291.fasta	
+	EFAU004_01292	pfkA	1333821	963	6-phosphofructokinase	155	EFAU004_01292.fasta	
+	EFAU004_01293		1334951	3315	DNA polymerase III subunit alpha	573	EFAU004_01293.fasta	
+	EFAU004_01294		1338496	186	hypothetical protein	36	EFAU004_01294.fasta	
+	EFAU004_01295		1338743	1197	transporter, major facilitator family protein	288	EFAU004_01295.fasta	
+	EFAU004_01296		1340109	1545	xanthine/uracil/vitamin C permease	398	EFAU004_01296.fasta	
+	EFAU004_01297		1341838	810	HAD superfamily hydrolase	235	EFAU004_01297.fasta	
+	EFAU004_01299		1344343	2154	Penicillin binding protein transpeptidase domain protein	596	EFAU004_01299.fasta	
+	EFAU004_01300		1346790	849	RpiR family transcriptional regulator	282	EFAU004_01300.fasta	
+	EFAU004_01301	thrS	1347862	1941	threonyl-tRNA synthetase	410	EFAU004_01301.fasta	
+	EFAU004_01302		1350139	180	4-oxalocrotonate tautomerase	64	EFAU004_01302.fasta	
+	EFAU004_01303		1350365	1824	cadmium-translocating P-type ATPase	387	EFAU004_01303.fasta	
+	EFAU004_01305		1354838	648	hypothetical protein	217	EFAU004_01305.fasta	
+	EFAU004_01306		1355664	720	hypothetical protein	158	EFAU004_01306.fasta	
+	EFAU004_01307		1356514	1152	nucleotidyltransferase	282	EFAU004_01307.fasta	
+	EFAU004_01308		1357882	741	methyltransferase domain protein	176	EFAU004_01308.fasta	
+	EFAU004_01309		1358626	261	ribosome-associated protein	66	EFAU004_01309.fasta	
+	EFAU004_01311	nadD	1359583	651	nicotinic acid mononucleotide adenylyltransferase	141	EFAU004_01311.fasta	
+	EFAU004_01312	yhbY	1360243	312	RNA-binding protein YhbY	103	EFAU004_01312.fasta	
+	EFAU004_01313	yqeH	1360570	1110	ribosome biogenesis GTPase YqeH	317	EFAU004_01313.fasta	
+	EFAU004_01314		1361676	528	HAD superfamily hydrolase	121	EFAU004_01314.fasta	
+	EFAU004_01316	accD	1363161	870	acetyl-CoA carboxylase, carboxyl transferase subunit beta	215	EFAU004_01316.fasta	
+	EFAU004_01317		1364031	1380	acetyl-CoA carboxylase, biotin carboxylase subunit	311	EFAU004_01317.fasta	
+	EFAU004_01318	fabZ2	1365418	420	(3R)-hydroxymyristoyl-[acyl carrier protein] dehydratase	101	EFAU004_01318.fasta	
+	EFAU004_01319		1365862	477	acetyl-CoA carboxylase, biotin carboxyl carrier protein	125	EFAU004_01319.fasta	
+	EFAU004_01320		1366341	1236	beta-ketoacyl-acyl-carrier-protein synthase II	250	EFAU004_01320.fasta	
+	EFAU004_01321		1367595	738	3-oxoacyl-ACP reductase	164	EFAU004_01321.fasta	
+	EFAU004_01322		1368344	918	Malonyl CoA-acyl carrier protein transacylase	235	EFAU004_01322.fasta	
+	EFAU004_01323		1369368	225	acyl carrier protein	66	EFAU004_01323.fasta	
+	EFAU004_01324		1369645	963	3-oxoacyl-ACP synthase	217	EFAU004_01324.fasta	
+	EFAU004_01325		1370617	441	MarR family transcriptional regulator	117	EFAU004_01325.fasta	
+	EFAU004_01327		1372385	231	hypothetical protein	49	EFAU004_01327.fasta	
+	EFAU004_01328		1372701	888	2-hydroxy-3-oxopropionate reductase	266	EFAU004_01328.fasta	
+	EFAU004_01329		1373677	1224	glycosyl transferase family protein	277	EFAU004_01329.fasta	
+	EFAU004_01330		1374917	1047	glycosyl transferase family protein	276	EFAU004_01330.fasta	
+	EFAU004_01331	ptsI	1376127	1728	phosphoenolpyruvate-protein phosphotransferase	303	EFAU004_01331.fasta	
+	EFAU004_01332	ptsH	1377854	267	phosphocarrier protein HPr	51	EFAU004_01332.fasta	
+	EFAU004_01333	clpE	1378737	2097	UvrB/UvrC protein/AAA ATPase	369	EFAU004_01333.fasta	
+	EFAU004_01334		1380981	321	hypothetical protein	79	EFAU004_01334.fasta	
+	EFAU004_01336	prfC	1381928	1581	peptide chain release factor 3	272	EFAU004_01336.fasta	
+	EFAU004_01337		1383909	1377	hemolysin	255	EFAU004_01337.fasta	
+	EFAU004_01338		1385413	1119	permease	233	EFAU004_01338.fasta	
+	EFAU004_01339		1386673	435	GNAT family acetyltransferase	130	EFAU004_01339.fasta	
+	EFAU004_01340		1387185	534	hypothetical protein	90	EFAU004_01340.fasta	
+	EFAU004_01341		1387812	1179	A/G-specific adenine glycosylase	292	EFAU004_01341.fasta	
+	EFAU004_01343		1389887	1383	23S rRNA (uracil-5-)-methyltransferase	330	EFAU004_01343.fasta	
+	EFAU004_01346		1392921	1227	transcriptional regulator	273	EFAU004_01346.fasta	
+	EFAU004_01347	cspB	1394901	201	major cold shock protein CspA	43	EFAU004_01347.fasta	
+	EFAU004_01348	sodA	1395235	609	superoxide dismutase	159	EFAU004_01348.fasta	
+	EFAU004_01349		1395928	471	cell wall teichoic acid glycosylation protein GtcA family protein	120	EFAU004_01349.fasta	
+	EFAU004_01350		1396446	900	cation diffusion facilitator family transporter	287	EFAU004_01350.fasta	
+	EFAU004_01351		1397506	804	hypothetical protein	208	EFAU004_01351.fasta	
+	EFAU004_01353		1399502	294	HesB-like domain-containing protein	125	EFAU004_01353.fasta	
+	EFAU004_01354		1399823	666	TrkA-C domain-containing protein	163	EFAU004_01354.fasta	
+	EFAU004_01355		1400628	633	LuxR family DNA-binding response regulator	158	EFAU004_01355.fasta	
+	EFAU004_01356		1401267	1068	sensor histidine kinase	270	EFAU004_01356.fasta	
+	EFAU004_01357		1402331	732	membrane protein	217	EFAU004_01357.fasta	
+	EFAU004_01358	greA	1403231	480	transcription elongation factor GreA	117	EFAU004_01358.fasta	
+	EFAU004_01359		1403846	1176	putative aminodeoxychorismate lyase	355	EFAU004_01359.fasta	
+	EFAU004_01385		1431078	2139	glycosyl transferase family protein	444	EFAU004_01385.fasta	
+	EFAU004_01386	metW	1433255	1587	methionine biosynthesis protein MetW	338	EFAU004_01386.fasta	
+	EFAU004_01388		1436063	807	ABC transporter	139	EFAU004_01388.fasta	
+	EFAU004_01390		1438403	2034	hypothetical protein	488	EFAU004_01390.fasta	
+	EFAU004_01391		1440471	852	dTDP-4-dehydrorhamnose reductase	187	EFAU004_01391.fasta	
+	EFAU004_01392	rmlB	1441420	1029	dTDP-glucose 4,6-dehydratase	203	EFAU004_01392.fasta	
+	EFAU004_01393		1442470	573	dTDP-4-dehydrorhamnose 3,5-epimerase	129	EFAU004_01393.fasta	
+	EFAU004_01394	rmlA	1443056	867	glucose-1-phosphate thymidylyltransferase	197	EFAU004_01394.fasta	
+	EFAU004_01395		1444022	708	glycosyl transferase family protein	165	EFAU004_01395.fasta	
+	EFAU004_01396		1444734	828	glycosyl transferase family protein	305	EFAU004_01396.fasta	
+	EFAU004_01398		1446354	1140	glycoside hydrolase family protein	270	EFAU004_01398.fasta	
+	EFAU004_01399		1447569	924	ribonuclease BN	208	EFAU004_01399.fasta	
+	EFAU004_01400		1448524	765	Methionine aminopeptidase, type I	119	EFAU004_01400.fasta	
+	EFAU004_01401		1449446	441	flavodoxin	84	EFAU004_01401.fasta	
+	EFAU004_01402		1450064	570	TetR family transcriptional regulator	155	EFAU004_01402.fasta	
+	EFAU004_01403	pepS	1450887	1233	aminopeptidase PepS	271	EFAU004_01403.fasta	
+	EFAU004_01532	lepA	1546977	1836	GTP-binding protein LepA	430	EFAU004_01532.fasta	
+	EFAU004_01533		1548959	1221	GNAT family acetyltransferase	287	EFAU004_01533.fasta	
+	EFAU004_01535		1550686	672	hypothetical protein	208	EFAU004_01535.fasta	
+	EFAU004_01536	clpB	1551508	2610	ATP-dependent chaperone protein ClpB	469	EFAU004_01536.fasta	
+	EFAU004_01537		1554368	1047	integral membrane protein	308	EFAU004_01537.fasta	
+	EFAU004_01538		1555425	273	membrane protein	72	EFAU004_01538.fasta	
+	EFAU004_01539		1555732	909	diacylglycerol kinase catalytic subunit	348	EFAU004_01539.fasta	
+	EFAU004_01540	pepT	1556772	1233	peptidase T	271	EFAU004_01540.fasta	
+	EFAU004_01541		1558019	1122	hypothetical protein	282	EFAU004_01541.fasta	
+	EFAU004_01542		1559137	702	SAM-dependent methyltransferase family protein	184	EFAU004_01542.fasta	
+	EFAU004_01544	dnaI	1560551	927	primosomal protein DnaI	189	EFAU004_01544.fasta	
+	EFAU004_01545		1561477	1374	replication initiation and membrane attachment protein	356	EFAU004_01545.fasta	
+	EFAU004_01546	nrdR	1562873	492	transcriptional repressor NrdR	140	EFAU004_01546.fasta	
+	EFAU004_01547		1563676	333	hypothetical protein	138	EFAU004_01547.fasta	
+	EFAU004_01549	mutM	1564653	837	Formamidopyrimidine-DNA glycosylase	235	EFAU004_01549.fasta	
+	EFAU004_01550		1565534	2646	DNA polymerase I	448	EFAU004_01550.fasta	
+	EFAU004_01551		1568305	684	Inhibitor of apoptosis-promoting Bax1	165	EFAU004_01551.fasta	
+	EFAU004_01553	murC	1569773	1335	UDP-N-acetylmuramate--L-alanine ligase	310	EFAU004_01553.fasta	
+	EFAU004_01554		1571238	762	hypothetical protein	260	EFAU004_01554.fasta	
+	EFAU004_01555		1572015	483	SprT-like family protein	152	EFAU004_01555.fasta	
+	EFAU004_01557		1574841	732	metallophosphoesterase	236	EFAU004_01557.fasta	
+	EFAU004_01558		1575641	942	rhodanese-like domain-containing protein	209	EFAU004_01558.fasta	
+	EFAU004_01560		1576762	369	glyoxalase family protein	130	EFAU004_01560.fasta	
+	EFAU004_01561		1577741	1392	sodium/dicarboxylate symporter family protein	308	EFAU004_01561.fasta	
+	EFAU004_01562		1579345	387	hypothetical protein	101	EFAU004_01562.fasta	
+	EFAU004_01564		1580474	669	phosphoglycerate mutase	192	EFAU004_01564.fasta	
+	EFAU004_01566		1581653	672	hypothetical protein	227	EFAU004_01566.fasta	
+	EFAU004_01567		1582509	399	hypothetical protein	103	EFAU004_01567.fasta	
+	EFAU004_01568		1582904	774	hypothetical protein	218	EFAU004_01568.fasta	
+	EFAU004_01569		1583674	684	hypothetical protein	204	EFAU004_01569.fasta	
+	EFAU004_01576		1591276	837	prephenate dehydratase	242	EFAU004_01576.fasta	
+	EFAU004_01578	aroA	1592611	1296	3-phosphoshikimate 1-carboxyvinyltransferase	306	EFAU004_01578.fasta	
+	EFAU004_01579		1593919	1092	prephenate dehydrogenase	292	EFAU004_01579.fasta	
+	EFAU004_01580	aroC	1595027	1167	chorismate synthase	266	EFAU004_01580.fasta	
+	EFAU004_01581		1596195	1065	3-dehydroquinate synthase	343	EFAU004_01581.fasta	
+	EFAU004_01582		1597292	1023	phospho-2-dehydro-3-deoxyheptonate aldolase	268	EFAU004_01582.fasta	
+	EFAU004_01588		1606989	129	hypothetical protein	64	EFAU004_01588.fasta	
+	EFAU004_01651		1665728	1056	Diacylglycerol kinase	322	EFAU004_01651.fasta	
+	EFAU004_01652	gatB	1666793	1431	aspartyl/glutamyl-tRNA amidotransferase subunit B	326	EFAU004_01652.fasta	
+	EFAU004_01653	gatA	1668220	1473	glutamyl-tRNA(Gln) amidotransferase subunit A	291	EFAU004_01653.fasta	
+	EFAU004_01654	gatC	1669692	306	aspartyl/glutamyl-tRNA amidotransferase subunit C	67	EFAU004_01654.fasta	
+	EFAU004_01655	ligA	1670103	2037	NAD-dependent DNA ligase	430	EFAU004_01655.fasta	
+	EFAU004_01656		1672156	2235	ATP-dependent DNA helicase	518	EFAU004_01656.fasta	
+	EFAU004_01657		1674545	1560	voltage-gated cchloride transporter, chloride channel family protein	443	EFAU004_01657.fasta	
+	EFAU004_01658		1676215	1932	PTS system fructose-specific transporter subunit IIABC	436	EFAU004_01658.fasta	
+	EFAU004_01659		1678164	915	hexose kinase, 1-phosphofructokinase family protein	253	EFAU004_01659.fasta	
+	EFAU004_01660		1679075	753	DeoR-like helix-turn-helix protein	263	EFAU004_01660.fasta	
+	EFAU004_01661		1679987	210	hypothetical protein	120	EFAU004_01661.fasta	
+	EFAU004_01663		1681671	156	hypothetical protein	88	EFAU004_01663.fasta	
+	EFAU004_01664	ysxC	1681900	588	ribosome biogenesis GTP-binding protein YsxC	134	EFAU004_01664.fasta	
+	EFAU004_01665	clpX	1682570	1251	ATP-dependent protease ATP-binding protein ClpX	316	EFAU004_01665.fasta	
+	EFAU004_01666	tig	1684067	1290	trigger factor	293	EFAU004_01666.fasta	
+	EFAU004_01667		1685510	933	hypothetical protein	415	EFAU004_01667.fasta	
+	EFAU004_01668		1686599	660	RDD family protein	255	EFAU004_01668.fasta	
+	EFAU004_01669	sppA	1687261	1026	signal peptide peptidase SppA	294	EFAU004_01669.fasta	
+	EFAU004_01670		1688299	291	hypothetical protein	119	EFAU004_01670.fasta	
+	EFAU004_01672	glmM	1690875	1356	phosphoglucosamine mutase	289	EFAU004_01672.fasta	
+	EFAU004_01674		1693420	888	hypothetical protein	234	EFAU004_01674.fasta	
+	EFAU004_01675		1694496	3693	pyruvate flavodoxin oxidoreductase subunit alpha	614	EFAU004_01675.fasta	
+	EFAU004_01676		1698387	522	bifunctional disulfide isomerase/thiol-disulfide oxidase	188	EFAU004_01676.fasta	
+	EFAU004_01686	whiA	1705969	936	Sporulation Regulator WhiA N terminal	216	EFAU004_01686.fasta	
+	EFAU004_01687		1706938	999	hypothetical protein	251	EFAU004_01687.fasta	
+	EFAU004_01688		1707933	885	ATP-binding protein	237	EFAU004_01688.fasta	
+	EFAU004_01689		1708952	732	Aspartate racemase	195	EFAU004_01689.fasta	
+	EFAU004_01690		1709687	1266	carbamoyl phosphate synthase-like protein	330	EFAU004_01690.fasta	
+	EFAU004_01691	uvrA	1711215	2817	excinuclease ABC subunit A	510	EFAU004_01691.fasta	
+	EFAU004_01692	uvrB	1714041	1995	excinuclease ABC subunit B	433	EFAU004_01692.fasta	
+	EFAU004_01693		1716294	1503	amino acid ABC transporter amino acid-binding/permease	311	EFAU004_01693.fasta	
+	EFAU004_01696	dnaJ	1719476	1167	chaperone protein DnaJ	280	EFAU004_01696.fasta	
+	EFAU004_01697	dnaK	1720793	1830	chaperone protein DnaK	341	EFAU004_01697.fasta	
+	EFAU004_01698	grpE	1722673	564	co-chaperone GrpE	172	EFAU004_01698.fasta	
+	EFAU004_01699	hrcA	1723330	1044	heat-inducible transcription repressor HrcA	238	EFAU004_01699.fasta	
+	EFAU004_01700		1724607	1032	putative oxygen-independent coproporphyrinogen III oxidase	320	EFAU004_01700.fasta	
+	EFAU004_01708		1731196	852	sugar transport protein	245	EFAU004_01708.fasta	
+	EFAU004_01709	gdh	1732060	786	glucose 1-dehydrogenase, Gdh	215	EFAU004_01709.fasta	
+	EFAU004_01710	ribF	1733197	942	riboflavin biosynthesis protein RibF	285	EFAU004_01710.fasta	
+	EFAU004_01711		1734142	924	tRNA pseudouridine synthase B	306	EFAU004_01711.fasta	
+	EFAU004_01715	infB	1738947	2307	translation initiation factor IF-2	469	EFAU004_01715.fasta	
+	EFAU004_01716		1741266	312	50S ribosomal protein L7Ae	111	EFAU004_01716.fasta	
+	EFAU004_01717	ylxR	1741574	294	hypothetical protein	97	EFAU004_01717.fasta	
+	EFAU004_01718	nusA	1741889	1176	transcription termination factor NusA	250	EFAU004_01718.fasta	
+	EFAU004_01719	rimP	1743087	474	ribosome maturation protein RimP	129	EFAU004_01719.fasta	
+	EFAU004_01720		1743705	4359	DNA polymerase III PolC-type	610	EFAU004_01720.fasta	
+	EFAU004_01721	proS	1748275	1710	prolyl-tRNA synthetase	401	EFAU004_01721.fasta	
+	EFAU004_01722	eep	1750052	1269	membrane-associated zinc metalloprotease	337	EFAU004_01722.fasta	
+	EFAU004_01723		1751481	801	phosphatidate cytidylyltransferase	186	EFAU004_01723.fasta	
+	EFAU004_01724	uppS	1752278	813	undecaprenyl diphosphate synthase	255	EFAU004_01724.fasta	
+	EFAU004_01725	frr	1753285	558	ribosome recycling factor	190	EFAU004_01725.fasta	
+	EFAU004_01726	pyrH	1753845	723	uridylate kinase	148	EFAU004_01726.fasta	
+	EFAU004_01727	tsf	1754703	882	translation elongation factor Ts	218	EFAU004_01727.fasta	
+	EFAU004_01728	rpsB	1755683	783	30S ribosomal protein S2	162	EFAU004_01728.fasta	
+	EFAU004_01729		1756824	480	arginine repressor protein	123	EFAU004_01729.fasta	
+	EFAU004_01730		1757520	1092	2-aminoethylphosphonate--pyruvate transaminase	357	EFAU004_01730.fasta	
+	EFAU004_01732		1758736	546	Phosphonoacetaldehyde hydrolase	118	EFAU004_01732.fasta	
+	EFAU004_01733	argS	1759735	1692	arginyl-tRNA synthetase	354	EFAU004_01733.fasta	
+	EFAU004_01734	arcC	1761846	948	Carbamate kinase	226	EFAU004_01734.fasta	
+	EFAU004_01735	arcB	1762908	1020	ornithine carbamoyltransferase	230	EFAU004_01735.fasta	
+	EFAU004_01736	arcA	1764018	1230	arginine deiminase	215	EFAU004_01736.fasta	
+	EFAU004_01737		1765708	702	cyclic nucleotide-binding domain-containing protein	143	EFAU004_01737.fasta	
+	EFAU004_01738	gcp	1767018	1017	O-sialoglycoprotein endopeptidase	238	EFAU004_01738.fasta	
+	EFAU004_01739		1768031	465	ribosomal-protein-alanine acetyltransferase	129	EFAU004_01739.fasta	
+	EFAU004_01741	yeaZ	1769028	825	hypothetical protein	204	EFAU004_01741.fasta	
+	EFAU004_01742		1769941	981	LacI family transcriptional regulator	285	EFAU004_01742.fasta	
+	EFAU004_01743		1770945	1485	galactose-1-phosphate uridylyltransferase	337	EFAU004_01743.fasta	
+	EFAU004_01744		1772441	990	UDP-glucose 4-epimerase	202	EFAU004_01744.fasta	
+	EFAU004_01745		1773678	168	hypothetical protein	95	EFAU004_01745.fasta	
+	EFAU004_01746		1773907	1812	hypothetical protein	474	EFAU004_01746.fasta	
+	EFAU004_01748		1776243	396	rhodanese family protein	82	EFAU004_01748.fasta	
+	EFAU004_01749		1776656	963	glucokinase	208	EFAU004_01749.fasta	
+	EFAU004_01750		1777618	213	hypothetical protein	52	EFAU004_01750.fasta	
+	EFAU004_01751		1777851	699	peptidase, S54 family protein	187	EFAU004_01751.fasta	
+	EFAU004_01752		1778569	543	5-formyltetrahydrofolate cyclo-ligase	150	EFAU004_01752.fasta	
+	EFAU004_01754	fhuB	1780244	990	ferrichrome transport system permease FhuB	344	EFAU004_01754.fasta	
+	EFAU004_01755	fhuC	1781230	807	ferrichrome transport ATP-binding protein FhuC	221	EFAU004_01755.fasta	
+	EFAU004_01756		1782202	957	periplasmic binding protein	291	EFAU004_01756.fasta	
+	EFAU004_01757	dfrD	1783235	519	Dihydrofolate reductase	160	EFAU004_01757.fasta	
+	EFAU004_01758		1783841	150	50S ribosomal protein L33	49	EFAU004_01758.fasta	
+	EFAU004_01761		1786370	1896	asparagine synthetase B	332	EFAU004_01761.fasta	
+	EFAU004_01767		1793035	567	TetR family transcriptional regulator	147	EFAU004_01767.fasta	
+	EFAU004_01768		1793857	1332	hypothetical protein	479	EFAU004_01768.fasta	
+	EFAU004_01770		1795596	420	hypothetical protein	150	EFAU004_01770.fasta	
+	EFAU004_01771		1796016	345	carboxymuconolactone decarboxylase family protein	98	EFAU004_01771.fasta	
+	EFAU004_01773		1797775	597	hypothetical protein	108	EFAU004_01773.fasta	
+	EFAU004_01774		1798495	1800	glycerophosphodiester phosphodiesterase family protein	431	EFAU004_01774.fasta	
+	EFAU004_01775		1800393	111	hypothetical protein	48	EFAU004_01775.fasta	
+	EFAU004_01776		1800572	213	hypothetical protein	76	EFAU004_01776.fasta	
+	EFAU004_01777		1801246	150	hypothetical protein	49	EFAU004_01777.fasta	
+	EFAU004_01782		1805331	387	hypothetical protein	145	EFAU004_01782.fasta	
+	EFAU004_01783	pgi	1806025	1347	glucose-6-phosphate isomerase	280	EFAU004_01783.fasta	
+	EFAU004_01784		1807483	1350	NADP-specific glutamate dehydrogenase	319	EFAU004_01784.fasta	
+	EFAU004_01785		1808949	1254	hypothetical protein	326	EFAU004_01785.fasta	
+	EFAU004_01786		1810273	486	hypothetical protein	161	EFAU004_01786.fasta	
+	EFAU004_01787		1810781	759	3-dehydroquinate dehydratase	188	EFAU004_01787.fasta	
+	EFAU004_01788		1811555	1179	SAM-dependent methyltransferase	414	EFAU004_01788.fasta	
+	EFAU004_01789		1812963	2121	sulfatase	491	EFAU004_01789.fasta	
+	EFAU004_01790		1815306	726	hypothetical protein	248	EFAU004_01790.fasta	
+	EFAU004_01792		1816600	1449	sensor histidine kinase	334	EFAU004_01792.fasta	
+	EFAU004_01793		1818048	717	response regulator receiver domain-containing protein	215	EFAU004_01793.fasta	
+	EFAU004_01795		1819239	774	HAD superfamily hydrolase	227	EFAU004_01795.fasta	
+	EFAU004_01799		1824762	261	hypothetical protein	104	EFAU004_01799.fasta	
+	EFAU004_01800		1825207	498	GAF domain-containing protein	208	EFAU004_01800.fasta	
+	EFAU004_01801		1825834	711	alpha-acetolactate decarboxylase	219	EFAU004_01801.fasta	
+	EFAU004_01802		1826557	1665	acetolactate synthase	412	EFAU004_01802.fasta	
+	EFAU004_01869	rplS	1894641	348	50S ribosomal protein L19	112	EFAU004_01869.fasta	
+	EFAU004_01870	trmD	1895124	762	tRNA (guanine-N1)-methyltransferase	176	EFAU004_01870.fasta	
+	EFAU004_01873		1897482	252	RNA-binding protein	81	EFAU004_01873.fasta	
+	EFAU004_01874	rpsP	1897745	276	30S ribosomal protein S16	62	EFAU004_01874.fasta	
+	EFAU004_01876		1898906	522	riboflavin biosynthesis protein RibD protein	202	EFAU004_01876.fasta	
+	EFAU004_01877		1899431	579	DNA-3-methyladenine glycosylase I	186	EFAU004_01877.fasta	
+	EFAU004_01878		1900121	1419	signal recognition particle protein	330	EFAU004_01878.fasta	
+	EFAU004_01880		1901858	504	hypothetical protein	169	EFAU004_01880.fasta	
+	EFAU004_01881		1902492	705	response regulator receiver domain-containing protein	178	EFAU004_01881.fasta	
+	EFAU004_01882		1903193	1737	sensory box histidine kinase	368	EFAU004_01882.fasta	
+	EFAU004_01886		1910848	891	phosphate-binding protein	247	EFAU004_01886.fasta	
+	EFAU004_01888		1912624	366	hypothetical protein	132	EFAU004_01888.fasta	
+	EFAU004_01906		1928203	570	hypothetical protein	148	EFAU004_01906.fasta	
+	EFAU004_01907		1928846	324	hypothetical protein	127	EFAU004_01907.fasta	
+	EFAU004_01908		1929323	813	hypothetical protein	282	EFAU004_01908.fasta	
+	EFAU004_01909		1930489	849	ATPase family protein	323	EFAU004_01909.fasta	
+	EFAU004_01915	copA	1936887	2187	copper-translocating P-type ATPase	610	EFAU004_01915.fasta	
+	EFAU004_01916	copZ	1939073	210	copper chaperone CopZ	83	EFAU004_01916.fasta	
+	EFAU004_01925	asnS	1949304	1299	asparaginyl-tRNA synthetase	330	EFAU004_01925.fasta	
+	EFAU004_01926		1950642	1191	aspartate aminotransferase	405	EFAU004_01926.fasta	
+	EFAU004_01927		1951853	504	hypothetical protein	214	EFAU004_01927.fasta	
+	EFAU004_01928		1952427	2790	DnaQ family exonuclease/DinG family helicase	779	EFAU004_01928.fasta	
+	EFAU004_01929	cspLA	1955363	201	major cold shock protein CspA	73	EFAU004_01929.fasta	
+	EFAU004_01930		1955848	165	hypothetical protein	99	EFAU004_01930.fasta	
+	EFAU004_01932		1956838	1119	hypothetical protein	531	EFAU004_01932.fasta	
+	EFAU004_01933		1958189	123	hypothetical protein	61	EFAU004_01933.fasta	
+	EFAU004_01934		1958427	1308	D-alanyl-D-alanine carboxypeptidase	492	EFAU004_01934.fasta	
+	EFAU004_01935		1959855	1200	hypothetical protein	492	EFAU004_01935.fasta	
+	EFAU004_01936		1961081	1269	voltage-gated chloride channel family protein	538	EFAU004_01936.fasta	
+	EFAU004_01938		1963569	504	HD domain-containing protein	202	EFAU004_01938.fasta	
+	EFAU004_01939		1964195	765	RNA methyltransferase	360	EFAU004_01939.fasta	
+	EFAU004_01940	acyP	1965067	276	acylphosphatase	151	EFAU004_01940.fasta	
+	EFAU004_01988	glyS	2011245	2076	glycyl-tRNA synthetase subunit beta	678	EFAU004_01988.fasta	
+	EFAU004_01989	glyQ	2013322	918	glycyl-tRNA synthetase subunit alpha	395	EFAU004_01989.fasta	
+	EFAU004_01990	recO	2014623	813	DNA repair protein RecO	387	EFAU004_01990.fasta	
+	EFAU004_01991	era	2015578	900	GTP-binding protein Era	350	EFAU004_01991.fasta	
+	EFAU004_01993		2016871	462	Putative metalloprotease	153	EFAU004_01993.fasta	
+	EFAU004_01994		2017364	2193	HD domain-containing protein	609	EFAU004_01994.fasta	
+	EFAU004_01995		2019580	972	KH domain-containing protein	379	EFAU004_01995.fasta	
+	EFAU004_01996		2021257	1380	branched-chain amino acid transport system II carrier protein	419	EFAU004_01996.fasta	
+	EFAU004_01997		2022790	447	Glutamyl-tRNA(Gln) amidotransferase subunit E	155	EFAU004_01997.fasta	
+	EFAU004_01998		2023263	177	30S ribosomal protein S21	66	EFAU004_01998.fasta	
+	EFAU004_02000		2024121	861	Putative phosphotransferase	366	EFAU004_02000.fasta	
+	EFAU004_02001		2025073	294	ArsR family transcriptional regulator	100	EFAU004_02001.fasta	
+	EFAU004_02002		2025438	1728	phosphoglucomutase/phosphomannomutase family protein	537	EFAU004_02002.fasta	
+	EFAU004_02003		2027379	927	thioredoxin reductase	277	EFAU004_02003.fasta	
+	EFAU004_02004		2028450	1434	6-phospho-beta-glucosidase	441	EFAU004_02004.fasta	
+	EFAU004_02005		2029883	1404	alpha-galactosidase	474	EFAU004_02005.fasta	
+	EFAU004_02006		2031517	903	phosphosugar-binding transcriptional regulator	329	EFAU004_02006.fasta	
+	EFAU004_02007		2032459	171	PTS system beta-glucoside-specific transporter subunit IIABC	102	EFAU004_02007.fasta	
+	EFAU004_02010		2035615	1785	ABC transporter ATP-binding protein	523	EFAU004_02010.fasta	
+	EFAU004_02011		2037399	1752	Multidrug resistance-like ATP-binding protein mdlA	509	EFAU004_02011.fasta	
+	EFAU004_02012		2039292	225	hypothetical protein	86	EFAU004_02012.fasta	
+	EFAU004_02013		2039767	1587	metal ion transporter	422	EFAU004_02013.fasta	
+	EFAU004_02014		2041419	1776	hypothetical protein	550	EFAU004_02014.fasta	
+	EFAU004_02015	nfo	2043407	903	endonuclease IV	253	EFAU004_02015.fasta	
+	EFAU004_02016		2044588	2346	glycosyl transferase family protein	567	EFAU004_02016.fasta	
+	EFAU004_02017	ccpA	2047270	1002	catabolite control protein A	308	EFAU004_02017.fasta	
+	EFAU004_02018		2048481	1107	Xaa-Pro dipeptidase	349	EFAU004_02018.fasta	
+	EFAU004_02020		2050251	441	hypothetical protein	151	EFAU004_02020.fasta	
+	EFAU004_02021		2050816	939	UTP-glucose-1-phosphate uridylyltransferase	262	EFAU004_02021.fasta	
+	EFAU004_02022		2051769	1026	glycerol-3-phosphate dehydrogenase	366	EFAU004_02022.fasta	
+	EFAU004_02023	lgt	2052838	831	prolipoprotein diacylglyceryl transferase	276	EFAU004_02023.fasta	
+	EFAU004_02024	hprK	2053683	939	HPr kinase/phosphorylase	234	EFAU004_02024.fasta	
+	EFAU004_02025		2054788	351	hypothetical protein	126	EFAU004_02025.fasta	
+	EFAU004_02027		2055755	1569	hypothetical protein	451	EFAU004_02027.fasta	
+	EFAU004_02028		2057423	768	YibE/F-like protein	304	EFAU004_02028.fasta	
+	EFAU004_02030	phoU	2059456	678	phosphate transport system regulatory protein PhoU	160	EFAU004_02030.fasta	
+	EFAU004_02031	pstB1	2060146	759	phosphate ABC transporter ATP-binding protein	186	EFAU004_02031.fasta	
+	EFAU004_02032	pstB2	2060920	807	phosphate ABC transporter ATP-binding protein	255	EFAU004_02032.fasta	
+	EFAU004_02033	pstA	2061741	885	phosphate ABC transporter permease PstA	218	EFAU004_02033.fasta	
+	EFAU004_02034	pstC	2062625	921	phosphate ABC transporter permease PstC	294	EFAU004_02034.fasta	
+	EFAU004_02035		2063660	858	phosphate binding protein	214	EFAU004_02035.fasta	
+	EFAU004_02036		2064854	1449	cardiolipin synthetase	396	EFAU004_02036.fasta	
+	EFAU004_02037		2066454	894	efflux ABC transporter permease	224	EFAU004_02037.fasta	
+	EFAU004_02039	prfB	2068122	984	peptide chain release factor 2	259	EFAU004_02039.fasta	
+	EFAU004_02040	secA	2069349	2535	Preprotein translocase subunit SecA	443	EFAU004_02040.fasta	
+	EFAU004_02041		2072105	552	ribosomal subunit interface protein	190	EFAU004_02041.fasta	
+	EFAU004_02044		2074894	321	PTS system cellobiose-specific transporter subunit IIB	134	EFAU004_02044.fasta	
+	EFAU004_02045		2075322	288	hypothetical protein	101	EFAU004_02045.fasta	
+	EFAU004_02046		2075736	645	hypothetical protein	262	EFAU004_02046.fasta	
+	EFAU004_02047		2076440	708	GntR family transcriptional regulator	188	EFAU004_02047.fasta	
+	EFAU004_02048		2077367	171	hypothetical protein	90	EFAU004_02048.fasta	
+	EFAU004_02049		2077908	237	hypothetical protein	153	EFAU004_02049.fasta	
+	EFAU004_02052		2079878	297	hypothetical protein	132	EFAU004_02052.fasta	
+	EFAU004_02053		2080309	177	hypothetical protein	54	EFAU004_02053.fasta	
+	EFAU004_02054	murA2	2080498	1302	UDP-N-acetylglucosamine 1-carboxyvinyltransferase	328	EFAU004_02054.fasta	
+	EFAU004_02055		2081896	231	membrane protein	111	EFAU004_02055.fasta	
+	EFAU004_02056	atpC	2082595	423	ATP synthase F1 subunit epsilon	83	EFAU004_02056.fasta	
+	EFAU004_02057	atpD	2083031	1407	ATP synthase F1 subunit beta	251	EFAU004_02057.fasta	
+	EFAU004_02058	atpG	2084460	903	ATP synthase F1 subunit gamma	200	EFAU004_02058.fasta	
+	EFAU004_02059	atpA	2085376	1557	ATP synthase F1 subunit alpha	346	EFAU004_02059.fasta	
+	EFAU004_02060	atpH	2086955	543	ATP synthase F1 subunit delta	120	EFAU004_02060.fasta	
+	EFAU004_02062	atpE	2088099	216	ATP synthase F0 subunit C	44	EFAU004_02062.fasta	
+	EFAU004_02063	atpB	2088367	720	ATP synthase subunit C	178	EFAU004_02063.fasta	
+	EFAU004_02064	smpB	2089388	465	SsrA-binding protein	167	EFAU004_02064.fasta	
+	EFAU004_02065		2089874	2358	ribonuclease R	559	EFAU004_02065.fasta	
+	EFAU004_02066		2092234	756	carboxylesterase	246	EFAU004_02066.fasta	
+	EFAU004_02067		2093092	237	preprotein translocase subunit SecG	59	EFAU004_02067.fasta	
+	EFAU004_02068		2093446	279	GNAT family acetyltransferase	161	EFAU004_02068.fasta	
+	EFAU004_02069		2093837	969	hypothetical protein	377	EFAU004_02069.fasta	
+	EFAU004_02070		2095088	975	inosine-uridine preferring nucleoside hydrolase	310	EFAU004_02070.fasta	
+	EFAU004_02073	eno	2098248	1299	enolase	327	EFAU004_02073.fasta	
+	EFAU004_02074	tpiA	2099662	756	triosephosphate isomerase	281	EFAU004_02074.fasta	
+	EFAU004_02075	pgk	2100521	1191	phosphoglycerate kinase	272	EFAU004_02075.fasta	
+	EFAU004_02076		2101821	1002	glyceraldehyde-3-phosphate dehydrogenase	168	EFAU004_02076.fasta	
+	EFAU004_02077		2102863	1038	SorC family transcriptional regulator	269	EFAU004_02077.fasta	
+	EFAU004_02078		2104103	1335	RNA polymerase factor sigma-54	373	EFAU004_02078.fasta	
+	EFAU004_02080		2106731	900	hypothetical protein	279	EFAU004_02080.fasta	
+	EFAU004_02081		2107647	507	ECF subfamily RNA polymerase sigma-70 region 2	198	EFAU004_02081.fasta	
+	EFAU004_02083		2109038	438	hypothetical protein	130	EFAU004_02083.fasta	
+	EFAU004_02085		2110452	1368	HD domain-containing protein	315	EFAU004_02085.fasta	
+	EFAU004_02086		2111838	810	HAD superfamily hydrolase	205	EFAU004_02086.fasta	
+	EFAU004_02087		2112690	444	NUDIX family hydrolase	192	EFAU004_02087.fasta	
+	EFAU004_02088		2113267	372	lactoylglutathione lyase	111	EFAU004_02088.fasta	
+	EFAU004_02092	ntpJ	2117235	1356	V-type sodium ATP synthase subunit J	394	EFAU004_02092.fasta	
+	EFAU004_02093	ntpD	2118620	636	V-type ATP synthase subunit D	166	EFAU004_02093.fasta	
+	EFAU004_02095	ntpA	2120631	1782	V-type ATP synthase subunit A	346	EFAU004_02095.fasta	
+	EFAU004_02097	ntpC	2122735	987	V-type ATPase subunit C	206	EFAU004_02097.fasta	
+	EFAU004_02098		2123736	585	V-type ATPase subunit E	188	EFAU004_02098.fasta	
+	EFAU004_02099	ntpK	2124341	471	V-type ATP synthase subunit K	139	EFAU004_02099.fasta	
+	EFAU004_02100	ntpI	2124830	2004	V-type ATP synthase subunit I	450	EFAU004_02100.fasta	
+	EFAU004_02102		2127489	720	glutamine amidotransferase	204	EFAU004_02102.fasta	
+	EFAU004_02103		2128507	1899	fructose-1,6-bisphosphatase	476	EFAU004_02103.fasta	
+	EFAU004_02104	traL	2130568	1263	putative type IV conjugative transfer system protein TraL	307	EFAU004_02104.fasta	
+	EFAU004_02106	uvrC	2132867	1779	excinuclease ABC subunit C	396	EFAU004_02106.fasta	
+	EFAU004_02107		2134827	315	thioredoxin	55	EFAU004_02107.fasta	
+	EFAU004_02108		2135228	2361	recombination and DNA strand exchange inhibitor protein	498	EFAU004_02108.fasta	
+	EFAU004_02109		2137703	549	CvpA family protein	168	EFAU004_02109.fasta	
+	EFAU004_02110		2138309	438	cell division protein ZapA	114	EFAU004_02110.fasta	
+	EFAU004_02111		2138948	918	ribonuclease HIII	297	EFAU004_02111.fasta	
+	EFAU004_02112		2140121	912	N-acetylmuramoyl-L-alanine amidase	288	EFAU004_02112.fasta	
+	EFAU004_02114		2142033	669	ABC transporter ATP-binding protein	207	EFAU004_02114.fasta	
+	EFAU004_02115		2142716	1071	efflux ABC transporter permease	262	EFAU004_02115.fasta	
+	EFAU004_02121		2150870	681	hypothetical protein	226	EFAU004_02121.fasta	
+	EFAU004_02122		2151834	1104	L-lactate oxidase	279	EFAU004_02122.fasta	
+	EFAU004_02123		2153566	471	hypothetical protein	155	EFAU004_02123.fasta	
+	EFAU004_02124	mleA	2154366	1641	malic enzyme, NAD binding domain protein	273	EFAU004_02124.fasta	
+	EFAU004_02125		2156160	1323	CCS family citrate carrier protein	355	EFAU004_02125.fasta	
+	EFAU004_02127		2158046	837	Sulfite exporter TauE/SafE	300	EFAU004_02127.fasta	
+	EFAU004_02164		2186217	306	hypothetical protein	81	EFAU004_02164.fasta	
+	EFAU004_02165		2186547	432	Holliday junction resolvase-like protein	99	EFAU004_02165.fasta	
+	EFAU004_02166		2186975	267	hypothetical protein	61	EFAU004_02166.fasta	
+	EFAU004_02167		2187496	726	hypothetical protein	262	EFAU004_02167.fasta	
+	EFAU004_02168		2188769	753	hypothetical protein	172	EFAU004_02168.fasta	
+	EFAU004_02169		2189537	480	hypothetical protein	122	EFAU004_02169.fasta	
+	EFAU004_02173		2193783	837	membrane protein	185	EFAU004_02173.fasta	
+	EFAU004_02175		2196413	930	putative permease	244	EFAU004_02175.fasta	
+	EFAU004_02176		2197534	354	thioredoxin domain-containing protein	109	EFAU004_02176.fasta	
+	EFAU004_02177	rex1	2197961	657	redox-sensitive transcriptional regulator	148	EFAU004_02177.fasta	
+	EFAU004_02178		2198843	1935	ABC transporter ATP-binding protein	383	EFAU004_02178.fasta	
+	EFAU004_02186		2209499	1614	pyridine nucleotide-disulfide oxidoreductase	410	EFAU004_02186.fasta	
+	EFAU004_02188	hflX	2212750	1230	GTP-binding protein HflX	283	EFAU004_02188.fasta	
+	EFAU004_02189		2213981	918	tRNA dimethylallyltransferase	204	EFAU004_02189.fasta	
+	EFAU004_02190		2214902	738	glycerophosphodiester phosphodiesterase family protein	209	EFAU004_02190.fasta	
+	EFAU004_02191		2215730	528	hypothetical protein	108	EFAU004_02191.fasta	
+	EFAU004_02192	clpP	2216437	594	ATP-dependent Clp protease proteolytic subunit	76	EFAU004_02192.fasta	
+	EFAU004_02193		2217134	486	Carbonic anhydrase/acetyltransferase	126	EFAU004_02193.fasta	
+	EFAU004_02194		2217772	198	hypothetical protein	104	EFAU004_02194.fasta	
+	EFAU004_02195		2218064	1761	ABC transporter ATP-binding protein/permease	281	EFAU004_02195.fasta	
+	EFAU004_02196		2219821	1731	ABC transporter ATP-binding protein/permease	275	EFAU004_02196.fasta	
+	EFAU004_02197		2221944	213	hypothetical protein	44	EFAU004_02197.fasta	
+	EFAU004_02198	rnjA	2222158	1680	Ribonuclease J 1	309	EFAU004_02198.fasta	
+	EFAU004_02199	cspE	2224091	201	major cold shock protein CspE	49	EFAU004_02199.fasta	
+	EFAU004_02202		2225831	1314	Folylpolyglutamate synthase	274	EFAU004_02202.fasta	
+	EFAU004_02203	valS	2227454	2646	valyl-tRNA synthetase	406	EFAU004_02203.fasta	
+	EFAU004_02204	rex2	2230492	648	redox-sensing transcriptional repressor Rex	184	EFAU004_02204.fasta	
+	EFAU004_02205	thiI	2231712	1212	thiamine biosynthesis protein ThiI	254	EFAU004_02205.fasta	
+	EFAU004_02206		2232939	1143	class V aminotransferase	222	EFAU004_02206.fasta	
+	EFAU004_02207	ezrA	2234246	1722	septation ring formation regulator EzrA	306	EFAU004_02207.fasta	
+	EFAU004_02209		2236752	840	HAD superfamily hydrolase	205	EFAU004_02209.fasta	
+	EFAU004_02210		2237625	834	hypothetical protein	201	EFAU004_02210.fasta	
+	EFAU004_02211		2238690	969	L-asparaginase	234	EFAU004_02211.fasta	
+	EFAU004_02212		2239813	738	Acyl-ACP thioesterase	174	EFAU004_02212.fasta	
+	EFAU004_02213		2240566	834	Fructosamine kinase	227	EFAU004_02213.fasta	
+	EFAU004_02214		2241601	1329	Aminopeptidase C	286	EFAU004_02214.fasta	
+	EFAU004_02221		2252779	363	hypothetical protein	84	EFAU004_02221.fasta	
+	EFAU004_02222		2253215	381	general stress protein 13	77	EFAU004_02222.fasta	
+	EFAU004_02223		2253677	1176	class II aminotransferase	276	EFAU004_02223.fasta	
+	EFAU004_02224		2254929	585	cyclophilin type peptidyl-prolyl cis-trans isomerase	117	EFAU004_02224.fasta	
+	EFAU004_02225		2255714	999	ferredoxin--NADP reductase	197	EFAU004_02225.fasta	
+	EFAU004_02226	yutG	2256824	510	phosphatidylglycerophosphatase A	118	EFAU004_02226.fasta	
+	EFAU004_02227		2257363	660	integral membrane protein	223	EFAU004_02227.fasta	
+	EFAU004_02228		2258024	765	HAD superfamily hydrolase	192	EFAU004_02228.fasta	
+	EFAU004_02229		2258796	678	hypothetical protein	260	EFAU004_02229.fasta	
+	EFAU004_02230		2259510	1386	Ser/Thr protein phosphatase family protein	331	EFAU004_02230.fasta	
+	EFAU004_02232	tadA	2261212	516	cytidine/deoxycytidylate deaminase family protein	148	EFAU004_02232.fasta	
+	EFAU004_02233		2261834	858	Fis family transcriptional regulator	279	EFAU004_02233.fasta	
+	EFAU004_02234		2262772	336	hypothetical protein	107	EFAU004_02234.fasta	
+	EFAU004_02235	rsmF	2263174	1371	rRNA (cytosine-C(5)-)-methyltransferase	299	EFAU004_02235.fasta	
+	EFAU004_02236		2264622	534	hypothetical protein	131	EFAU004_02236.fasta	
+	EFAU004_02238		2267051	708	Zn-dependent protease	123	EFAU004_02238.fasta	
+	EFAU004_02239	phnA	2267837	339	putative alkylphosphonate utilization operon protein PhnA	78	EFAU004_02239.fasta	
+	EFAU004_02240		2268286	963	DHHA1 domain protein	206	EFAU004_02240.fasta	
+	EFAU004_02241		2269263	1332	DRTGG domain-containing protein	233	EFAU004_02241.fasta	
+	EFAU004_02242		2270602	681	metallo-beta-lactamase domain-containing protein	127	EFAU004_02242.fasta	
+	EFAU004_02243		2271501	477	putative YbaK/ebsC protein	160	EFAU004_02243.fasta	
+	EFAU004_02244		2272107	1680	Ribonuclease J 2	325	EFAU004_02244.fasta	
+	EFAU004_02245		2274334	1503	permease	333	EFAU004_02245.fasta	
+	EFAU004_02246		2275849	663	ABC transporter ATP-binding protein	184	EFAU004_02246.fasta	
+	EFAU004_02247		2276612	204	hypothetical protein	70	EFAU004_02247.fasta	
+	EFAU004_02248		2276926	1185	beta-aspartyl peptidase	237	EFAU004_02248.fasta	
+	EFAU004_02249		2278267	1740	C4-dicarboxylate anaerobic carrier	316	EFAU004_02249.fasta	
+	EFAU004_02250		2280778	615	hypothetical protein	166	EFAU004_02250.fasta	
+	EFAU004_02252		2282674	882	UTP--glucose-1-phosphate uridylyltransferase 2	232	EFAU004_02252.fasta	
+	EFAU004_02253	gpsA	2283598	1020	glycerol-3-phosphate dehydrogenase	204	EFAU004_02253.fasta	
+	EFAU004_02254		2285250	1005	SIS domain-containing protein	203	EFAU004_02254.fasta	
+	EFAU004_02255		2286267	1050	SIS domain-containing protein	259	EFAU004_02255.fasta	
+	EFAU004_02256		2287333	822	PTS system, mannose/fructose/sorbose-specific IID component	211	EFAU004_02256.fasta	
+	EFAU004_02258		2288937	471	PTS system, mannose/fructose/sorbose-specific IIB component	94	EFAU004_02258.fasta	
+	EFAU004_02259		2289419	420	PTS system, mannose/fructose/sorbose-specific IIA component	123	EFAU004_02259.fasta	
+	EFAU004_02260		2289919	2769	transcriptional antiterminator bglG:Sigma-54 factor	467	EFAU004_02260.fasta	
+	EFAU004_02261		2292887	225	hypothetical protein	44	EFAU004_02261.fasta	
+	EFAU004_02262		2293889	1716	ABC transporter ATP-binding protein/permease	333	EFAU004_02262.fasta	
+	EFAU004_02263		2295607	1764	ABC transporter ATP-binding protein/permease	295	EFAU004_02263.fasta	
+	EFAU004_02264		2297410	537	membrane protein	137	EFAU004_02264.fasta	
+	EFAU004_02265	mgsA	2298269	423	methylglyoxal synthase	115	EFAU004_02265.fasta	
+	EFAU004_02266	msmK	2298900	1110	ABC transporter ATP-binding protein	192	EFAU004_02266.fasta	
+	EFAU004_02267		2300133	630	hypothetical protein	173	EFAU004_02267.fasta	
+	EFAU004_02268	rsmA	2301213	885	ribosomal RNA small subunit methyltransferase A	176	EFAU004_02268.fasta	
+	EFAU004_02270		2302652	777	TatD family hydrolase	181	EFAU004_02270.fasta	
+	EFAU004_02271		2303583	1323	amino acid permease family protein	270	EFAU004_02271.fasta	
+	EFAU004_02273	metG	2306146	2010	methionyl-tRNA synthetase	316	EFAU004_02273.fasta	
+	EFAU004_02274		2308423	279	hypothetical protein	67	EFAU004_02274.fasta	
+	EFAU004_02275		2308798	822	NUDIX family hydrolase	147	EFAU004_02275.fasta	
+	EFAU004_02276		2309904	1011	IS200/IS605 family transposase	298	EFAU004_02276.fasta	
+	EFAU004_02278	oppD	2311869	1071	ABC transporter ATP-binding protein	205	EFAU004_02278.fasta	
+	EFAU004_02279		2312945	1044	oligopeptide ABC transporter, permease protein OppC family protein	186	EFAU004_02279.fasta	
+	EFAU004_02280		2313989	942	oligopeptide ABC superfamily ATP binding cassette transporter, membrane protein	176	EFAU004_02280.fasta	
+	EFAU004_02281		2315014	348	hypothetical protein	266	EFAU004_02281.fasta	
+	EFAU004_02282		2315431	1662	oligopeptide ABC superfamily ATP binding cassette transporter, binding protein	296	EFAU004_02282.fasta	
+	EFAU004_02288		2325723	816	family 3 extracellular solute-binding protein	204	EFAU004_02288.fasta	
+	EFAU004_02289		2326556	636	putative glutamine ABC transporter ATP-binding protein	148	EFAU004_02289.fasta	
+	EFAU004_02290		2327210	642	amino acid ABC transporter permease	107	EFAU004_02290.fasta	
+	EFAU004_02291		2328331	486	YbaK/prolyl-tRNA synthetase-associated domain protein	157	EFAU004_02291.fasta	
+	EFAU004_02296		2334103	243	hypothetical protein	60	EFAU004_02296.fasta	
+	EFAU004_02297	upp	2334484	630	uracil phosphoribosyltransferase	112	EFAU004_02297.fasta	
+	EFAU004_02298		2335247	948	alpha/beta hydrolase fold protein	205	EFAU004_02298.fasta	
+	EFAU004_02299	glyA	2336347	1245	serine hydroxymethyltransferase	241	EFAU004_02299.fasta	
+	EFAU004_02300		2337608	162	hypothetical protein	47	EFAU004_02300.fasta	
+	EFAU004_02301		2337766	1026	Sua5/YciO/YrdC/YwlC family protein	239	EFAU004_02301.fasta	
+	EFAU004_02303	prfA	2339817	1074	peptide chain release factor 1	221	EFAU004_02303.fasta	
+	EFAU004_02304	tdk	2340893	585	thymidine kinase	124	EFAU004_02304.fasta	
+	EFAU004_02307		2342158	603	methyltransferase domain protein	158	EFAU004_02307.fasta	
+	EFAU004_02308		2342864	570	signal peptidase I	137	EFAU004_02308.fasta	
+	EFAU004_02309		2343663	768	hypothetical protein	134	EFAU004_02309.fasta	
+	EFAU004_02310		2344427	480	hypothetical protein	102	EFAU004_02310.fasta	
+	EFAU004_02311		2345031	738	hypothetical protein	210	EFAU004_02311.fasta	
+	EFAU004_02312		2345929	1401	cation transporter	309	EFAU004_02312.fasta	
+	EFAU004_02313		2347552	1353	Mur ligase middle domain-containing protein	247	EFAU004_02313.fasta	
+	EFAU004_02315	mtlD	2349657	1152	Mannitol-1-phosphate 5-dehydrogenase	262	EFAU004_02315.fasta	
+	EFAU004_02316	mtlF	2350821	438	PTS system mannitol-specific transporter subunit IIA	122	EFAU004_02316.fasta	
+	EFAU004_02317		2351273	1767	PTS system, mannitol-specific IICBA component	366	EFAU004_02317.fasta	
+	EFAU004_02318		2353303	678	ABC transporter ATP-binding protein	190	EFAU004_02318.fasta	
+	EFAU004_02320		2355310	441	PTS system mannitol-specific transporter subunit IIA	140	EFAU004_02320.fasta	
+	EFAU004_02321		2355761	2034	transcriptional antiterminator bglG	422	EFAU004_02321.fasta	
+	EFAU004_02323		2359593	951	mannose-6-phosphate isomerase	193	EFAU004_02323.fasta	
+	EFAU004_02324		2360582	1026	Beta-lactamase	241	EFAU004_02324.fasta	
+	EFAU004_02325		2361816	870	glyoxalase family protein	211	EFAU004_02325.fasta	
+	EFAU004_02326		2363389	1893	ABC transporter ATP-binding protein/permease	353	EFAU004_02326.fasta	
+	EFAU004_02327		2365278	1728	ABC transporter ATP-binding protein/permease	293	EFAU004_02327.fasta	
+	EFAU004_02328		2367021	651	TetR family transcriptional regulator	187	EFAU004_02328.fasta	
+	EFAU004_02329		2367875	297	rhodanese-like domain-containing protein	103	EFAU004_02329.fasta	
+	EFAU004_02330		2368363	621	azoreductase	193	EFAU004_02330.fasta	
+	EFAU004_02331		2369075	1167	permease	222	EFAU004_02331.fasta	
+	EFAU004_02332		2370253	354	PTS system glucitol/sorbitol-specific transporter subunit IIA	83	EFAU004_02332.fasta	
+	EFAU004_02333		2370734	1023	3-carboxymuconate cyclase	228	EFAU004_02333.fasta	
+	EFAU004_02334		2371775	162	hypothetical protein	43	EFAU004_02334.fasta	
+	EFAU004_02335		2372195	435	hypothetical protein	128	EFAU004_02335.fasta	
+	EFAU004_02336		2372739	1860	arylsulfatase	383	EFAU004_02336.fasta	
+	EFAU004_02339	araA2	2376182	1425	L-arabinose isomerase	247	EFAU004_02339.fasta	
+	EFAU004_02341		2378277	1662	carbohydrate kinase, FGGY family protein	337	EFAU004_02341.fasta	
+	EFAU004_02343		2381808	1080	GntR family transcriptional regulator	264	EFAU004_02343.fasta	
+	EFAU004_02351		2390970	891	ArsR family transcriptional regulator	238	EFAU004_02351.fasta	
+	EFAU004_02352	nadE	2391933	825	NH(3)-dependent NAD(+) synthetase	157	EFAU004_02352.fasta	
+	EFAU004_02353		2392769	1473	Nicotinate phosphoribosyltransferase	232	EFAU004_02353.fasta	
+	EFAU004_02354		2394878	363	hypothetical protein	92	EFAU004_02354.fasta	
+	EFAU004_02355		2395463	753	MerR family transcriptional regulator	218	EFAU004_02355.fasta	
+	EFAU004_02356		2396355	924	LacI family transcriptional regulator	216	EFAU004_02356.fasta	
+	EFAU004_02357		2397293	273	hypothetical protein	85	EFAU004_02357.fasta	
+	EFAU004_02417	groL	2434942	1626	chaperonin GroL	264	EFAU004_02417.fasta	
+	EFAU004_02418	groS	2436618	285	chaperonin GroS	107	EFAU004_02418.fasta	
+	EFAU004_02419		2437127	663	CAAX amino terminal protease	191	EFAU004_02419.fasta	
+	EFAU004_02420		2437865	1293	PTS system, lactose/cellobiose IIC component	340	EFAU004_02420.fasta	
+	EFAU004_02421		2439327	630	NADH-flavin reductase	131	EFAU004_02421.fasta	
+	EFAU004_02422	yycJ	2440059	810	metallo-beta-lactamase YycJ	164	EFAU004_02422.fasta	
+	EFAU004_02423		2440923	870	hypothetical protein	227	EFAU004_02423.fasta	
+	EFAU004_02424		2441793	1317	hypothetical protein	267	EFAU004_02424.fasta	
+	EFAU004_02425		2443106	1836	PAS domain sensory box histidine kinase	375	EFAU004_02425.fasta	
+	EFAU004_02426		2444946	705	DNA-binding response regulator	121	EFAU004_02426.fasta	
+	EFAU004_02427		2445840	861	EDD domain-containing protein, DegV family	234	EFAU004_02427.fasta	
+	EFAU004_02433		2449990	1728	Substrate binding domain of ABC-type glycine betaine transport system	295	EFAU004_02433.fasta	
+	EFAU004_02435		2453090	645	GntR family transcriptional regulator	138	EFAU004_02435.fasta	
+	EFAU004_02436		2453828	135	hypothetical protein	51	EFAU004_02436.fasta	
+	EFAU004_02437		2453964	2133	ferrous iron transport protein B	403	EFAU004_02437.fasta	
+	EFAU004_02438		2456093	474	ferrous iron transport protein A	115	EFAU004_02438.fasta	
+	EFAU004_02439		2456967	225	glutaredoxin	53	EFAU004_02439.fasta	
+	EFAU004_02440		2457350	2160	ribonucleoside-diphosphate reductase subunit alpha	300	EFAU004_02440.fasta	
+	EFAU004_02441		2459559	966	ribonucleotide-diphosphate reductase, beta subunit	147	EFAU004_02441.fasta	
+	EFAU004_02442		2460613	1140	pheromone autoinducer 2 transporter	261	EFAU004_02442.fasta	
+	EFAU004_02443		2462061	714	MgtC family protein	131	EFAU004_02443.fasta	
+	EFAU004_02444	nagB	2463028	702	glucosamine-6-phosphate deaminase	138	EFAU004_02444.fasta	
+	EFAU004_02449	rplL	2468813	369	50S ribosomal protein L7/L12	76	EFAU004_02449.fasta	
+	EFAU004_02450	rplJ	2469234	504	50S ribosomal protein L10	124	EFAU004_02450.fasta	
+	EFAU004_02451	rplA	2470147	690	50S ribosomal protein L1	161	EFAU004_02451.fasta	
+	EFAU004_02452	rplK	2470940	423	50S ribosomal protein L11	104	EFAU004_02452.fasta	
+	EFAU004_02453		2471705	669	L-serine dehydratase, iron-sulfur-dependent subunit beta	178	EFAU004_02453.fasta	
+	EFAU004_02454		2472386	873	L-serine dehydratase, iron-sulfur-dependent subunit alpha	193	EFAU004_02454.fasta	
+	EFAU004_02455		2473349	1020	L-lactate oxidase	256	EFAU004_02455.fasta	
+	EFAU004_02456		2474541	888	hypothetical protein	243	EFAU004_02456.fasta	
+	EFAU004_02457	nusG	2475505	546	transcription termination/antitermination factor NusG	98	EFAU004_02457.fasta	
+	EFAU004_02458		2476151	171	Preprotein translocase subunit SecE	40	EFAU004_02458.fasta	
+	EFAU004_02459	rpmG2	2476345	153	50S ribosomal protein L33	42	EFAU004_02459.fasta	
+	EFAU004_02470		2487643	660	phosphoglycerate mutase family protein	163	EFAU004_02470.fasta	
+	EFAU004_02471		2488351	504	TrmH family RNA methyltransferase	95	EFAU004_02471.fasta	
+	EFAU004_02472		2489075	867	methyltransferase domain protein	231	EFAU004_02472.fasta	
+	EFAU004_02475		2492132	900	ribosomal large subunit pseudouridine synthase	208	EFAU004_02475.fasta	
+	EFAU004_02476	ppnK	2493033	798	inorganic polyphosphate/ATP-NAD kinase	141	EFAU004_02476.fasta	
+	EFAU004_02478		2494643	576	adenylate cyclase	157	EFAU004_02478.fasta	
+	EFAU004_02479		2495336	678	dithiol-disulfide isomerase	166	EFAU004_02479.fasta	
+	EFAU004_02482		2497604	1809	oligoendopeptidase F	315	EFAU004_02482.fasta	
+	EFAU004_02484		2500812	654	MecA negative regulator of genetic competence	154	EFAU004_02484.fasta	
+	EFAU004_02485	spxA	2501797	399	transcriptional regulator Spx	121	EFAU004_02485.fasta	
+	EFAU004_02486		2502960	708	HAD superfamily hydrolase	193	EFAU004_02486.fasta	
+	EFAU004_02487		2503813	3195	Snf2 family protein	480	EFAU004_02487.fasta	
+	EFAU004_02488	sbcC	2507026	3129	exonuclease SbcC	490	EFAU004_02488.fasta	
+	EFAU004_02489	sbcD	2510161	1122	exonuclease SbcD	281	EFAU004_02489.fasta	
+	EFAU004_02490		2511474	624	acyltransferase	128	EFAU004_02490.fasta	
+	EFAU004_02491		2512226	735	methyltransferase small domain-containing protein	150	EFAU004_02491.fasta	
+	EFAU004_02494		2515458	876	hypothetical protein	185	EFAU004_02494.fasta	
+	EFAU004_02495	aspS	2516442	1770	aspartyl-tRNA synthetase	313	EFAU004_02495.fasta	
+	EFAU004_02496	hisS	2518226	1293	histidyl-tRNA synthetase	219	EFAU004_02496.fasta	
+	EFAU004_02497		2519912	948	oxidoreductase, aldo/keto reductase family protein	222	EFAU004_02497.fasta	
+	EFAU004_02498		2520948	1260	Cytochrome P450	266	EFAU004_02498.fasta	
+	EFAU004_02499	dtd	2522378	447	D-tyrosyl-tRNA(Tyr) deacylase	122	EFAU004_02499.fasta	
+	EFAU004_02500	relA	2522835	2214	GTP diphosphokinase	385	EFAU004_02500.fasta	
+	EFAU004_02501	rsmE	2525281	765	16S ribosomal RNA methyltransferase RsmE	187	EFAU004_02501.fasta	
+	EFAU004_02502	prmA	2526046	948	50S ribosomal protein L11 methyltransferase	212	EFAU004_02502.fasta	
+	EFAU004_02504		2527460	672	DNA-3-methyladenine glycosylase	202	EFAU004_02504.fasta	
+	EFAU004_02505	rarA	2528269	1287	recombination factor protein RarA	244	EFAU004_02505.fasta	
+	EFAU004_02506		2529899	285	hypothetical protein	95	EFAU004_02506.fasta	
+	EFAU004_02510	ackA	2533699	1185	acetate kinase	173	EFAU004_02510.fasta	
+	EFAU004_02511		2534908	1008	adenine-specific methyltransferase	215	EFAU004_02511.fasta	
+	EFAU004_02513		2536418	426	Competence protein ComGF	137	EFAU004_02513.fasta	
+	EFAU004_02517		2537845	1050	type II secretion system F domain protein	231	EFAU004_02517.fasta	
+	EFAU004_02519		2539912	1755	adenine deaminase	327	EFAU004_02519.fasta	
+	EFAU004_02520	trmB	2541764	663	tRNA (guanine-N(7)-)-methyltransferase	132	EFAU004_02520.fasta	
+	EFAU004_02521		2542496	783	Phosphotransferase	114	EFAU004_02521.fasta	
+	EFAU004_02522	ecsB	2543482	1212	Bacterial ABC transporter protein EcsB	271	EFAU004_02522.fasta	
+	EFAU004_02524		2545561	435	histidine triad protein	103	EFAU004_02524.fasta	
+	EFAU004_02528		2548519	2721	hypothetical protein	421	EFAU004_02528.fasta	
+	EFAU004_02529		2551236	1221	Ser/Thr protein phosphatase family protein	251	EFAU004_02529.fasta	
+	EFAU004_02532		2559561	1311	polygalacturonase	357	EFAU004_02532.fasta	
+	EFAU004_02552		2585163	342	hypothetical protein	62	EFAU004_02552.fasta	
+	EFAU004_02553		2585572	2172	penicillin-binding protein	425	EFAU004_02553.fasta	
+	EFAU004_02554		2587954	858	23S rRNA pseudouridine synthase D	191	EFAU004_02554.fasta	
+	EFAU004_02556		2589724	2703	glycosyl hydrolase family 38 protein	373	EFAU004_02556.fasta	
+	EFAU004_02557		2592439	1290	hypothetical protein	282	EFAU004_02557.fasta	
+	EFAU004_02558		2593878	1047	GntR family transcriptional regulator	231	EFAU004_02558.fasta	
+	EFAU004_02559		2594926	2154	alpha-1,2-mannosidase	344	EFAU004_02559.fasta	
+	EFAU004_02560		2597552	1446	AraC family transcriptional regulator	352	EFAU004_02560.fasta	
+	EFAU004_02561		2599000	1725	sensor histidine kinase	389	EFAU004_02561.fasta	
+	EFAU004_02563		2601676	1458	extracellular solute-binding protein	285	EFAU004_02563.fasta	
+	EFAU004_02564		2603174	921	ABC transporter permease	210	EFAU004_02564.fasta	
+	EFAU004_02565		2604106	948	ABC transporter permease	208	EFAU004_02565.fasta	
+	EFAU004_02566		2605532	720	16S rRNA pseudouridylate synthase A	163	EFAU004_02566.fasta	
+	EFAU004_02567		2606300	1647	polysaccharide biosynthesis family protein	315	EFAU004_02567.fasta	
+	EFAU004_02569		2608807	1506	UDP-N-acetylmuramoylalanyl-D-glutamate--L- lysine ligase	270	EFAU004_02569.fasta	
+	EFAU004_02571		2611748	519	hypothetical protein	159	EFAU004_02571.fasta	
+	EFAU004_02572		2612282	327	PTS system, cellobiose-specific IIA componenent	68	EFAU004_02572.fasta	
+	EFAU004_02574		2614621	315	PTS system cellobiose-specific transporter subunit IIB	90	EFAU004_02574.fasta	
+	EFAU004_02583	leuS	2629910	2415	leucyl-tRNA synthetase	376	EFAU004_02583.fasta	
+	EFAU004_02585		2635139	657	PAP2 family protein	248	EFAU004_02585.fasta	
+	EFAU004_02586		2635795	957	radical SAM protein family	227	EFAU004_02586.fasta	
+	EFAU004_02588		2637522	1770	ABC transporter ATP-binding protein	278	EFAU004_02588.fasta	
+	EFAU004_02589		2639294	1713	ABC transporter ATP-binding protein	315	EFAU004_02589.fasta	
+	EFAU004_02591		2641856	789	esterase	196	EFAU004_02591.fasta	
+	EFAU004_02592		2642727	1473	major facilitator superfamily transporter	269	EFAU004_02592.fasta	
+	EFAU004_02593	metK	2644329	1194	S-adenosylmethionine synthetase	227	EFAU004_02593.fasta	
+	EFAU004_02596	lysS	2651897	1497	lysyl-tRNA synthetase	240	EFAU004_02596.fasta	
+	EFAU004_02597		2653504	1005	tRNA-dihydrouridine synthase	224	EFAU004_02597.fasta	
+	EFAU004_02598	hslO	2654509	888	chaperonin HslO	152	EFAU004_02598.fasta	
+	EFAU004_02599	hflB	2655613	2112	ATP-dependent metalloprotease	340	EFAU004_02599.fasta	
+	EFAU004_02600	hpt	2657814	546	Hypoxanthine-guanine phosphoribosyltransferase	90	EFAU004_02600.fasta	
+	EFAU004_02601		2658359	1455	tRNA(Ile)-lysidine synthase	327	EFAU004_02601.fasta	
+	EFAU004_02602		2659924	471	S1 RNA binding domain-containing protein	107	EFAU004_02602.fasta	
+	EFAU004_02603		2660440	426	septum formation initiator	85	EFAU004_02603.fasta	
+	EFAU004_02604		2660932	270	S4 RNA-binding domain-containing protein	89	EFAU004_02604.fasta	
+	EFAU004_02605		2661212	1596	polysaccharide biosynthesis family protein	350	EFAU004_02605.fasta	
+	EFAU004_02606		2662822	3522	transcription-repair coupling factor	522	EFAU004_02606.fasta	
+	EFAU004_02607		2666360	561	Peptidyl-tRNA hydrolase	171	EFAU004_02607.fasta	
+	EFAU004_02608	ldh1	2667273	975	L-lactate dehydrogenase	182	EFAU004_02608.fasta	
+	EFAU004_02609		2668417	1401	ErfK/YbiS/YcfS/YnhG family protein	267	EFAU004_02609.fasta	
+	EFAU004_02610		2669895	723	hypothetical protein	191	EFAU004_02610.fasta	
+	EFAU004_02611		2670696	507	integral membrane protein	142	EFAU004_02611.fasta	
+	EFAU004_02612		2671325	1800	oligoendopeptidase, PepF/M3 family	348	EFAU004_02612.fasta	
+	EFAU004_02615		2676507	639	thiamin pyrophosphokinase family protein	130	EFAU004_02615.fasta	
+	EFAU004_02616		2677146	651	Ribulose-phosphate 3-epimerase	124	EFAU004_02616.fasta	
+	EFAU004_02617	rsgA	2677809	900	Putative ribosome biogenesis GTPase RsgA	240	EFAU004_02617.fasta	
+	EFAU004_02618		2678873	2070	serine/threonine-protein kinase	400	EFAU004_02618.fasta	
+	EFAU004_02619		2680939	741	serine/threonine phosphatase	138	EFAU004_02619.fasta	
+	EFAU004_02620		2681692	1359	Ribosomal RNA small subunit methyltransferase B	293	EFAU004_02620.fasta	
+	EFAU004_02621	fmt	2683050	939	Methionyl-tRNA formyltransferase	234	EFAU004_02621.fasta	
+	EFAU004_02623		2684487	2409	Primosomal protein N'	399	EFAU004_02623.fasta	
+	EFAU004_02624	rpoZ	2687148	306	DNA-directed RNA polymerase subunit omega	66	EFAU004_02624.fasta	
+	EFAU004_02625	gmk	2687458	615	guanylate kinase	122	EFAU004_02625.fasta	
+	EFAU004_02626		2688559	285	hypothetical protein	63	EFAU004_02626.fasta	
+	EFAU004_02627		2688861	891	hypothetical protein	212	EFAU004_02627.fasta	
+	EFAU004_02632	prs1	2693522	972	Ribose-phosphate pyrophosphokinase 1	183	EFAU004_02632.fasta	
+	EFAU004_02633	glmU	2694587	1374	bifunctional N-acetylglucosamine-1-phosphate / uridyltransferase/glucosamine-1-phosphate acetyltransferase	233	EFAU004_02633.fasta	
+	EFAU004_02634		2696463	819	pur operon repressor	146	EFAU004_02634.fasta	
+	EFAU004_02635		2697448	825	ABC transporter permease	155	EFAU004_02635.fasta	
+	EFAU004_02637		2698948	939	periplasmic solute binding family protein	208	EFAU004_02637.fasta	
+	EFAU004_02638	ispE	2700131	846	4-diphosphocytidyl-2-C-methyl-D-erythritol kinase	149	EFAU004_02638.fasta	
+	EFAU004_02639		2701136	2574	hypothetical protein	414	EFAU004_02639.fasta	
+	EFAU004_02640		2703850	807	delta 1-pyrroline-5-carboxylate reductase	176	EFAU004_02640.fasta	
+	EFAU004_02641	rny	2704735	1557	2',3'-cyclic-nucleotide 2'-phosphodiesterase	272	EFAU004_02641.fasta	
+	EFAU004_02642	recA	2706702	1050	DNA recombination protein RecA	210	EFAU004_02642.fasta	
+	EFAU004_02643		2707860	1242	competence/damage-inducible protein CinA protein	267	EFAU004_02643.fasta	
+	EFAU004_02644		2709341	579	CDP-diacylglycerol--glycerol-3-phosphate 3-phosphatidyltransferase	111	EFAU004_02644.fasta	
+	EFAU004_02645		2710128	885	hypothetical protein	153	EFAU004_02645.fasta	
+	EFAU004_02646		2711790	1287	peptidase M16 inactive domain protein	238	EFAU004_02646.fasta	
+	EFAU004_02648		2714589	462	large conductance mechanosensitive channel protein	95	EFAU004_02648.fasta	
+	EFAU004_02649		2715109	447	GNAT family acetyltransferase	114	EFAU004_02649.fasta	
+	EFAU004_02650		2715648	246	veg family protein	54	EFAU004_02650.fasta	
+	EFAU004_02651		2716007	579	RNA polymerase sigma-70 factor family protein	229	EFAU004_02651.fasta	
+	EFAU004_02652		2716662	531	putative RNA-binding protein containing a PIN domain	173	EFAU004_02652.fasta	
+	EFAU004_02653		2717196	861	trmH family tRNA/rRNA methyltransferase	198	EFAU004_02653.fasta	
+	EFAU004_02655	cysS	2718441	1413	cysteinyl-tRNA synthetase	273	EFAU004_02655.fasta	
+	EFAU004_02656		2719850	537	Serine O-acetyltransferase	137	EFAU004_02656.fasta	
+	EFAU004_02657	gltX	2720708	1461	glutamyl-tRNA synthetase	303	EFAU004_02657.fasta	
+	EFAU004_02658		2722338	1158	Integral membrane protein	214	EFAU004_02658.fasta	
+	EFAU004_02659	radA	2723529	1371	DNA repair protein RadA	251	EFAU004_02659.fasta	
+	EFAU004_02660		2724962	528	deoxyuridine 5'-triphosphate nucleotidohydrolase	160	EFAU004_02660.fasta	
+	EFAU004_02662	proB	2727501	807	glutamate 5-kinase	141	EFAU004_02662.fasta	
+	EFAU004_02663	proA	2728304	1248	gamma-glutamyl phosphate reductase	220	EFAU004_02663.fasta	
+	EFAU004_02664		2729627	345	hypothetical protein	121	EFAU004_02664.fasta	
+	EFAU004_02665		2730088	327	hypothetical protein	98	EFAU004_02665.fasta	
+	EFAU004_02689	dus2	2753253	984	tRNA-dihydrouridine synthase	234	EFAU004_02689.fasta	
+	EFAU004_02691	yadG	2755415	936	ABC transporter ATP-binding protein	169	EFAU004_02691.fasta	
+	EFAU004_02693		2756944	1650	DNA mismatch repair protein	231	EFAU004_02693.fasta	
+	EFAU004_02814	rpsI	2881444	393	30S ribosomal protein S9	157	EFAU004_02814.fasta	
+	EFAU004_02815	rplM	2881852	444	50S ribosomal protein L13	60	EFAU004_02815.fasta	
+	EFAU004_02816		2882814	468	DNA protection during starvation protein 1	83	EFAU004_02816.fasta	
+	EFAU004_02817		2883401	1539	gluconate kinase	296	EFAU004_02817.fasta	
+	EFAU004_02818		2885019	687	bacterial Peptidase A24 protein	199	EFAU004_02818.fasta	
+	EFAU004_02819		2885906	528	Peptide methionine sulfoxide reductase msrA	132	EFAU004_02819.fasta	
+	EFAU004_02831	rpoC	2900137	3654	DNA-directed RNA polymerase subunit beta'	484	EFAU004_02831.fasta	
+	EFAU004_02832	rpoB	2903869	3618	DNA-directed RNA polymerase subunit beta	560	EFAU004_02832.fasta	
+	EFAU004_02833		2908214	969	ABC transporter substrate-binding protein	247	EFAU004_02833.fasta	
+	EFAU004_02834		2909200	906	amino acid or sugar ABC transport system, permease protein	229	EFAU004_02834.fasta	
+	EFAU004_02835		2910102	807	ABC transporter ATP-binding protein	218	EFAU004_02835.fasta	
+	EFAU004_02836		2911065	969	biotin-[acetyl-CoA-carboxylase] ligase	214	EFAU004_02836.fasta	
+	EFAU004_02846		2924025	1347	Glutathione reductase	262	EFAU004_02846.fasta	
+	EFAU004_02847		2925505	1251	peptidase, U32 family	240	EFAU004_02847.fasta	
+	EFAU004_02848		2926764	924	peptidase, U32 family	247	EFAU004_02848.fasta	
+	EFAU004_02849		2927908	2493	negative regulator of genetic competence ClpC/MecB	392	EFAU004_02849.fasta	
+	EFAU004_02850		2930407	468	firmicute transcriptional repressor of class III stress	101	EFAU004_02850.fasta	
+	EFAU004_02853		2938389	1209	histidine kinase	292	EFAU004_02853.fasta	
+	EFAU004_02854	serS2	2939891	1272	seryl-tRNA synthetase	228	EFAU004_02854.fasta	
+	EFAU004_02855	guaB	2941711	1485	Inosine-5'-monophosphate dehydrogenase	253	EFAU004_02855.fasta	
+	EFAU004_02856		2943700	696	hypothetical protein	147	EFAU004_02856.fasta	
+	EFAU004_02858		2945807	891	ParB family chromosome partitioning protein	211	EFAU004_02858.fasta	
+	EFAU004_02860	rsmG	2947463	714	Ribosomal RNA small subunit methyltransferase G	195	EFAU004_02860.fasta	
+	EFAU004_02862	mnmE	2950326	1398	tRNA modification GTPase MnmE	247	EFAU004_02862.fasta	
+	EFAU004_02863		2952067	339	hypothetical protein	79	EFAU004_02863.fasta	
+	EFAU004_02864		2952573	759	r3H domain protein	143	EFAU004_02864.fasta	
+	EFAU004_02865	oxaA	2953349	819	putative stage III sporulation protein J	118	EFAU004_02865.fasta	
+	EFAU004_02866	rnpA	2954164	357	Ribonuclease P protein component	105	EFAU004_02866.fasta	
+	EFAU004_02867		2954638	135	50S ribosomal protein L34	33	EFAU004_02867.fasta	

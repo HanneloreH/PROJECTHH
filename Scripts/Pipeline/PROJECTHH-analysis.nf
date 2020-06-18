@@ -86,7 +86,7 @@ params.cpu= 1
 params.help = false
 params.output= "$baseDir/output"
 params.PE = false
-params.reads = "$baseDir/*_{1,2}.fastq.gz"
+params.reads = "$baseDir/*{1,2}.fastq.gz"
 params.scheme = "$baseDir/cgMLST"
 params.SE = false
 params.training = "$baseDir/*.trn"
@@ -99,7 +99,7 @@ def trimFolder = {
 }
 //input folders
 fastq_f = trimFolder("$params.reads")
-fastq_files = fastq_f + "/*_{1,2}.fastq.gz"
+fastq_files = fastq_f + "/*{1,2}.fastq.gz"
 inputscheme = trimFolder("$params.scheme")
 trainingfile = trimFolder("$params.training")
 assdir = trimFolder("$params.assem")

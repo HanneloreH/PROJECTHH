@@ -188,7 +188,7 @@ if (params.txid=="zero"){
         }
 
 
-        //Extract TXID from report
+        //Extract TXID from report 
                
         rep = file("$krakenx/report-mini-fastq.txt")
         allLines  = rep.readLines()
@@ -296,7 +296,7 @@ else {
 }
 
 
-'''
+
 // =================================== Get Reference Assemblies ====================================
 /*
 - Goal: Get reference assemblies from NCBI via txid, 
@@ -719,7 +719,7 @@ process feedback{
 results.view({it.trim()})
 
 
-'''
+
 
 // =============================  Finished message ====================================
 workflow.onComplete {
