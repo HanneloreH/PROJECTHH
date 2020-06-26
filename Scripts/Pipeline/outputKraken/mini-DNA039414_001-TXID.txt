@@ -1,0 +1,1 @@
+Kraken2 calculation on 10000 reads for mini-DNA039414_001 gives txid 46465 as dominant species

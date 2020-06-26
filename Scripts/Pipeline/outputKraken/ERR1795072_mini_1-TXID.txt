@@ -1,0 +1,1 @@
+Kraken2 calculation on 10000 reads for ERR1795072_mini_1 gives txid 46465 as dominant species

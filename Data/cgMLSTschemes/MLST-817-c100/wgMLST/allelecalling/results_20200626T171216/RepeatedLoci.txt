@@ -1,0 +1,3 @@
+gene	PC	NDC
+GCF-000710365-protein2294.fasta	1	0
+GCF-000710375-protein6972.fasta	1	1

@@ -109,8 +109,10 @@ outputdir = trimFolder("$params.output")
 qualitydirPRE = outputdir + "/Quality/raw"
 qualitydirPOST = outputdir + "/Quality/trimmed"
 megahitdir = outputdir + "/Assemblies-megahit"
+mlstdir = outputdir + "/MLSTtypes"
 quastdir = megahitdir + "/assembly-quality"
-input4dir = outputdir + "/Analysis/input4analysis/"
+analysisdir = outputdir + "/Analysis"
+input4dir = analysisdir + "/input4analysis"
 //resultdir = outputdir + "/Results"  //defined in analysis
 
 // Transform reads to files and form pairs and set channels
@@ -148,6 +150,11 @@ println """\
          """
          .stripIndent()
 
+
+//SEQUENTIAL
+//Make sure everything happens sequential
+SEQ1 = Channel.value( 'Do it sequentially' )
+SEQ1.into {SEQ1a; SEQ1b}
 
 
 // ===========================  Quality control raw data ===========================
@@ -231,11 +238,14 @@ Todo: add extra parametesr to fastp
 
         input:
         file(reads) from read_pairsSE_ch
+        val(seq) from SEQ1a
 
         output:
         file("Trimmed_${reads.simpleName}/TRIM-*") into trimmedSE_reads
         file("Trimmed_${reads.simpleName}/TRIM-*") into trimmedSE_quality
         file("fastp.html")
+        val(seq) into SEQ2a
+
 
         when:
         params.SE
@@ -255,11 +265,13 @@ Todo: add extra parametesr to fastp
 
         input:
         set sample_id, file(reads) from read_pairsPE_ch
+        val(seq) from SEQ1b
 
         output:
         set val(sample_id), file("Trimmed_${sample_id}/TRIM-*fastq.gz") into trimmedPE_reads
         file("Trimmed_${sample_id}/TRIM-*fastq.gz") into trimmedPE_quality
         file("fastp.html")
+        val(seq) into SEQ2b
 
         when:
         params.PE
@@ -279,10 +291,12 @@ Todo: add extra parametesr to fastp
 
         input:
         file (fastq) from trimmedSE_quality
+        val(seq) from SEQ2a
 
         output:
         file("*.zip") into fastqc_SE_trim_ch
         file("*.html")
+        val(seq) into SEQ3a
 
         script:
         """
@@ -295,10 +309,12 @@ else{
 
         input:
         file (fastq) from trimmedPE_quality
+         val(seq) from SEQ2b
 
         output:
         file("*.zip") into fastqc_PE_trim_ch
         file("*.html")
+        val(seq) into SEQ3b
 
         script:
         """
@@ -352,10 +368,12 @@ if(params.SE){
         
         input:
         file(trimfq) from trimmedSE_reads
+         val(seq) from SEQ3a
 
         output:
         file("assembly/*.fa") into megahitSE 
         //path("assembly/*.fa") into megahitSE-chew 
+        val(seq) into SEQ4a
         
         when:
         params.SE
@@ -373,10 +391,12 @@ else{
         
         input:
         set sample_id, file(trimfq) from trimmedPE_reads
+        val(seq) from SEQ3b
 
         output:
         file("assembly/*.fa") into megahitPE  
         //path("assembly/*.fa") into megahitPE-chew  
+        val(seq) into SEQ4b
         
         when:
         params.PE
@@ -389,15 +409,17 @@ else{
 }
 // split the file and stop division in SE and PE for quality control and further analysis with chewbbaca
 if (params.SE){
-    megahitSE.into {megahit_quast; megahit_chew}
+    megahitSE.into {megahit_quast; megahit_mlst ;megahit_chew}
     //megahit_quast = megahitSE
     //megahit_chew = megahitSE-chew
+    SEQ4a.into {SEQ5;SEQ5a}
 
 }
 else {
-    megahitPE.into {megahit_quast; megahit_chew}
+    megahitPE.into {megahit_quast; megahit_mlst; megahit_chew}
     //megahit_quast = megahitPE
     //megahit_chew = megahitPE-chew
+    SEQ4b.into {SEQ5;SEQ5b}
 }
 //import matpotlib for quast
 process matplotlib {
@@ -407,21 +429,22 @@ process matplotlib {
     import matplotlib
     """
 }
-// Control of assembly with Quast
+// Control of assembly with Quast: TO TEST
 process quast{
     publishDir "$quastdir", mode:'copy', overwrite: true
        
     input:
     file(assembly) from megahit_quast
+    val(seq) from SEQ5
 
     output:
     file("quast-${assembly.simpleName}/report.html")
     file("quast-${assembly.simpleName}/report.pdf")
+    val(seq) into SEQ6
 
     script:
     """
-    mkdir quast-${assembly.simpleName}/
-    quast.py ${assembly} -o quast-${assembly.simpleName}/
+    metaquast.py --threads "${task.cpus}" -o quast-${assembly.simpleName} -1 "${assembly}"
     """
 }
 
@@ -434,10 +457,34 @@ process quast{
 - Goal: 
 
 TODOOOOOOOOOOOOOOOOOO
-
 */
 
 
+
+
+
+// ================================= MLST type =============================
+/* 
+- Date creation: 26/06/2020
+- Last adjustment: 26/06/2020
+- Goal: Define ST-types for simple MLST analysis based on available schemes
+*/
+
+//Check MLST-type   TO TEST
+process mlsttype{
+        publishDir "$mlstdir", mode:'copy', overwrite: true
+
+        input:
+        file(assembly) from megahit_mlst
+
+        output:
+        file("*.tsv") 
+
+        script:
+        """
+        mlst $megahitdir/assembly/*.fa > ST-types.tsv
+        """
+}
 
 
 // ================================= cgMLST analysis =============================
@@ -452,14 +499,19 @@ TODOOOOOOOOOOOOOOOOOO
         ONly need to do this once!! -> Fix make input4 folder
     * make sure processes are done in sequential manner with maxForks 1
 */
+
+
 //define the folder with the assemblies
 //copy generated assemblies to the input folder for analysis
 process input4a{
-        maxForks 13
 
         input:
         file(assembly) from megahit_chew 
+        val(seq) from SEQ6
 
+        output:
+        val(seq) into SEQ7
+ 
         script:
         """
         mkdir -p $outputdir
@@ -474,10 +526,13 @@ if (params.assem){
     .fromPath("${assemdir}")
     .set {assem_ch}
     process input4b{
-        maxForks 14
 
         input:
         file(assem) from assem_ch
+        val(seq) from SEQ7
+
+        output:
+        val(seq) into SEQ8
 
         script:
         """
@@ -492,20 +547,67 @@ if (params.assem){
 
 //do analysis
 process analysis{
-    maxForks 15
 
-    publishDir "$input4dir", mode:'copy', overwrite: true
+    publishDir "$analysisdir", mode:'copy', overwrite: true
+
+    input:
+    val(seq) from SEQ8
 
     output:
     file("*")
+    file('*.tsv') into toclean
 
     script:
     """
     chewBBACA.py AlleleCall -i $input4dir -g $inputscheme -o Results --cpu $params.cpu --ptf $trainingfile --fr
     """
 }
+'''
+//cleanup  -- TO TEST
+process cleanup{
+    publishDir "$analysisdir", mode:'copy', overwrite: true
+
+    input:
+    result from toclean
+
+    output:
+    file("*")
+
+    script:
+    """
+    chewBBACA.py ExtractCgMLST -i "${result}" -o Ready4MST
+    """
+}
 
 
+//show some feedback about the pipeline  -- TO TEST
+process feedback{
+    echo true
+
+    input:
+    file(reportWG) from wgMLSTlogging
+    file(counts) from ch_counts
+    val(txid) from mtxid8
+
+    script:
+    """     
+    #!/usr/bin/env python3
+        
+    print(" ")
+    print ("REFERENCES USED FOR ANALYSIS")
+    allcall= "$reportWG"
+    txt1 = open (allcall, 'r')
+    counter1 = 0
+    for line1 in txt1:
+        if counter1 == 3:
+            print(line1, end='')
+        counter1+=1
+    txt1.close()
+    print("out of ${params.count} requested")
+    print(" ")
+    """
+}
+'''
 
 // =============================  Finished message ====================================
 workflow.onComplete {
@@ -513,12 +615,12 @@ workflow.onComplete {
 }
 
 
-// TODO: 
-// find better way to reach adapter file
-// test for zipped or not fastqs
-// nextflow.config
-//  use docker container (?)-> to set + make nextflow.config file!!
-// database with already downloaded assemblies per txid
+
+//TO IMPROVE WHEN THERE'S EXCESS TIME
+// Include non-zipped fastq's (check the given files and adjust protocol accordingly)
+// Adjust nextflow.config
+//  use docker container -> to set + make nextflow.config file!!
+
 '''
 do -with-docker
 ALTERNATIVE in nexflow.config file:
