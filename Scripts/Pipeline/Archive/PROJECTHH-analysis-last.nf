@@ -2,7 +2,7 @@
  
 /*
 ========================================================================================
-                         cgMLST analysis on fastq data
+                         OUTB8-analysis : cgMLST analysis on fastq data
 ========================================================================================
 SUMMARY
 Do WGS bacterial analysis on fastq files (format *.fastq.gz) based on a known scheme for cg/wgMLST (includes trimming and assembly)
@@ -14,12 +14,12 @@ INPUT (must define):
 
 OUTPUT: 
     * QA results before and after trimming in folder "Quality" 
-    * Assembly for every sample and assembly quality parameters in folder "Assemblies-*"
-    * Minimum Spanning Tree and conclusion in folder "Results"
+    * MLST type analysis in folder "MLSTtypes"
+    * Assembly for every sample and assembly quality parameters in folder "Assemblies-megahit"
+    * Results and Minimum Spanning Tree in folder "Analysis"
 
 EXAMPLE INPUT:
-    * nextflow run Pipeline/PROJECTHH-analysis2.nf --PE --reads "/home/hannelore/PROJECTHH/Data/RawData-KP/" \
-      --scheme "/home/hannelore/PROJECTHH/Data/cgMLSTschemes/MLST-287-all/cgMLST/scheme-287-all-cgMLST"
+    * nextflow run OUTB8-analysis.nf --PE --reads data/ --scheme scheme/
 
 
 AUTHOR
@@ -32,23 +32,26 @@ Hannelore Hamerlinck <hannelore.hamerlinck@hotmail.com>
 // =============================  Show help message ====================================
 /* 
 - Date creation: 25/03/2020
-- Last adjusted: 3/06/2020
+- Last adjusted: 22/07/2020
 - Goal: Give help message if asked
 - Remarks: first the helpmessage is defined in a function. Standard params.help=false (also 
   see nextflow.contig) but when used in command this is set to true and the function is
   activated with an if-clause.
 - Faced problems:
     * in the beginning this set-up did not print the help-message,this was overcome by adding "log.info"
+    * added activation of python3 environment to be able to load chewBBACA and matplotlib without errors
 */
 
 def helpMessage() {
     log.info"""
+    OUTB8-analysis
     Do WGS bacterial analysis on fastq files based on a known scheme for cg/wgMLST
 
-    example:   nextflow run Pipeline/PROJECTHH.nf --PE --reads "Data/*_{1,2}.fastq.gz" --scheme "Scheme/cgMLST"
+    example:   nextflow run OUTB8-analysis.nf --PE --reads Data/ --scheme Scheme/
 
     --assem     OPTIONAL give path to established assemblies that need to be included in the analysis (format: *.fa)
     --cpu       give maximal number of CPUs (default = 1)
+    --env       give path to python3 environment (running e.g. chewBBACA, matplotlib...)
     --help      show help message
     --meta      give filename of metadata
     --output    give path to output folder
@@ -58,9 +61,7 @@ def helpMessage() {
     --SE        use for single end data
     --training  give path to training file 
     --x         if "true" pipeline will run starting from given assemblies (=cgMLST analysis only)
-    
     -resume     use to continue an analysis that was run (partly) before
-    -with-docker ***under construction***
 
     """.stripIndent()
 }
@@ -85,6 +86,7 @@ if (params.help){
 // Define general parameters (defaults)
 params.assem = false
 params.cpu= 1
+params.env = "$baseDir/env"
 params.help = false
 params.output= "$baseDir/output"
 params.meta = false
@@ -107,7 +109,9 @@ fastq_files = fastq_f + "/*{1,2}.fastq.gz"
 inputscheme = trimFolder("$params.scheme")
 trainingfile = trimFolder("$params.training")
 assdir = trimFolder("$params.assem")
-assemdir = assdir + "/*.fa"
+assemdir = assdir + "/*.fa*"
+envdir = trimFolder("$params.env")
+envactivate = envdir + "/bin/activate"
 //output folders
 outputdir = trimFolder("$params.output")
 qualitydirPRE = outputdir + "/Quality/raw"
@@ -117,6 +121,8 @@ mlstdir = outputdir + "/MLSTtypes"
 quastdir = megahitdir + "/assembly-quality"
 analysisdir = outputdir + "/Analysis"
 input4dir = analysisdir + "/input4analysis"
+tempdir = outputdir + "/temp"
+
 //resultdir = outputdir + "/Results"  //defined in analysis
 
 // Transform reads to files and form pairs and set channels
@@ -145,6 +151,7 @@ println """\
         ==============================================================
         * Path to extra assemblies        : ${assemdir}
         * Number of CPUs                  : ${params.cpu}
+        * Python3 environment             : ${envdir}
         * File with metadata              : ${params.meta}
         * Output-folder                   : ${outputdir}
         * Folder with input reads         : ${fastq_f}
@@ -156,6 +163,15 @@ println """\
          """
          .stripIndent()
 
+
+ // ===========================  Set Python3 environment ===========================
+ 
+process environment {
+    script:
+    """
+    source $envactivate
+    """
+}
 
 if(!params.x){
 
@@ -411,7 +427,7 @@ if(!params.x){
     process matplotlib {
         script:
         """
-        #!/usr/bin/env python3
+        #!/usr/bin/python3
         import matplotlib
         """
     }
@@ -476,7 +492,14 @@ if(!params.x){
 //end of params.x if-statement
 }
 else{
-    megahit_chew = Channel.fromPath("~/test.txt")
+    process fromassem {
+        script:
+        """
+        mkdir -p $tempdir
+        touch $tempdir/.ignore.txt
+        """
+    }
+    megahit_chew = Channel.fromPath("$tempdir/.ignore.txt")
 }
 
 
@@ -484,8 +507,8 @@ else{
 
 // ================================= cgMLST analysis =============================
 /* 
-- Date creation: 3/6/2020
-- Last adjustment: 9/7/2020
+- Date creation: 06/2020
+- Last adjustment: 22/7/2020
 - Goal: Do actual cg/wgMLST analysis based on given scheme
 - Faced problems
     * run stops because previous files are detected, however because nextflow is not interactive we 
@@ -493,6 +516,12 @@ else{
     * analysis file by file but should provide a path to include ALL files at once
         ONly need to do this once!! -> Fix make input4 folder
     * make sure processes are done in sequential manner with maxForks 1 -> did not work, used file (assembly)
+    * after doing some updates (apart from chewbbaca) I could not doe chewBBACA allelcall analysis anymore,
+      it took me some time to find out this was not a local problem.
+        fix: I started an issue on the github page:
+        developers adjusted the code, see issue 62: https://github.com/B-UMMI/chewBBACA/issues/62
+        problem2: this gave errors loading matplotlib (because of different acitvated environment?)
+         fix: install matplotlib in the envPROJECTHH
 */
 
 
@@ -528,12 +557,12 @@ if (params.assem){
 
         script:
         """
+        mkdir cp-${assembly}
         cp ${assem} $input4dir
         """
     }
 }
 
-//#NEW PROBLEM WITH ANALYSIS, why????
 
 //do analysis
 process analysis{
@@ -578,6 +607,9 @@ process MSTtree{
     input:
     file(cgMLSTfile) from ch_MST_tree
 
+    output:
+    //todo
+
     script:
     """
     Rscript $baseDir/test.R $analysisdir/Ready4MST/ ${cgMLSTfile} ${params.meta}
@@ -602,11 +634,7 @@ process feedback{
     txt1 = open (allcall, 'r')
     counter1 = 0
     for line1 in txt1:
-        if counter1 == 3:
-            print(line1, end='')
-        if counter1 == 4:
-            print(line1, end='')
-        if counter1 == 5:
+        if counter1 in (2,3,4,5):
             print(line1, end='')
         counter1+=1
     txt1.close()
@@ -614,10 +642,9 @@ process feedback{
 }
 
 
-
 // =============================  Finished message ====================================
 workflow.onComplete {
-	log.info ( workflow.success ? "\nFINISHED SUCCESFULLY!\n" : "Oops something went wrong!" )
+	log.info ( workflow.success ? "\nOUTB8 FINISHED ANALYSIS SUCCESFULLY!\n" : "Oops something went wrong!" )
 }
 
 

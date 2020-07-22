@@ -1,0 +1,5 @@
+assembliesXtra/GCF_000364385.3.fa
+assembliesXtra/GCF_000814305.1.fa
+assembliesXtra/GCF_000968155.1.fa
+assembliesXtra/GCF_001022035.1.fa
+assembliesXtra/GCF_001022035.1a.fasta
