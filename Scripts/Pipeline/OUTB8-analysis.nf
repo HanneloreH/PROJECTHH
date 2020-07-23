@@ -2,7 +2,7 @@
  
 /*
 ========================================================================================
-                         OUTB8-analysis : cgMLST analysis on fastq data
+                         OUTB8-analysis v1.0 : cgMLST analysis on fastq data
 ========================================================================================
 SUMMARY
 Do WGS bacterial analysis on fastq files (format *.fastq.gz) based on a known scheme for cg/wgMLST (includes trimming and assembly)
@@ -28,10 +28,10 @@ Hannelore Hamerlinck <hannelore.hamerlinck@hotmail.com>
 
 
 
-// =============================  Show help message ====================================
+// ==========================  Show help message and version =================================
 /* 
 - Date creation: 25/03/2020
-- Last adjusted: 22/07/2020
+- Last adjusted: 23/07/2020
 - Goal: Give help message if asked
 - Remarks: first the helpmessage is defined in a function. Standard params.help=false (also 
   see nextflow.contig) but when used in command this is set to true and the function is
@@ -43,7 +43,8 @@ Hannelore Hamerlinck <hannelore.hamerlinck@hotmail.com>
 
 def helpMessage() {
     log.info"""
-    OUTB8-analysis
+    ==================== OUTB8-analysis ====================
+
     Do WGS bacterial analysis on fastq files based on a known scheme for cg/wgMLST
 
     example:   nextflow run OUTB8-analysis.nf --PE --reads Data/ --scheme Scheme/
@@ -59,6 +60,7 @@ def helpMessage() {
     --scheme    give path to wg/cg scheme folder 
     --SE        use for single end data
     --training  give path to training file 
+    --v         show version
     --x         if "true" pipeline will run starting from given assemblies (=cgMLST analysis only)
     -resume     use to continue an analysis that was run (partly) before
 
@@ -70,6 +72,14 @@ if (params.help){
     exit 0
 }
 
+def version(){
+    println("OUTB8-analysis v1.0")
+}
+
+if (params.v){
+    version()
+    exit 0
+}
 
 
 // ===========================  Set parameters ===========================
@@ -93,7 +103,8 @@ params.PE = false
 params.reads = "$baseDir/*{1,2}.fastq.gz"
 params.scheme = "$baseDir/cgMLST"
 params.SE = false
-params.training = "$baseDir/*.trn"
+params.training = "$baseDir/*.trn"µ
+params.v = false
 params.x = false
 
 // Define all folders 
@@ -449,18 +460,6 @@ if(!params.x){
     }
 
 
-
-    // ================================= Scaffolding =============================
-    /* 
-    - Date creation: 03/04/2020
-    - Last adjustment: 9/7/2020
-    - Goal: 
-
-    TODO
-    */
-
-
-
     // ================================= MLST type =============================
     /* 
     - Date creation: 26/06/2020
@@ -649,6 +648,7 @@ workflow.onComplete {
 
 
 //TO IMPROVE WHEN THERE'S EXCESS TIME
+// Include scaffolding after de novo assembly
 // Include non-zipped fastq's (check the given files and adjust protocol accordingly)
 // Adjust nextflow.config
 // use docker container -> to set + make nextflow.config file!!

@@ -1,0 +1,2 @@
+nextflow run OUTB8-analysis.nf --PE --reads ~/PROJECTHH/Tests/BAIT8-analysis-PE/input/ --output ~/PROJECTHH/Tests/BAIT8-analysis-PE/output --scheme ~/PROJECTHH/Data/cgMLSTschemes/MLST-573-c20-Prepped/cgMLST/scheme-573-c20-cgMLST-prep --cpu 2 --training ~/PROJECTHH/Data/TrainingFiles/txid573-c20.trn --env ~/PROJECTHH/envPROJECTHH/ -resume
+

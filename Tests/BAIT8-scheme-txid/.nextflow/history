@@ -1,0 +1,1 @@
+2020-07-23 16:44:31	-	voluminous_noyce	-	9c8a6c6c3dfac8debac8a5d1b37f37f4	ef3d99f5-1b11-4874-afae-1f8a0f5872c0	nextflow run OUTB8-scheme.nf --txid 573 --count 50 --perc 0.95 --cpu 2
