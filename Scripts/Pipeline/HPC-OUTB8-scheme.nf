@@ -49,7 +49,6 @@ def helpMessage() {
     --count     give a maximum number of reference assemblies to use in the scheme (default 100)
                 indicate "all" if you want to use all complete reference assemblies available at NCBI
     --cpu       give maximal number of cpu's
-    --env       give path to python3 environment (running e.g. chewBBACA...)
     --fastq     give one or more fastq files (zipped)
     --help      show help message
     --krakendb  give path to kraken database 
@@ -95,12 +94,12 @@ params.count = 100
 params.cpu = 1  //$task.cpus does not work...
 params.fastq = "zero"
 params.help = false
-params.krakendb = "/home/hannelore/PROJECTHH/Tools/kraken-db/16S_SILVA138_k2db" //SILVA, TO ADJUST!
+params.krakendb = "/data/gent/vo/001/gvo00121/krakenDB"
 params.krakenout = "$baseDir/outputKraken"
 params.perc = 0.95
-params.refDB = "/home/hannelore/PROJECTHH/Data/refDB"
-params.scheme = "/home/hannelore/PROJECTHH/Data/cgMLSTschemes"
-params.training= "/home/hannelore/PROJECTHH/Data/TrainingFiles"
+params.refDB = "/data/gent/vo/001/gvo00121/mlstDB/refdb"
+params.scheme = "/data/gent/vo/001/gvo00121/mlstDB/cgmlst"
+params.training= "/data/gent/vo/001/gvo00121/mlstDB/training"
 params.v = false
 params.txid = "zero"
 
@@ -119,18 +118,6 @@ krakenx = trimFolder("$params.krakenout")
 krakenxres = krakenx + "/reports"
 krakenxmini = krakenx + "/mini-fastqs"
 krakendbx = trimFolder("$params.krakendb")
-envdir = trimFolder("$params.env")
-envactivate = envdir + "/bin/activate"
-
- // ===========================  Set Python3 environment ===========================
- 
-process environment {
-    script:
-    """
-    source $envactivate
-    """
-}
-
 
 
 
