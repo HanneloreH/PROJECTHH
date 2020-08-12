@@ -1,0 +1,13 @@
+First 10 assemblies of NCIB Reference assemblies downloaded during scheme creation for 573
+
+
+GCF_000364385.3.fa.gz
+GCF_000739495.1.fa.gz
+GCF_000764615.1.fa.gz
+GCF_000775955.1.fa.gz
+GCF_000807395.2.fa.gz
+GCF_000814305.1.fa.gz
+GCF_000968155.1.fa.gz
+GCF_001022035.1.fa.gz
+GCF_001022175.1.fa.gz
+GCF_001022235.1.fa.gz

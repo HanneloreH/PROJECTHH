@@ -53,7 +53,7 @@ def helpMessage() {
     --cpu       give maximal number of CPUs (default = 1)
     --env       give path to python3 environment (running e.g. chewBBACA, matplotlib...)
     --help      show help message
-    --meta      give filename of metadata
+    --meta      give filename (.csv) of metadata, first column are the sample names IN CORRECT ORDER (= one line per sample), all following columns will be used as color-code in MST-plots
     --output    give path to output folder
     --PE        use for paired end data
     --reads     give path to input fastq files (format *.fastq.gz)
@@ -103,7 +103,7 @@ params.PE = false
 params.reads = "$baseDir/*{1,2}.fastq.gz"
 params.scheme = "$baseDir/cgMLST"
 params.SE = false
-params.training = "$baseDir/*.trn"µ
+params.training = "$baseDir/*.trn"
 params.v = false
 params.x = false
 
@@ -135,25 +135,6 @@ tempdir = outputdir + "/temp"
 
 //resultdir = outputdir + "/Results"  //defined in analysis
 
-// Transform reads to files and form pairs and set channels
-//1) Input channel for quality control
-Channel
-    .fromPath("${fastq_files}")
-    .ifEmpty { error "Cannot find any fastq.gz files: $fastq_files" }
-    .set {fastq_ch}
-//2) Input channel for further analysis (split between PE and SE reads with if-clause)
-if (params.SE){
-    Channel
-    .fromPath("${fastq_files}") //get data from path
-    .ifEmpty { error "Cannot find any files: $fastq_files" } //check if empty
-    .set {read_pairs_ch} //make a set
-}
-else {
-    Channel 
-    .fromFilePairs("${fastq_files}") //form pairs
-    .ifEmpty { error "No paired files for: $fastq_files"  } //check if empty
-    .set {read_pairs_ch} //make a set
-}
 
 // Print the parameters set
 println """\
@@ -184,6 +165,27 @@ process environment {
 }
 
 if(!params.x){
+
+    // Transform reads to files and form pairs and set channels
+    //1) Input channel for quality control
+    Channel
+        .fromPath("${fastq_files}")
+        .ifEmpty { error "Cannot find any fastq.gz files: $fastq_files" }
+        .set {fastq_ch}
+    //2) Input channel for further analysis (split between PE and SE reads with if-clause)
+    if (params.SE){
+        Channel
+        .fromPath("${fastq_files}") //get data from path
+        .ifEmpty { error "Cannot find any files: $fastq_files" } //check if empty
+        .set {read_pairs_ch} //make a set
+    }
+    else {
+        Channel 
+        .fromFilePairs("${fastq_files}") //form pairs
+        .ifEmpty { error "No paired files for: $fastq_files"  } //check if empty
+        .set {read_pairs_ch} //make a set
+    }
+
 
     // ===========================  Quality control raw data ===========================
     /* 
@@ -460,6 +462,7 @@ if(!params.x){
     }
 
 
+
     // ================================= MLST type =============================
     /* 
     - Date creation: 26/06/2020
@@ -487,6 +490,7 @@ if(!params.x){
             """
     }
 
+
 //end of params.x if-statement
 }
 else{
@@ -501,7 +505,25 @@ else{
 }
 
 
+ //copy potential extra assemblies to the input folder for analysis
+    if (params.assem){
+        Channel
+        .fromPath("${assemdir}")
+        .set {assem_ch}
+        process inputXtra{
 
+            input:
+            file(assem) from assem_ch
+
+            script:
+            """
+            mkdir -p $outputdir
+            mkdir -p $outputdir/Analysis
+            mkdir -p $outputdir/Analysis/input4analysis
+            cp ${assem} $input4dir
+            """
+        }
+    }
 
 // ================================= cgMLST analysis =============================
 /* 
@@ -525,7 +547,7 @@ else{
 
 //define the folder with the assemblies
 //copy generated assemblies to the input folder for analysis
-process input4a{
+process input4{
     input:
     file(assembly) from megahit_chew 
 
@@ -542,25 +564,6 @@ process input4a{
     """
 }
 
-//also copy given assemblies to the input folder for analysis
-if (params.assem){
-    Channel
-    .fromPath("${assemdir}")
-    .set {assem_ch}
-    process input4b{
-
-        input:
-        file(assem) from assem_ch
-        file(assembly) from input4extra.last()
-
-        script:
-        """
-        mkdir cp-${assembly}
-        cp ${assem} $input4dir
-        """
-    }
-}
-
 
 //do analysis
 process analysis{
@@ -573,12 +576,14 @@ process analysis{
     file("Results/*")
     file("Results/*/results_alleles.tsv") into toclean
     file("Results/*/logging_info.txt") into ch_logging
+    file("Results/*/results_statistics.tsv") into ch_metad
 
     script:
     """
     mkdir ${assembly}-analysis
-    chewBBACA.py AlleleCall -i $input4dir -g $inputscheme -o Results --cpu $params.cpu --ptf $trainingfile --fr
+    chewBBACA.py AlleleCall -i $input4dir -g $inputscheme -o Results --cpu $params.cpu --fr
     """
+    //Because of compatibility problems, removed: "--ptf $trainingfile"
 }
 
 //cleanup for MST tree
@@ -598,19 +603,22 @@ process cleanup{
     """
 }
 
+// Generate metadata file from statistics for MST IF no file is given
+if (!params.meta){
+    ch_metad.into {params.meta}
+}
+
+
 //Generate MST tree (include metadata)
 process MSTtree{
-    publishDir "$analysisdir", mode:'copy', overwrite: true
-
     input:
     file(cgMLSTfile) from ch_MST_tree
 
-    output:
-    //todo
+    // output is done in R-script
 
     script:
     """
-    Rscript $baseDir/test.R $analysisdir/Ready4MST/ ${cgMLSTfile} ${params.meta}
+    Rscript $baseDir/MST.R $analysisdir/Ready4MST/cgMLST.tsv ${params.meta} $analysisdir/ ${cgMLSTfile}
     """
 }
 

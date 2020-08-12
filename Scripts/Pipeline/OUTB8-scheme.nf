@@ -184,7 +184,7 @@ if (params.txid=="zero"){
              .set { fastq_ch }
         
          //Make miniFastq (10000 reads)
-        process reduce4krakenPE {
+        process reduce4kraken {
 
             input:
             file(fastqFile) from fastq_ch
@@ -234,8 +234,9 @@ if (params.txid=="zero"){
 
             shell:
             '''
-            column -s, -t < !{rep}| awk '$4 == "S"'| head -n 1 | cut -f5 | tr -dc '0-9'
+            column -s, -t < !{rep}| awk '$4 == "G"'| head -n 1 | cut -f5 | tr -dc '0-9'
             '''
+            //Now searches for "G" = Genus (because of silva database) -> to adjust to "S" = species
         }
 
         process printtxid {
@@ -503,8 +504,30 @@ if (params.txid!="zero"){
         val(txid) from mtxid1
 
         output:
+        file("MLST-${txid}-${suffix}-PRE/wgMLST/*")
+        val(txid) into mtxid2a
+
+        script:
+        """
+        mkdir MLST-${txid}-${suffix}-PRE
+        cd MLST-${txid}-${suffix}-PRE
+        mkdir wgMLST
+        cd wgMLST
+        chewBBACA.py CreateSchema -i $refDBx/refDB-${txid}-${suffix}/unzipped/ \
+        -o schema-${txid}-${suffix}-PRE --cpu $params.cpu --ptf $trainingx/txid${txid}-${suffix}.trn
+        """
+    }
+
+    //Added extra step: preparation of scheme, because of compatibility issues with chewBBACA v2.1.0 and v2.5.0
+    process prepscheme {
+        publishDir "$cgMLSTx/", mode:'copy', overwrite: true
+        
+        input:
+        val(txid) from mtxid2a
+
+        output:
         file("MLST-${txid}-${suffix}/wgMLST/*")
-        val(txid) into mtxid2
+        val(txid) into mtxid2b
 
         script:
         """
@@ -512,10 +535,11 @@ if (params.txid!="zero"){
         cd MLST-${txid}-${suffix}
         mkdir wgMLST
         cd wgMLST
-        chewBBACA.py CreateSchema -i $refDBx/refDB-${txid}-${suffix}/unzipped/ \
+        chewBBACA.py CreateSchema -i $cgMLSTx/MLST-${txid}-${suffix}-PRE/wgMLST/schema-${txid}-${suffix}-PRE/ \
         -o schema-${txid}-${suffix} --cpu $params.cpu --ptf $trainingx/txid${txid}-${suffix}.trn
         """
     }
+
 
     // allele calling 1 of reference assemblies on wgMLST scheme
     // REMARK: TIME CONSUMING (>> depending on number of genomes)
@@ -524,7 +548,7 @@ if (params.txid!="zero"){
         publishDir "$cgMLSTx/MLST-${txid}-${suffix}/wgMLST/", mode:'copy', overwrite: true
         
         input:
-        val(txid) from mtxid2
+        val(txid) from mtxid2b
 
         output:
         file("*")
@@ -554,7 +578,8 @@ if (params.txid!="zero"){
         script:
         """
         chewBBACA.py RemoveGenes -i $cgMLSTx/MLST-${txid}-${suffix}/wgMLST/allelecalling/*/results_alleles.tsv \
-        -g $cgMLSTx/MLST-${txid}-${suffix}/wgMLST/allelecalling/*/RepeatedLoci.txt -o alleleCallMatrix_cg
+        -g $cgMLSTx/MLST-${txid}-${suffix}/wgMLST/schema-${txid}-${suffix}/allelecalling/*/RepeatedLoci.txt \
+        -o alleleCallMatrix_cg
         """
     }
 

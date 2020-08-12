@@ -99,7 +99,7 @@ Do WGS bacterial analysis on fastq files (format *.fastq.gz) based on a known sc
 	   	--cpu       give maximal number of CPUs (default = 1)
 	   	--env       give path to python3 environment (running e.g. chewBBACA, matplotlib...)
 		--help      show help message
-		--meta      give filename of metadata
+		--meta      give filename (.csv) of metadata, first column are the sample names IN CORRECT ORDER (= one line per sample), all following columns will be used as color-code in MST-plots
 		--output    give path to output folder
 		--training  give path to training file 
 		--v         show version
