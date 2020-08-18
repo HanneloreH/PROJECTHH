@@ -1,0 +1,6 @@
+Started Script at: 15:26:05-18/08/2020
+Finished Script at: 15:32:19-18/08/2020
+Number of genomes: 4
+Number of loci: 3859
+Used this number of CPU cores: 1
+Used a bsr of: 0.6

@@ -7,7 +7,7 @@ Establishing a diagnostic pipeline for cgMLST analysis of outbreak samples
 
 Author		:Hannelore Hamerlinck
 Contact		:hannelore.hamerlinck@hotmail.com
-Date		:22/07/2020
+Date		:13/08/2020
 
 
 
@@ -41,27 +41,38 @@ GENERAL STRUCTURE:
 
 -- Notebook		: this folder contains all notes kept in the jupyter notebook
    --  Archive		: this folder contains archived notebook sheets
-   --- DATA-Getting as..: this file states how the assemblies were obtained
-   --- DATA-Getting Ra..: this file states how the fastq files were obtained
-   --- GIT-PROJECTHH..	: this file states how the github was made
-   --- PIPE Nextfl..	: this file states how the pipeline software (Nextflow) was installed
-   --- TOOLS-Chew..test.: this file states how the chewBBACA pipeline was tested with new data
-   --- TOOLS-Chew..tut..: this file states how chewBBACA was installed and tested following a tutorial
-   --- TOOLS install..  : this file states how software was installed and test (except chewBBACA)
-   --- General info..	: this file contains information from before starting the pipeline generation (outdated)
+   --  DATA-Getting as..: this file states how the assemblies were obtained
+   --  DATA-Getting Ra..: this file states how the fastq files were obtained
+   --  FINAL TESTS	: this file gives a summary of the final pipeline tests on the local computer
+   --  GIT-PROJECTHH..	: this file states how the github was made
+   --  HPC		: this file gives the preparations of running hte pipeline on the HPC supercomputer
+   --  PIPE Nextfl..	: this file states how the pipeline software (Nextflow) was installed
+   --  PLOT-minimum..	: this file states how the script for the minimum spanning tree was created in R
+   --  TOOLS-Chew..test.: this file states how the chewBBACA pipeline was tested with new data
+   --  TOOLS-Chew..tut..: this file states how chewBBACA was installed and tested following a tutorial
+   --  TOOLS install..  : this file states how software was installed and test (except chewBBACA)
+REMARK: for notes on the pipeline itself please check Scripts/Pipeline/OUTB8-scheme.nf and Scripts/Pipeline/OUTB8-analysis.nf
 
 -- Scripts		: this folder contains all generated scripts/pipelines...
    --  archive		: this folder contains archived scripts and information
    --  Input		: this folder contains small input files for testing (single/paired fastq & assemblies)
-   --  Pipeline		: this folder contains the generated pipelines and R script
+   --  Pipeline		: => => => this folder contains the generated pipelines and R script  <= <= <= 
    --  tests4scripts	: this folder contains scripts that were used for testing
 
--- Tests		: (! * !) this folder contains output of test-runs
+-- Tests		: (! * !) this folder contains input and output of test-runs
+   --  BAIT8-analysis-PE: "  *remark: BAIT8 = typo -> should have been OUTB8
+   --  BAIT8-analysis-SE: "  *remark: BAIT8 = typo -> should have been OUTB8
+   --  OUTB8-analysis-O.: "
+   --  OUTB8-analysis-X.: "
+   --  OUTB8-scheme-ex..: "
+   --  OUTB8-scheme-fa..: "
+   --  OUTB8-scheme-tx..: "
 
 -- Tools		: (! * !) this folder contains instructions, information, code or test files for specific tools (chewBBACA, kraken, medusa, megahit, prodigal, quast, spades)
 
 --- .gitignore		: this file contains all folders and files that were not uploaded to github
 ---  readme.txt		: readme-file
+
 
 
 
@@ -80,7 +91,7 @@ Do WGS bacterial analysis on fastq files (format *.fastq.gz) based on a known sc
 	  * matplotlib v3.3.0
 	  * metaquast v5.0.2
 	  * mlst v2.19.0
-	  * Rscript v3.6.3
+	  * R v3.6.3
 	- Download  OUTB8-analysis.nf and MST.R and run the script
 		INPUT (must define):
 		* --PE or --SE  :paired or single end data

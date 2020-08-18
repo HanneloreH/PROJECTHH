@@ -5,7 +5,8 @@
                          OUTB8-analysis v1.0 : cgMLST analysis on fastq data
 ========================================================================================
 SUMMARY
-Do WGS bacterial analysis on fastq files (format *.fastq.gz) based on a known scheme for cg/wgMLST (includes trimming and assembly)
+Do WGS bacterial analysis on fastq files (format *.fastq.gz) based on a known scheme for cg/wgMLST (includes 
+trimming and assembly)
 
 INPUT (must define):
     * --PE or --SE  :paired or single end data
@@ -51,7 +52,7 @@ def helpMessage() {
 
     --assem     OPTIONAL give path to established assemblies that need to be included in the analysis (format: *.fa)
     --cpu       give maximal number of CPUs (default = 1)
-    --env       give path to python3 environment (running e.g. chewBBACA, matplotlib...)
+    X--env       give path to python3 environment (running e.g. chewBBACA, matplotlib...)
     --help      show help message
     --meta      give filename (.csv) of metadata, first column are the sample names IN CORRECT ORDER (= one line per sample), all following columns will be used as color-code in MST-plots
     --output    give path to output folder
@@ -95,7 +96,6 @@ if (params.v){
 // Define general parameters (defaults)
 params.assem = false
 params.cpu= 1
-params.env = "$baseDir/env"
 params.help = false
 params.output= "$baseDir/output"
 params.meta = false
@@ -120,8 +120,7 @@ inputscheme = trimFolder("$params.scheme")
 trainingfile = trimFolder("$params.training")
 assdir = trimFolder("$params.assem")
 assemdir = assdir + "/*.fa*"
-envdir = trimFolder("$params.env")
-envactivate = envdir + "/bin/activate"
+
 //output folders
 outputdir = trimFolder("$params.output")
 qualitydirPRE = outputdir + "/Quality/raw"
@@ -142,7 +141,6 @@ println """\
         ==============================================================
         * Path to extra assemblies        : ${assemdir}
         * Number of CPUs                  : ${params.cpu}
-        * Python3 environment             : ${envdir}
         * File with metadata              : ${params.meta}
         * Output-folder                   : ${outputdir}
         * Folder with input reads         : ${fastq_f}
@@ -155,14 +153,6 @@ println """\
          .stripIndent()
 
 
- // ===========================  Set Python3 environment ===========================
- 
-process environment {
-    script:
-    """
-    source $envactivate
-    """
-}
 
 if(!params.x){
 
@@ -528,7 +518,7 @@ else{
 // ================================= cgMLST analysis =============================
 /* 
 - Date creation: 06/2020
-- Last adjustment: 22/7/2020
+- Last adjustment: 18/08/2020
 - Goal: Do actual cg/wgMLST analysis based on given scheme
 - Faced problems
     * run stops because previous files are detected, however because nextflow is not interactive we 
@@ -542,6 +532,8 @@ else{
         developers adjusted the code, see issue 62: https://github.com/B-UMMI/chewBBACA/issues/62
         problem2: this gave errors loading matplotlib (because of different acitvated environment?)
          fix: install matplotlib in the envPROJECTHH
+    * all sorts of compatibility errors with allelcall (v2.1.0 <> v2.5.0 <> 2.5.4)
+     NO SOLUTION YET!!!
 */
 
 
@@ -564,6 +556,30 @@ process input4{
     """
 }
 
+//Prep the scheme 
+// added this part because kept on having ERROR taht scheme was not prepped, even tough it was...
+process analysis{
+    publishDir "$analysisdir", mode:'copy', overwrite: true
+
+    input:
+    file(assembly) from input4analysis.last()
+
+    output:
+    file("Results/*")
+    file("Results/*/results_alleles.tsv") into toclean
+    file("Results/*/logging_info.txt") into ch_logging
+    file("Results/*/results_statistics.tsv") into ch_metad
+
+    script:
+    """
+    mkdir ${assembly}-analysis
+    chewBBACA.py AlleleCall -i $input4dir -g $inputscheme -o Results --cpu $params.cpu
+    """
+    //Because of compatibility problems, removed: "--ptf $trainingfile"
+}
+
+
+
 
 //do analysis
 process analysis{
@@ -581,7 +597,7 @@ process analysis{
     script:
     """
     mkdir ${assembly}-analysis
-    chewBBACA.py AlleleCall -i $input4dir -g $inputscheme -o Results --cpu $params.cpu --fr
+    chewBBACA.py AlleleCall -i $input4dir -g $inputscheme -o Results --cpu $params.cpu
     """
     //Because of compatibility problems, removed: "--ptf $trainingfile"
 }

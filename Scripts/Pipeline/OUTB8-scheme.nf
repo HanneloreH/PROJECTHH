@@ -339,6 +339,7 @@ if (params.txid!="zero"){
 
             script:
             """
+            mkdir -p $refDBa
             esearch -db assembly -query '${txid}[txid] AND "complete genome"[filter] AND "latest refseq"[filter]' \
             | esummary | xtract -pattern DocumentSummary -element AssemblyAccession > ${txid}accessions-all.txt
             """
@@ -560,8 +561,9 @@ if (params.txid!="zero"){
         mkdir allelecalling
         chewBBACA.py AlleleCall -i $refDBx/refDB-${txid}-${suffix}/unzipped/ \
         -g $cgMLSTx/MLST-${txid}-${suffix}/wgMLST/schema-${txid}-${suffix}/ -o allelecalling/ \
-        --cpu $params.cpu --ptf $trainingx/txid${txid}-${suffix}.trn
+        --cpu $params.cpu 
         """
+        // training file was removed because of compatibility errors: "--ptf $trainingx/txid${txid}-${suffix}.trn"
     }
 
     // Remove paralogs

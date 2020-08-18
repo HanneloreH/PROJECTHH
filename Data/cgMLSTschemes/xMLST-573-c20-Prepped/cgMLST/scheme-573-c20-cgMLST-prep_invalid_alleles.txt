@@ -1,0 +1,5 @@
+GCF-000968155-protein1133_1: allele greater than 20% locus length mode (939>762)
+GCF-000968155-protein1133_S_GCF-000775955.1.fa_27/04/2020T14:41:25_4: allele greater than 20% locus length mode (927>762)
+GCF-000968155-protein1133_S_GCF-001022175.1.fa_27/04/2020T14:41:25_5: allele greater than 20% locus length mode (927>762)
+GCF-000968155-protein1133_S_GCF-001455995.1.fa_27/04/2020T14:41:25_6: allele greater than 20% locus length mode (927>762)
+GCF-001548315-protein2935_1: allele greater than 20% locus length mode (975>810)
