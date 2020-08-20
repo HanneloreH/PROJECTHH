@@ -1,0 +1,1947 @@
+Aligning contigs to reference...
+	Aligning contigs to the reference
+Filtering alignments...
+Parsing coords...
+Loading reference...
+	Loaded [Dickeya_chrysanthemi_NC_012912.1]
+	Loaded [Klebsiella_pneumoniae_NZ_CP047271.1]
+	Loaded [Klebsiella_pneumoniae_NZ_CP047272.1]
+	Loaded [Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1]
+	Loaded [Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047676.1]
+	Loaded [Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000001.1]
+	Loaded [Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000002.1]
+	Loaded [Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000003.1]
+	Loaded [Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000004.1]
+	Loaded [Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000005.1]
+	Loaded [Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000006.1]
+	Loaded [Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000007.1]
+	Loaded [Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000008.1]
+	Loaded [Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000009.1]
+	Loaded [Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000010.1]
+	Loaded [Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000011.1]
+	Loaded [Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000012.1]
+	Loaded [Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000013.1]
+	Loaded [Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000014.1]
+	Loaded [Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000015.1]
+	Loaded [Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000016.1]
+	Loaded [Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000017.1]
+	Loaded [Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000018.1]
+	Loaded [Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000019.1]
+	Loaded [Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000020.1]
+	Loaded [Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000021.1]
+	Loaded [Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000022.1]
+	Loaded [Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000023.1]
+	Loaded [Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000024.1]
+	Loaded [Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000025.1]
+	Loaded [Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000026.1]
+	Loaded [Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000027.1]
+	Loaded [Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000028.1]
+	Loaded [Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000029.1]
+	Loaded [Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000030.1]
+	Loaded [Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000031.1]
+	Loaded [Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000032.1]
+	Loaded [Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000033.1]
+	Loaded [Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000034.1]
+	Loaded [Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000035.1]
+	Loaded [Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000036.1]
+	Loaded [Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000037.1]
+	Loaded [Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000038.1]
+	Loaded [Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000039.1]
+	Loaded [Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000040.1]
+	Loaded [Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000041.1]
+	Loaded [Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000042.1]
+	Loaded [Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000043.1]
+	Loaded [Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000044.1]
+	Loaded [Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000045.1]
+	Loaded [Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000046.1]
+	Loaded [Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000047.1]
+	Loaded [Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000048.1]
+	Loaded [Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000049.1]
+	Loaded [Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000050.1]
+	Loaded [Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000051.1]
+	Loaded [Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000052.1]
+	Loaded [Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000053.1]
+	Loaded [Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000054.1]
+	Loaded [Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000055.1]
+	Loaded [Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000056.1]
+	Loaded [Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000057.1]
+	Loaded [Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000058.1]
+	Loaded [Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000059.1]
+	Loaded [Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000060.1]
+	Loaded [Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000061.1]
+	Loaded [Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000062.1]
+	Loaded [Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000063.1]
+	Loaded [Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000064.1]
+	Loaded [Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000065.1]
+	Loaded [Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000066.1]
+	Loaded [Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000067.1]
+	Loaded [Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000068.1]
+	Loaded [Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000069.1]
+	Loaded [Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000070.1]
+	Loaded [Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000071.1]
+	Loaded [Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000072.1]
+	Loaded [Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000073.1]
+	Loaded [Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000074.1]
+	Loaded [Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000075.1]
+	Loaded [Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000076.1]
+	Loaded [Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000077.1]
+	Loaded [Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000078.1]
+	Loaded [Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000079.1]
+	Loaded [Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000080.1]
+	Loaded [Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000081.1]
+	Loaded [Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000082.1]
+	Loaded [Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000083.1]
+	Loaded [Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000084.1]
+	Loaded [Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000085.1]
+	Loaded [Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000086.1]
+	Loaded [Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000087.1]
+	Loaded [Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000088.1]
+	Loaded [Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000089.1]
+	Loaded [Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000090.1]
+	Loaded [Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000091.1]
+	Loaded [Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000092.1]
+	Loaded [Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000093.1]
+	Loaded [Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000094.1]
+	Loaded [Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000095.1]
+	Loaded [Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000096.1]
+	Loaded [Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000097.1]
+	Loaded [Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000098.1]
+	Loaded [Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000099.1]
+	Loaded [Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000100.1]
+	Loaded [Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000101.1]
+	Loaded [Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000102.1]
+	Loaded [Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000103.1]
+	Loaded [Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000104.1]
+	Loaded [Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000105.1]
+	Loaded [Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000106.1]
+	Loaded [Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000107.1]
+	Loaded [Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000108.1]
+	Loaded [Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000109.1]
+	Loaded [Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000110.1]
+	Loaded [Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000111.1]
+	Loaded [Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000112.1]
+	Loaded [Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000113.1]
+	Loaded [Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000114.1]
+	Loaded [Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000115.1]
+	Loaded [Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000116.1]
+	Loaded [Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000117.1]
+	Loaded [Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000118.1]
+	Loaded [Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000119.1]
+	Loaded [Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000120.1]
+	Loaded [Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000121.1]
+	Loaded [Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000122.1]
+	Loaded [Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000123.1]
+	Loaded [Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000124.1]
+	Loaded [Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000125.1]
+	Loaded [Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000126.1]
+	Loaded [Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000127.1]
+	Loaded [Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000128.1]
+	Loaded [Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000129.1]
+	Loaded [Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000130.1]
+	Loaded [Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000131.1]
+	Loaded [Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000132.1]
+	Loaded [Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000133.1]
+	Loaded [Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000134.1]
+	Loaded [Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000135.1]
+	Loaded [Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000136.1]
+	Loaded [Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000137.1]
+	Loaded [Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000138.1]
+	Loaded [Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000139.1]
+	Loaded [Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000140.1]
+	Loaded [Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000141.1]
+	Loaded [Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000142.1]
+	Loaded [Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000143.1]
+	Loaded [Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000144.1]
+	Loaded [Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000145.1]
+	Loaded [Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000146.1]
+	Loaded [Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000147.1]
+	Loaded [Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000148.1]
+	Loaded [Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000149.1]
+	Loaded [Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000150.1]
+	Loaded [Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000151.1]
+	Loaded [Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000152.1]
+	Loaded [Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000153.1]
+	Loaded [Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000154.1]
+	Loaded [Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000155.1]
+	Loaded [Serratia_symbiotica_NZ_LR025083.1]
+	Loaded [Serratia_symbiotica_NZ_LR025084.1]
+	Total Regions: 162
+	Total Region Length: 24159816
+Analyzing contigs...
+CONTIG: k141_302 (539bp)
+Best alignment score: 531.0 (LEN: 539, IDY: 98.52), Total number of alignments: 3
+		This contig has 3 significant alignments. [An ambiguously mapped contig]
+		Using all these alignments (option --ambiguity-usage is set to "all"):
+			Alignment: 2877595 2878133 | 1 539 | 539 539 | 98.52 | Klebsiella_pneumoniae_NZ_CP047271.1 k141_302
+			Alignment: 18751 19289 | 1 539 | 539 539 | 97.96 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000013.1 k141_302
+			Alignment: 3099191 3099729 | 1 539 | 539 539 | 97.59 | Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1 k141_302
+
+CONTIG: k141_1 (536bp)
+Best alignment score: 536.0 (LEN: 536, IDY: 100.00), Total number of alignments: 3
+		This contig has 3 significant alignments. [An ambiguously mapped contig]
+		Using all these alignments (option --ambiguity-usage is set to "all"):
+			Alignment: 171772 172307 | 536 1 | 536 536 | 100.0 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000010.1 k141_1
+			Alignment: 1918944 1919479 | 1 536 | 536 536 | 99.63 | Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1 k141_1
+			Alignment: 3395328 3395863 | 536 1 | 536 536 | 99.63 | Klebsiella_pneumoniae_NZ_CP047271.1 k141_1
+
+CONTIG: k141_3 (636bp)
+Best alignment score: 636.0 (LEN: 636, IDY: 100.00), Total number of alignments: 1
+		One align captures most of this contig: 8670 9305 | 1 636 | 636 636 | 100.0 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000029.1 k141_3
+
+CONTIG: k141_306 (555bp)
+Best alignment score: 554.0 (LEN: 554, IDY: 100.00), Total number of alignments: 3
+		This contig has 3 significant alignments. [An ambiguously mapped contig]
+		Using all these alignments (option --ambiguity-usage is set to "all"):
+			Alignment: 20371 20924 | 554 1 | 554 554 | 100.0 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000041.1 k141_306
+			Alignment: 4644272 4644825 | 554 1 | 554 554 | 100.0 | Klebsiella_pneumoniae_NZ_CP047271.1 k141_306
+			Alignment: 693209 693762 | 1 554 | 554 554 | 99.64 | Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1 k141_306
+
+CONTIG: k141_8 (533bp)
+Best alignment score: 533.0 (LEN: 533, IDY: 100.00), Total number of alignments: 3
+		This contig has 3 significant alignments. [An ambiguously mapped contig]
+		Using all these alignments (option --ambiguity-usage is set to "all"):
+			Alignment: 119406 119938 | 1 533 | 533 533 | 100.0 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000011.1 k141_8
+			Alignment: 5336368 5336900 | 1 533 | 533 533 | 99.62 | Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1 k141_8
+			Alignment: 6570 7102 | 533 1 | 533 533 | 99.44 | Klebsiella_pneumoniae_NZ_CP047271.1 k141_8
+
+CONTIG: k141_9 (762bp)
+Best alignment score: 380.0 (LEN: 381, IDY: 99.74), Total number of alignments: 15
+			Looking for the best set of alignments (out of 15 total alignments)
+			Skipping redundant alignments after choosing the best set of alignments
+		Skipping redundant alignment 1 344 | 726 382 | 344 345 | 99.13 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000034.1 k141_9
+		Skipping redundant alignment 4150215 4150571 | 382 738 | 357 357 | 96.64 | Klebsiella_pneumoniae_NZ_CP047271.1 k141_9
+		Skipping redundant alignment 1592521 1592877 | 738 382 | 357 357 | 96.64 | Klebsiella_pneumoniae_NZ_CP047271.1 k141_9
+		Skipping redundant alignment 1874014 1874371 | 738 381 | 358 358 | 96.65 | Klebsiella_pneumoniae_NZ_CP047271.1 k141_9
+		Skipping redundant alignment 1 369 | 753 385 | 369 369 | 99.46 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000143.1 k141_9
+		Skipping redundant alignment 8664 9032 | 762 394 | 369 369 | 99.19 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000058.1 k141_9
+		Skipping redundant alignment 21457 21833 | 762 386 | 377 377 | 99.47 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000046.1 k141_9
+		This contig has several significant sets of alignments. [An ambiguously mapped contig]
+		Using all alignments in these sets (option --ambiguity-usage is set to "all"):
+			The very best set is shown in details below, the rest are:
+				Group #2. Score: 380.0, number of alignments: 1, unaligned bases: 381
+				Group #3. Score: 379.0, number of alignments: 1, unaligned bases: 381
+				Group #4. Score: 379.0, number of alignments: 1, unaligned bases: 381
+				Group #5. Score: 379.0, number of alignments: 1, unaligned bases: 381
+				Group #6. Score: 379.0, number of alignments: 1, unaligned bases: 381
+				Group #7. Score: 379.0, number of alignments: 1, unaligned bases: 380
+				Group #8. Score: 377.0, number of alignments: 1, unaligned bases: 381
+			List of alignments used in the sets above:
+		Alignment: 3109100 3109480 | 382 762 | 381 381 | 99.74 | Klebsiella_pneumoniae_NZ_CP047271.1 k141_9
+		Alignment: 3373697 3374077 | 382 762 | 381 381 | 99.74 | Klebsiella_pneumoniae_NZ_CP047271.1 k141_9
+		Alignment: 1770343 1770723 | 382 762 | 381 381 | 99.48 | Klebsiella_pneumoniae_NZ_CP047271.1 k141_9
+		Alignment: 2195327 2195707 | 382 762 | 381 381 | 99.48 | Klebsiella_pneumoniae_NZ_CP047271.1 k141_9
+		Alignment: 4850920 4851300 | 762 382 | 381 381 | 99.48 | Klebsiella_pneumoniae_NZ_CP047271.1 k141_9
+		Alignment: 738867 739247 | 382 762 | 381 381 | 99.48 | Klebsiella_pneumoniae_NZ_CP047271.1 k141_9
+		Alignment: 147852 148232 | 382 762 | 381 381 | 98.95 | Klebsiella_pneumoniae_NZ_CP047272.1 k141_9
+		Alignment: 8960 9341 | 381 762 | 382 382 | 99.21 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000057.1 k141_9
+			The best set is below. Score: 380.0, number of alignments: 1, unaligned bases: 381
+		Alignment: 3109100 3109480 | 382 762 | 381 381 | 99.74 | Klebsiella_pneumoniae_NZ_CP047271.1 k141_9
+
+CONTIG: k141_314 (593bp)
+Best alignment score: 593.0 (LEN: 593, IDY: 100.00), Total number of alignments: 3
+		Skipping these alignments as insignificant (option --ambiguity-score is set to "0.99"):
+			Skipping alignment 840189 840781 | 1 593 | 593 593 | 98.99 | Klebsiella_pneumoniae_NZ_CP047271.1 k141_314
+		This contig has 2 significant alignments. [An ambiguously mapped contig]
+		Using all these alignments (option --ambiguity-usage is set to "all"):
+			Alignment: 116216 116808 | 1 593 | 593 593 | 100.0 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000007.1 k141_314
+			Alignment: 4512788 4513380 | 593 1 | 593 593 | 99.83 | Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1 k141_314
+
+CONTIG: k141_13 (576bp)
+		This contig is unaligned. (576 bp)
+		Unaligned bases: 576 (number of Ns: 0)
+
+CONTIG: k141_316 (644bp)
+Best alignment score: 644.0 (LEN: 644, IDY: 100.00), Total number of alignments: 3
+		This contig has 3 significant alignments. [An ambiguously mapped contig]
+		Using all these alignments (option --ambiguity-usage is set to "all"):
+			Alignment: 91823 92466 | 644 1 | 644 644 | 100.0 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000007.1 k141_316
+			Alignment: 815389 816032 | 644 1 | 644 644 | 99.84 | Klebsiella_pneumoniae_NZ_CP047271.1 k141_316
+			Alignment: 4537752 4538395 | 1 644 | 644 644 | 99.84 | Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1 k141_316
+
+CONTIG: k141_14 (562bp)
+Best alignment score: 560.0 (LEN: 562, IDY: 99.64), Total number of alignments: 3
+		Skipping these alignments as insignificant (option --ambiguity-score is set to "0.99"):
+			Skipping alignment 1477595 1478153 | 562 4 | 559 559 | 98.93 | Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1 k141_14
+			Skipping alignment 3836282 3836840 | 4 562 | 559 559 | 98.93 | Klebsiella_pneumoniae_NZ_CP047271.1 k141_14
+		One align captures most of this contig: 301264 301825 | 1 562 | 562 562 | 99.64 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000002.1 k141_14
+
+CONTIG: k141_318 (526bp)
+Best alignment score: 526.0 (LEN: 526, IDY: 100.00), Total number of alignments: 3
+		Skipping these alignments as insignificant (option --ambiguity-score is set to "0.99"):
+			Skipping alignment 175199 175724 | 1 526 | 526 526 | 98.67 | Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1 k141_318
+			Skipping alignment 5095622 5096147 | 526 1 | 526 526 | 98.48 | Klebsiella_pneumoniae_NZ_CP047271.1 k141_318
+		One align captures most of this contig: 36797 37322 | 526 1 | 526 526 | 100.0 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000027.1 k141_318
+
+CONTIG: k141_15 (685bp)
+Best alignment score: 685.0 (LEN: 685, IDY: 100.00), Total number of alignments: 1
+		One align captures most of this contig: 269327 270011 | 685 1 | 685 685 | 100.0 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000004.1 k141_15
+
+CONTIG: k141_319 (500bp)
+Best alignment score: 499.0 (LEN: 500, IDY: 99.80), Total number of alignments: 3
+		This contig has 3 significant alignments. [An ambiguously mapped contig]
+		Using all these alignments (option --ambiguity-usage is set to "all"):
+			Alignment: 2656741 2657240 | 500 1 | 500 500 | 99.8 | Klebsiella_pneumoniae_NZ_CP047271.1 k141_319
+			Alignment: 68339 68838 | 500 1 | 500 500 | 99.8 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000015.1 k141_319
+			Alignment: 2872692 2873191 | 500 1 | 500 500 | 99.4 | Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1 k141_319
+
+CONTIG: k141_21 (545bp)
+Best alignment score: 544.0 (LEN: 545, IDY: 99.82), Total number of alignments: 1
+		One align captures most of this contig: 25821 26365 | 545 1 | 545 545 | 99.82 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000042.1 k141_21
+
+CONTIG: k141_326 (564bp)
+Best alignment score: 557.0 (LEN: 562, IDY: 99.11), Total number of alignments: 3
+		This contig has 3 significant alignments. [An ambiguously mapped contig]
+		Using all these alignments (option --ambiguity-usage is set to "all"):
+			Alignment: 22764 23325 | 562 1 | 562 562 | 99.11 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000010.1 k141_326
+			Alignment: 2153306 2153867 | 1 562 | 562 562 | 99.11 | Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1 k141_326
+			Alignment: 1876842 1877403 | 1 562 | 562 562 | 98.93 | Klebsiella_pneumoniae_NZ_CP047271.1 k141_326
+
+CONTIG: k141_23 (521bp)
+Best alignment score: 520.0 (LEN: 521, IDY: 99.81), Total number of alignments: 3
+		Skipping these alignments as insignificant (option --ambiguity-score is set to "0.99"):
+			Skipping alignment 2167206 2167726 | 521 1 | 521 521 | 98.46 | Klebsiella_pneumoniae_NZ_CP047271.1 k141_23
+		This contig has 2 significant alignments. [An ambiguously mapped contig]
+		Using all these alignments (option --ambiguity-usage is set to "all"):
+			Alignment: 118975 119495 | 1 521 | 521 521 | 99.81 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000012.1 k141_23
+			Alignment: 2397703 2398223 | 521 1 | 521 521 | 99.04 | Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1 k141_23
+
+CONTIG: k141_328 (583bp)
+Best alignment score: 572.0 (LEN: 575, IDY: 99.48), Total number of alignments: 3
+		Skipping these alignments as insignificant (option --ambiguity-score is set to "0.99"):
+			Skipping alignment 2427291 2427857 | 573 7 | 567 567 | 98.41 | Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1 k141_328
+			Skipping alignment 2216899 2217392 | 494 1 | 494 494 | 98.18 | Klebsiella_pneumoniae_NZ_CP047271.1 k141_328
+		One align captures most of this contig: 89307 89881 | 1 575 | 575 575 | 99.48 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000012.1 k141_328
+
+CONTIG: k141_24 (1118bp)
+		This contig is unaligned. (1118 bp)
+		Unaligned bases: 1118 (number of Ns: 0)
+
+CONTIG: k141_329 (696bp)
+Best alignment score: 695.0 (LEN: 696, IDY: 99.86), Total number of alignments: 3
+		This contig has 3 significant alignments. [An ambiguously mapped contig]
+		Using all these alignments (option --ambiguity-usage is set to "all"):
+			Alignment: 3189011 3189706 | 1 696 | 696 696 | 99.86 | Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1 k141_329
+			Alignment: 108593 109288 | 1 696 | 696 696 | 99.71 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000013.1 k141_329
+			Alignment: 2967468 2968163 | 1 696 | 696 696 | 99.71 | Klebsiella_pneumoniae_NZ_CP047271.1 k141_329
+
+CONTIG: k141_26 (578bp)
+Best alignment score: 541.0 (LEN: 541, IDY: 100.00), Total number of alignments: 2
+			Looking for the best set of alignments (out of 2 total alignments)
+		This contig has several significant sets of alignments. [An ambiguously mapped contig]
+		Using all alignments in these sets (option --ambiguity-usage is set to "all"):
+			The very best set is shown in details below, the rest are:
+				Group #2. Score: 540.0, number of alignments: 1, unaligned bases: 38
+			List of alignments used in the sets above:
+		Alignment: 56324 56863 | 578 39 | 540 540 | 100.0 | Klebsiella_pneumoniae_NZ_CP047272.1 k141_26
+		Alignment: 124687 125227 | 578 38 | 541 541 | 100.0 | Klebsiella_pneumoniae_NZ_CP047272.1 k141_26
+			The best set is below. Score: 541.0, number of alignments: 1, unaligned bases: 37
+		Alignment: 124687 125227 | 578 38 | 541 541 | 100.0 | Klebsiella_pneumoniae_NZ_CP047272.1 k141_26
+
+CONTIG: k141_331 (584bp)
+Best alignment score: 584.0 (LEN: 584, IDY: 100.00), Total number of alignments: 3
+		This contig has 3 significant alignments. [An ambiguously mapped contig]
+		Using all these alignments (option --ambiguity-usage is set to "all"):
+			Alignment: 13565 14148 | 1 584 | 584 584 | 100.0 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000028.1 k141_331
+			Alignment: 1885639 1886222 | 584 1 | 584 584 | 99.49 | Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1 k141_331
+			Alignment: 3428479 3429062 | 1 584 | 584 584 | 99.49 | Klebsiella_pneumoniae_NZ_CP047271.1 k141_331
+
+CONTIG: k141_28 (755bp)
+Best alignment score: 753.0 (LEN: 755, IDY: 99.74), Total number of alignments: 3
+		Skipping these alignments as insignificant (option --ambiguity-score is set to "0.99"):
+			Skipping alignment 3201576 3202330 | 755 1 | 755 755 | 98.41 | Klebsiella_pneumoniae_NZ_CP047271.1 k141_28
+			Skipping alignment 3417415 3418169 | 755 1 | 755 755 | 97.88 | Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1 k141_28
+		One align captures most of this contig: 163958 164712 | 755 1 | 755 755 | 99.74 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000009.1 k141_28
+
+CONTIG: k141_334 (810bp)
+Best alignment score: 810.0 (LEN: 810, IDY: 100.00), Total number of alignments: 1
+		One align captures most of this contig: 23576 24385 | 1 810 | 810 810 | 100.0 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000003.1 k141_334
+
+CONTIG: k141_35 (505bp)
+Best alignment score: 505.0 (LEN: 505, IDY: 100.00), Total number of alignments: 3
+		This contig has 3 significant alignments. [An ambiguously mapped contig]
+		Using all these alignments (option --ambiguity-usage is set to "all"):
+			Alignment: 50717 51221 | 1 505 | 505 505 | 100.0 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000005.1 k141_35
+			Alignment: 759673 760177 | 1 505 | 505 505 | 99.8 | Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1 k141_35
+			Alignment: 4570749 4571253 | 505 1 | 505 505 | 99.6 | Klebsiella_pneumoniae_NZ_CP047271.1 k141_35
+
+CONTIG: k141_37 (540bp)
+		This contig is unaligned. (540 bp)
+		Unaligned bases: 540 (number of Ns: 0)
+
+CONTIG: k141_39 (627bp)
+Best alignment score: 627.0 (LEN: 627, IDY: 100.00), Total number of alignments: 3
+		This contig has 3 significant alignments. [An ambiguously mapped contig]
+		Using all these alignments (option --ambiguity-usage is set to "all"):
+			Alignment: 88609 89235 | 1 627 | 627 627 | 100.0 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000017.1 k141_39
+			Alignment: 297172 297798 | 627 1 | 627 627 | 100.0 | Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1 k141_39
+			Alignment: 4973641 4974267 | 1 627 | 627 627 | 99.52 | Klebsiella_pneumoniae_NZ_CP047271.1 k141_39
+
+CONTIG: k141_42 (515bp)
+Best alignment score: 515.0 (LEN: 515, IDY: 100.00), Total number of alignments: 3
+		This contig has 3 significant alignments. [An ambiguously mapped contig]
+		Using all these alignments (option --ambiguity-usage is set to "all"):
+			Alignment: 141908 142422 | 1 515 | 515 515 | 100.0 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000005.1 k141_42
+			Alignment: 838833 839347 | 1 515 | 515 515 | 99.81 | Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1 k141_42
+			Alignment: 4491615 4492129 | 515 1 | 515 515 | 99.81 | Klebsiella_pneumoniae_NZ_CP047271.1 k141_42
+
+CONTIG: k141_44 (575bp)
+Best alignment score: 575.0 (LEN: 575, IDY: 100.00), Total number of alignments: 3
+		This contig has 3 significant alignments. [An ambiguously mapped contig]
+		Using all these alignments (option --ambiguity-usage is set to "all"):
+			Alignment: 123901 124475 | 575 1 | 575 575 | 100.0 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000004.1 k141_44
+			Alignment: 616904 617478 | 1 575 | 575 575 | 99.65 | Klebsiella_pneumoniae_NZ_CP047271.1 k141_44
+			Alignment: 4724779 4725353 | 575 1 | 575 575 | 99.3 | Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1 k141_44
+
+CONTIG: k141_354 (1170bp)
+Best alignment score: 821.0 (LEN: 821, IDY: 100.00), Total number of alignments: 30
+			Looking for the best set of alignments (out of 30 total alignments)
+		This contig has several significant sets of alignments. [An ambiguously mapped contig]
+		Using all alignments in these sets (option --ambiguity-usage is set to "all"):
+			The very best set is shown in details below, the rest are:
+				Group #2. Score: 960.0, number of alignments: 2, unaligned bases: 145
+				Group #3. Score: 960.0, number of alignments: 2, unaligned bases: 145
+				Group #4. Score: 960.0, number of alignments: 2, unaligned bases: 145
+				Group #5. Score: 960.0, number of alignments: 2, unaligned bases: 145
+				Group #6. Score: 960.0, number of alignments: 2, unaligned bases: 145
+				Group #7. Score: 960.0, number of alignments: 2, unaligned bases: 145
+				Group #8. Score: 960.0, number of alignments: 2, unaligned bases: 145
+				Group #9. Score: 959.0, number of alignments: 2, unaligned bases: 145
+				Group #10. Score: 959.0, number of alignments: 2, unaligned bases: 145
+				etc...
+			List of alignments used in the sets above:
+		Alignment: 17477 17614 | 138 1 | 138 138 | 100.0 | Klebsiella_pneumoniae_NZ_CP047272.1 k141_354
+		Alignment: 1 157 | 157 1 | 157 157 | 100.0 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000084.1 k141_354
+		Alignment: 16480 16708 | 1 229 | 229 229 | 100.0 | Klebsiella_pneumoniae_NZ_CP047272.1 k141_354
+		Alignment: 1 368 | 368 1 | 368 368 | 100.0 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000105.1 k141_354
+		Alignment: 1 419 | 419 1 | 419 419 | 100.0 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000102.1 k141_354
+		Alignment: 1 438 | 438 1 | 438 438 | 100.0 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000076.1 k141_354
+		Alignment: 2705 3187 | 1 485 | 483 485 | 99.59 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000082.1 k141_354
+		Alignment: 1107 1612 | 1 506 | 506 506 | 100.0 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000108.1 k141_354
+		Alignment: 1 399 | 338 736 | 399 399 | 100.0 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000098.1 k141_354
+		Alignment: 1 817 | 817 1 | 817 817 | 100.0 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000118.1 k141_354
+		Alignment: 4350 4669 | 820 501 | 320 320 | 100.0 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000074.1 k141_354
+		Alignment: 31626 32007 | 820 439 | 382 382 | 100.0 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000039.1 k141_354
+		Alignment: 1492 1896 | 820 416 | 405 405 | 100.0 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000104.1 k141_354
+		Alignment: 1 409 | 412 820 | 409 409 | 100.0 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000036.1 k141_354
+		Alignment: 1 417 | 404 820 | 417 417 | 100.0 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000053.1 k141_354
+		Alignment: 45 481 | 820 384 | 437 437 | 100.0 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000130.1 k141_354
+		Alignment: 1409 1859 | 820 371 | 451 450 | 99.78 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000105.1 k141_354
+		Alignment: 178768 179587 | 820 1 | 820 820 | 100.0 | Klebsiella_pneumoniae_NZ_CP047272.1 k141_354
+		Alignment: 165946 166765 | 820 1 | 820 820 | 100.0 | Klebsiella_pneumoniae_NZ_CP047272.1 k141_354
+		Alignment: 23198 24017 | 820 1 | 820 820 | 100.0 | Klebsiella_pneumoniae_NZ_CP047272.1 k141_354
+		Alignment: 127118 127937 | 1 820 | 820 820 | 100.0 | Klebsiella_pneumoniae_NZ_CP047272.1 k141_354
+		Alignment: 143899 144718 | 820 1 | 820 820 | 100.0 | Klebsiella_pneumoniae_NZ_CP047272.1 k141_354
+		Alignment: 142655 143474 | 1 820 | 820 820 | 100.0 | Klebsiella_pneumoniae_NZ_CP047272.1 k141_354
+		Alignment: 70593 71412 | 1 820 | 820 820 | 100.0 | Klebsiella_pneumoniae_NZ_CP047272.1 k141_354
+		Alignment: 12864 13683 | 820 1 | 820 820 | 99.88 | Klebsiella_pneumoniae_NZ_CP047272.1 k141_354
+		Alignment: 159367 160186 | 820 1 | 820 820 | 99.88 | Klebsiella_pneumoniae_NZ_CP047272.1 k141_354
+		Alignment: 1624 2036 | 821 409 | 413 413 | 99.76 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000098.1 k141_354
+		Alignment: 163726 164546 | 821 1 | 821 821 | 100.0 | Klebsiella_pneumoniae_NZ_CP047272.1 k141_354
+		Alignment: 82495 82699 | 1103 899 | 205 205 | 97.56 | Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047676.1 k141_354
+		Alignment: 13902 14073 | 1120 949 | 172 172 | 98.26 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000032.1 k141_354
+			The best set is below. Score: 961.0, number of alignments: 2, unaligned bases: 144
+		This contig is misassembled.
+			Real Alignment 1: 163726 164546 | 821 1 | 821 821 | 100.0 | Klebsiella_pneumoniae_NZ_CP047272.1 k141_354
+			  Extensive misassembly (interspecies translocation) between these two alignments
+			Real Alignment 2: 82495 82699 | 1103 899 | 205 205 | 97.56 | Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047676.1 k141_354
+
+CONTIG: k141_45 (1817bp)
+Best alignment score: 1801.9 (LEN: 1811, IDY: 99.50), Total number of alignments: 40
+		Skipping these alignments as insignificant (option --ambiguity-score is set to "0.99"):
+			Skipping alignment 982485 984193 | 3 1707 | 1709 1705 | 95.19 | Dickeya_chrysanthemi_NC_012912.1 k141_45
+			Skipping alignment 4407380 4409088 | 1707 3 | 1709 1705 | 95.06 | Dickeya_chrysanthemi_NC_012912.1 k141_45
+			Skipping alignment 1157773 1159481 | 3 1707 | 1709 1705 | 95.01 | Dickeya_chrysanthemi_NC_012912.1 k141_45
+			Skipping alignment 4363828 4365536 | 1707 3 | 1709 1705 | 95.01 | Dickeya_chrysanthemi_NC_012912.1 k141_45
+			Skipping alignment 212298 213896 | 1 1599 | 1599 1599 | 99.69 | Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1 k141_45
+			Skipping alignment 1036058 1037656 | 1 1599 | 1599 1599 | 99.69 | Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1 k141_45
+			Skipping alignment 4295160 4296758 | 1599 1 | 1599 1599 | 99.69 | Klebsiella_pneumoniae_NZ_CP047271.1 k141_45
+			Skipping alignment 120510 122108 | 1 1599 | 1599 1599 | 99.69 | Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1 k141_45
+			Skipping alignment 5057450 5059048 | 1599 1 | 1599 1599 | 99.44 | Klebsiella_pneumoniae_NZ_CP047271.1 k141_45
+			Skipping alignment 5149233 5150831 | 1599 1 | 1599 1599 | 99.44 | Klebsiella_pneumoniae_NZ_CP047271.1 k141_45
+			Skipping alignment 462905 464495 | 1 1591 | 1591 1591 | 99.5 | Klebsiella_pneumoniae_NZ_CP047271.1 k141_45
+			Skipping alignment 4887947 4889537 | 1591 1 | 1591 1591 | 99.5 | Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1 k141_45
+			Skipping alignment 155097 156651 | 3 1554 | 1555 1552 | 96.35 | Dickeya_chrysanthemi_NC_012912.1 k141_45
+			Skipping alignment 400051 401605 | 3 1554 | 1555 1552 | 96.15 | Dickeya_chrysanthemi_NC_012912.1 k141_45
+			Skipping alignment 4710012 4710839 | 1028 201 | 828 828 | 96.98 | Dickeya_chrysanthemi_NC_012912.1 k141_45
+			Skipping alignment 4709486 4710006 | 1554 1034 | 521 521 | 97.12 | Dickeya_chrysanthemi_NC_012912.1 k141_45
+			Skipping alignment 29845 30127 | 1 283 | 283 283 | 99.65 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000040.1 k141_45
+			Skipping alignment 96236 96516 | 1 281 | 281 281 | 99.64 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000022.1 k141_45
+			Skipping alignment 99887 100160 | 1 274 | 274 274 | 100.0 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000019.1 k141_45
+			Skipping alignment 1 238 | 1574 1811 | 238 238 | 97.48 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000150.1 k141_45
+			Skipping alignment 1 235 | 1577 1811 | 235 235 | 96.6 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000153.1 k141_45
+			Skipping alignment 1 224 | 224 1 | 224 224 | 99.55 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000027.1 k141_45
+			Skipping alignment 1 212 | 211 1 | 212 211 | 99.06 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000030.1 k141_45
+			Skipping alignment 177087 177251 | 1 166 | 165 166 | 99.4 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000011.1 k141_45
+			Skipping alignment 26993 27146 | 1 155 | 154 155 | 99.35 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000043.1 k141_45
+			Skipping alignment 3502 3615 | 1599 1485 | 114 115 | 98.26 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000081.1 k141_45
+			Skipping alignment 1 100 | 100 1 | 100 100 | 100.0 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000035.1 k141_45
+			Skipping alignment 4710844 4710937 | 196 103 | 94 94 | 98.94 | Dickeya_chrysanthemi_NC_012912.1 k141_45
+			Skipping alignment 1947825 1947905 | 91 11 | 81 81 | 98.77 | Serratia_symbiotica_NZ_LR025083.1 k141_45
+			Skipping alignment 4710954 4711029 | 88 13 | 76 76 | 98.68 | Dickeya_chrysanthemi_NC_012912.1 k141_45
+			Skipping alignment 4709332 4709402 | 1707 1637 | 71 71 | 98.59 | Dickeya_chrysanthemi_NC_012912.1 k141_45
+		This contig has 9 significant alignments. [An ambiguously mapped contig]
+		Using all these alignments (option --ambiguity-usage is set to "all"):
+			Alignment: 268 2079 | 1 1811 | 1812 1811 | 99.5 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000096.1 k141_45
+			Alignment: 257599 259409 | 1 1811 | 1811 1811 | 99.45 | Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1 k141_45
+			Alignment: 4655559 4657369 | 1811 1 | 1811 1811 | 99.28 | Klebsiella_pneumoniae_NZ_CP047271.1 k141_45
+			Alignment: 5253567 5255377 | 1811 1 | 1811 1811 | 99.28 | Klebsiella_pneumoniae_NZ_CP047271.1 k141_45
+			Alignment: 16068 17878 | 1 1811 | 1811 1811 | 99.28 | Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1 k141_45
+			Alignment: 1286478 1288288 | 1 1811 | 1811 1811 | 99.23 | Klebsiella_pneumoniae_NZ_CP047271.1 k141_45
+			Alignment: 680817 682623 | 5 1811 | 1807 1807 | 99.28 | Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1 k141_45
+			Alignment: 5012106 5013916 | 1811 1 | 1811 1811 | 99.06 | Klebsiella_pneumoniae_NZ_CP047271.1 k141_45
+			Alignment: 4133133 4134943 | 1811 1 | 1811 1811 | 99.06 | Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1 k141_45
+
+CONTIG: k141_46 (743bp)
+Best alignment score: 305.0 (LEN: 305, IDY: 100.00), Total number of alignments: 1
+			Looking for the best set of alignments (out of 1 total alignments)
+			The best set is below. Score: 305.0, number of alignments: 1, unaligned bases: 438
+		Alignment: 20475 20779 | 1 305 | 305 305 | 100.0 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000046.1 k141_46
+
+CONTIG: k141_355 (1203bp)
+Best alignment score: 166.0 (LEN: 172, IDY: 96.51), Total number of alignments: 1
+			Looking for the best set of alignments (out of 1 total alignments)
+			The best set is below. Score: 166.0, number of alignments: 1, unaligned bases: 1031
+		This contig is partially unaligned. (Aligned 172 out of 1203 non-N bases (14.30%))
+		Alignment: 30368 30539 | 172 1 | 172 172 | 96.51 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000034.1 k141_355
+		Unaligned bases: 173 to 1203 (1031)
+		It can contain up to 1 interspecies translocations (will be reported as Possible Misassemblies).
+
+CONTIG: k141_48 (639bp)
+Best alignment score: 638.0 (LEN: 639, IDY: 99.84), Total number of alignments: 3
+		This contig has 3 significant alignments. [An ambiguously mapped contig]
+		Using all these alignments (option --ambiguity-usage is set to "all"):
+			Alignment: 14194 14832 | 639 1 | 639 639 | 99.84 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000002.1 k141_48
+			Alignment: 3542555 3543193 | 639 1 | 639 639 | 99.22 | Klebsiella_pneumoniae_NZ_CP047271.1 k141_48
+			Alignment: 1771421 1772059 | 1 639 | 639 639 | 99.06 | Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1 k141_48
+
+CONTIG: k141_357 (1141bp)
+Best alignment score: 1141.0 (LEN: 1141, IDY: 100.00), Total number of alignments: 28
+		Skipping these alignments as insignificant (option --ambiguity-score is set to "0.99"):
+			Skipping alignment 4131994 4133142 | 1141 1 | 1149 1141 | 98.87 | Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1 k141_357
+			Skipping alignment 1037942 1039078 | 1 1141 | 1137 1141 | 98.86 | Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1 k141_357
+			Skipping alignment 4293653 4294801 | 1141 1 | 1149 1141 | 98.61 | Klebsiella_pneumoniae_NZ_CP047271.1 k141_357
+			Skipping alignment 1160236 1160726 | 645 1135 | 491 491 | 98.57 | Dickeya_chrysanthemi_NC_012912.1 k141_357
+			Skipping alignment 4708087 4708577 | 1135 645 | 491 491 | 98.57 | Dickeya_chrysanthemi_NC_012912.1 k141_357
+			Skipping alignment 4406135 4406625 | 1135 645 | 491 491 | 98.57 | Dickeya_chrysanthemi_NC_012912.1 k141_357
+			Skipping alignment 157705 158195 | 645 1135 | 491 491 | 98.57 | Dickeya_chrysanthemi_NC_012912.1 k141_357
+			Skipping alignment 4362583 4363073 | 1135 645 | 491 491 | 98.57 | Dickeya_chrysanthemi_NC_012912.1 k141_357
+			Skipping alignment 984948 985438 | 645 1135 | 491 491 | 98.37 | Dickeya_chrysanthemi_NC_012912.1 k141_357
+			Skipping alignment 402659 403149 | 645 1135 | 491 491 | 98.37 | Dickeya_chrysanthemi_NC_012912.1 k141_357
+			Skipping alignment 1944934 1945322 | 1135 747 | 389 389 | 95.37 | Serratia_symbiotica_NZ_LR025083.1 k141_357
+			Skipping alignment 1945333 1945424 | 736 645 | 92 92 | 95.65 | Serratia_symbiotica_NZ_LR025083.1 k141_357
+			Skipping alignment 229 301 | 1 73 | 73 73 | 100.0 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000150.1 k141_357
+			Skipping alignment 1 72 | 72 1 | 72 72 | 100.0 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000142.1 k141_357
+		This contig has 14 significant alignments. [An ambiguously mapped contig]
+		Using all these alignments (option --ambiguity-usage is set to "all"):
+			Alignment: 682614 683754 | 1 1141 | 1141 1141 | 100.0 | Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1 k141_357
+			Alignment: 2075 3215 | 1141 1 | 1141 1141 | 99.74 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000081.1 k141_357
+			Alignment: 5252436 5253576 | 1141 1 | 1141 1141 | 99.74 | Klebsiella_pneumoniae_NZ_CP047271.1 k141_357
+			Alignment: 4886741 4887881 | 1141 1 | 1141 1141 | 99.74 | Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1 k141_357
+			Alignment: 259400 260540 | 1 1141 | 1141 1141 | 99.65 | Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1 k141_357
+			Alignment: 4654428 4655568 | 1141 1 | 1141 1141 | 99.56 | Klebsiella_pneumoniae_NZ_CP047271.1 k141_357
+			Alignment: 5056021 5057161 | 1141 1 | 1141 1141 | 99.47 | Klebsiella_pneumoniae_NZ_CP047271.1 k141_357
+			Alignment: 122397 123537 | 1 1141 | 1141 1141 | 99.47 | Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1 k141_357
+			Alignment: 214254 215394 | 1 1141 | 1141 1141 | 99.47 | Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1 k141_357
+			Alignment: 5010975 5012115 | 1141 1 | 1141 1141 | 99.47 | Klebsiella_pneumoniae_NZ_CP047271.1 k141_357
+			Alignment: 1288279 1289415 | 1 1141 | 1137 1141 | 99.39 | Klebsiella_pneumoniae_NZ_CP047271.1 k141_357
+			Alignment: 464561 465701 | 1 1141 | 1141 1141 | 99.39 | Klebsiella_pneumoniae_NZ_CP047271.1 k141_357
+			Alignment: 17869 19005 | 1 1141 | 1137 1141 | 99.3 | Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1 k141_357
+			Alignment: 5147807 5148947 | 1141 1 | 1141 1141 | 99.12 | Klebsiella_pneumoniae_NZ_CP047271.1 k141_357
+
+CONTIG: k141_50 (855bp)
+Best alignment score: 852.0 (LEN: 855, IDY: 99.65), Total number of alignments: 3
+		This contig has 3 significant alignments. [An ambiguously mapped contig]
+		Using all these alignments (option --ambiguity-usage is set to "all"):
+			Alignment: 143259 144113 | 1 855 | 855 855 | 99.65 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000002.1 k141_50
+			Alignment: 3678380 3679234 | 1 855 | 855 855 | 99.42 | Klebsiella_pneumoniae_NZ_CP047271.1 k141_50
+			Alignment: 1635180 1636034 | 855 1 | 855 855 | 99.42 | Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1 k141_50
+
+CONTIG: k141_51 (659bp)
+Best alignment score: 409.0 (LEN: 423, IDY: 96.69), Total number of alignments: 16
+			Looking for the best set of alignments (out of 16 total alignments)
+			Skipping redundant alignments after choosing the best set of alignments
+		Skipping redundant alignment 1 77 | 184 108 | 77 77 | 98.7 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000069.1 k141_51
+		Skipping redundant alignment 1 146 | 253 108 | 146 146 | 97.26 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000083.1 k141_51
+		Skipping redundant alignment 1 179 | 286 108 | 179 179 | 95.53 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000107.1 k141_51
+		Skipping redundant alignment 6 190 | 292 108 | 185 185 | 97.3 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000138.1 k141_51
+		Skipping redundant alignment 2750 2934 | 292 108 | 185 185 | 97.3 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000083.1 k141_51
+		Skipping redundant alignment 2026 2127 | 334 233 | 102 102 | 99.02 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000097.1 k141_51
+		Skipping redundant alignment 2030 2188 | 334 175 | 159 160 | 95.62 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000093.1 k141_51
+		Skipping redundant alignment 268 460 | 334 141 | 193 194 | 95.88 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000137.1 k141_51
+		Skipping redundant alignment 108 304 | 334 137 | 197 198 | 95.96 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000149.1 k141_51
+		Skipping redundant alignment 2590 2797 | 334 127 | 208 208 | 96.15 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000086.1 k141_51
+		Skipping redundant alignment 5900 6127 | 108 334 | 228 227 | 96.52 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000070.1 k141_51
+		Skipping redundant alignment 656 882 | 334 108 | 227 227 | 96.48 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000120.1 k141_51
+		Skipping redundant alignment 210 435 | 334 108 | 226 227 | 95.15 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000126.1 k141_51
+		Skipping redundant alignment 5697 6119 | 659 237 | 423 423 | 96.69 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000069.1 k141_51
+			The best set is below. Score: 514.0, number of alignments: 2, unaligned bases: 127
+		This contig is misassembled.
+			Real Alignment 1: 252 436 | 108 292 | 185 185 | 97.3 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000089.1 k141_51
+			  Indel (<= 5bp) between these two alignments: deletion of length 4; 16 mismatches (number of Ns: 0)
+			Real Alignment 2: 461 807 | 313 659 | 347 347 | 96.25 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000089.1 k141_51
+
+CONTIG: k141_359 (786bp)
+Best alignment score: 786.0 (LEN: 786, IDY: 100.00), Total number of alignments: 3
+		Skipping these alignments as insignificant (option --ambiguity-score is set to "0.99"):
+			Skipping alignment 2424488 2425273 | 786 1 | 786 786 | 98.6 | Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1 k141_359
+			Skipping alignment 2214310 2215095 | 786 1 | 786 786 | 98.47 | Klebsiella_pneumoniae_NZ_CP047271.1 k141_359
+		One align captures most of this contig: 91897 92682 | 1 786 | 786 786 | 100.0 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000012.1 k141_359
+
+CONTIG: k141_361 (676bp)
+		This contig is unaligned. (676 bp)
+		Unaligned bases: 676 (number of Ns: 0)
+
+CONTIG: k141_55 (628bp)
+Best alignment score: 627.0 (LEN: 628, IDY: 99.84), Total number of alignments: 2
+		Skipping these alignments as insignificant (option --ambiguity-score is set to "0.99"):
+			Skipping alignment 111174 111444 | 628 358 | 271 271 | 97.42 | Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047676.1 k141_55
+		One align captures most of this contig: 48805 49432 | 628 1 | 628 628 | 99.84 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000032.1 k141_55
+
+CONTIG: k141_56 (630bp)
+Best alignment score: 628.0 (LEN: 630, IDY: 99.68), Total number of alignments: 3
+		This contig has 3 significant alignments. [An ambiguously mapped contig]
+		Using all these alignments (option --ambiguity-usage is set to "all"):
+			Alignment: 7427 8056 | 630 1 | 630 630 | 99.68 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000044.1 k141_56
+			Alignment: 403563 404192 | 630 1 | 630 630 | 99.21 | Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1 k141_56
+			Alignment: 4866494 4867123 | 1 630 | 630 630 | 99.05 | Klebsiella_pneumoniae_NZ_CP047271.1 k141_56
+
+CONTIG: k141_365 (570bp)
+		This contig is unaligned. (570 bp)
+		Unaligned bases: 570 (number of Ns: 0)
+
+CONTIG: k141_57 (919bp)
+Best alignment score: 918.0 (LEN: 919, IDY: 99.89), Total number of alignments: 3
+		This contig has 3 significant alignments. [An ambiguously mapped contig]
+		Using all these alignments (option --ambiguity-usage is set to "all"):
+			Alignment: 31044 31963 | 1 919 | 920 919 | 99.89 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000016.1 k141_57
+			Alignment: 521460 522379 | 919 1 | 920 919 | 99.35 | Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1 k141_57
+			Alignment: 4740354 4741273 | 1 919 | 920 919 | 99.02 | Klebsiella_pneumoniae_NZ_CP047271.1 k141_57
+
+CONTIG: k141_61 (564bp)
+Best alignment score: 564.0 (LEN: 564, IDY: 100.00), Total number of alignments: 3
+		This contig has 3 significant alignments. [An ambiguously mapped contig]
+		Using all these alignments (option --ambiguity-usage is set to "all"):
+			Alignment: 196837 197400 | 564 1 | 564 564 | 100.0 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000002.1 k141_61
+			Alignment: 3731959 3732522 | 564 1 | 564 564 | 99.82 | Klebsiella_pneumoniae_NZ_CP047271.1 k141_61
+			Alignment: 1581895 1582458 | 1 564 | 564 564 | 99.65 | Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1 k141_61
+
+CONTIG: k141_371 (669bp)
+Best alignment score: 588.0 (LEN: 595, IDY: 98.82), Total number of alignments: 6
+			Looking for the best set of alignments (out of 6 total alignments)
+			Skipping redundant alignments after choosing the best set of alignments
+		Skipping redundant alignment 1 322 | 574 253 | 322 322 | 99.07 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000146.1 k141_371
+		Skipping redundant alignment 2017 2325 | 577 269 | 309 309 | 99.68 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000090.1 k141_371
+		Skipping redundant alignment 50063 50563 | 77 577 | 501 501 | 98.4 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000032.1 k141_371
+		Skipping redundant alignment 198150 198338 | 481 669 | 189 189 | 100.0 | Klebsiella_pneumoniae_NZ_CP047272.1 k141_371
+		Skipping redundant alignment 1 409 | 261 669 | 409 409 | 99.76 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000090.1 k141_371
+			The best set is below. Score: 588.0, number of alignments: 1, unaligned bases: 74
+		Alignment: 8 602 | 669 75 | 595 595 | 98.82 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000058.1 k141_371
+
+CONTIG: k141_62 (930bp)
+		This contig is unaligned. (930 bp)
+		Unaligned bases: 930 (number of Ns: 0)
+
+CONTIG: k141_376 (736bp)
+Best alignment score: 736.0 (LEN: 736, IDY: 100.00), Total number of alignments: 3
+		This contig has 3 significant alignments. [An ambiguously mapped contig]
+		Using all these alignments (option --ambiguity-usage is set to "all"):
+			Alignment: 149782 150517 | 1 736 | 736 736 | 100.0 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000002.1 k141_376
+			Alignment: 1628777 1629512 | 736 1 | 736 736 | 99.73 | Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1 k141_376
+			Alignment: 3684902 3685637 | 1 736 | 736 736 | 99.59 | Klebsiella_pneumoniae_NZ_CP047271.1 k141_376
+
+CONTIG: k141_67 (518bp)
+Best alignment score: 518.0 (LEN: 518, IDY: 100.00), Total number of alignments: 1
+		One align captures most of this contig: 25719 26236 | 1 518 | 518 518 | 100.0 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000025.1 k141_67
+
+CONTIG: k141_377 (545bp)
+Best alignment score: 545.0 (LEN: 545, IDY: 100.00), Total number of alignments: 3
+		This contig has 3 significant alignments. [An ambiguously mapped contig]
+		Using all these alignments (option --ambiguity-usage is set to "all"):
+			Alignment: 28807 29351 | 1 545 | 545 545 | 100.0 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000031.1 k141_377
+			Alignment: 2545599 2546143 | 1 545 | 545 545 | 99.63 | Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1 k141_377
+			Alignment: 2335692 2336236 | 1 545 | 545 545 | 99.45 | Klebsiella_pneumoniae_NZ_CP047271.1 k141_377
+
+CONTIG: k141_381 (511bp)
+Best alignment score: 508.0 (LEN: 511, IDY: 99.41), Total number of alignments: 3
+		Skipping these alignments as insignificant (option --ambiguity-score is set to "0.99"):
+			Skipping alignment 2765819 2766328 | 510 1 | 510 510 | 98.43 | Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1 k141_381
+		This contig has 2 significant alignments. [An ambiguously mapped contig]
+		Using all these alignments (option --ambiguity-usage is set to "all"):
+			Alignment: 60468 60977 | 511 1 | 510 511 | 99.41 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000020.1 k141_381
+			Alignment: 2548879 2549389 | 511 1 | 511 511 | 98.83 | Klebsiella_pneumoniae_NZ_CP047271.1 k141_381
+
+CONTIG: k141_72 (680bp)
+		This contig is unaligned. (680 bp)
+		Unaligned bases: 680 (number of Ns: 0)
+
+CONTIG: k141_73 (710bp)
+Best alignment score: 710.0 (LEN: 710, IDY: 100.00), Total number of alignments: 1
+		One align captures most of this contig: 2479366 2480075 | 710 1 | 710 710 | 100.0 | Klebsiella_pneumoniae_NZ_CP047271.1 k141_73
+
+CONTIG: k141_78 (1185bp)
+Best alignment score: 1184.1 (LEN: 1185, IDY: 99.92), Total number of alignments: 1
+		One align captures most of this contig: 919 2103 | 1185 1 | 1185 1185 | 99.92 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000003.1 k141_78
+
+CONTIG: k141_79 (539bp)
+Best alignment score: 538.0 (LEN: 539, IDY: 99.81), Total number of alignments: 3
+		This contig has 3 significant alignments. [An ambiguously mapped contig]
+		Using all these alignments (option --ambiguity-usage is set to "all"):
+			Alignment: 100620 101158 | 539 1 | 539 539 | 99.81 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000016.1 k141_79
+			Alignment: 4813709 4814247 | 539 1 | 539 539 | 99.63 | Klebsiella_pneumoniae_NZ_CP047271.1 k141_79
+			Alignment: 454297 454835 | 1 539 | 539 539 | 99.63 | Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1 k141_79
+
+CONTIG: k141_83 (529bp)
+		This contig is unaligned. (529 bp)
+		Unaligned bases: 529 (number of Ns: 0)
+
+CONTIG: k141_84 (668bp)
+Best alignment score: 668.0 (LEN: 668, IDY: 100.00), Total number of alignments: 3
+		Skipping these alignments as insignificant (option --ambiguity-score is set to "0.99"):
+			Skipping alignment 4366270 4366937 | 1 668 | 668 668 | 98.5 | Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1 k141_84
+			Skipping alignment 986628 987295 | 668 1 | 668 668 | 98.35 | Klebsiella_pneumoniae_NZ_CP047271.1 k141_84
+		One align captures most of this contig: 184248 184915 | 1 668 | 668 668 | 100.0 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000006.1 k141_84
+
+CONTIG: k141_93 (648bp)
+Best alignment score: 647.0 (LEN: 648, IDY: 99.85), Total number of alignments: 3
+		Skipping these alignments as insignificant (option --ambiguity-score is set to "0.99"):
+			Skipping alignment 4894365 4895012 | 1 648 | 648 648 | 98.77 | Klebsiella_pneumoniae_NZ_CP047271.1 k141_93
+		This contig has 2 significant alignments. [An ambiguously mapped contig]
+		Using all these alignments (option --ambiguity-usage is set to "all"):
+			Alignment: 9330 9977 | 1 648 | 648 648 | 99.85 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000017.1 k141_93
+			Alignment: 374579 375226 | 648 1 | 648 648 | 98.92 | Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1 k141_93
+
+CONTIG: k141_99 (548bp)
+Best alignment score: 548.0 (LEN: 548, IDY: 100.00), Total number of alignments: 1
+		One align captures most of this contig: 2599765 2600312 | 1 548 | 548 548 | 100.0 | Klebsiella_pneumoniae_NZ_CP047271.1 k141_99
+
+CONTIG: k141_102 (760bp)
+Best alignment score: 759.0 (LEN: 760, IDY: 99.87), Total number of alignments: 1
+		One align captures most of this contig: 21013 21772 | 760 1 | 760 760 | 99.87 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000032.1 k141_102
+
+CONTIG: k141_105 (752bp)
+		This contig is unaligned. (752 bp)
+		Unaligned bases: 752 (number of Ns: 0)
+
+CONTIG: k141_106 (808bp)
+Best alignment score: 516.0 (LEN: 526, IDY: 98.10), Total number of alignments: 48
+			Looking for the best set of alignments (out of 48 total alignments)
+			Skipping redundant alignments after choosing the best set of alignments
+		Skipping redundant alignment 1460853 1460930 | 135 58 | 78 78 | 100.0 | Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1 k141_106
+		Skipping redundant alignment 3853110 3853202 | 97 192 | 93 96 | 95.83 | Klebsiella_pneumoniae_NZ_CP047271.1 k141_106
+		Skipping redundant alignment 1460390 1460481 | 192 97 | 92 96 | 95.83 | Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1 k141_106
+		Skipping redundant alignment 317517 317606 | 164 253 | 90 90 | 100.0 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000002.1 k141_106
+		Skipping redundant alignment 3844097 3844179 | 276 358 | 83 83 | 95.18 | Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1 k141_106
+		Skipping redundant alignment 1 214 | 493 280 | 214 214 | 98.6 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000117.1 k141_106
+		Skipping redundant alignment 4220216 4220504 | 216 504 | 289 289 | 97.58 | Klebsiella_pneumoniae_NZ_CP047271.1 k141_106
+		Skipping redundant alignment 8 235 | 506 280 | 228 227 | 98.25 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000154.1 k141_106
+		Skipping redundant alignment 3914834 3915042 | 300 508 | 209 209 | 98.56 | Klebsiella_pneumoniae_NZ_CP047271.1 k141_106
+		Skipping redundant alignment 95125 95359 | 274 508 | 235 235 | 96.6 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000002.1 k141_106
+		Skipping redundant alignment 51888 52119 | 513 282 | 232 232 | 99.14 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000011.1 k141_106
+		Skipping redundant alignment 2511145 2511376 | 513 282 | 232 232 | 97.41 | Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1 k141_106
+		Skipping redundant alignment 3885687 3885900 | 300 514 | 214 215 | 97.21 | Klebsiella_pneumoniae_NZ_CP047271.1 k141_106
+		Skipping redundant alignment 20753 20966 | 300 514 | 214 215 | 96.74 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000018.1 k141_106
+		Skipping redundant alignment 3623387 3623603 | 298 514 | 217 217 | 96.77 | Klebsiella_pneumoniae_NZ_CP047271.1 k141_106
+		Skipping redundant alignment 2200924 2201158 | 280 514 | 235 235 | 97.45 | Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1 k141_106
+		Skipping redundant alignment 96396 96630 | 514 280 | 235 235 | 95.74 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000021.1 k141_106
+		Skipping redundant alignment 1691413 1691652 | 514 274 | 240 241 | 95.44 | Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1 k141_106
+		Skipping redundant alignment 251329 251617 | 226 514 | 289 289 | 97.23 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000003.1 k141_106
+		Skipping redundant alignment 1460592 1460930 | 514 176 | 339 339 | 99.12 | Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1 k141_106
+		Skipping redundant alignment 3852655 3852999 | 170 514 | 345 345 | 97.1 | Klebsiella_pneumoniae_NZ_CP047271.1 k141_106
+		Skipping redundant alignment 3852045 3852395 | 164 514 | 351 351 | 97.72 | Klebsiella_pneumoniae_NZ_CP047271.1 k141_106
+		Skipping redundant alignment 3852001 3852395 | 120 514 | 395 395 | 97.72 | Klebsiella_pneumoniae_NZ_CP047271.1 k141_106
+		Skipping redundant alignment 1 247 | 526 280 | 247 247 | 98.79 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000123.1 k141_106
+		Skipping redundant alignment 1576768 1577025 | 533 276 | 258 258 | 95.35 | Klebsiella_pneumoniae_NZ_CP047271.1 k141_106
+		Skipping redundant alignment 2822746 2823014 | 280 549 | 269 270 | 98.52 | Klebsiella_pneumoniae_NZ_CP047271.1 k141_106
+		Skipping redundant alignment 3031930 3032199 | 280 549 | 270 270 | 95.93 | Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1 k141_106
+		Skipping redundant alignment 1957441 1957754 | 236 549 | 314 314 | 96.2 | Klebsiella_pneumoniae_NZ_CP047271.1 k141_106
+		Skipping redundant alignment 58834 59086 | 298 550 | 253 253 | 96.05 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000018.1 k141_106
+		Skipping redundant alignment 2301187 2301455 | 550 282 | 269 269 | 96.28 | Klebsiella_pneumoniae_NZ_CP047271.1 k141_106
+		Skipping redundant alignment 5795 6063 | 282 550 | 269 269 | 95.94 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000012.1 k141_106
+		Skipping redundant alignment 2300635 2300903 | 550 282 | 269 269 | 95.91 | Klebsiella_pneumoniae_NZ_CP047271.1 k141_106
+		Skipping redundant alignment 5358 5626 | 282 550 | 269 269 | 95.91 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000012.1 k141_106
+		Skipping redundant alignment 1392109 1392378 | 550 280 | 270 271 | 95.57 | Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1 k141_106
+		Skipping redundant alignment 1108802 1109131 | 550 221 | 330 330 | 95.76 | Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1 k141_106
+		Skipping redundant alignment 2427120 2427236 | 444 560 | 117 117 | 97.44 | Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1 k141_106
+		Skipping redundant alignment 1420932 1421192 | 560 300 | 261 261 | 95.06 | Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1 k141_106
+		Skipping redundant alignment 1 306 | 584 280 | 306 305 | 98.37 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000016.1 k141_106
+		Skipping redundant alignment 387 860 | 753 280 | 474 474 | 96.62 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000123.1 k141_106
+		Skipping redundant alignment 547711 548207 | 280 776 | 497 497 | 97.38 | Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1 k141_106
+		Skipping redundant alignment 4715294 4715790 | 776 280 | 497 497 | 97.38 | Klebsiella_pneumoniae_NZ_CP047271.1 k141_106
+		Skipping redundant alignment 546983 547477 | 280 776 | 495 497 | 96.38 | Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1 k141_106
+		Skipping redundant alignment 567 1061 | 776 280 | 495 497 | 95.57 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000117.1 k141_106
+		This contig has several significant sets of alignments. [An ambiguously mapped contig]
+		Using all alignments in these sets (option --ambiguity-usage is set to "all"):
+			The very best set is shown in details below, the rest are:
+				Group #2. Score: 674.2, number of alignments: 3, unaligned bases: 6
+				Group #3. Score: 673.6, number of alignments: 3, unaligned bases: 6
+			List of alignments used in the sets above:
+		Alignment: 317475 317659 | 4 192 | 185 189 | 97.88 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000002.1 k141_106
+		Alignment: 317029 317377 | 164 512 | 349 349 | 99.14 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000002.1 k141_106
+		Alignment: 316994 317377 | 129 512 | 384 384 | 99.22 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000002.1 k141_106
+		Alignment: 104 629 | 280 805 | 526 526 | 98.1 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000037.1 k141_106
+		Alignment: 3852491 3852999 | 4 514 | 509 511 | 95.3 | Klebsiella_pneumoniae_NZ_CP047271.1 k141_106
+			The best set is below. Score: 678.0, number of alignments: 2, unaligned bases: 6
+		This contig is misassembled.
+			Excluding internal overlap of size 235 between Alignment 1 and 2: 3852491 3852999 | 4 514 | 509 511 --> 3852491 3852764 | 4 279 | 274 276
+			Real Alignment 1: 3852491 3852764 | 4 279 | 274 276 | 95.3 | Klebsiella_pneumoniae_NZ_CP047271.1 k141_106
+			  Extensive misassembly (interspecies translocation) between these two alignments
+			Real Alignment 2: 104 629 | 280 805 | 526 526 | 98.1 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000037.1 k141_106
+
+CONTIG: k141_109 (833bp)
+Best alignment score: 831.0 (LEN: 833, IDY: 99.76), Total number of alignments: 1
+		One align captures most of this contig: 21923 22755 | 1 833 | 833 833 | 99.76 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000003.1 k141_109
+
+CONTIG: k141_113 (1320bp)
+Best alignment score: 413.0 (LEN: 413, IDY: 100.00), Total number of alignments: 23
+			Looking for the best set of alignments (out of 23 total alignments)
+			Skipping redundant alignments after choosing the best set of alignments
+		Skipping redundant alignment 171334 171649 | 1 316 | 316 316 | 99.68 | Klebsiella_pneumoniae_NZ_CP047272.1 k141_113
+		Skipping redundant alignment 190896 191214 | 1 319 | 319 319 | 96.55 | Klebsiella_pneumoniae_NZ_CP047272.1 k141_113
+		Skipping redundant alignment 1240 1563 | 324 1 | 324 324 | 96.6 | Klebsiella_pneumoniae_NZ_CP047272.1 k141_113
+		Skipping redundant alignment 77979 78302 | 1 324 | 324 324 | 96.6 | Klebsiella_pneumoniae_NZ_CP047272.1 k141_113
+		Skipping redundant alignment 134967 135291 | 1 325 | 325 325 | 99.38 | Klebsiella_pneumoniae_NZ_CP047272.1 k141_113
+		Skipping redundant alignment 214768 215049 | 913 1194 | 282 282 | 100.0 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000007.1 k141_113
+		Skipping redundant alignment 1 331 | 1240 910 | 331 331 | 100.0 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000011.1 k141_113
+		Skipping redundant alignment 1 337 | 1249 913 | 337 337 | 100.0 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000021.1 k141_113
+		Skipping redundant alignment 98357 98727 | 913 1283 | 371 371 | 100.0 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000020.1 k141_113
+		Skipping redundant alignment 24144 24520 | 909 1285 | 377 377 | 100.0 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000044.1 k141_113
+		Skipping redundant alignment 1 376 | 1288 913 | 376 376 | 100.0 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000024.1 k141_113
+		Skipping redundant alignment 1 393 | 1302 910 | 393 393 | 100.0 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000063.1 k141_113
+		Skipping redundant alignment 1 403 | 1315 913 | 403 403 | 100.0 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000014.1 k141_113
+		Skipping redundant alignment 5 410 | 1315 910 | 406 406 | 100.0 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000071.1 k141_113
+		Skipping redundant alignment 1 406 | 1316 913 | 406 404 | 99.51 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000028.1 k141_113
+		Skipping redundant alignment 8149 8556 | 913 1320 | 408 408 | 100.0 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000060.1 k141_113
+		Skipping redundant alignment 16895 17302 | 913 1320 | 408 408 | 100.0 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000050.1 k141_113
+		Skipping redundant alignment 3035865 3036272 | 913 1320 | 408 408 | 98.28 | Klebsiella_pneumoniae_NZ_CP047271.1 k141_113
+		Skipping redundant alignment 129180 129590 | 910 1320 | 411 411 | 98.3 | Klebsiella_pneumoniae_NZ_CP047271.1 k141_113
+		Skipping redundant alignment 36 447 | 1320 909 | 412 412 | 100.0 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000032.1 k141_113
+		Skipping redundant alignment 1245 1657 | 1320 908 | 413 413 | 100.0 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000099.1 k141_113
+			The best set is below. Score: 694.0, number of alignments: 2, unaligned bases: 596
+		This contig is misassembled.
+		This contig is partially unaligned. (Aligned 724 out of 1320 non-N bases (54.85%))
+			Real Alignment 1: 184292 184603 | 312 1 | 312 312 | 96.47 | Klebsiella_pneumoniae_NZ_CP047272.1 k141_113
+			  Gap between these two alignments (local misassembly). Inconsistency = 354
+			Real Alignment 2: 182930 183341 | 1320 909 | 412 412 | 98.3 | Klebsiella_pneumoniae_NZ_CP047272.1 k141_113
+		Unaligned bases: 596
+		It can contain up to 2 interspecies translocations (will be reported as Possible Misassemblies).
+
+CONTIG: k141_116 (677bp)
+Best alignment score: 676.0 (LEN: 677, IDY: 99.85), Total number of alignments: 3
+		This contig has 3 significant alignments. [An ambiguously mapped contig]
+		Using all these alignments (option --ambiguity-usage is set to "all"):
+			Alignment: 133533 134209 | 1 677 | 677 677 | 99.85 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000013.1 k141_116
+			Alignment: 2992231 2992907 | 1 677 | 677 677 | 99.7 | Klebsiella_pneumoniae_NZ_CP047271.1 k141_116
+			Alignment: 3213951 3214627 | 1 677 | 677 677 | 99.56 | Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1 k141_116
+
+CONTIG: k141_119 (613bp)
+Best alignment score: 609.0 (LEN: 613, IDY: 99.35), Total number of alignments: 3
+		This contig has 3 significant alignments. [An ambiguously mapped contig]
+		Using all these alignments (option --ambiguity-usage is set to "all"):
+			Alignment: 1178271 1178883 | 1 613 | 613 613 | 99.35 | Klebsiella_pneumoniae_NZ_CP047271.1 k141_119
+			Alignment: 4164008 4164620 | 613 1 | 613 613 | 99.18 | Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1 k141_119
+			Alignment: 2840 3452 | 613 1 | 613 613 | 99.18 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000006.1 k141_119
+
+CONTIG: k141_120 (521bp)
+Best alignment score: 521.0 (LEN: 521, IDY: 100.00), Total number of alignments: 3
+		This contig has 3 significant alignments. [An ambiguously mapped contig]
+		Using all these alignments (option --ambiguity-usage is set to "all"):
+			Alignment: 66246 66766 | 521 1 | 521 521 | 100.0 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000026.1 k141_120
+			Alignment: 5147872 5148392 | 1 521 | 521 521 | 99.62 | Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1 k141_120
+			Alignment: 203157 203677 | 521 1 | 521 521 | 99.62 | Klebsiella_pneumoniae_NZ_CP047271.1 k141_120
+
+CONTIG: k141_124 (820bp)
+Best alignment score: 618.0 (LEN: 618, IDY: 100.00), Total number of alignments: 4
+			Looking for the best set of alignments (out of 4 total alignments)
+			Skipping redundant alignments after choosing the best set of alignments
+		Skipping redundant alignment 1 439 | 354 791 | 439 438 | 98.63 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000003.1 k141_124
+		Skipping redundant alignment 289 881 | 809 217 | 593 593 | 97.81 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000124.1 k141_124
+			The best set is below. Score: 702.6, number of alignments: 2, unaligned bases: 12
+		This contig is misassembled.
+			Excluding internal overlap of size 412 between Alignment 1 and 2: 1 602 | 614 13 | 602 602 --> 413 602 | 202 13 | 190 190
+			Real Alignment 1: 413 602 | 202 13 | 190 190 | 97.18 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000103.1 k141_124
+			  Extensive misassembly (translocation) between these two alignments
+			Real Alignment 2: 264 881 | 820 203 | 618 618 | 100.0 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000125.1 k141_124
+
+CONTIG: k141_126 (516bp)
+Best alignment score: 516.0 (LEN: 516, IDY: 100.00), Total number of alignments: 5
+		Skipping these alignments as insignificant (option --ambiguity-score is set to "0.99"):
+			Skipping alignment 2621559 2621690 | 386 516 | 132 131 | 99.24 | Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1 k141_126
+			Skipping alignment 53207 53338 | 386 516 | 132 131 | 99.24 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000014.1 k141_126
+		This contig has 3 significant alignments. [An ambiguously mapped contig]
+		Using all these alignments (option --ambiguity-usage is set to "all"):
+			Alignment: 50999 51514 | 1 516 | 516 516 | 100.0 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000014.1 k141_126
+			Alignment: 2409503 2410019 | 1 516 | 517 516 | 99.81 | Klebsiella_pneumoniae_NZ_CP047271.1 k141_126
+			Alignment: 2619350 2619866 | 1 516 | 517 516 | 99.03 | Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1 k141_126
+
+CONTIG: k141_132 (598bp)
+Best alignment score: 492.0 (LEN: 495, IDY: 99.39), Total number of alignments: 2
+			Looking for the best set of alignments (out of 2 total alignments)
+		This contig has several significant sets of alignments. [An ambiguously mapped contig]
+		Using all alignments in these sets (option --ambiguity-usage is set to "all"):
+			The very best set is shown in details below, the rest are:
+				Group #2. Score: 492.0, number of alignments: 1, unaligned bases: 103
+			List of alignments used in the sets above:
+		Alignment: 1766525 1767019 | 598 104 | 495 495 | 99.39 | Klebsiella_pneumoniae_NZ_CP047271.1 k141_132
+		Alignment: 3642541 3643035 | 104 598 | 495 495 | 99.39 | Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1 k141_132
+			The best set is below. Score: 492.0, number of alignments: 1, unaligned bases: 103
+		Alignment: 1766525 1767019 | 598 104 | 495 495 | 99.39 | Klebsiella_pneumoniae_NZ_CP047271.1 k141_132
+
+CONTIG: k141_133 (639bp)
+Best alignment score: 639.0 (LEN: 639, IDY: 100.00), Total number of alignments: 3
+		This contig has 3 significant alignments. [An ambiguously mapped contig]
+		Using all these alignments (option --ambiguity-usage is set to "all"):
+			Alignment: 23898 24536 | 639 1 | 639 639 | 100.0 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000043.1 k141_133
+			Alignment: 4891993 4892631 | 1 639 | 639 639 | 99.84 | Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1 k141_133
+			Alignment: 459811 460449 | 639 1 | 639 639 | 99.69 | Klebsiella_pneumoniae_NZ_CP047271.1 k141_133
+
+CONTIG: k141_134 (606bp)
+Best alignment score: 603.0 (LEN: 606, IDY: 99.50), Total number of alignments: 4
+		Skipping these alignments as insignificant (option --ambiguity-score is set to "0.99"):
+			Skipping alignment 386440 386556 | 436 552 | 117 117 | 95.73 | Dickeya_chrysanthemi_NC_012912.1 k141_134
+		This contig has 3 significant alignments. [An ambiguously mapped contig]
+		Using all these alignments (option --ambiguity-usage is set to "all"):
+			Alignment: 4903268 4903873 | 606 1 | 606 606 | 99.5 | Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1 k141_134
+			Alignment: 448569 449174 | 1 606 | 606 606 | 99.5 | Klebsiella_pneumoniae_NZ_CP047271.1 k141_134
+			Alignment: 12658 13263 | 1 606 | 606 606 | 99.5 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000043.1 k141_134
+
+CONTIG: k141_142 (515bp)
+Best alignment score: 515.0 (LEN: 515, IDY: 100.00), Total number of alignments: 3
+		This contig has 3 significant alignments. [An ambiguously mapped contig]
+		Using all these alignments (option --ambiguity-usage is set to "all"):
+			Alignment: 32794 33308 | 515 1 | 515 515 | 100.0 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000016.1 k141_142
+			Alignment: 520115 520629 | 1 515 | 515 515 | 99.61 | Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1 k141_142
+			Alignment: 4742104 4742618 | 515 1 | 515 515 | 99.42 | Klebsiella_pneumoniae_NZ_CP047271.1 k141_142
+
+CONTIG: k141_148 (522bp)
+Best alignment score: 521.0 (LEN: 522, IDY: 99.81), Total number of alignments: 3
+		This contig has 3 significant alignments. [An ambiguously mapped contig]
+		Using all these alignments (option --ambiguity-usage is set to "all"):
+			Alignment: 88965 89486 | 1 522 | 522 522 | 99.81 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000007.1 k141_148
+			Alignment: 4540732 4541253 | 522 1 | 522 522 | 99.62 | Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1 k141_148
+			Alignment: 812531 813052 | 1 522 | 522 522 | 99.62 | Klebsiella_pneumoniae_NZ_CP047271.1 k141_148
+
+CONTIG: k141_155 (980bp)
+Best alignment score: 168.0 (LEN: 168, IDY: 100.00), Total number of alignments: 3
+			Looking for the best set of alignments (out of 3 total alignments)
+		This contig has several significant sets of alignments. [An ambiguously mapped contig]
+		Using all alignments in these sets (option --ambiguity-usage is set to "all"):
+			The very best set is shown in details below, the rest are:
+				Group #2. Score: 168.0, number of alignments: 1, unaligned bases: 812
+				Group #3. Score: 168.0, number of alignments: 1, unaligned bases: 812
+			List of alignments used in the sets above:
+		Alignment: 1118 1285 | 168 1 | 168 168 | 100.0 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000106.1 k141_155
+		Alignment: 170 337 | 168 1 | 168 168 | 100.0 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000108.1 k141_155
+		Alignment: 215 382 | 168 1 | 168 168 | 100.0 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000139.1 k141_155
+			The best set is below. Score: 168.0, number of alignments: 1, unaligned bases: 812
+		This contig is partially unaligned. (Aligned 168 out of 980 non-N bases (17.14%))
+		Alignment: 1118 1285 | 168 1 | 168 168 | 100.0 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000106.1 k141_155
+		Unaligned bases: 169 to 980 (812)
+		It can contain up to 1 interspecies translocations (will be reported as Possible Misassemblies).
+
+CONTIG: k141_160 (563bp)
+Best alignment score: 563.0 (LEN: 563, IDY: 100.00), Total number of alignments: 3
+		This contig has 3 significant alignments. [An ambiguously mapped contig]
+		Using all these alignments (option --ambiguity-usage is set to "all"):
+			Alignment: 135264 135826 | 563 1 | 563 563 | 100.0 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000007.1 k141_160
+			Alignment: 4493768 4494330 | 1 563 | 563 563 | 99.47 | Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1 k141_160
+			Alignment: 859239 859801 | 563 1 | 563 563 | 99.47 | Klebsiella_pneumoniae_NZ_CP047271.1 k141_160
+
+CONTIG: k141_164 (618bp)
+Best alignment score: 618.0 (LEN: 618, IDY: 100.00), Total number of alignments: 2
+		Skipping these alignments as insignificant (option --ambiguity-score is set to "0.99"):
+			Skipping alignment 3975177 3975792 | 3 618 | 616 616 | 95.94 | Klebsiella_pneumoniae_NZ_CP047271.1 k141_164
+		One align captures most of this contig: 7393 8010 | 1 618 | 618 618 | 100.0 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000003.1 k141_164
+
+CONTIG: k141_170 (570bp)
+Best alignment score: 567.0 (LEN: 570, IDY: 99.47), Total number of alignments: 3
+		This contig has 3 significant alignments. [An ambiguously mapped contig]
+		Using all these alignments (option --ambiguity-usage is set to "all"):
+			Alignment: 193200 193769 | 570 1 | 570 570 | 99.47 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000001.1 k141_170
+			Alignment: 3864461 3865030 | 570 1 | 570 570 | 98.95 | Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1 k141_170
+			Alignment: 1556129 1556698 | 1 570 | 570 570 | 98.95 | Klebsiella_pneumoniae_NZ_CP047271.1 k141_170
+
+CONTIG: k141_172 (954bp)
+Best alignment score: 954.0 (LEN: 954, IDY: 100.00), Total number of alignments: 2
+		Skipping these alignments as insignificant (option --ambiguity-score is set to "0.99"):
+			Skipping alignment 3979568 3980521 | 954 1 | 954 954 | 98.43 | Klebsiella_pneumoniae_NZ_CP047271.1 k141_172
+		One align captures most of this contig: 13341 14294 | 954 1 | 954 954 | 100.0 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000003.1 k141_172
+
+CONTIG: k141_177 (619bp)
+Best alignment score: 619.0 (LEN: 619, IDY: 100.00), Total number of alignments: 3
+		This contig has 3 significant alignments. [An ambiguously mapped contig]
+		Using all these alignments (option --ambiguity-usage is set to "all"):
+			Alignment: 23238 23856 | 619 1 | 619 619 | 100.0 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000030.1 k141_177
+			Alignment: 4157971 4158589 | 619 1 | 619 619 | 100.0 | Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1 k141_177
+			Alignment: 1232986 1233604 | 1 619 | 619 619 | 99.84 | Klebsiella_pneumoniae_NZ_CP047271.1 k141_177
+
+CONTIG: k141_178 (643bp)
+Best alignment score: 643.0 (LEN: 643, IDY: 100.00), Total number of alignments: 2
+		This contig has 2 significant alignments. [An ambiguously mapped contig]
+		Using all these alignments (option --ambiguity-usage is set to "all"):
+			Alignment: 33416 34058 | 1 643 | 643 643 | 100.0 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000032.1 k141_178
+			Alignment: 95775 96417 | 1 643 | 643 643 | 100.0 | Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047676.1 k141_178
+
+CONTIG: k141_189 (582bp)
+Best alignment score: 582.0 (LEN: 582, IDY: 100.00), Total number of alignments: 3
+		This contig has 3 significant alignments. [An ambiguously mapped contig]
+		Using all these alignments (option --ambiguity-usage is set to "all"):
+			Alignment: 36687 37268 | 582 1 | 582 582 | 100.0 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000005.1 k141_189
+			Alignment: 4584690 4585271 | 1 582 | 582 582 | 99.48 | Klebsiella_pneumoniae_NZ_CP047271.1 k141_189
+			Alignment: 745643 746224 | 582 1 | 582 582 | 99.31 | Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1 k141_189
+
+CONTIG: k141_193 (575bp)
+Best alignment score: 516.0 (LEN: 516, IDY: 100.00), Total number of alignments: 5
+			Looking for the best set of alignments (out of 5 total alignments)
+			Skipping redundant alignments after choosing the best set of alignments
+		Skipping redundant alignment 71528 71650 | 182 60 | 123 123 | 100.0 | Klebsiella_pneumoniae_NZ_CP047272.1 k141_193
+		Skipping redundant alignment 129208 129330 | 182 60 | 123 123 | 100.0 | Klebsiella_pneumoniae_NZ_CP047272.1 k141_193
+		Skipping redundant alignment 1680 1802 | 182 60 | 123 123 | 100.0 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000036.1 k141_193
+		Skipping redundant alignment 1745 2185 | 60 500 | 441 441 | 100.0 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000094.1 k141_193
+			The best set is below. Score: 516.0, number of alignments: 1, unaligned bases: 59
+		Alignment: 430 945 | 60 575 | 516 516 | 100.0 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000104.1 k141_193
+
+CONTIG: k141_199 (972bp)
+		This contig is unaligned. (972 bp)
+		Unaligned bases: 972 (number of Ns: 0)
+
+CONTIG: k141_200 (668bp)
+Best alignment score: 668.0 (LEN: 668, IDY: 100.00), Total number of alignments: 3
+		This contig has 3 significant alignments. [An ambiguously mapped contig]
+		Using all these alignments (option --ambiguity-usage is set to "all"):
+			Alignment: 209942 210609 | 668 1 | 668 668 | 100.0 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000004.1 k141_200
+			Alignment: 532369 533036 | 1 668 | 668 668 | 99.7 | Klebsiella_pneumoniae_NZ_CP047271.1 k141_200
+			Alignment: 4810807 4811474 | 668 1 | 668 668 | 99.55 | Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1 k141_200
+
+CONTIG: k141_205 (558bp)
+Best alignment score: 557.0 (LEN: 558, IDY: 99.82), Total number of alignments: 1
+		One align captures most of this contig: 27331 27888 | 1 558 | 558 558 | 99.82 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000037.1 k141_205
+
+CONTIG: k141_385 (536bp)
+Best alignment score: 536.0 (LEN: 536, IDY: 100.00), Total number of alignments: 3
+		This contig has 3 significant alignments. [An ambiguously mapped contig]
+		Using all these alignments (option --ambiguity-usage is set to "all"):
+			Alignment: 489 1024 | 536 1 | 536 536 | 100.0 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000005.1 k141_385
+			Alignment: 4620760 4621296 | 1 536 | 537 536 | 99.44 | Klebsiella_pneumoniae_NZ_CP047271.1 k141_385
+			Alignment: 714643 715178 | 536 1 | 536 536 | 99.07 | Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1 k141_385
+
+CONTIG: k141_207 (614bp)
+Best alignment score: 425.0 (LEN: 425, IDY: 100.00), Total number of alignments: 6
+			Looking for the best set of alignments (out of 6 total alignments)
+		This contig has several significant sets of alignments. [An ambiguously mapped contig]
+		Using all alignments in these sets (option --ambiguity-usage is set to "all"):
+			The very best set is shown in details below, the rest are:
+				Group #2. Score: 601.5, number of alignments: 2, unaligned bases: 0
+				Group #3. Score: 600.5, number of alignments: 2, unaligned bases: 0
+			List of alignments used in the sets above:
+		Alignment: 88369 88793 | 425 1 | 425 425 | 100.0 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000022.1 k141_207
+		Alignment: 1028191 1028615 | 425 1 | 425 425 | 98.82 | Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1 k141_207
+		Alignment: 4304202 4304626 | 1 425 | 425 425 | 98.59 | Klebsiella_pneumoniae_NZ_CP047271.1 k141_207
+		Alignment: 4304718 4304911 | 421 614 | 194 194 | 100.0 | Klebsiella_pneumoniae_NZ_CP047271.1 k141_207
+		Alignment: 1027906 1028099 | 614 421 | 194 194 | 100.0 | Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1 k141_207
+		Alignment: 88084 88277 | 614 421 | 194 194 | 100.0 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000022.1 k141_207
+			The best set is below. Score: 606.5, number of alignments: 2, unaligned bases: 0
+		This contig is misassembled.
+			Excluding internal overlap of size 5 between Alignment 1 and 2: 88084 88277 | 614 421 | 194 194 --> 88084 88272 | 614 426 | 189 189
+			Real Alignment 1: 88369 88793 | 425 1 | 425 425 | 100.0 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000022.1 k141_207
+			  Gap between these two alignments (local misassembly). Inconsistency = 96
+			Real Alignment 2: 88084 88272 | 614 426 | 189 189 | 100.0 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000022.1 k141_207
+
+CONTIG: k141_389 (554bp)
+Best alignment score: 553.0 (LEN: 554, IDY: 99.82), Total number of alignments: 1
+		One align captures most of this contig: 3474562 3475115 | 1 554 | 554 554 | 99.82 | Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1 k141_389
+
+CONTIG: k141_390 (658bp)
+Best alignment score: 657.0 (LEN: 658, IDY: 99.85), Total number of alignments: 6
+		Skipping these alignments as insignificant (option --ambiguity-score is set to "0.99"):
+			Skipping alignment 4678697 4679347 | 651 1 | 651 651 | 98.46 | Klebsiella_pneumoniae_NZ_CP047271.1 k141_390
+			Skipping alignment 52359 52812 | 658 205 | 454 454 | 98.9 | Klebsiella_pneumoniae_NZ_CP047271.1 k141_390
+			Skipping alignment 5292051 5292504 | 205 658 | 454 454 | 98.46 | Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1 k141_390
+			Skipping alignment 75044 75490 | 205 651 | 447 447 | 97.99 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000011.1 k141_390
+		This contig has 2 significant alignments. [An ambiguously mapped contig]
+		Using all these alignments (option --ambiguity-usage is set to "all"):
+			Alignment: 7983 8641 | 1 658 | 659 658 | 99.85 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000040.1 k141_390
+			Alignment: 658941 659598 | 1 658 | 658 658 | 98.94 | Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1 k141_390
+
+CONTIG: k141_210 (943bp)
+Best alignment score: 940.0 (LEN: 943, IDY: 99.68), Total number of alignments: 3
+		This contig has 3 significant alignments. [An ambiguously mapped contig]
+		Using all these alignments (option --ambiguity-usage is set to "all"):
+			Alignment: 90054 90996 | 1 943 | 943 943 | 99.68 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000009.1 k141_210
+			Alignment: 3126319 3127261 | 1 943 | 943 943 | 99.68 | Klebsiella_pneumoniae_NZ_CP047271.1 k141_210
+			Alignment: 3343518 3344460 | 1 943 | 943 943 | 99.58 | Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1 k141_210
+
+CONTIG: k141_211 (532bp)
+Best alignment score: 532.0 (LEN: 532, IDY: 100.00), Total number of alignments: 3
+		Skipping these alignments as insignificant (option --ambiguity-score is set to "0.99"):
+			Skipping alignment 1568442 1568973 | 532 1 | 532 532 | 98.87 | Klebsiella_pneumoniae_NZ_CP047271.1 k141_211
+		This contig has 2 significant alignments. [An ambiguously mapped contig]
+		Using all these alignments (option --ambiguity-usage is set to "all"):
+			Alignment: 180917 181448 | 1 532 | 532 532 | 100.0 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000001.1 k141_211
+			Alignment: 3852150 3852681 | 1 532 | 532 532 | 99.44 | Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1 k141_211
+
+CONTIG: k141_391 (622bp)
+Best alignment score: 621.0 (LEN: 622, IDY: 99.84), Total number of alignments: 3
+		This contig has 3 significant alignments. [An ambiguously mapped contig]
+		Using all these alignments (option --ambiguity-usage is set to "all"):
+			Alignment: 228746 229367 | 622 1 | 622 622 | 99.84 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000002.1 k141_391
+			Alignment: 1549928 1550549 | 1 622 | 622 622 | 99.52 | Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1 k141_391
+			Alignment: 3763871 3764492 | 622 1 | 622 622 | 99.2 | Klebsiella_pneumoniae_NZ_CP047271.1 k141_391
+
+CONTIG: k141_392 (878bp)
+Best alignment score: 845.0 (LEN: 851, IDY: 99.29), Total number of alignments: 6
+			Looking for the best set of alignments (out of 6 total alignments)
+			Skipping redundant alignments after choosing the best set of alignments
+		Skipping redundant alignment 3756040 3756119 | 394 473 | 80 80 | 98.75 | Dickeya_chrysanthemi_NC_012912.1 k141_392
+		Skipping redundant alignment 3756233 3756352 | 570 689 | 120 120 | 99.17 | Dickeya_chrysanthemi_NC_012912.1 k141_392
+		Skipping redundant alignment 1229403 1230162 | 760 1 | 760 760 | 99.74 | Klebsiella_pneumoniae_NZ_CP047271.1 k141_392
+		Skipping redundant alignment 26679 27438 | 1 760 | 760 760 | 99.21 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000030.1 k141_392
+		Skipping redundant alignment 960 1097 | 714 850 | 138 137 | 98.55 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000006.1 k141_392
+			The best set is below. Score: 845.0, number of alignments: 1, unaligned bases: 27
+		Alignment: 4161413 4162263 | 1 851 | 851 851 | 99.29 | Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1 k141_392
+
+CONTIG: k141_213 (1029bp)
+		This contig is unaligned. (1029 bp)
+		Unaligned bases: 1029 (number of Ns: 0)
+
+CONTIG: k141_214 (677bp)
+Best alignment score: 677.0 (LEN: 677, IDY: 100.00), Total number of alignments: 3
+		This contig has 3 significant alignments. [An ambiguously mapped contig]
+		Using all these alignments (option --ambiguity-usage is set to "all"):
+			Alignment: 172199 172875 | 677 1 | 677 677 | 100.0 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000003.1 k141_214
+			Alignment: 1188712 1189388 | 1 677 | 677 677 | 99.85 | Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1 k141_214
+			Alignment: 4140139 4140815 | 677 1 | 677 677 | 99.85 | Klebsiella_pneumoniae_NZ_CP047271.1 k141_214
+
+CONTIG: k141_396 (545bp)
+Best alignment score: 545.0 (LEN: 545, IDY: 100.00), Total number of alignments: 1
+		One align captures most of this contig: 2805 3349 | 545 1 | 545 545 | 100.0 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000076.1 k141_396
+
+CONTIG: k141_217 (654bp)
+Best alignment score: 653.0 (LEN: 654, IDY: 99.85), Total number of alignments: 3
+		This contig has 3 significant alignments. [An ambiguously mapped contig]
+		Using all these alignments (option --ambiguity-usage is set to "all"):
+			Alignment: 431761 432414 | 1 654 | 654 654 | 99.85 | Klebsiella_pneumoniae_NZ_CP047271.1 k141_217
+			Alignment: 3626 4279 | 654 1 | 654 654 | 99.85 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000008.1 k141_217
+			Alignment: 4920028 4920681 | 654 1 | 654 654 | 99.69 | Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1 k141_217
+
+CONTIG: k141_398 (959bp)
+		This contig is unaligned. (959 bp)
+		Unaligned bases: 959 (number of Ns: 0)
+
+CONTIG: k141_219 (534bp)
+Best alignment score: 534.0 (LEN: 534, IDY: 100.00), Total number of alignments: 3
+		This contig has 3 significant alignments. [An ambiguously mapped contig]
+		Using all these alignments (option --ambiguity-usage is set to "all"):
+			Alignment: 4706098 4706631 | 534 1 | 534 534 | 100.0 | Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1 k141_219
+			Alignment: 105219 105752 | 534 1 | 534 534 | 100.0 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000004.1 k141_219
+			Alignment: 635627 636160 | 1 534 | 534 534 | 99.81 | Klebsiella_pneumoniae_NZ_CP047271.1 k141_219
+
+CONTIG: k141_399 (577bp)
+		This contig is unaligned. (577 bp)
+		Unaligned bases: 577 (number of Ns: 0)
+
+CONTIG: k141_400 (567bp)
+Best alignment score: 435.0 (LEN: 435, IDY: 100.00), Total number of alignments: 6
+			Looking for the best set of alignments (out of 6 total alignments)
+		This contig has several significant sets of alignments. [An ambiguously mapped contig]
+		Using all alignments in these sets (option --ambiguity-usage is set to "all"):
+			The very best set is shown in details below, the rest are:
+				Group #2. Score: 515.0, number of alignments: 2, unaligned bases: 0
+				Group #3. Score: 515.0, number of alignments: 2, unaligned bases: 0
+				Group #4. Score: 513.0, number of alignments: 2, unaligned bases: 0
+				Group #5. Score: 513.0, number of alignments: 2, unaligned bases: 0
+				Group #6. Score: 512.0, number of alignments: 2, unaligned bases: 0
+				Group #7. Score: 512.0, number of alignments: 2, unaligned bases: 0
+				Group #8. Score: 512.0, number of alignments: 2, unaligned bases: 0
+				Group #9. Score: 512.0, number of alignments: 2, unaligned bases: 0
+			List of alignments used in the sets above:
+		Alignment: 290800 290935 | 136 1 | 136 136 | 100.0 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000003.1 k141_400
+		Alignment: 4257646 4257781 | 136 1 | 136 136 | 100.0 | Klebsiella_pneumoniae_NZ_CP047271.1 k141_400
+		Alignment: 1074837 1074972 | 1 136 | 136 136 | 100.0 | Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1 k141_400
+		Alignment: 290769 291203 | 133 567 | 435 435 | 100.0 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000003.1 k141_400
+		Alignment: 4257615 4258049 | 133 567 | 435 435 | 99.77 | Klebsiella_pneumoniae_NZ_CP047271.1 k141_400
+		Alignment: 1074569 1075003 | 567 133 | 435 435 | 99.77 | Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1 k141_400
+			The best set is below. Score: 516.0, number of alignments: 2, unaligned bases: 0
+		This contig is misassembled.
+			Excluding internal overlap of size 4 between Alignment 1 and 2: 290800 290935 | 136 1 | 136 136 --> 290804 290935 | 132 1 | 132 132
+			Real Alignment 1: 290804 290935 | 132 1 | 132 132 | 100.0 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000003.1 k141_400
+			  Extensive misassembly (inversion) between these two alignments
+			Real Alignment 2: 290769 291203 | 133 567 | 435 435 | 100.0 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000003.1 k141_400
+
+CONTIG: k141_221 (735bp)
+Best alignment score: 730.0 (LEN: 735, IDY: 99.32), Total number of alignments: 3
+		This contig has 3 significant alignments. [An ambiguously mapped contig]
+		Using all these alignments (option --ambiguity-usage is set to "all"):
+			Alignment: 54303 55037 | 1 735 | 735 735 | 99.32 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000006.1 k141_221
+			Alignment: 4237997 4238731 | 1 735 | 735 735 | 99.18 | Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1 k141_221
+			Alignment: 1130899 1131633 | 735 1 | 735 735 | 98.91 | Klebsiella_pneumoniae_NZ_CP047271.1 k141_221
+
+CONTIG: k141_228 (949bp)
+Best alignment score: 948.0 (LEN: 949, IDY: 99.89), Total number of alignments: 1
+		One align captures most of this contig: 30381 31329 | 949 1 | 949 949 | 99.89 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000039.1 k141_228
+
+CONTIG: k141_230 (653bp)
+Best alignment score: 652.0 (LEN: 653, IDY: 99.85), Total number of alignments: 3
+		This contig has 3 significant alignments. [An ambiguously mapped contig]
+		Using all these alignments (option --ambiguity-usage is set to "all"):
+			Alignment: 2805626 2806278 | 653 1 | 653 653 | 99.85 | Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1 k141_230
+			Alignment: 93906 94558 | 653 1 | 653 653 | 99.54 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000020.1 k141_230
+			Alignment: 2582664 2583317 | 653 1 | 654 653 | 99.08 | Klebsiella_pneumoniae_NZ_CP047271.1 k141_230
+
+CONTIG: k141_413 (531bp)
+		This contig is unaligned. (531 bp)
+		Unaligned bases: 531 (number of Ns: 0)
+
+CONTIG: k141_234 (503bp)
+Best alignment score: 460.0 (LEN: 462, IDY: 99.57), Total number of alignments: 3
+			Looking for the best set of alignments (out of 3 total alignments)
+		This contig has several significant sets of alignments. [An ambiguously mapped contig]
+		Using all alignments in these sets (option --ambiguity-usage is set to "all"):
+			The very best set is shown in details below, the rest are:
+				Group #2. Score: 460.0, number of alignments: 1, unaligned bases: 41
+				Group #3. Score: 458.0, number of alignments: 1, unaligned bases: 41
+			List of alignments used in the sets above:
+		Alignment: 2340897 2341358 | 1 462 | 462 462 | 99.57 | Klebsiella_pneumoniae_NZ_CP047271.1 k141_234
+		Alignment: 34012 34473 | 1 462 | 462 462 | 99.57 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000031.1 k141_234
+		Alignment: 2550714 2551175 | 1 462 | 462 462 | 99.13 | Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1 k141_234
+			The best set is below. Score: 460.0, number of alignments: 1, unaligned bases: 41
+		Alignment: 2340897 2341358 | 1 462 | 462 462 | 99.57 | Klebsiella_pneumoniae_NZ_CP047271.1 k141_234
+
+CONTIG: k141_237 (522bp)
+Best alignment score: 522.0 (LEN: 522, IDY: 100.00), Total number of alignments: 3
+		Skipping these alignments as insignificant (option --ambiguity-score is set to "0.99"):
+			Skipping alignment 1923414 1923935 | 522 1 | 522 522 | 98.85 | Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1 k141_237
+		This contig has 2 significant alignments. [An ambiguously mapped contig]
+		Using all these alignments (option --ambiguity-usage is set to "all"):
+			Alignment: 167317 167838 | 1 522 | 522 522 | 100.0 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000010.1 k141_237
+			Alignment: 3390873 3391394 | 1 522 | 522 522 | 99.04 | Klebsiella_pneumoniae_NZ_CP047271.1 k141_237
+
+CONTIG: k141_414 (2433bp)
+Best alignment score: 2190.0 (LEN: 2190, IDY: 100.00), Total number of alignments: 17
+			Looking for the best set of alignments (out of 17 total alignments)
+			Skipping redundant alignments after choosing the best set of alignments
+		Skipping redundant alignment 3310 3616 | 242 548 | 307 307 | 100.0 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000080.1 k141_414
+		Skipping redundant alignment 1 415 | 646 232 | 415 415 | 99.76 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000010.1 k141_414
+		Skipping redundant alignment 1 410 | 653 244 | 410 410 | 100.0 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000002.1 k141_414
+		Skipping redundant alignment 110284 110743 | 2158 1699 | 460 460 | 99.78 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000018.1 k141_414
+		Skipping redundant alignment 1 362 | 1798 2159 | 362 362 | 100.0 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000047.1 k141_414
+		Skipping redundant alignment 3619367 3621283 | 2159 242 | 1917 1918 | 99.84 | Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1 k141_414
+		Skipping redundant alignment 3243174 3245091 | 2159 241 | 1918 1919 | 99.95 | Klebsiella_pneumoniae_NZ_CP047271.1 k141_414
+		Skipping redundant alignment 2176215 2178137 | 2159 236 | 1923 1924 | 99.84 | Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1 k141_414
+		Skipping redundant alignment 1788301 1790218 | 242 2160 | 1918 1919 | 99.95 | Klebsiella_pneumoniae_NZ_CP047271.1 k141_414
+		Skipping redundant alignment 1201345 1203272 | 232 2160 | 1928 1929 | 99.9 | Klebsiella_pneumoniae_NZ_CP047271.1 k141_414
+		Skipping redundant alignment 32113 32574 | 2161 1700 | 462 462 | 100.0 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000038.1 k141_414
+		Skipping redundant alignment 2101815 2103734 | 241 2161 | 1920 1921 | 99.84 | Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1 k141_414
+		Skipping redundant alignment 1932835 1934763 | 232 2161 | 1929 1930 | 99.9 | Klebsiella_pneumoniae_NZ_CP047271.1 k141_414
+		Skipping redundant alignment 65413 65847 | 2162 1729 | 435 434 | 99.77 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000029.1 k141_414
+		Skipping redundant alignment 1 275 | 2159 2433 | 275 275 | 100.0 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000095.1 k141_414
+		This contig has several significant sets of alignments. [An ambiguously mapped contig]
+		Using all alignments in these sets (option --ambiguity-usage is set to "all"):
+			The very best set is shown in details below, the rest are:
+				Group #2. Score: 2189.0, number of alignments: 2, unaligned bases: 0
+			List of alignments used in the sets above:
+		Alignment: 135 2324 | 2433 244 | 2190 2190 | 100.0 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000087.1 k141_414
+		Alignment: 3230 3876 | 1 647 | 647 647 | 100.0 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000077.1 k141_414
+			The best set is below. Score: 2190.0, number of alignments: 1, unaligned bases: 243
+		Alignment: 135 2324 | 2433 244 | 2190 2190 | 100.0 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000087.1 k141_414
+
+CONTIG: k141_240 (524bp)
+Best alignment score: 524.0 (LEN: 524, IDY: 100.00), Total number of alignments: 3
+		This contig has 3 significant alignments. [An ambiguously mapped contig]
+		Using all these alignments (option --ambiguity-usage is set to "all"):
+			Alignment: 33882 34405 | 1 524 | 524 524 | 100.0 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000025.1 k141_240
+			Alignment: 1784935 1785458 | 1 524 | 524 524 | 99.81 | Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1 k141_240
+			Alignment: 3529155 3529678 | 524 1 | 524 524 | 99.62 | Klebsiella_pneumoniae_NZ_CP047271.1 k141_240
+
+CONTIG: k141_418 (526bp)
+Best alignment score: 523.0 (LEN: 526, IDY: 99.43), Total number of alignments: 3
+		This contig has 3 significant alignments. [An ambiguously mapped contig]
+		Using all these alignments (option --ambiguity-usage is set to "all"):
+			Alignment: 84051 84576 | 1 526 | 526 526 | 99.43 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000019.1 k141_418
+			Alignment: 5166143 5166668 | 526 1 | 526 526 | 99.24 | Klebsiella_pneumoniae_NZ_CP047271.1 k141_418
+			Alignment: 104674 105199 | 1 526 | 526 526 | 99.05 | Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1 k141_418
+
+CONTIG: k141_242 (754bp)
+Best alignment score: 754.0 (LEN: 754, IDY: 100.00), Total number of alignments: 3
+		This contig has 3 significant alignments. [An ambiguously mapped contig]
+		Using all these alignments (option --ambiguity-usage is set to "all"):
+			Alignment: 28064 28817 | 1 754 | 754 754 | 100.0 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000021.1 k141_242
+			Alignment: 2268736 2269489 | 754 1 | 754 754 | 99.87 | Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1 k141_242
+			Alignment: 2020353 2021106 | 754 1 | 754 754 | 99.6 | Klebsiella_pneumoniae_NZ_CP047271.1 k141_242
+
+CONTIG: k141_244 (555bp)
+Best alignment score: 554.0 (LEN: 555, IDY: 99.82), Total number of alignments: 3
+		This contig has 3 significant alignments. [An ambiguously mapped contig]
+		Using all these alignments (option --ambiguity-usage is set to "all"):
+			Alignment: 52330 52884 | 555 1 | 555 555 | 99.82 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000004.1 k141_244
+			Alignment: 688491 689045 | 1 555 | 555 555 | 99.28 | Klebsiella_pneumoniae_NZ_CP047271.1 k141_244
+			Alignment: 4653212 4653766 | 555 1 | 555 555 | 98.92 | Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1 k141_244
+
+CONTIG: k141_421 (763bp)
+		This contig is unaligned. (763 bp)
+		Unaligned bases: 763 (number of Ns: 0)
+
+CONTIG: k141_423 (593bp)
+Best alignment score: 556.0 (LEN: 571, IDY: 97.37), Total number of alignments: 1
+			Looking for the best set of alignments (out of 1 total alignments)
+			The best set is below. Score: 556.0, number of alignments: 1, unaligned bases: 22
+		Alignment: 169131 169701 | 23 593 | 571 571 | 97.37 | Klebsiella_pneumoniae_NZ_CP047272.1 k141_423
+
+CONTIG: k141_248 (610bp)
+		This contig is unaligned. (610 bp)
+		Unaligned bases: 610 (number of Ns: 0)
+
+CONTIG: k141_425 (859bp)
+Best alignment score: 858.0 (LEN: 859, IDY: 99.88), Total number of alignments: 3
+		Skipping these alignments as insignificant (option --ambiguity-score is set to "0.99"):
+			Skipping alignment 995 1514 | 718 199 | 520 520 | 100.0 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000082.1 k141_425
+			Skipping alignment 172750 172958 | 716 508 | 209 209 | 99.52 | Klebsiella_pneumoniae_NZ_CP047272.1 k141_425
+		One align captures most of this contig: 1151 2009 | 859 1 | 859 859 | 99.88 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000053.1 k141_425
+
+CONTIG: k141_426 (707bp)
+Best alignment score: 706.0 (LEN: 707, IDY: 99.86), Total number of alignments: 3
+		This contig has 3 significant alignments. [An ambiguously mapped contig]
+		Using all these alignments (option --ambiguity-usage is set to "all"):
+			Alignment: 42422 43128 | 1 707 | 707 707 | 99.86 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000012.1 k141_426
+			Alignment: 2263566 2264272 | 707 1 | 707 707 | 99.15 | Klebsiella_pneumoniae_NZ_CP047271.1 k141_426
+			Alignment: 2474060 2474766 | 707 1 | 707 707 | 98.87 | Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1 k141_426
+
+CONTIG: k141_251 (595bp)
+Best alignment score: 595.0 (LEN: 595, IDY: 100.00), Total number of alignments: 3
+		Skipping these alignments as insignificant (option --ambiguity-score is set to "0.99"):
+			Skipping alignment 200440 201034 | 595 1 | 595 595 | 98.99 | Klebsiella_pneumoniae_NZ_CP047271.1 k141_251
+		This contig has 2 significant alignments. [An ambiguously mapped contig]
+		Using all these alignments (option --ambiguity-usage is set to "all"):
+			Alignment: 63529 64123 | 595 1 | 595 595 | 100.0 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000026.1 k141_251
+			Alignment: 5150515 5151109 | 1 595 | 595 595 | 99.33 | Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1 k141_251
+
+CONTIG: k141_427 (676bp)
+Best alignment score: 674.0 (LEN: 676, IDY: 99.70), Total number of alignments: 3
+		Skipping these alignments as insignificant (option --ambiguity-score is set to "0.99"):
+			Skipping alignment 4811322 4811997 | 1 676 | 676 676 | 98.67 | Klebsiella_pneumoniae_NZ_CP047271.1 k141_427
+			Skipping alignment 456551 457221 | 671 1 | 671 671 | 98.96 | Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1 k141_427
+		One align captures most of this contig: 98233 98908 | 1 676 | 676 676 | 99.7 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000016.1 k141_427
+
+CONTIG: k141_254 (500bp)
+Best alignment score: 500.0 (LEN: 500, IDY: 100.00), Total number of alignments: 3
+		This contig has 3 significant alignments. [An ambiguously mapped contig]
+		Using all these alignments (option --ambiguity-usage is set to "all"):
+			Alignment: 33557 34056 | 1 500 | 500 500 | 100.0 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000019.1 k141_254
+			Alignment: 5216668 5217167 | 500 1 | 500 500 | 99.2 | Klebsiella_pneumoniae_NZ_CP047271.1 k141_254
+			Alignment: 54174 54673 | 1 500 | 500 500 | 99.2 | Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1 k141_254
+
+CONTIG: k141_429 (813bp)
+Best alignment score: 813.0 (LEN: 813, IDY: 100.00), Total number of alignments: 2
+		This contig has 2 significant alignments. [An ambiguously mapped contig]
+		Using all these alignments (option --ambiguity-usage is set to "all"):
+			Alignment: 37549 38361 | 813 1 | 813 813 | 100.0 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000032.1 k141_429
+			Alignment: 99909 100721 | 813 1 | 813 813 | 100.0 | Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047676.1 k141_429
+
+CONTIG: k141_431 (697bp)
+		This contig is unaligned. (697 bp)
+		Unaligned bases: 697 (number of Ns: 0)
+
+CONTIG: k141_433 (516bp)
+Best alignment score: 515.0 (LEN: 516, IDY: 99.81), Total number of alignments: 3
+		This contig has 3 significant alignments. [An ambiguously mapped contig]
+		Using all these alignments (option --ambiguity-usage is set to "all"):
+			Alignment: 79947 80462 | 516 1 | 516 516 | 99.81 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000013.1 k141_433
+			Alignment: 2938803 2939318 | 516 1 | 516 516 | 99.81 | Klebsiella_pneumoniae_NZ_CP047271.1 k141_433
+			Alignment: 3160365 3160880 | 516 1 | 516 516 | 99.61 | Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1 k141_433
+
+CONTIG: k141_436 (530bp)
+Best alignment score: 510.0 (LEN: 530, IDY: 96.23), Total number of alignments: 5
+		Skipping these alignments as insignificant (option --ambiguity-score is set to "0.99"):
+			Skipping alignment 2528060 2528316 | 530 274 | 257 257 | 98.44 | Klebsiella_pneumoniae_NZ_CP047271.1 k141_436
+			Skipping alignment 2528317 2528437 | 258 138 | 121 121 | 98.35 | Klebsiella_pneumoniae_NZ_CP047271.1 k141_436
+			Skipping alignment 2528458 2528570 | 113 1 | 113 113 | 97.35 | Klebsiella_pneumoniae_NZ_CP047271.1 k141_436
+		This contig has 2 significant alignments. [An ambiguously mapped contig]
+		Using all these alignments (option --ambiguity-usage is set to "all"):
+			Alignment: 2746606 2747130 | 530 1 | 525 530 | 96.23 | Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1 k141_436
+			Alignment: 38104 38630 | 530 1 | 527 530 | 95.66 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000020.1 k141_436
+
+CONTIG: k141_445 (550bp)
+Best alignment score: 548.0 (LEN: 550, IDY: 99.64), Total number of alignments: 3
+		This contig has 3 significant alignments. [An ambiguously mapped contig]
+		Using all these alignments (option --ambiguity-usage is set to "all"):
+			Alignment: 1558093 1558642 | 550 1 | 550 550 | 99.64 | Klebsiella_pneumoniae_NZ_CP047271.1 k141_445
+			Alignment: 191256 191805 | 1 550 | 550 550 | 99.45 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000001.1 k141_445
+			Alignment: 3862517 3863066 | 1 550 | 550 550 | 99.45 | Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1 k141_445
+
+CONTIG: k141_449 (587bp)
+Best alignment score: 587.0 (LEN: 587, IDY: 100.00), Total number of alignments: 1
+		One align captures most of this contig: 6157 6743 | 587 1 | 587 587 | 100.0 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000007.1 k141_449
+
+CONTIG: k141_451 (558bp)
+Best alignment score: 557.0 (LEN: 558, IDY: 99.82), Total number of alignments: 3
+		This contig has 3 significant alignments. [An ambiguously mapped contig]
+		Using all these alignments (option --ambiguity-usage is set to "all"):
+			Alignment: 4642054 4642611 | 1 558 | 558 558 | 99.82 | Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1 k141_451
+			Alignment: 41173 41730 | 1 558 | 558 558 | 99.82 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000004.1 k141_451
+			Alignment: 699649 700206 | 558 1 | 558 558 | 99.64 | Klebsiella_pneumoniae_NZ_CP047271.1 k141_451
+
+CONTIG: k141_454 (846bp)
+Best alignment score: 846.0 (LEN: 846, IDY: 100.00), Total number of alignments: 2
+		This contig has 2 significant alignments. [An ambiguously mapped contig]
+		Using all these alignments (option --ambiguity-usage is set to "all"):
+			Alignment: 156781 157626 | 846 1 | 846 846 | 100.0 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000004.1 k141_454
+			Alignment: 4757653 4758498 | 846 1 | 846 846 | 99.88 | Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1 k141_454
+
+CONTIG: k141_455 (1650bp)
+Best alignment score: 1540.0 (LEN: 1540, IDY: 100.00), Total number of alignments: 1
+			Looking for the best set of alignments (out of 1 total alignments)
+			The best set is below. Score: 1540.0, number of alignments: 1, unaligned bases: 110
+		Alignment: 6201 7740 | 1 1540 | 1540 1540 | 100.0 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000036.1 k141_455
+
+CONTIG: k141_459 (501bp)
+Best alignment score: 501.0 (LEN: 501, IDY: 100.00), Total number of alignments: 3
+		This contig has 3 significant alignments. [An ambiguously mapped contig]
+		Using all these alignments (option --ambiguity-usage is set to "all"):
+			Alignment: 22272 22772 | 1 501 | 501 501 | 100.0 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000007.1 k141_459
+			Alignment: 760357 760857 | 1 501 | 501 501 | 99.4 | Klebsiella_pneumoniae_NZ_CP047271.1 k141_459
+			Alignment: 4591579 4592079 | 501 1 | 501 501 | 99.2 | Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1 k141_459
+
+CONTIG: k141_461 (802bp)
+		This contig is unaligned. (802 bp)
+		Unaligned bases: 802 (number of Ns: 0)
+
+CONTIG: k141_467 (506bp)
+Best alignment score: 482.0 (LEN: 483, IDY: 99.79), Total number of alignments: 11
+			Looking for the best set of alignments (out of 11 total alignments)
+			Skipping redundant alignments after choosing the best set of alignments
+		Skipping redundant alignment 5121197 5121661 | 1 465 | 465 465 | 100.0 | Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1 k141_467
+		Skipping redundant alignment 1133630 1134094 | 1 465 | 465 465 | 100.0 | Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1 k141_467
+		Skipping redundant alignment 1 466 | 466 1 | 466 466 | 100.0 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000109.1 k141_467
+		Skipping redundant alignment 1 421 | 60 480 | 421 421 | 99.76 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000044.1 k141_467
+		Skipping redundant alignment 1 372 | 110 481 | 372 372 | 99.46 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000017.1 k141_467
+		Skipping redundant alignment 14409 14816 | 481 74 | 408 408 | 99.75 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000052.1 k141_467
+		Skipping redundant alignment 204135 204589 | 481 27 | 455 455 | 99.78 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000008.1 k141_467
+		Skipping redundant alignment 96711 97150 | 497 58 | 440 440 | 99.55 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000021.1 k141_467
+		Skipping redundant alignment 329128 329523 | 506 111 | 396 396 | 100.0 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000002.1 k141_467
+		This contig has several significant sets of alignments. [An ambiguously mapped contig]
+		Using all alignments in these sets (option --ambiguity-usage is set to "all"):
+			The very best set is shown in details below, the rest are:
+				Group #2. Score: 480.0, number of alignments: 1, unaligned bases: 24
+			List of alignments used in the sets above:
+		Alignment: 1460913 1461395 | 483 1 | 483 483 | 99.79 | Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1 k141_467
+		Alignment: 976004 976485 | 1 482 | 482 482 | 99.59 | Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1 k141_467
+			The best set is below. Score: 482.0, number of alignments: 1, unaligned bases: 23
+		Alignment: 1460913 1461395 | 483 1 | 483 483 | 99.79 | Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1 k141_467
+
+CONTIG: k141_468 (562bp)
+Best alignment score: 548.0 (LEN: 549, IDY: 99.82), Total number of alignments: 1
+			Looking for the best set of alignments (out of 1 total alignments)
+			The best set is below. Score: 548.0, number of alignments: 1, unaligned bases: 13
+		Alignment: 15439 15986 | 549 1 | 548 549 | 99.82 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000032.1 k141_468
+
+CONTIG: k141_476 (911bp)
+Best alignment score: 903.0 (LEN: 911, IDY: 99.12), Total number of alignments: 6
+		Skipping these alignments as insignificant (option --ambiguity-score is set to "0.99"):
+			Skipping alignment 184811 185488 | 234 911 | 678 678 | 98.97 | Klebsiella_pneumoniae_NZ_CP047272.1 k141_476
+			Skipping alignment 190011 190688 | 911 234 | 678 678 | 98.97 | Klebsiella_pneumoniae_NZ_CP047272.1 k141_476
+			Skipping alignment 184629 184810 | 1 182 | 182 182 | 100.0 | Klebsiella_pneumoniae_NZ_CP047272.1 k141_476
+			Skipping alignment 190689 190870 | 182 1 | 182 182 | 100.0 | Klebsiella_pneumoniae_NZ_CP047272.1 k141_476
+			Skipping alignment 1589 1725 | 1 137 | 137 137 | 100.0 | Klebsiella_pneumoniae_NZ_CP047272.1 k141_476
+		One align captures most of this contig: 77043 77953 | 911 1 | 911 911 | 99.12 | Klebsiella_pneumoniae_NZ_CP047272.1 k141_476
+
+CONTIG: k141_480 (1585bp)
+Best alignment score: 849.0 (LEN: 849, IDY: 100.00), Total number of alignments: 2
+			Looking for the best set of alignments (out of 2 total alignments)
+			The best set is below. Score: 1504.0, number of alignments: 2, unaligned bases: 0
+		This contig is misassembled.
+			Real Alignment 1: 5368 6103 | 736 1 | 736 736 | 99.86 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000036.1 k141_480
+			  Extensive misassembly (translocation) between these two alignments
+			Real Alignment 2: 443 1291 | 737 1585 | 849 849 | 100.0 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000053.1 k141_480
+
+CONTIG: k141_481 (518bp)
+Best alignment score: 518.0 (LEN: 518, IDY: 100.00), Total number of alignments: 3
+		Skipping these alignments as insignificant (option --ambiguity-score is set to "0.99"):
+			Skipping alignment 3286661 3287177 | 518 1 | 517 518 | 98.84 | Klebsiella_pneumoniae_NZ_CP047271.1 k141_481
+			Skipping alignment 1967344 1967860 | 1 518 | 517 518 | 98.65 | Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1 k141_481
+		One align captures most of this contig: 141491 142008 | 518 1 | 518 518 | 100.0 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000010.1 k141_481
+
+CONTIG: k141_484 (677bp)
+Best alignment score: 675.0 (LEN: 677, IDY: 99.70), Total number of alignments: 1
+		One align captures most of this contig: 19044 19720 | 1 677 | 677 677 | 99.7 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000046.1 k141_484
+
+CONTIG: k141_485 (535bp)
+Best alignment score: 528.0 (LEN: 531, IDY: 99.44), Total number of alignments: 3
+		This contig has 3 significant alignments. [An ambiguously mapped contig]
+		Using all these alignments (option --ambiguity-usage is set to "all"):
+			Alignment: 61086 61616 | 531 1 | 531 531 | 99.44 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000003.1 k141_485
+			Alignment: 1299941 1300471 | 1 531 | 531 531 | 98.49 | Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1 k141_485
+			Alignment: 4027944 4028474 | 531 1 | 531 531 | 98.49 | Klebsiella_pneumoniae_NZ_CP047271.1 k141_485
+
+CONTIG: k141_490 (524bp)
+		This contig is unaligned. (524 bp)
+		Unaligned bases: 524 (number of Ns: 0)
+
+CONTIG: k141_491 (952bp)
+Best alignment score: 952.0 (LEN: 952, IDY: 100.00), Total number of alignments: 2
+		This contig has 2 significant alignments. [An ambiguously mapped contig]
+		Using all these alignments (option --ambiguity-usage is set to "all"):
+			Alignment: 30519 31470 | 1 952 | 952 952 | 100.0 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000032.1 k141_491
+			Alignment: 92878 93829 | 1 952 | 952 952 | 99.79 | Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047676.1 k141_491
+
+CONTIG: k141_492 (537bp)
+Best alignment score: 537.0 (LEN: 537, IDY: 100.00), Total number of alignments: 1
+		One align captures most of this contig: 19475 20011 | 1 537 | 537 537 | 100.0 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000032.1 k141_492
+
+CONTIG: k141_498 (678bp)
+Best alignment score: 678.0 (LEN: 678, IDY: 100.00), Total number of alignments: 3
+		This contig has 3 significant alignments. [An ambiguously mapped contig]
+		Using all these alignments (option --ambiguity-usage is set to "all"):
+			Alignment: 134591 135268 | 1 678 | 678 678 | 100.0 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000005.1 k141_498
+			Alignment: 4498765 4499442 | 678 1 | 678 678 | 99.41 | Klebsiella_pneumoniae_NZ_CP047271.1 k141_498
+			Alignment: 831345 832022 | 1 678 | 678 678 | 99.12 | Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1 k141_498
+
+CONTIG: k141_500 (763bp)
+Best alignment score: 762.0 (LEN: 763, IDY: 99.87), Total number of alignments: 1
+		One align captures most of this contig: 21120 21883 | 1 763 | 764 763 | 99.87 | Klebsiella_pneumoniae_NZ_CP047272.1 k141_500
+
+CONTIG: k141_504 (750bp)
+Best alignment score: 749.0 (LEN: 750, IDY: 99.87), Total number of alignments: 1
+		One align captures most of this contig: 29603 30352 | 750 1 | 750 750 | 99.87 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000039.1 k141_504
+
+CONTIG: k141_517 (634bp)
+Best alignment score: 634.0 (LEN: 634, IDY: 100.00), Total number of alignments: 15
+		Skipping these alignments as insignificant (option --ambiguity-score is set to "0.99"):
+			Skipping alignment 435438 435710 | 273 1 | 273 273 | 97.44 | Klebsiella_pneumoniae_NZ_CP047271.1 k141_517
+			Skipping alignment 330 602 | 1 273 | 273 273 | 97.07 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000008.1 k141_517
+			Skipping alignment 4916732 4917004 | 1 273 | 273 273 | 97.07 | Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1 k141_517
+			Skipping alignment 4399276 4399455 | 150 329 | 180 180 | 97.22 | Dickeya_chrysanthemi_NC_012912.1 k141_517
+			Skipping alignment 1 144 | 145 1 | 144 145 | 99.31 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000127.1 k141_517
+			Skipping alignment 373481 373604 | 273 150 | 124 124 | 97.58 | Dickeya_chrysanthemi_NC_012912.1 k141_517
+			Skipping alignment 4399592 4399685 | 471 564 | 94 94 | 96.81 | Dickeya_chrysanthemi_NC_012912.1 k141_517
+			Skipping alignment 290926 291007 | 387 468 | 82 82 | 100.0 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000004.1 k141_517
+			Skipping alignment 467780 467861 | 468 387 | 82 82 | 100.0 | Klebsiella_pneumoniae_NZ_CP047271.1 k141_517
+			Skipping alignment 4884576 4884657 | 387 468 | 82 82 | 100.0 | Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1 k141_517
+			Skipping alignment 987559 987637 | 468 390 | 79 79 | 100.0 | Dickeya_chrysanthemi_NC_012912.1 k141_517
+			Skipping alignment 2338651 2338730 | 468 547 | 80 80 | 95.0 | Serratia_symbiotica_NZ_LR025083.1 k141_517
+		This contig has 3 significant alignments. [An ambiguously mapped contig]
+		Using all these alignments (option --ambiguity-usage is set to "all"):
+			Alignment: 4472 5105 | 634 1 | 634 634 | 100.0 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000073.1 k141_517
+			Alignment: 5049314 5049947 | 1 634 | 634 634 | 100.0 | Klebsiella_pneumoniae_NZ_CP047271.1 k141_517
+			Alignment: 221568 222201 | 634 1 | 634 634 | 99.68 | Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1 k141_517
+
+CONTIG: k141_526 (534bp)
+Best alignment score: 500.0 (LEN: 501, IDY: 99.80), Total number of alignments: 1
+			Looking for the best set of alignments (out of 1 total alignments)
+			The best set is below. Score: 500.0, number of alignments: 1, unaligned bases: 33
+		Alignment: 2054 2554 | 1 501 | 501 501 | 99.8 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000056.1 k141_526
+
+CONTIG: k141_534 (522bp)
+Best alignment score: 522.0 (LEN: 522, IDY: 100.00), Total number of alignments: 3
+		This contig has 3 significant alignments. [An ambiguously mapped contig]
+		Using all these alignments (option --ambiguity-usage is set to "all"):
+			Alignment: 55181 55702 | 522 1 | 522 522 | 100.0 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000018.1 k141_534
+			Alignment: 3910863 3911384 | 522 1 | 522 522 | 99.81 | Klebsiella_pneumoniae_NZ_CP047271.1 k141_534
+			Alignment: 1395611 1396132 | 1 522 | 522 522 | 99.81 | Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1 k141_534
+
+CONTIG: k141_535 (715bp)
+Best alignment score: 704.0 (LEN: 715, IDY: 98.46), Total number of alignments: 2
+		This contig has 2 significant alignments. [An ambiguously mapped contig]
+		Using all these alignments (option --ambiguity-usage is set to "all"):
+			Alignment: 1927 2640 | 715 1 | 714 715 | 98.46 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000067.1 k141_535
+			Alignment: 1911 2624 | 715 1 | 714 715 | 97.48 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000066.1 k141_535
+
+CONTIG: k141_540 (560bp)
+Best alignment score: 560.0 (LEN: 560, IDY: 100.00), Total number of alignments: 3
+		Skipping these alignments as insignificant (option --ambiguity-score is set to "0.99"):
+			Skipping alignment 1128585 1129144 | 1 560 | 560 560 | 98.57 | Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1 k141_540
+		This contig has 2 significant alignments. [An ambiguously mapped contig]
+		Using all these alignments (option --ambiguity-usage is set to "all"):
+			Alignment: 230857 231416 | 560 1 | 560 560 | 100.0 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000003.1 k141_540
+			Alignment: 4199864 4200423 | 560 1 | 560 560 | 99.11 | Klebsiella_pneumoniae_NZ_CP047271.1 k141_540
+
+CONTIG: k141_541 (587bp)
+Best alignment score: 587.0 (LEN: 587, IDY: 100.00), Total number of alignments: 3
+		This contig has 3 significant alignments. [An ambiguously mapped contig]
+		Using all these alignments (option --ambiguity-usage is set to "all"):
+			Alignment: 141168 141754 | 1 587 | 587 587 | 100.0 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000008.1 k141_541
+			Alignment: 5057244 5057830 | 1 587 | 587 587 | 99.32 | Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1 k141_541
+			Alignment: 292783 293369 | 587 1 | 587 587 | 99.15 | Klebsiella_pneumoniae_NZ_CP047271.1 k141_541
+
+CONTIG: k141_543 (537bp)
+Best alignment score: 537.0 (LEN: 537, IDY: 100.00), Total number of alignments: 3
+		Skipping these alignments as insignificant (option --ambiguity-score is set to "0.99"):
+			Skipping alignment 4841620 4842156 | 1 537 | 537 537 | 98.51 | Klebsiella_pneumoniae_NZ_CP047271.1 k141_543
+		This contig has 2 significant alignments. [An ambiguously mapped contig]
+		Using all these alignments (option --ambiguity-usage is set to "all"):
+			Alignment: 128527 129063 | 1 537 | 537 537 | 100.0 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000016.1 k141_543
+			Alignment: 426388 426924 | 537 1 | 537 537 | 99.07 | Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1 k141_543
+
+CONTIG: k141_556 (690bp)
+Best alignment score: 690.0 (LEN: 690, IDY: 100.00), Total number of alignments: 3
+		This contig has 3 significant alignments. [An ambiguously mapped contig]
+		Using all these alignments (option --ambiguity-usage is set to "all"):
+			Alignment: 181153 181842 | 690 1 | 690 690 | 100.0 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000004.1 k141_556
+			Alignment: 561124 561813 | 1 690 | 690 690 | 99.86 | Klebsiella_pneumoniae_NZ_CP047271.1 k141_556
+			Alignment: 4782018 4782707 | 690 1 | 690 690 | 99.71 | Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1 k141_556
+
+CONTIG: k141_558 (619bp)
+Best alignment score: 612.0 (LEN: 619, IDY: 98.87), Total number of alignments: 1
+		One align captures most of this contig: 2974 3592 | 1 619 | 619 619 | 98.87 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000053.1 k141_558
+
+CONTIG: k141_560 (680bp)
+Best alignment score: 680.0 (LEN: 680, IDY: 100.00), Total number of alignments: 1
+		One align captures most of this contig: 20264 20943 | 1 680 | 680 680 | 100.0 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000003.1 k141_560
+
+CONTIG: k141_564 (572bp)
+Best alignment score: 572.0 (LEN: 572, IDY: 100.00), Total number of alignments: 1
+		One align captures most of this contig: 16838 17409 | 572 1 | 572 572 | 100.0 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000046.1 k141_564
+
+CONTIG: k141_570 (680bp)
+Best alignment score: 680.0 (LEN: 680, IDY: 100.00), Total number of alignments: 3
+		Skipping these alignments as insignificant (option --ambiguity-score is set to "0.99"):
+			Skipping alignment 4320706 4321381 | 680 5 | 676 676 | 99.56 | Klebsiella_pneumoniae_NZ_CP047271.1 k141_570
+		This contig has 2 significant alignments. [An ambiguously mapped contig]
+		Using all these alignments (option --ambiguity-usage is set to "all"):
+			Alignment: 71610 72289 | 1 680 | 680 680 | 100.0 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000022.1 k141_570
+			Alignment: 1011432 1012111 | 1 680 | 680 680 | 99.56 | Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1 k141_570
+
+CONTIG: k141_571 (641bp)
+Best alignment score: 631.0 (LEN: 639, IDY: 98.75), Total number of alignments: 3
+		This contig has 3 significant alignments. [An ambiguously mapped contig]
+		Using all these alignments (option --ambiguity-usage is set to "all"):
+			Alignment: 19544 20182 | 3 641 | 639 639 | 98.75 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000013.1 k141_571
+			Alignment: 3099984 3100622 | 3 641 | 639 639 | 98.59 | Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1 k141_571
+			Alignment: 2878388 2879026 | 3 641 | 639 639 | 98.28 | Klebsiella_pneumoniae_NZ_CP047271.1 k141_571
+
+CONTIG: k141_574 (641bp)
+Best alignment score: 638.0 (LEN: 641, IDY: 99.53), Total number of alignments: 3
+		This contig has 3 significant alignments. [An ambiguously mapped contig]
+		Using all these alignments (option --ambiguity-usage is set to "all"):
+			Alignment: 3929452 3930092 | 641 1 | 641 641 | 99.53 | Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1 k141_574
+			Alignment: 258187 258827 | 641 1 | 641 641 | 99.38 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000001.1 k141_574
+			Alignment: 1491067 1491707 | 1 641 | 641 641 | 99.22 | Klebsiella_pneumoniae_NZ_CP047271.1 k141_574
+
+CONTIG: k141_575 (515bp)
+Best alignment score: 514.0 (LEN: 515, IDY: 99.81), Total number of alignments: 3
+		This contig has 3 significant alignments. [An ambiguously mapped contig]
+		Using all these alignments (option --ambiguity-usage is set to "all"):
+			Alignment: 207711 208226 | 515 1 | 516 515 | 99.81 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000006.1 k141_575
+			Alignment: 963327 963842 | 1 515 | 516 515 | 99.22 | Klebsiella_pneumoniae_NZ_CP047271.1 k141_575
+			Alignment: 4389722 4390237 | 515 1 | 516 515 | 99.22 | Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1 k141_575
+
+CONTIG: k141_261 (571bp)
+Best alignment score: 571.0 (LEN: 571, IDY: 100.00), Total number of alignments: 3
+		Skipping these alignments as insignificant (option --ambiguity-score is set to "0.99"):
+			Skipping alignment 1510786 1511356 | 1 571 | 571 571 | 96.67 | Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1 k141_261
+			Skipping alignment 3803068 3803638 | 571 1 | 571 571 | 96.5 | Klebsiella_pneumoniae_NZ_CP047271.1 k141_261
+		One align captures most of this contig: 267939 268509 | 571 1 | 571 571 | 100.0 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000002.1 k141_261
+
+CONTIG: k141_577 (689bp)
+Best alignment score: 687.0 (LEN: 689, IDY: 99.71), Total number of alignments: 3
+		This contig has 3 significant alignments. [An ambiguously mapped contig]
+		Using all these alignments (option --ambiguity-usage is set to "all"):
+			Alignment: 2896467 2897155 | 689 1 | 689 689 | 99.71 | Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1 k141_577
+			Alignment: 2680516 2681204 | 689 1 | 689 689 | 99.42 | Klebsiella_pneumoniae_NZ_CP047271.1 k141_577
+			Alignment: 92144 92832 | 689 1 | 689 689 | 99.42 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000015.1 k141_577
+
+CONTIG: k141_581 (537bp)
+Best alignment score: 537.0 (LEN: 537, IDY: 100.00), Total number of alignments: 3
+		This contig has 3 significant alignments. [An ambiguously mapped contig]
+		Using all these alignments (option --ambiguity-usage is set to "all"):
+			Alignment: 36007 36543 | 537 1 | 537 537 | 100.0 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000010.1 k141_581
+			Alignment: 1862544 1863080 | 1 537 | 537 537 | 99.44 | Klebsiella_pneumoniae_NZ_CP047271.1 k141_581
+			Alignment: 2083516 2084052 | 1 537 | 537 537 | 99.26 | Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1 k141_581
+
+CONTIG: k141_271 (630bp)
+Best alignment score: 630.0 (LEN: 630, IDY: 100.00), Total number of alignments: 2
+		This contig has 2 significant alignments. [An ambiguously mapped contig]
+		Using all these alignments (option --ambiguity-usage is set to "all"):
+			Alignment: 30930 31559 | 630 1 | 630 630 | 100.0 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000005.1 k141_271
+			Alignment: 4590400 4591029 | 1 630 | 630 630 | 99.84 | Klebsiella_pneumoniae_NZ_CP047271.1 k141_271
+
+CONTIG: k141_278 (613bp)
+Best alignment score: 613.0 (LEN: 613, IDY: 100.00), Total number of alignments: 2
+		This contig has 2 significant alignments. [An ambiguously mapped contig]
+		Using all these alignments (option --ambiguity-usage is set to "all"):
+			Alignment: 6549 7161 | 613 1 | 613 613 | 100.0 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000003.1 k141_278
+			Alignment: 3974331 3974943 | 613 1 | 613 613 | 99.02 | Klebsiella_pneumoniae_NZ_CP047271.1 k141_278
+
+CONTIG: k141_280 (770bp)
+Best alignment score: 762.0 (LEN: 770, IDY: 98.96), Total number of alignments: 3
+		This contig has 3 significant alignments. [An ambiguously mapped contig]
+		Using all these alignments (option --ambiguity-usage is set to "all"):
+			Alignment: 1552399 1553168 | 1 770 | 770 770 | 98.96 | Klebsiella_pneumoniae_NZ_CP047271.1 k141_280
+			Alignment: 3867991 3868760 | 770 1 | 770 770 | 98.83 | Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1 k141_280
+			Alignment: 196730 197499 | 770 1 | 770 770 | 98.31 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000001.1 k141_280
+
+CONTIG: k141_282 (749bp)
+Best alignment score: 143.0 (LEN: 143, IDY: 100.00), Total number of alignments: 19
+			Looking for the best set of alignments (out of 19 total alignments)
+			Skipping redundant alignments after choosing the best set of alignments
+		Skipping redundant alignment 17477 17614 | 747 610 | 138 138 | 100.0 | Klebsiella_pneumoniae_NZ_CP047272.1 k141_282
+		Skipping redundant alignment 299 438 | 749 610 | 140 140 | 100.0 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000076.1 k141_282
+		Skipping redundant alignment 2705 2844 | 610 749 | 140 140 | 100.0 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000082.1 k141_282
+		Skipping redundant alignment 127118 127257 | 610 749 | 140 140 | 100.0 | Klebsiella_pneumoniae_NZ_CP047272.1 k141_282
+		Skipping redundant alignment 229 368 | 749 610 | 140 140 | 100.0 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000105.1 k141_282
+		Skipping redundant alignment 280 419 | 749 610 | 140 140 | 100.0 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000102.1 k141_282
+		Skipping redundant alignment 142655 142794 | 610 749 | 140 140 | 100.0 | Klebsiella_pneumoniae_NZ_CP047272.1 k141_282
+		Skipping redundant alignment 1107 1246 | 610 749 | 140 140 | 100.0 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000108.1 k141_282
+		Skipping redundant alignment 23878 24017 | 749 610 | 140 140 | 100.0 | Klebsiella_pneumoniae_NZ_CP047272.1 k141_282
+		Skipping redundant alignment 164407 164546 | 749 610 | 140 140 | 100.0 | Klebsiella_pneumoniae_NZ_CP047272.1 k141_282
+		Skipping redundant alignment 13544 13683 | 749 610 | 140 140 | 100.0 | Klebsiella_pneumoniae_NZ_CP047272.1 k141_282
+		Skipping redundant alignment 16480 16619 | 610 749 | 140 140 | 100.0 | Klebsiella_pneumoniae_NZ_CP047272.1 k141_282
+		Skipping redundant alignment 160047 160186 | 749 610 | 140 140 | 100.0 | Klebsiella_pneumoniae_NZ_CP047272.1 k141_282
+		Skipping redundant alignment 179448 179587 | 749 610 | 140 140 | 100.0 | Klebsiella_pneumoniae_NZ_CP047272.1 k141_282
+		Skipping redundant alignment 166626 166766 | 749 609 | 141 141 | 100.0 | Klebsiella_pneumoniae_NZ_CP047272.1 k141_282
+		This contig has several significant sets of alignments. [An ambiguously mapped contig]
+		Using all alignments in these sets (option --ambiguity-usage is set to "all"):
+			The very best set is shown in details below, the rest are:
+				Group #2. Score: 142.0, number of alignments: 1, unaligned bases: 607
+				Group #3. Score: 142.0, number of alignments: 1, unaligned bases: 607
+				Group #4. Score: 142.0, number of alignments: 1, unaligned bases: 607
+			List of alignments used in the sets above:
+		Alignment: 144579 144720 | 749 608 | 142 142 | 100.0 | Klebsiella_pneumoniae_NZ_CP047272.1 k141_282
+		Alignment: 18 159 | 749 608 | 142 142 | 100.0 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000084.1 k141_282
+		Alignment: 70590 70732 | 607 749 | 143 143 | 100.0 | Klebsiella_pneumoniae_NZ_CP047272.1 k141_282
+		Alignment: 678 819 | 749 608 | 142 142 | 100.0 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000118.1 k141_282
+			The best set is below. Score: 143.0, number of alignments: 1, unaligned bases: 606
+		This contig is partially unaligned. (Aligned 143 out of 749 non-N bases (19.09%))
+		Alignment: 70590 70732 | 607 749 | 143 143 | 100.0 | Klebsiella_pneumoniae_NZ_CP047272.1 k141_282
+		Unaligned bases: 1 to 606 (606)
+		It can contain up to 1 interspecies translocations (will be reported as Possible Misassemblies).
+
+CONTIG: k141_283 (574bp)
+Best alignment score: 574.0 (LEN: 574, IDY: 100.00), Total number of alignments: 3
+		Skipping these alignments as insignificant (option --ambiguity-score is set to "0.99"):
+			Skipping alignment 2557476 2558050 | 574 1 | 575 574 | 98.26 | Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1 k141_283
+		This contig has 2 significant alignments. [An ambiguously mapped contig]
+		Using all these alignments (option --ambiguity-usage is set to "all"):
+			Alignment: 40753 41326 | 574 1 | 574 574 | 100.0 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000031.1 k141_283
+			Alignment: 2347644 2348217 | 574 1 | 574 574 | 99.48 | Klebsiella_pneumoniae_NZ_CP047271.1 k141_283
+
+CONTIG: k141_287 (521bp)
+Best alignment score: 521.0 (LEN: 521, IDY: 100.00), Total number of alignments: 3
+		This contig has 3 significant alignments. [An ambiguously mapped contig]
+		Using all these alignments (option --ambiguity-usage is set to "all"):
+			Alignment: 174021 174541 | 521 1 | 521 521 | 100.0 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000005.1 k141_287
+			Alignment: 870945 871465 | 521 1 | 521 521 | 99.42 | Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1 k141_287
+			Alignment: 4459497 4460017 | 1 521 | 521 521 | 99.42 | Klebsiella_pneumoniae_NZ_CP047271.1 k141_287
+
+CONTIG: k141_289 (912bp)
+Best alignment score: 910.0 (LEN: 912, IDY: 99.78), Total number of alignments: 1
+		One align captures most of this contig: 932 1843 | 1 912 | 912 912 | 99.78 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000077.1 k141_289
+
+CONTIG: k141_290 (2190bp)
+Best alignment score: 2184.1 (LEN: 2190, IDY: 99.73), Total number of alignments: 71
+		Skipping these alignments as insignificant (option --ambiguity-score is set to "0.99"):
+			Skipping alignment 4884556 4886749 | 1 2190 | 2194 2190 | 98.64 | Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1 k141_290
+			Skipping alignment 1 2083 | 108 2190 | 2083 2083 | 99.81 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000081.1 k141_290
+			Skipping alignment 5145732 5147815 | 106 2190 | 2084 2085 | 99.62 | Klebsiella_pneumoniae_NZ_CP047271.1 k141_290
+			Skipping alignment 5053947 5056029 | 107 2190 | 2083 2084 | 99.66 | Klebsiella_pneumoniae_NZ_CP047271.1 k141_290
+			Skipping alignment 4652354 4654436 | 107 2190 | 2083 2084 | 99.62 | Klebsiella_pneumoniae_NZ_CP047271.1 k141_290
+			Skipping alignment 123529 125612 | 2190 106 | 2084 2085 | 99.47 | Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1 k141_290
+			Skipping alignment 1039070 1041153 | 2190 106 | 2084 2085 | 99.38 | Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1 k141_290
+			Skipping alignment 18997 21079 | 2190 108 | 2083 2083 | 99.28 | Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1 k141_290
+			Skipping alignment 1289407 1291493 | 2190 107 | 2087 2084 | 98.52 | Klebsiella_pneumoniae_NZ_CP047271.1 k141_290
+			Skipping alignment 5008897 5010983 | 107 2190 | 2087 2084 | 98.47 | Klebsiella_pneumoniae_NZ_CP047271.1 k141_290
+			Skipping alignment 683746 685833 | 2190 107 | 2088 2084 | 98.18 | Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1 k141_290
+			Skipping alignment 5250537 5252444 | 283 2190 | 1908 1908 | 99.63 | Klebsiella_pneumoniae_NZ_CP047271.1 k141_290
+			Skipping alignment 215386 217293 | 2190 283 | 1908 1908 | 99.63 | Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1 k141_290
+			Skipping alignment 4291755 4293661 | 283 2190 | 1907 1908 | 99.63 | Klebsiella_pneumoniae_NZ_CP047271.1 k141_290
+			Skipping alignment 4130096 4132002 | 283 2190 | 1907 1908 | 99.37 | Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1 k141_290
+			Skipping alignment 260532 262438 | 2190 283 | 1907 1908 | 99.37 | Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1 k141_290
+			Skipping alignment 403856 405037 | 1485 304 | 1182 1182 | 95.77 | Dickeya_chrysanthemi_NC_012912.1 k141_290
+			Skipping alignment 986145 987326 | 1485 304 | 1182 1182 | 95.69 | Dickeya_chrysanthemi_NC_012912.1 k141_290
+			Skipping alignment 158902 160083 | 1485 304 | 1182 1182 | 95.69 | Dickeya_chrysanthemi_NC_012912.1 k141_290
+			Skipping alignment 1161433 1162614 | 1485 304 | 1182 1182 | 95.69 | Dickeya_chrysanthemi_NC_012912.1 k141_290
+			Skipping alignment 4360695 4361875 | 304 1484 | 1181 1181 | 95.77 | Dickeya_chrysanthemi_NC_012912.1 k141_290
+			Skipping alignment 4404247 4405427 | 304 1484 | 1181 1181 | 95.77 | Dickeya_chrysanthemi_NC_012912.1 k141_290
+			Skipping alignment 4706199 4707379 | 304 1484 | 1181 1181 | 95.68 | Dickeya_chrysanthemi_NC_012912.1 k141_290
+			Skipping alignment 1 599 | 703 106 | 599 598 | 98.83 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000050.1 k141_290
+			Skipping alignment 290906 291480 | 1 573 | 575 573 | 99.65 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000004.1 k141_290
+			Skipping alignment 129671 130091 | 108 528 | 421 421 | 100.0 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000017.1 k141_290
+			Skipping alignment 324707 325089 | 106 489 | 383 384 | 99.48 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000003.1 k141_290
+			Skipping alignment 28300 28680 | 107 486 | 381 380 | 98.69 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000041.1 k141_290
+			Skipping alignment 87465 87832 | 278 645 | 368 368 | 98.64 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000023.1 k141_290
+			Skipping alignment 403249 403590 | 2089 1748 | 342 342 | 95.32 | Dickeya_chrysanthemi_NC_012912.1 k141_290
+			Skipping alignment 1 269 | 567 299 | 269 269 | 99.63 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000019.1 k141_290
+			Skipping alignment 987424 987637 | 237 24 | 214 214 | 98.13 | Dickeya_chrysanthemi_NC_012912.1 k141_290
+			Skipping alignment 985911 986114 | 1720 1517 | 204 204 | 95.1 | Dickeya_chrysanthemi_NC_012912.1 k141_290
+			Skipping alignment 158668 158871 | 1720 1517 | 204 204 | 95.1 | Dickeya_chrysanthemi_NC_012912.1 k141_290
+			Skipping alignment 1161199 1161402 | 1720 1517 | 204 204 | 95.1 | Dickeya_chrysanthemi_NC_012912.1 k141_290
+			Skipping alignment 4361907 4362110 | 1517 1720 | 204 204 | 95.1 | Dickeya_chrysanthemi_NC_012912.1 k141_290
+			Skipping alignment 4405459 4405662 | 1517 1720 | 204 204 | 95.1 | Dickeya_chrysanthemi_NC_012912.1 k141_290
+			Skipping alignment 403622 403825 | 1720 1517 | 204 204 | 95.1 | Dickeya_chrysanthemi_NC_012912.1 k141_290
+			Skipping alignment 4707411 4707614 | 1517 1720 | 204 204 | 95.1 | Dickeya_chrysanthemi_NC_012912.1 k141_290
+			Skipping alignment 94 278 | 483 299 | 185 185 | 99.46 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000073.1 k141_290
+			Skipping alignment 338 472 | 241 107 | 135 135 | 98.52 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000073.1 k141_290
+			Skipping alignment 329 462 | 241 108 | 134 134 | 98.51 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000019.1 k141_290
+			Skipping alignment 4291479 4291610 | 106 237 | 132 132 | 100.0 | Klebsiella_pneumoniae_NZ_CP047271.1 k141_290
+			Skipping alignment 217438 217568 | 237 107 | 131 131 | 100.0 | Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1 k141_290
+			Skipping alignment 4129821 4129951 | 107 237 | 131 131 | 100.0 | Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1 k141_290
+			Skipping alignment 87202 87331 | 108 237 | 130 130 | 100.0 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000023.1 k141_290
+			Skipping alignment 5250263 5250392 | 108 237 | 130 130 | 100.0 | Klebsiella_pneumoniae_NZ_CP047271.1 k141_290
+			Skipping alignment 262583 262712 | 237 108 | 130 130 | 100.0 | Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1 k141_290
+			Skipping alignment 160179 160310 | 237 106 | 132 132 | 97.73 | Dickeya_chrysanthemi_NC_012912.1 k141_290
+			Skipping alignment 4360470 4360599 | 108 237 | 130 130 | 97.69 | Dickeya_chrysanthemi_NC_012912.1 k141_290
+			Skipping alignment 4404022 4404151 | 108 237 | 130 130 | 97.69 | Dickeya_chrysanthemi_NC_012912.1 k141_290
+			Skipping alignment 405136 405265 | 237 108 | 130 130 | 97.69 | Dickeya_chrysanthemi_NC_012912.1 k141_290
+			Skipping alignment 4705974 4706102 | 108 236 | 129 129 | 97.67 | Dickeya_chrysanthemi_NC_012912.1 k141_290
+			Skipping alignment 1162710 1162838 | 237 109 | 129 129 | 96.9 | Dickeya_chrysanthemi_NC_012912.1 k141_290
+			Skipping alignment 467889 468019 | 237 107 | 131 131 | 95.42 | Klebsiella_pneumoniae_NZ_CP047271.1 k141_290
+			Skipping alignment 290768 290898 | 107 237 | 131 131 | 95.42 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000004.1 k141_290
+			Skipping alignment 4884418 4884548 | 107 237 | 131 131 | 95.42 | Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1 k141_290
+			Skipping alignment 1944803 1944929 | 2057 2183 | 127 127 | 96.85 | Serratia_symbiotica_NZ_LR025083.1 k141_290
+			Skipping alignment 987672 987793 | 237 116 | 122 122 | 96.72 | Dickeya_chrysanthemi_NC_012912.1 k141_290
+			Skipping alignment 4362482 4362581 | 2087 2186 | 100 100 | 100.0 | Dickeya_chrysanthemi_NC_012912.1 k141_290
+			Skipping alignment 4406034 4406133 | 2087 2186 | 100 100 | 100.0 | Dickeya_chrysanthemi_NC_012912.1 k141_290
+			Skipping alignment 4707986 4708085 | 2087 2186 | 100 100 | 100.0 | Dickeya_chrysanthemi_NC_012912.1 k141_290
+			Skipping alignment 985440 985536 | 2186 2090 | 97 97 | 100.0 | Dickeya_chrysanthemi_NC_012912.1 k141_290
+			Skipping alignment 158197 158293 | 2186 2090 | 97 97 | 100.0 | Dickeya_chrysanthemi_NC_012912.1 k141_290
+			Skipping alignment 1160728 1160824 | 2186 2090 | 97 97 | 100.0 | Dickeya_chrysanthemi_NC_012912.1 k141_290
+			Skipping alignment 403151 403247 | 2186 2090 | 97 97 | 100.0 | Dickeya_chrysanthemi_NC_012912.1 k141_290
+			Skipping alignment 1 92 | 575 484 | 92 92 | 100.0 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000073.1 k141_290
+			Skipping alignment 221734 221815 | 102 21 | 82 82 | 100.0 | Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1 k141_290
+			Skipping alignment 4638 4719 | 102 21 | 82 82 | 100.0 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000073.1 k141_290
+			Skipping alignment 5049700 5049781 | 21 102 | 82 82 | 100.0 | Klebsiella_pneumoniae_NZ_CP047271.1 k141_290
+		One align captures most of this contig: 465693 467881 | 2190 1 | 2189 2190 | 99.73 | Klebsiella_pneumoniae_NZ_CP047271.1 k141_290
+
+CONTIG: k141_291 (523bp)
+Best alignment score: 522.0 (LEN: 523, IDY: 99.81), Total number of alignments: 3
+		Skipping these alignments as insignificant (option --ambiguity-score is set to "0.99"):
+			Skipping alignment 3773664 3774186 | 1 523 | 523 523 | 98.09 | Klebsiella_pneumoniae_NZ_CP047271.1 k141_291
+			Skipping alignment 1540234 1540756 | 523 1 | 523 523 | 98.09 | Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1 k141_291
+		One align captures most of this contig: 238539 239061 | 1 523 | 523 523 | 99.81 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000002.1 k141_291
+
+CONTIG: k141_295 (557bp)
+Best alignment score: 556.0 (LEN: 557, IDY: 99.82), Total number of alignments: 3
+		This contig has 3 significant alignments. [An ambiguously mapped contig]
+		Using all these alignments (option --ambiguity-usage is set to "all"):
+			Alignment: 5246507 5247063 | 1 557 | 557 557 | 99.82 | Klebsiella_pneumoniae_NZ_CP047271.1 k141_295
+			Alignment: 3662 4217 | 557 1 | 556 557 | 99.64 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000019.1 k141_295
+			Alignment: 24279 24834 | 557 1 | 556 557 | 99.46 | Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1 k141_295
+
+CONTIG: k141_296 (587bp)
+Best alignment score: 587.0 (LEN: 587, IDY: 100.00), Total number of alignments: 3
+		This contig has 3 significant alignments. [An ambiguously mapped contig]
+		Using all these alignments (option --ambiguity-usage is set to "all"):
+			Alignment: 81689 82275 | 587 1 | 587 587 | 100.0 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000022.1 k141_296
+			Alignment: 1021511 1022097 | 587 1 | 587 587 | 99.32 | Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1 k141_296
+			Alignment: 4310720 4311306 | 1 587 | 587 587 | 99.15 | Klebsiella_pneumoniae_NZ_CP047271.1 k141_296
+
+CONTIG: k141_297 (710bp)
+Best alignment score: 705.0 (LEN: 705, IDY: 100.00), Total number of alignments: 3
+		Skipping these alignments as insignificant (option --ambiguity-score is set to "0.99"):
+			Skipping alignment 64315 65009 | 11 705 | 695 695 | 99.28 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000009.1 k141_297
+		This contig has 2 significant alignments. [An ambiguously mapped contig]
+		Using all these alignments (option --ambiguity-usage is set to "all"):
+			Alignment: 3098151 3098855 | 1 705 | 705 705 | 100.0 | Klebsiella_pneumoniae_NZ_CP047271.1 k141_297
+			Alignment: 3317759 3318463 | 1 705 | 705 705 | 99.57 | Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1 k141_297
+
+CONTIG: k141_586 (522bp)
+Best alignment score: 387.0 (LEN: 390, IDY: 99.23), Total number of alignments: 3
+			Looking for the best set of alignments (out of 3 total alignments)
+		This contig has several significant sets of alignments. [An ambiguously mapped contig]
+		Using all alignments in these sets (option --ambiguity-usage is set to "all"):
+			The very best set is shown in details below, the rest are:
+				Group #2. Score: 386.0, number of alignments: 1, unaligned bases: 132
+				Group #3. Score: 385.0, number of alignments: 1, unaligned bases: 132
+			List of alignments used in the sets above:
+		Alignment: 142801 143190 | 390 1 | 390 390 | 99.23 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000010.1 k141_586
+		Alignment: 1966161 1966550 | 1 390 | 390 390 | 98.97 | Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1 k141_586
+		Alignment: 3322156 3322545 | 390 1 | 390 390 | 98.72 | Klebsiella_pneumoniae_NZ_CP047271.1 k141_586
+			The best set is below. Score: 387.0, number of alignments: 1, unaligned bases: 132
+		Alignment: 142801 143190 | 390 1 | 390 390 | 99.23 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000010.1 k141_586
+
+CONTIG: k141_587 (517bp)
+Best alignment score: 495.0 (LEN: 506, IDY: 97.83), Total number of alignments: 2
+			Looking for the best set of alignments (out of 2 total alignments)
+			Skipping redundant alignments after choosing the best set of alignments
+		Skipping redundant alignment 4663 5102 | 78 517 | 440 440 | 97.27 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000064.1 k141_587
+			The best set is below. Score: 495.0, number of alignments: 1, unaligned bases: 11
+		Alignment: 2522 3029 | 517 12 | 508 506 | 97.83 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000061.1 k141_587
+
+CONTIG: k141_588 (618bp)
+Best alignment score: 543.0 (LEN: 548, IDY: 99.09), Total number of alignments: 17
+			Looking for the best set of alignments (out of 17 total alignments)
+			Skipping redundant alignments after choosing the best set of alignments
+		Skipping redundant alignment 3 166 | 266 429 | 164 164 | 95.73 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000026.1 k141_588
+		Skipping redundant alignment 166054 166270 | 429 213 | 217 217 | 95.85 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000013.1 k141_588
+		Skipping redundant alignment 232954 233173 | 429 210 | 220 220 | 95.91 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000006.1 k141_588
+		Skipping redundant alignment 52620 52848 | 429 201 | 229 229 | 95.63 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000031.1 k141_588
+		Skipping redundant alignment 69818 70050 | 429 197 | 233 233 | 95.28 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000027.1 k141_588
+		Skipping redundant alignment 1 240 | 191 429 | 240 239 | 95.0 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000033.1 k141_588
+		Skipping redundant alignment 8331 8595 | 429 164 | 265 266 | 95.11 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000059.1 k141_588
+		Skipping redundant alignment 135643 135919 | 429 153 | 277 277 | 95.31 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000016.1 k141_588
+		Skipping redundant alignment 192034 192343 | 429 120 | 310 310 | 95.81 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000010.1 k141_588
+		Skipping redundant alignment 1 322 | 106 429 | 322 324 | 95.06 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000052.1 k141_588
+		Skipping redundant alignment 1 326 | 105 429 | 326 325 | 95.4 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000015.1 k141_588
+		Skipping redundant alignment 6250 6604 | 429 75 | 355 355 | 96.06 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000068.1 k141_588
+		Skipping redundant alignment 3036489 3036917 | 1 429 | 429 429 | 96.5 | Klebsiella_pneumoniae_NZ_CP047271.1 k141_588
+		Skipping redundant alignment 600 1028 | 429 1 | 429 429 | 96.5 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000099.1 k141_588
+		Skipping redundant alignment 182285 182713 | 429 1 | 429 429 | 96.27 | Klebsiella_pneumoniae_NZ_CP047272.1 k141_588
+		Skipping redundant alignment 129807 130235 | 1 429 | 429 429 | 96.04 | Klebsiella_pneumoniae_NZ_CP047271.1 k141_588
+			The best set is below. Score: 543.0, number of alignments: 1, unaligned bases: 70
+		Alignment: 203250 203797 | 1 548 | 548 548 | 99.09 | Klebsiella_pneumoniae_NZ_CP047272.1 k141_588
+
+CONTIG: k141_589 (693bp)
+		This contig is unaligned. (693 bp)
+		Unaligned bases: 693 (number of Ns: 0)
+
+CONTIG: k141_593 (504bp)
+		This contig is unaligned. (504 bp)
+		Unaligned bases: 504 (number of Ns: 0)
+
+CONTIG: k141_594 (623bp)
+Best alignment score: 622.0 (LEN: 623, IDY: 99.84), Total number of alignments: 3
+		This contig has 3 significant alignments. [An ambiguously mapped contig]
+		Using all these alignments (option --ambiguity-usage is set to "all"):
+			Alignment: 28007 28629 | 623 1 | 623 623 | 99.84 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000002.1 k141_594
+			Alignment: 3556534 3557156 | 623 1 | 623 623 | 99.68 | Klebsiella_pneumoniae_NZ_CP047271.1 k141_594
+			Alignment: 1757742 1758364 | 1 623 | 623 623 | 99.36 | Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1 k141_594
+
+CONTIG: k141_597 (1002bp)
+Best alignment score: 1002.0 (LEN: 1002, IDY: 100.00), Total number of alignments: 3
+		This contig has 3 significant alignments. [An ambiguously mapped contig]
+		Using all these alignments (option --ambiguity-usage is set to "all"):
+			Alignment: 34268 35269 | 1 1002 | 1002 1002 | 100.0 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000005.1 k141_597
+			Alignment: 4586689 4587690 | 1002 1 | 1002 1002 | 99.5 | Klebsiella_pneumoniae_NZ_CP047271.1 k141_597
+			Alignment: 743224 744225 | 1 1002 | 1002 1002 | 99.4 | Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1 k141_597
+
+CONTIG: k141_598 (599bp)
+Best alignment score: 599.0 (LEN: 599, IDY: 100.00), Total number of alignments: 3
+		This contig has 3 significant alignments. [An ambiguously mapped contig]
+		Using all these alignments (option --ambiguity-usage is set to "all"):
+			Alignment: 304224 304822 | 1 599 | 599 599 | 100.0 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000002.1 k141_598
+			Alignment: 1474597 1475195 | 599 1 | 599 599 | 99.33 | Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1 k141_598
+			Alignment: 3839240 3839838 | 1 599 | 599 599 | 99.17 | Klebsiella_pneumoniae_NZ_CP047271.1 k141_598
+
+Analyzing coverage...
+Writing SNPs into /home/hannelore/PROJECTHH/Scripts/Pipeline/work/5b/fd06bcddfdd15e6ad5a6ca9bd7cd34/metaquast-results/combined_reference/contigs_reports/minimap_output/raw/TRIM_ERR1795080_Illumina_MiSeq_paired_end_sequencing_EXP_8_1_2017_01_13_14_47_56_mini_1-contigs.used_snps.gz
+
+Analysis is finished!
+Founded SNPs were written into /home/hannelore/PROJECTHH/Scripts/Pipeline/work/5b/fd06bcddfdd15e6ad5a6ca9bd7cd34/metaquast-results/combined_reference/contigs_reports/minimap_output/raw/TRIM_ERR1795080_Illumina_MiSeq_paired_end_sequencing_EXP_8_1_2017_01_13_14_47_56_mini_1-contigs.used_snps.gz
+
+Results:
+	Local Misassemblies: 2
+	Misassemblies: 5
+		Relocations: 0
+		Translocations: 2
+		Interspecies translocations: 2
+		Inversions: 1
+	Potentially Misassembled Contigs (i/s translocations): 4
+		Possible Misassemblies: 5
+	Scaffold gap extensive misassemblies: 0
+	Scaffold gap local misassemblies: 0
+	Misassembled Contigs: 5
+	Misassembled Contig Bases: 4950
+	Misassemblies Inter-Contig Overlap: 0
+Unaligned Contigs: 21 + 4 part
+Half Unaligned Contigs with Misassemblies: 0
+Unaligned Contig Bases: 18077
+
+Ambiguously Mapped Contigs: 106
+Total Bases in Ambiguously Mapped Contigs: 69915
+Extra Bases in Ambiguously Mapped Contigs: 153830
+Note that --allow-ambiguity option was set to "all" and each of these contigs was used several times.
+
+	Covered Bases: 257961
+
+	SNPs: 1180
+	Insertions: 34
+	Deletions: 21
+

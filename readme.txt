@@ -62,6 +62,7 @@ REMARK: for notes on the pipeline itself please check Scripts/Pipeline/OUTB8-sch
 -- Tests		: (! * !) this folder contains input and output of test-runs
    --  BAIT8-analysis-PE: "  *remark: BAIT8 = typo -> should have been OUTB8
    --  BAIT8-analysis-SE: "  *remark: BAIT8 = typo -> should have been OUTB8
+   --  OUTB8-analysis-SE: "
    --  OUTB8-analysis-O.: "
    --  OUTB8-analysis-X.: "
    --  OUTB8-scheme-ex..: "
@@ -82,7 +83,7 @@ Do WGS bacterial analysis on fastq files (format *.fastq.gz) based on a known sc
 
 	- install following software:
 	  * Nextflow v20.01.0.5264
-	  * chewBBACA v2.1.0 or v2.5.0 (in python environment)
+	  * chewBBACA v2.5.4
 	  * python3 v3.7.7
 	  * fastqc v0.11.9
 	  * multiqc v1.8
@@ -92,6 +93,7 @@ Do WGS bacterial analysis on fastq files (format *.fastq.gz) based on a known sc
 	  * metaquast v5.0.2
 	  * mlst v2.19.0
 	  * R v3.6.3
+	  * matplotlib v3.3.0
 	- Download  OUTB8-analysis.nf and MST.R and run the script
 		INPUT (must define):
 		* --PE or --SE  :paired or single end data
@@ -108,7 +110,6 @@ Do WGS bacterial analysis on fastq files (format *.fastq.gz) based on a known sc
 	- optional parameters:
 	    	--assem     OPTIONAL give path to established assemblies that need to be included in the analysis (format: *.fa)
 	   	--cpu       give maximal number of CPUs (default = 1)
-	   	--env       give path to python3 environment (running e.g. chewBBACA, matplotlib...)
 		--help      show help message
 		--meta      give filename (.csv) of metadata, first column are the sample names IN CORRECT ORDER (= one line per sample), all following columns will be used as color-code in MST-plots
 		--output    give path to output folder
@@ -123,7 +124,7 @@ Do WGS bacterial analysis on fastq files (format *.fastq.gz) based on a known sc
 Create a cg/wgMLST scheme for your WGS bacterial analysis based on NCBI reference assemblies based on txid OR 1 or more fastq samples (zipped)
 	- install following software:
 	  * Nextflow v20.01.0.5264
-	  * chewBBACA v2.1.0 or v2.5.0 (in python environment)
+	  * chewBBACA v2.5.4
 	  * python3 v3.7.7
 	  * kraken2 v2.0.8-beta
 	  * esearch v13.3

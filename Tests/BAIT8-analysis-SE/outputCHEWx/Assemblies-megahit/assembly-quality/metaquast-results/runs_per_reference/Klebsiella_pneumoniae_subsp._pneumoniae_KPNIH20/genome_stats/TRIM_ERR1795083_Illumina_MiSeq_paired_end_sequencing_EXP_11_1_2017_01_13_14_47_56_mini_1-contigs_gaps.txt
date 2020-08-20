@@ -1,0 +1,451 @@
+Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000001.1
+1 73517
+74028 153403
+154070 159756
+160357 210345
+211039 340401
+340976 358883
+359501 371841
+Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000002.1
+1 39567
+40234 42211
+42716 125517
+126071 130826
+131289 276801
+277059 285446
+285966 297796
+298403 329523
+Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000003.1
+1 14769
+15411 36293
+37036 71880
+72380 103026
+103757 140537
+141091 148368
+148623 155098
+155854 161236
+162026 165658
+166452 170354
+170966 254836
+255103 279033
+279209 298211
+299013 325089
+Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000004.1
+1 1345
+1919 3492
+4115 4512
+5081 71107
+71675 97519
+98127 232043
+232579 267947
+268598 286700
+287458 291480
+Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000005.1
+1 125014
+125577 211836
+212366 226650
+227297 242337
+Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000006.1
+1 35695
+36284 148231
+148814 198642
+199465 205392
+205957 233175
+Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000007.1
+1 9750
+10713 15915
+16472 65073
+65744 109817
+110483 215049
+Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000008.1
+1 67726
+68500 70500
+71080 79369
+79922 83089
+83597 111445
+112112 126276
+127043 142297
+142875 144528
+145153 170709
+171239 172523
+173213 201565
+202115 204589
+Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000009.1
+1 46214
+46840 111729
+112231 112352
+112867 130552
+131095 168742
+169086 198112
+Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000010.1
+1 4038
+4551 21173
+21685 192348
+Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000011.1
+1 33349
+34461 66666
+67174 84175
+84857 99324
+99885 177251
+Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000012.1
+1 77431
+78406 165364
+165902 167325
+Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000013.1
+1 141104
+141706 166270
+Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000014.1
+1 28986
+29544 74907
+75253 152817
+153534 155298
+155855 158193
+Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000015.1
+1 10044
+10693 18053
+18554 25675
+26411 136173
+136708 137879
+Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000016.1
+1 20878
+21457 53650
+54210 78010
+78635 135919
+Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000017.1
+1 357
+731 23450
+24395 65056
+65598 80841
+81394 125942
+126511 130091
+Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000018.1
+1 1220
+1789 4468
+4969 37044
+37638 37747
+38504 48046
+48583 53782
+54362 110743
+Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000019.1
+1 21262
+21806 22089
+22599 100160
+Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000020.1
+1 76210
+76646 98727
+Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000021.1
+1 67830
+68588 97150
+Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000022.1
+1 13710
+14250 96516
+Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000023.1
+1 87832
+Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000024.1
+1 49794
+50330 78176
+78745 87833
+Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000025.1
+1 55860
+56422 82945
+Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000026.1
+1 24651
+25159 45107
+45632 56613
+57219 63168
+63835 72140
+Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000027.1
+1 1636
+2218 70088
+Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000028.1
+1 14063
+14578 46861
+47389 65960
+Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000029.1
+1 414
+811 11122
+12048 12227
+13380 26130
+26693 43856
+44379 65847
+Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000030.1
+1 22960
+23598 62866
+Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000031.1
+1 3724
+4574 52852
+Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000032.1
+1 793
+886 16895
+17597 50647
+Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000033.1
+1 43907
+Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000034.1
+1 41033
+Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000035.1
+1 876
+1478 23514
+24051 31960
+32530 35297
+Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000036.1
+1 5081
+5195 5367
+6877 34562
+Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000037.1
+1 23881
+24452 32745
+Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000038.1
+1 4936
+5470 17381
+17960 32574
+Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000039.1
+1 32007
+Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000040.1
+1 17345
+17896 30127
+Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000041.1
+1 28680
+Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000042.1
+1 4754
+5117 28373
+Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000043.1
+1 111
+682 27146
+Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000044.1
+1 24520
+Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000045.1
+1 19229
+19740 22161
+Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000046.1
+1 20779
+Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000047.1
+1 8050
+8626 21246
+Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000048.1
+1 20015
+Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000049.1
+1 19797
+Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000050.1
+1 17328
+Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000051.1
+1 16013
+Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000052.1
+1 14816
+Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000053.1
+1 442
+1292 1678
+2175 12274
+Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000054.1
+1 12247
+Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000055.1
+1 12175
+Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000056.1
+1 10740
+10920 11363
+Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000057.1
+1 4178
+4891 9368
+Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000058.1
+1 9032
+Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000059.1
+1 8595
+Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000060.1
+1 8585
+Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000061.1
+1 2478
+3030 8422
+Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000062.1
+1 8094
+Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000063.1
+1 8071
+Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000064.1
+1 1348
+1823 7645
+Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000065.1
+1 7531
+Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000066.1
+1 6719
+Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000067.1
+1 6668
+Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000068.1
+1 6609
+Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000069.1
+1 6561
+Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000070.1
+1 6322
+Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000071.1
+1 5726
+Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000072.1
+1 5495
+Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000073.1
+1 5383
+Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000074.1
+1 4669
+Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000075.1
+1 4582
+Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000076.1
+1 4085
+Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000077.1
+1 3876
+Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000078.1
+1 3845
+Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000079.1
+1 3799
+Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000080.1
+1 3616
+Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000081.1
+3179 3615
+Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000082.1
+1 3187
+Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000083.1
+1 3139
+Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000084.1
+1 3106
+Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000085.1
+1 3058
+Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000086.1
+1 2800
+Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000087.1
+1 390
+2116 2741
+Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000088.1
+1 2715
+Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000089.1
+1 2441
+Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000090.1
+1 2325
+Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000091.1
+1 2322
+Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000092.1
+1 2308
+Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000093.1
+1 2188
+Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000094.1
+1 2185
+Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000095.1
+1 2166
+Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000096.1
+1 2140
+Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000097.1
+1 1224
+1729 2127
+Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000098.1
+1 2036
+Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000099.1
+1 679
+1197 2032
+Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000100.1
+1 2009
+Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000101.1
+1 1945
+Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000102.1
+1 1907
+Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000103.1
+1 849
+1560 1904
+Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000104.1
+1 1896
+Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000105.1
+1 1859
+Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000106.1
+1 1814
+Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000107.1
+1 1718
+Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000108.1
+1 1104
+1210 1612
+Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000109.1
+760 1464
+Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000110.1
+1 350
+948 1386
+Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000111.1
+1 1371
+Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000112.1
+1 1369
+Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000113.1
+1 1367
+Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000114.1
+1 1325
+Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000115.1
+1 1293
+Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000116.1
+1 1279
+Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000117.1
+1 1152
+Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000118.1
+820 1138
+Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000119.1
+1 1131
+Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000120.1
+1 1089
+Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000121.1
+665 1088
+Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000122.1
+1 1020
+Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000123.1
+1 891
+Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000124.1
+1 881
+Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000125.1
+1 166
+Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000126.1
+1 880
+Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000127.1
+1 809
+Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000128.1
+1 803
+Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000129.1
+1 800
+Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000130.1
+1 799
+Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000131.1
+1 795
+Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000132.1
+1 788
+Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000133.1
+1 776
+Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000134.1
+1 642
+Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000135.1
+1 575
+Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000136.1
+1 527
+Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000137.1
+1 460
+Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000138.1
+1 451
+Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000139.1
+1 440
+Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000140.1
+1 420
+Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000141.1
+1 420
+Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000142.1
+1 385
+Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000143.1
+1 369
+Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000144.1
+1 330
+Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000145.1
+1 317
+Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000146.1
+1 322
+Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000147.1
+1 321
+Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000148.1
+1 311
+Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000149.1
+1 304
+Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000150.1
+1 301
+Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000151.1
+1 298
+Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000152.1
+1 297
+Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000153.1
+1 296
+Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000154.1
+1 266
+Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000155.1
+1 212

@@ -1,0 +1,69 @@
+Aligning contigs to reference...
+	Aligning contigs to the reference
+Filtering alignments...
+Parsing coords...
+Loading reference...
+	Loaded [Dickeya_chrysanthemi_NC_012912.1]
+	Total Regions: 1
+	Total Region Length: 4813854
+Analyzing contigs...
+CONTIG: k141_393 (2220bp)
+Best alignment score: 1132.9 (LEN: 1182, IDY: 95.85), Total number of alignments: 17
+			Looking for the best set of alignments (out of 17 total alignments)
+			Skipping redundant alignments after choosing the best set of alignments
+		Skipping redundant alignment 4404022 4404150 | 203 331 | 129 129 | 97.67 | Dickeya_chrysanthemi_NC_012912.1 k141_393
+		Skipping redundant alignment 4705974 4706102 | 203 331 | 129 129 | 97.67 | Dickeya_chrysanthemi_NC_012912.1 k141_393
+		Skipping redundant alignment 1162710 1162838 | 332 204 | 129 129 | 96.9 | Dickeya_chrysanthemi_NC_012912.1 k141_393
+		Skipping redundant alignment 160179 160310 | 332 201 | 132 132 | 97.73 | Dickeya_chrysanthemi_NC_012912.1 k141_393
+		Skipping redundant alignment 987424 987637 | 332 119 | 214 214 | 98.13 | Dickeya_chrysanthemi_NC_012912.1 k141_393
+		Skipping redundant alignment 405134 405265 | 334 203 | 132 132 | 96.97 | Dickeya_chrysanthemi_NC_012912.1 k141_393
+		Skipping redundant alignment 4404247 4405427 | 398 1578 | 1181 1181 | 95.85 | Dickeya_chrysanthemi_NC_012912.1 k141_393
+		Skipping redundant alignment 4706199 4707379 | 398 1578 | 1181 1181 | 95.77 | Dickeya_chrysanthemi_NC_012912.1 k141_393
+		Skipping redundant alignment 403856 405037 | 1579 398 | 1182 1182 | 95.85 | Dickeya_chrysanthemi_NC_012912.1 k141_393
+		Skipping redundant alignment 986145 987326 | 1579 398 | 1182 1182 | 95.77 | Dickeya_chrysanthemi_NC_012912.1 k141_393
+		Skipping redundant alignment 1161433 1162614 | 1579 398 | 1182 1182 | 95.77 | Dickeya_chrysanthemi_NC_012912.1 k141_393
+		Skipping redundant alignment 158902 160083 | 1579 398 | 1182 1182 | 95.77 | Dickeya_chrysanthemi_NC_012912.1 k141_393
+		Skipping redundant alignment 4405459 4405662 | 1611 1814 | 204 204 | 95.1 | Dickeya_chrysanthemi_NC_012912.1 k141_393
+		Skipping redundant alignment 4707411 4707614 | 1611 1814 | 204 204 | 95.1 | Dickeya_chrysanthemi_NC_012912.1 k141_393
+		This contig has several significant sets of alignments. [An ambiguously mapped contig]
+		Using only the very best set (option --ambiguity-usage is set to "one").
+			The best set is below. Score: 1452.0, number of alignments: 3, unaligned bases: 706
+		This contig is misassembled.
+			Real Alignment 1: 4360470 4360598 | 203 331 | 129 129 | 97.67 | Dickeya_chrysanthemi_NC_012912.1 k141_393
+			  Indel (> 5bp) between these two alignments: deletion of length 30; 36 mismatches (number of Ns: 0)
+			Real Alignment 2: 4360695 4361875 | 398 1578 | 1181 1181 | 95.85 | Dickeya_chrysanthemi_NC_012912.1 k141_393
+			  Indel (<= 5bp) between these two alignments: insertion of length 1; 31 mismatches (number of Ns: 0)
+			Real Alignment 3: 4361907 4362110 | 1611 1814 | 204 204 | 95.1 | Dickeya_chrysanthemi_NC_012912.1 k141_393
+
+Analyzing coverage...
+Writing SNPs into /home/hannelore/PROJECTHH/Scripts/Pipeline/work/5b/fd06bcddfdd15e6ad5a6ca9bd7cd34/metaquast-results/runs_per_reference/Dickeya_chrysanthemi/contigs_reports/minimap_output/TRIM_ERR1795077_Illumina_MiSeq_paired_end_sequencing_EXP_5_1_2017_01_13_14_47_56_mini_1-contigs.used_snps.gz
+
+Analysis is finished!
+Founded SNPs were written into /home/hannelore/PROJECTHH/Scripts/Pipeline/work/5b/fd06bcddfdd15e6ad5a6ca9bd7cd34/metaquast-results/runs_per_reference/Dickeya_chrysanthemi/contigs_reports/minimap_output/TRIM_ERR1795077_Illumina_MiSeq_paired_end_sequencing_EXP_5_1_2017_01_13_14_47_56_mini_1-contigs.used_snps.gz
+
+Results:
+	Local Misassemblies: 0
+	Misassemblies: 0
+		Relocations: 0
+		Translocations: 0
+		Inversions: 0
+	Scaffold gap extensive misassemblies: 0
+	Scaffold gap local misassemblies: 0
+	Misassembled Contigs: 0
+	Misassembled Contig Bases: 0
+	Misassemblies Inter-Contig Overlap: 0
+Unaligned Contigs: 0 + 0 part
+Half Unaligned Contigs with Misassemblies: 0
+Unaligned Contig Bases: 0
+
+Ambiguously Mapped Contigs: 1
+Total Bases in Ambiguously Mapped Contigs: 2220
+Extra Bases in Ambiguously Mapped Contigs: 0
+Note that --allow-ambiguity option was set to "one" and only first alignment per each of these contigs was used.
+
+	Covered Bases: 1514
+
+	SNPs: 129
+	Insertions: 1
+	Deletions: 30
+

@@ -1,0 +1,475 @@
+1419 2072 | 1 654 | 654 654 | 100.0 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000086.1 k141_287 | cs:Z::654
+163169 163691 | 523 1 | 523 523 | 100.0 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000005.1 k141_1 | cs:Z::523 ambiguous
+4470347 4470869 | 1 523 | 523 523 | 99.81 | Klebsiella_pneumoniae_NZ_CP047271.1 k141_1 | cs:Z::315*tc:207 ambiguous
+860093 860615 | 523 1 | 523 523 | 99.43 | Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1 k141_1 | cs:Z::25*tc:181*ag:251*tc:63 ambiguous
+18998 19496 | 499 1 | 499 499 | 99.6 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000007.1 k141_288 | cs:Z::16*ag:53*ag:428 ambiguous
+757083 757581 | 499 1 | 499 499 | 99.2 | Klebsiella_pneumoniae_NZ_CP047271.1 k141_288 | cs:Z::16*ag:53*ag:109*gc:41*at:276 ambiguous
+4594855 4595353 | 1 499 | 499 499 | 98.8 | Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1 k141_288 | cs:Z::144*ct:86*ca:67*tc:18*cg:109*tc:53*tc:16 ambiguous
+1315556 1316129 | 574 1 | 574 574 | 100.0 | Klebsiella_pneumoniae_NZ_CP047271.1 k141_291 | cs:Z::574 ambiguous
+62590 63163 | 1 574 | 574 574 | 100.0 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000023.1 k141_291 | cs:Z::574 ambiguous
+4105184 4105757 | 1 574 | 574 574 | 99.65 | Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1 k141_291 | cs:Z::347*gc:14*ac:211 ambiguous
+99064 99613 | 550 1 | 550 550 | 100.0 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000006.1 k141_6 | cs:Z::550 ambiguous
+4282758 4283307 | 550 1 | 550 550 | 99.64 | Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1 k141_6 | cs:Z::410*ct:63*at:75 ambiguous
+1086452 1087001 | 1 550 | 550 550 | 99.64 | Klebsiella_pneumoniae_NZ_CP047271.1 k141_6 | cs:Z::139*ga:329*ct:80 ambiguous
+12171 12836 | 666 1 | 666 666 | 98.65 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000029.1 k141_8 | cs:Z::430*ga:14*tc:41*ga:5*ag:26*ag:8*ga:20*gc:41*ca:13*at:59
+22757 23423 | 1 667 | 667 667 | 100.0 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000034.1 k141_297 | cs:Z::667
+15656 16428 | 1 773 | 773 773 | 99.74 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000039.1 k141_301 | cs:Z::9*ac:679*ag:83
+19170 19744 | 575 1 | 575 575 | 100.0 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000039.1 k141_16 | cs:Z::575
+14388 15034 | 647 1 | 647 647 | 100.0 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000036.1 k141_302 | cs:Z::647
+113600 114361 | 43 804 | 762 762 | 99.74 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000011.1 k141_18 | cs:Z::702*gt:23*tg:35
+16739 18111 | 1373 1 | 1373 1373 | 100.0 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000036.1 k141_304 | cs:Z::1373
+159064 159599 | 2 537 | 536 536 | 99.81 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000008.1 k141_23 | cs:Z::22*ag:513 ambiguous
+5075124 5075659 | 2 537 | 536 536 | 99.07 | Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1 k141_23 | cs:Z::22*ag:15*ac:301*gt:68*tc:47*ta:78 ambiguous
+1 792 | 792 1 | 792 792 | 98.99 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000097.1 k141_305 | cs:Z::35*tg:7*ag:361*ag:11*ga:225*ga:18*tg:50*tc:53*ct:24 ambiguous
+1 796 | 796 1 | 796 796 | 99.5 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000093.1 k141_305 | cs:Z::39*tg:7*ag:441*tc:6*ct:299 ambiguous
+921 1718 | 1186 388 | 798 799 | 99.37 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000107.1 k141_305 | cs:Z::94*at:220*ac:113*tg:7*ag:319+a:41 ambiguous
+410 796 | 387 1 | 387 387 | 99.5 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000093.1 k141_305 | cs:Z::80*tc:6*ct:299
+921 1718 | 1186 388 | 798 799 | 99.37 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000107.1 k141_305 | cs:Z::94*at:220*ac:113*tg:7*ag:319+a:41
+8892 9589 | 1 698 | 698 698 | 100.0 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000039.1 k141_25 | cs:Z::698
+28519 29182 | 664 1 | 664 664 | 99.85 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000017.1 k141_307 | cs:Z::88*tc:575 ambiguous
+4913554 4914217 | 664 1 | 664 664 | 99.7 | Klebsiella_pneumoniae_NZ_CP047271.1 k141_307 | cs:Z::240*tc:170*ct:252 ambiguous
+357224 357887 | 1 664 | 664 664 | 99.55 | Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1 k141_307 | cs:Z::27*ag:572*ag:47*ct:15 ambiguous
+97227 97856 | 630 1 | 630 630 | 99.84 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000017.1 k141_309 | cs:Z::410*ac:219 ambiguous
+4982259 4982888 | 630 1 | 630 630 | 99.37 | Klebsiella_pneumoniae_NZ_CP047271.1 k141_309 | cs:Z::314*ct:14*ga:2*tc:77*ac:219 ambiguous
+30979 31490 | 1 512 | 512 512 | 99.61 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000017.1 k141_33 | cs:Z::84*ac:77*tg:349 ambiguous
+4916014 4916525 | 1 512 | 512 512 | 99.41 | Klebsiella_pneumoniae_NZ_CP047271.1 k141_33 | cs:Z::84*ac:77*tg:298*ga:50 ambiguous
+354916 355427 | 512 1 | 512 512 | 99.22 | Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1 k141_33 | cs:Z::50*ct:298*ac:58*tc:18*tg:84 ambiguous
+13230 14356 | 1127 1 | 1127 1127 | 100.0 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000039.1 k141_313 | cs:Z::1127
+6260 6719 | 1 460 | 460 460 | 100.0 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000066.1 k141_35 | cs:Z::460 ambiguous
+6194 6668 | 1 475 | 475 475 | 99.79 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000067.1 k141_35 | cs:Z::91*ag:383 ambiguous
+1 593 | 101 693 | 593 593 | 100.0 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000112.1 k141_35 | cs:Z::593 ambiguous
+6260 6359 | 1 100 | 100 100 | 100.0 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000066.1 k141_35 | cs:Z::100
+1 593 | 101 693 | 593 593 | 100.0 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000112.1 k141_35 | cs:Z::593
+123870 124380 | 1 511 | 511 511 | 100.0 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000007.1 k141_315 | cs:Z::511 ambiguous
+847845 848355 | 1 511 | 511 511 | 99.8 | Klebsiella_pneumoniae_NZ_CP047271.1 k141_315 | cs:Z::313*ct:197 ambiguous
+4505214 4505724 | 511 1 | 511 511 | 99.8 | Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1 k141_315 | cs:Z::197*ga:313 ambiguous
+7070 7605 | 536 1 | 536 536 | 99.81 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000056.1 k141_36 | cs:Z::245*tc:290
+461 1488 | 1028 1 | 1028 1028 | 96.69 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000089.1 k141_37 | :1*ga:23*ac:4*gt*ct*at:5*ct:39*ta:8*ag:38*cg:1*ga:109*tc:55*gc:40*gt:17*gt:36*tc:100*ga:42*ct:5*gt:1*ac:8*cg:5*ga:8*ac:4*ag:9*ga:2*ga:2*gt:11*ag:20*ag:14*gc:42*gt:73*ca:4*tg:11*ga:144*ca:113 ambiguous
+2590 2687 | 1007 1104 | 98 98 | 100.0 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000086.1 k141_37 | cs:Z::98 ambiguous
+210 307 | 1007 1104 | 98 98 | 100.0 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000126.1 k141_37 | cs:Z::98 ambiguous
+108 205 | 1007 1104 | 98 98 | 100.0 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000149.1 k141_37 | cs:Z::98 ambiguous
+6030 6127 | 1104 1007 | 98 98 | 97.96 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000070.1 k141_37 | cs:Z::37*gt:1*at:58 ambiguous
+2026 2123 | 1007 1104 | 98 98 | 97.96 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000097.1 k141_37 | cs:Z::58*ta:1*ca:37 ambiguous
+656 753 | 1007 1104 | 98 98 | 96.94 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000120.1 k141_37 | cs:Z::58*ta:1*ca:15*ga:21 ambiguous
+2030 2127 | 1007 1105 | 98 99 | 98.99 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000093.1 k141_37 | cs:Z::58+a:40 ambiguous
+268 365 | 1007 1105 | 98 99 | 98.99 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000137.1 k141_37 | cs:Z::58+a:40 ambiguous
+461 1488 | 1028 1 | 1028 1028 | 96.69 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000089.1 k141_37 | :1*ga:23*ac:4*gt*ct*at:5*ct:39*ta:8*ag:38*cg:1*ga:109*tc:55*gc:40*gt:17*gt:36*tc:100*ga:42*ct:5*gt:1*ac:8*cg:5*ga:8*ac:4*ag:9*ga:2*ga:2*gt:11*ag:20*ag:14*gc:42*gt:73*ca:4*tg:11*ga:144*ca:113
+2052 2127 | 1029 1105 | 76 77 | 98.99 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000093.1 k141_37 | cs:Z::36+a:40
+73222 74065 | 1 843 | 844 843 | 99.88 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000017.1 k141_318 | cs:Z::722-t:121 ambiguous
+312341 313184 | 843 1 | 844 843 | 99.41 | Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1 k141_318 | cs:Z::98*ct:22-a:162*tc:231*ct:44*cg:282 ambiguous
+4958255 4959098 | 1 843 | 844 843 | 98.93 | Klebsiella_pneumoniae_NZ_CP047271.1 k141_318 | cs:Z::69*ga:56*tc:2*ct:60*ct:136*ga:104*gc:35*gc:253-t:22*ga:98 ambiguous
+498 1102 | 1 605 | 605 605 | 100.0 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000070.1 k141_39 | cs:Z::605
+84483 85351 | 869 1 | 869 869 | 100.0 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000023.1 k141_319 | cs:Z::869 ambiguous
+1293375 1294243 | 1 869 | 869 869 | 99.42 | Klebsiella_pneumoniae_NZ_CP047271.1 k141_319 | cs:Z::135*ga:31*at:15*ag:82*ga:440*ga:161 ambiguous
+4127070 4127938 | 869 1 | 869 869 | 99.31 | Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1 k141_319 | cs:Z::161*ct:185*tc:254*ct:82*tc:15*ta:31*ct:135 ambiguous
+168157 168682 | 526 1 | 526 526 | 100.0 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000010.1 k141_40 | cs:Z::526 ambiguous
+3391713 3392238 | 526 1 | 526 526 | 99.62 | Klebsiella_pneumoniae_NZ_CP047271.1 k141_40 | cs:Z::13*ag:86*tc:425 ambiguous
+1922570 1923095 | 1 526 | 526 526 | 99.43 | Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1 k141_40 | cs:Z::217*ta:272*gc:21*tc:13 ambiguous
+143640 144171 | 532 1 | 532 532 | 100.0 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000014.1 k141_321 | cs:Z::532 ambiguous
+2702071 2702602 | 532 1 | 532 532 | 99.81 | Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1 k141_321 | cs:Z::462*ct:69 ambiguous
+9889 10456 | 568 1 | 568 568 | 100.0 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000040.1 k141_43 | cs:Z::568
+33671 34249 | 579 1 | 579 579 | 99.83 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000032.1 k141_322 | cs:Z::425*ac:153 ambiguous
+96030 96608 | 579 1 | 579 579 | 99.83 | Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047676.1 k141_322 | cs:Z::425*ac:153 ambiguous
+11492 12191 | 1 700 | 700 700 | 100.0 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000016.1 k141_330 | cs:Z::700 ambiguous
+535096 535793 | 700 3 | 698 698 | 99.71 | Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1 k141_330 | cs:Z::26*ga:59*ag:611 ambiguous
+199547 200181 | 635 1 | 635 635 | 100.0 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000003.1 k141_331 | cs:Z::635 ambiguous
+1161404 1162038 | 1 635 | 635 635 | 99.69 | Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1 k141_331 | cs:Z::182*tg:1*ac:450 ambiguous
+9956 12020 | 2063 1 | 2065 2063 | 98.99 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000054.1 k141_50 | cs:Z::1122*ag:11*ga:592*ca:14*tc:72*tc:71*ta:2*ta:8-aatta*gc:1*tc:3+ttt:8-a:64+c:42*ag:17*ag:21
+713 1297 | 1 585 | 585 585 | 100.0 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000013.1 k141_334 | cs:Z::585 ambiguous
+2859560 2860141 | 4 585 | 582 582 | 99.66 | Klebsiella_pneumoniae_NZ_CP047271.1 k141_334 | cs:Z::58*ag:30*cg:492 ambiguous
+13706 14309 | 604 1 | 604 604 | 100.0 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000036.1 k141_52 | cs:Z::604
+269473 269994 | 522 1 | 522 522 | 100.0 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000002.1 k141_335 | cs:Z::522 ambiguous
+1509301 1509822 | 1 522 | 522 522 | 99.04 | Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1 k141_335 | cs:Z::196*ct:8*ct:2*ct:50*tc:65*ga:196 ambiguous
+3804602 3805123 | 522 1 | 522 522 | 99.04 | Klebsiella_pneumoniae_NZ_CP047271.1 k141_335 | cs:Z::130*ga:5*ag:155*ag:32*ga:48*ca:147 ambiguous
+171713 172222 | 510 1 | 510 510 | 100.0 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000011.1 k141_55 | cs:Z::510 ambiguous
+5260242 5260751 | 1 510 | 510 510 | 99.8 | Klebsiella_pneumoniae_NZ_CP047271.1 k141_55 | cs:Z::43*ta:466 ambiguous
+10694 11203 | 510 1 | 510 510 | 99.41 | Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1 k141_55 | cs:Z::247*ct:200*tc:17*gt:43 ambiguous
+83253 83798 | 546 1 | 546 546 | 99.82 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000017.1 k141_340 | cs:Z::70*ag:475 ambiguous
+4968285 4968830 | 546 1 | 546 546 | 99.63 | Klebsiella_pneumoniae_NZ_CP047271.1 k141_340 | cs:Z::70*ag:202*cg:272 ambiguous
+302609 303153 | 1 546 | 545 546 | 99.45 | Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1 k141_340 | cs:Z::272*gc:17+t:184*tc:70 ambiguous
+3396 4227 | 832 1 | 832 832 | 100.0 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000039.1 k141_342 | cs:Z::832
+27401 28663 | 1263 1 | 1263 1263 | 100.0 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000036.1 k141_59 | cs:Z::1263
+38957 39595 | 639 1 | 639 639 | 100.0 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000020.1 k141_346 | cs:Z::639
+23275 24145 | 871 1 | 871 871 | 99.66 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000039.1 k141_348 | cs:Z::10*tg:838*ac:4*ac:16
+14 907 | 894 1 | 894 894 | 98.88 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000107.1 k141_60 | cs:Z::15*ga:21*ca:4*ga:104*gt*tc:1*ct:671*ct:20*ct:1*ca:19*ga:28
+1907 2086 | 1073 895 | 180 179 | 97.7 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000097.1 k141_60 | cs:Z::18*ct:10*ct:12*ct:134-t:1*ca
+33104 34562 | 2621 1162 | 1459 1460 | 99.93 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000036.1 k141_60 | cs:Z::1430+a:29
+12467 13261 | 1 795 | 795 795 | 100.0 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000044.1 k141_349 | cs:Z::795 ambiguous
+408604 409398 | 1 795 | 795 795 | 99.37 | Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1 k141_349 | cs:Z::277*ga:236*tg:47*at:122*tc:74*ct:34 ambiguous
+4861287 4862081 | 795 1 | 795 795 | 99.12 | Klebsiella_pneumoniae_NZ_CP047271.1 k141_349 | cs:Z::34*ga:5*ga:20*ag:170*ta:47*ac:170*ag:65*ct:277 ambiguous
+1595 2149 | 1 555 | 555 555 | 100.0 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000066.1 k141_350 | cs:Z::555
+204162 204743 | 1 582 | 582 582 | 99.83 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000006.1 k141_352 | cs:Z::188*ac:393 ambiguous
+4386173 4386754 | 1 582 | 582 582 | 99.66 | Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1 k141_352 | cs:Z::188*ac:153*ga:239 ambiguous
+966810 967391 | 582 1 | 582 582 | 99.31 | Klebsiella_pneumoniae_NZ_CP047271.1 k141_352 | cs:Z::74*ag:164*ct:151*ag:1*tg:188 ambiguous
+110698 111239 | 1 542 | 542 542 | 100.0 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000017.1 k141_355 | cs:Z::542
+5243 5790 | 548 1 | 548 548 | 100.0 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000034.1 k141_69 | cs:Z::548
+8153 8663 | 510 1 | 511 510 | 96.09 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000034.1 k141_357 | cs:Z::190-g:1*ga*ga:3*ga:3*tc*ga:10*ca:20*at*ag:18*ga:7*ag:12*cg:2*ac:4*ga*tc:1*tg*tc:2*ac:5*ct:20*ac:193
+53673 54217 | 1 545 | 545 545 | 99.82 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000027.1 k141_72 | cs:Z::377*ac:167 ambiguous
+5112412 5112956 | 1 545 | 545 545 | 99.82 | Klebsiella_pneumoniae_NZ_CP047271.1 k141_72 | cs:Z::377*ac:167 ambiguous
+158389 158933 | 545 1 | 545 545 | 99.27 | Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1 k141_72 | cs:Z::167*tg:96*tc:134*ct:38*ct:106 ambiguous
+47924 48450 | 1 527 | 527 527 | 100.0 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000017.1 k141_73 | cs:Z::527 ambiguous
+337955 338481 | 527 1 | 527 527 | 99.62 | Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1 k141_73 | cs:Z::299*ct*ag:226 ambiguous
+4932957 4933483 | 1 527 | 527 527 | 99.62 | Klebsiella_pneumoniae_NZ_CP047271.1 k141_73 | cs:Z::226*tc:291*ct:8 ambiguous
+23246 23765 | 520 1 | 520 520 | 100.0 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000037.1 k141_74 | cs:Z::520
+15176 16489 | 1314 1 | 1314 1314 | 100.0 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000036.1 k141_76 | cs:Z::1314
+40982 41485 | 1 504 | 504 504 | 100.0 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000020.1 k141_77 | cs:Z::504
+1036114 1036773 | 660 1 | 660 660 | 99.85 | Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1 k141_81 | cs:Z::573*ct:86 ambiguous
+5058333 5058992 | 1 660 | 660 660 | 99.85 | Klebsiella_pneumoniae_NZ_CP047271.1 k141_81 | cs:Z::86*ga:573 ambiguous
+4888822 4889481 | 1 660 | 660 660 | 99.7 | Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1 k141_81 | cs:Z::86*ga:436*ag:136 ambiguous
+462961 463620 | 660 1 | 660 660 | 99.7 | Klebsiella_pneumoniae_NZ_CP047271.1 k141_81 | cs:Z::217*tc:355*ct:86 ambiguous
+5013201 5013860 | 1 660 | 660 660 | 99.7 | Klebsiella_pneumoniae_NZ_CP047271.1 k141_81 | cs:Z::86*ga:436*ag:136 ambiguous
+4134228 4134887 | 1 660 | 660 660 | 99.7 | Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1 k141_81 | cs:Z::231*ac:17*ta:410 ambiguous
+5150116 5150775 | 1 660 | 660 660 | 99.7 | Klebsiella_pneumoniae_NZ_CP047271.1 k141_81 | cs:Z::86*ga:436*ag:136 ambiguous
+5254662 5255321 | 1 660 | 660 660 | 99.7 | Klebsiella_pneumoniae_NZ_CP047271.1 k141_81 | cs:Z::86*ga:436*ag:136 ambiguous
+680869 681528 | 660 1 | 660 660 | 99.55 | Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1 k141_81 | cs:Z::410*at:17*tg:144*ct:86 ambiguous
+4296043 4296702 | 1 660 | 660 660 | 99.55 | Klebsiella_pneumoniae_NZ_CP047271.1 k141_81 | cs:Z::86*ga:436*ag:15*ct:120 ambiguous
+1286534 1287193 | 660 1 | 660 660 | 99.55 | Klebsiella_pneumoniae_NZ_CP047271.1 k141_81 | cs:Z::136*tc:80*tc:355*ct:86 ambiguous
+4656654 4657313 | 1 660 | 660 660 | 99.39 | Klebsiella_pneumoniae_NZ_CP047271.1 k141_81 | cs:Z::86*ga:144*ac:17*ta:273*ag:136 ambiguous
+212354 213013 | 660 1 | 660 660 | 99.39 | Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1 k141_81 | cs:Z::136*tc:273*ct:16*ag:145*ct:86 ambiguous
+324 983 | 660 1 | 660 660 | 99.24 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000096.1 k141_81 | cs:Z::410*gt:15*ct*ag*tg:144*ct:86 ambiguous
+16124 16783 | 660 1 | 660 660 | 99.09 | Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1 k141_81 | cs:Z::410*gt:1*ga:13*ct*ag*cg:144*ct:86 ambiguous
+257655 258314 | 660 1 | 660 660 | 98.94 | Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1 k141_81 | cs:Z::136*tc:273*gt:1*ga:13*ct*ag*cg:144*ct:86 ambiguous
+1961 2998 | 1 1038 | 1038 1038 | 100.0 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000039.1 k141_358 | cs:Z::1038
+894 1456 | 563 1 | 563 563 | 100.0 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000050.1 k141_83 | cs:Z::563 ambiguous
+125908 126470 | 563 1 | 563 563 | 99.82 | Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1 k141_83 | cs:Z::17*tc:545 ambiguous
+5144875 5145437 | 1 563 | 563 563 | 99.64 | Klebsiella_pneumoniae_NZ_CP047271.1 k141_83 | cs:Z::351*tc:183*ac:27 ambiguous
+153295 153381 | 1 87 | 87 87 | 100.0 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000009.1 k141_84 | cs:Z::87 ambiguous
+3406751 3406837 | 1 87 | 87 87 | 100.0 | Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1 k141_84 | cs:Z::87 ambiguous
+3190912 3190998 | 1 87 | 87 87 | 98.85 | Klebsiella_pneumoniae_NZ_CP047271.1 k141_84 | cs:Z::20*ag:66 ambiguous
+3190565 3191088 | 610 87 | 524 524 | 98.85 | Klebsiella_pneumoniae_NZ_CP047271.1 k141_84 | cs:Z::72*ag:50*tg*tc:17*ca:2*ta:221*ag:156 ambiguous
+152948 153477 | 610 81 | 530 530 | 100.0 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000009.1 k141_84 | cs:Z::530 ambiguous
+3406404 3406933 | 610 81 | 530 530 | 99.25 | Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1 k141_84 | cs:Z::142*ca:2*ta:15*ag:71*ag:296 ambiguous
+153295 153374 | 1 80 | 80 80 | 100.0 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000009.1 k141_84 | cs:Z::80
+152948 153477 | 610 81 | 530 530 | 100.0 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000009.1 k141_84 | cs:Z::530
+6240 7116 | 911 35 | 877 877 | 100.0 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000036.1 k141_360 | cs:Z::877
+26384 27000 | 622 6 | 617 617 | 99.35 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000032.1 k141_85 | cs:Z::585*ag:7*ta:6+t:6-g:10
+12677 13711 | 1 1035 | 1035 1035 | 99.81 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000036.1 k141_86 | cs:Z::146*tg:154*tc:733
+31369 32595 | 1 1227 | 1227 1227 | 99.92 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000036.1 k141_363 | cs:Z::24*ag:1202
+10628 11172 | 545 1 | 545 545 | 100.0 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000032.1 k141_87 | cs:Z::545
+269027 269807 | 1 781 | 781 781 | 99.87 | Klebsiella_pneumoniae_NZ_CP047271.1 k141_364 | cs:Z::540*ag:240 ambiguous
+5080787 5081567 | 781 1 | 781 781 | 99.87 | Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1 k141_364 | cs:Z::24*ac:756 ambiguous
+164727 165507 | 781 1 | 781 781 | 99.87 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000008.1 k141_364 | cs:Z::191*gc:589 ambiguous
+777 1501 | 1 725 | 725 725 | 100.0 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000093.1 k141_88 | cs:Z::725 ambiguous
+773 1497 | 1 725 | 725 725 | 99.03 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000097.1 k141_88 | cs:Z::155*ga:145*ct:144*ga:72*tc:5*ga:83*ct:41*tc:73 ambiguous
+547504 548126 | 4 628 | 623 625 | 97.76 | Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1 k141_89 | cs:Z::32+g:3*at*tc:1+c:16*cg:1*tg:68*ct:179*cg:3*tc:43*gc:6*tc:9*tg:71*ac:120*ca:59
+31123 31702 | 580 1 | 580 580 | 100.0 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000016.1 k141_91 | cs:Z::580 ambiguous
+521721 522300 | 1 580 | 580 580 | 99.14 | Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1 k141_91 | cs:Z::94*ag:152*ga:38*ct:14*ga:38*tc:239 ambiguous
+36782 37433 | 652 1 | 652 652 | 100.0 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000017.1 k141_369 | cs:Z::652 ambiguous
+4921816 4922467 | 652 1 | 652 652 | 99.85 | Klebsiella_pneumoniae_NZ_CP047271.1 k141_369 | cs:Z::141*tg:510 ambiguous
+24557 25080 | 524 1 | 524 524 | 100.0 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000016.1 k141_94 | cs:Z::524 ambiguous
+4733867 4734390 | 524 1 | 524 524 | 99.43 | Klebsiella_pneumoniae_NZ_CP047271.1 k141_94 | cs:Z::69*ga:170*ct:86*tc:196 ambiguous
+528344 528867 | 1 524 | 524 524 | 99.24 | Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1 k141_94 | cs:Z::283*ga:14*ag:16*ag:138*ct:69 ambiguous
+827 1355 | 1 529 | 529 529 | 99.81 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000053.1 k141_371 | cs:Z::365*tg:163
+88375 88926 | 1 552 | 552 552 | 100.0 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000003.1 k141_373 | cs:Z::552 ambiguous
+4056320 4056871 | 1 552 | 552 552 | 100.0 | Klebsiella_pneumoniae_NZ_CP047271.1 k141_373 | cs:Z::552 ambiguous
+1272646 1273197 | 552 1 | 552 552 | 100.0 | Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1 k141_373 | cs:Z::552 ambiguous
+1 549 | 549 1 | 549 549 | 99.82 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000054.1 k141_376 | cs:Z::492*ca:56 ambiguous
+1 646 | 646 1 | 646 646 | 96.9 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000060.1 k141_376 | cs:Z::61*ac:32*ag:65*ac:23*ga:74*ag:28*ac:54*ga*ta:43*ct:4*gt:9*ga:59*ag:35*ga:5*ag:1*ca:12*gt:44*ct:17*ga:5*ca:23*ag:32 ambiguous
+1178 1386 | 805 597 | 209 209 | 99.04 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000110.1 k141_376 | cs:Z::64*tc:59*ag:84 ambiguous
+267 800 | 805 272 | 534 534 | 99.63 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000129.1 k141_376 | cs:Z::64*tc:59*ag:409 ambiguous
+1 646 | 646 1 | 646 646 | 96.9 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000060.1 k141_376 | cs:Z::61*ac:32*ag:65*ac:23*ga:74*ag:28*ac:54*ga*ta:43*ct:4*gt:9*ga:59*ag:35*ga:5*ag:1*ca:12*gt:44*ct:17*ga:5*ca:23*ag:32
+1178 1336 | 805 647 | 159 159 | 99.04 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000110.1 k141_376 | cs:Z::64*tc:59*ag:34
+6422 7105 | 684 1 | 684 684 | 99.85 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000003.1 k141_99 | cs:Z::49*gt:634
+226282 226792 | 1 511 | 511 511 | 100.0 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000002.1 k141_380 | cs:Z::511 ambiguous
+1552503 1553013 | 511 1 | 511 511 | 99.8 | Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1 k141_380 | cs:Z::162*ag:348 ambiguous
+3761407 3761917 | 1 511 | 511 511 | 99.61 | Klebsiella_pneumoniae_NZ_CP047271.1 k141_380 | cs:Z::309*ga:38*tc:162 ambiguous
+307028 307582 | 1 555 | 555 555 | 99.64 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000001.1 k141_381 | cs:Z::247*ag:229*ga:77 ambiguous
+3978456 3979010 | 1 555 | 555 555 | 99.28 | Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1 k141_381 | cs:Z::247*ag:1*ag:2*ag:224*ga:77 ambiguous
+1442307 1442861 | 555 1 | 555 555 | 99.1 | Klebsiella_pneumoniae_NZ_CP047271.1 k141_381 | cs:Z::77*ct:62*ag:161*tc:2*tc:1*tc:247 ambiguous
+13160 13732 | 573 1 | 573 573 | 99.65 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000037.1 k141_104 | cs:Z::522*tc:37*tc:12 ambiguous
+560907 561479 | 573 1 | 573 573 | 99.3 | Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1 k141_104 | cs:Z::169*cg:122*gt:229*tc:37*tc:12 ambiguous
+4702164 4702736 | 1 573 | 573 573 | 99.13 | Klebsiella_pneumoniae_NZ_CP047271.1 k141_104 | cs:Z::12*ag:37*ag:55*tc:39*tg:133*ca:292 ambiguous
+1830 2566 | 1 738 | 737 738 | 99.73 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000054.1 k141_106 | cs:Z::174+a:485*tg:77
+24309 26326 | 2018 1 | 2018 2018 | 100.0 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000036.1 k141_382 | cs:Z::2018
+35939 36461 | 526 4 | 523 523 | 99.81 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000001.1 k141_109 | cs:Z::497*ac:25 ambiguous
+3702378 3702900 | 526 4 | 523 523 | 99.62 | Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1 k141_109 | cs:Z::321*ct:175*ac:25 ambiguous
+1712956 1713478 | 4 526 | 523 523 | 99.04 | Klebsiella_pneumoniae_NZ_CP047271.1 k141_109 | cs:Z::25*tg:40*tc:42*tc:91*ga:111*ga:209 ambiguous
+19414 19959 | 3 548 | 546 546 | 100.0 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000042.1 k141_385 | cs:Z::546
+8521 9374 | 854 1 | 854 854 | 100.0 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000036.1 k141_110 | cs:Z::854
+3382 4774 | 1393 1 | 1393 1393 | 100.0 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000053.1 k141_402 | cs:Z::1393
+182138 183337 | 1341 142 | 1200 1200 | 99.0 | Klebsiella_pneumoniae_NZ_CP047272.1 k141_404 | cs:Z::250*ct:141*ct:160*ct:110*at:11*ca:338*at*gt:1*gc*ga*tc:3*ag:2*ct:172 ambiguous
+455 1652 | 1339 142 | 1198 1198 | 100.0 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000099.1 k141_404 | cs:Z::1198 ambiguous
+3035861 3037064 | 138 1341 | 1204 1204 | 99.17 | Klebsiella_pneumoniae_NZ_CP047271.1 k141_404 | cs:Z::176*ga:2*tc:3*ag*ct*cg:1*ca*ta:461*ga:302*ga:188*ac:61 ambiguous
+129183 130381 | 142 1340 | 1199 1199 | 99.08 | Klebsiella_pneumoniae_NZ_CP047271.1 k141_404 | cs:Z::172*ga:2*tc:3*ag*ct*cg:1*ca*ta:461*ga:160*ga:140*ga*ga:249 ambiguous
+455 1652 | 1339 142 | 1198 1198 | 100.0 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000099.1 k141_404 | cs:Z::1198
+10338 11121 | 1 784 | 784 784 | 100.0 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000039.1 k141_405 | cs:Z::784
+22268 23010 | 743 1 | 743 743 | 99.87 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000036.1 k141_406 | cs:Z::675*ca:67
+2168 4084 | 1 1917 | 1917 1917 | 100.0 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000061.1 k141_410 | cs:Z::1917
+22325 22877 | 553 1 | 553 553 | 99.82 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000040.1 k141_411 | cs:Z::15*cg:537
+538415 539269 | 1 855 | 855 855 | 99.88 | Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1 k141_412 | cs:Z::362*ag:492 ambiguous
+8018 8872 | 855 1 | 855 855 | 99.88 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000016.1 k141_412 | cs:Z::492*tc:362 ambiguous
+4723271 4724125 | 855 1 | 855 855 | 99.77 | Klebsiella_pneumoniae_NZ_CP047271.1 k141_412 | cs:Z::492*tc:285*tc:76 ambiguous
+21783 22458 | 676 1 | 676 676 | 100.0 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000039.1 k141_413 | cs:Z::676
+2539 3093 | 1 555 | 555 555 | 100.0 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000053.1 k141_415 | cs:Z::555
+3927247 3927752 | 1 506 | 506 506 | 100.0 | Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1 k141_417 | cs:Z::506 ambiguous
+255982 256487 | 1 506 | 506 506 | 100.0 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000001.1 k141_417 | cs:Z::506 ambiguous
+1493407 1493912 | 506 1 | 506 506 | 99.21 | Klebsiella_pneumoniae_NZ_CP047271.1 k141_417 | cs:Z::28*ct:92*ag:49*gt:218*ag:115 ambiguous
+7027 7734 | 708 1 | 708 708 | 99.86 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000054.1 k141_423 | cs:Z::685*ag:22
+38952 39484 | 533 1 | 533 533 | 100.0 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000018.1 k141_429 | cs:Z::533 ambiguous
+1411758 1412289 | 1 533 | 532 533 | 99.81 | Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1 k141_429 | cs:Z::174+t:358 ambiguous
+3894587 3895118 | 533 1 | 532 533 | 99.06 | Klebsiella_pneumoniae_NZ_CP047271.1 k141_429 | cs:Z::121*tg:53*cg:105*ga:68*ga:3+a:178 ambiguous
+34927 35482 | 556 1 | 556 556 | 100.0 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000017.1 k141_432 | cs:Z::556 ambiguous
+4919962 4920517 | 556 1 | 556 556 | 99.82 | Klebsiella_pneumoniae_NZ_CP047271.1 k141_432 | cs:Z::440*tc:115 ambiguous
+350924 351479 | 1 556 | 556 556 | 99.46 | Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1 k141_432 | cs:Z::98*ag:47*ga:95*ct:313 ambiguous
+5008796 5010518 | 1 1722 | 1723 1722 | 99.59 | Klebsiella_pneumoniae_NZ_CP047271.1 k141_435 | cs:Z::17*gt:226*ct:50-t*ca:104*ga:7*ct:607*ac:705
+16994 17538 | 545 1 | 545 545 | 99.27 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000023.1 k141_436 | cs:Z::26*tg:165*ta:5*gt:11*ac:334 ambiguous
+4059587 4060131 | 545 1 | 545 545 | 98.9 | Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1 k141_436 | cs:Z::26*tg:165*ta:5*gt:11*ac:237*gc:83*ct:12 ambiguous
+48991 49614 | 1 624 | 624 624 | 100.0 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000017.1 k141_439 | cs:Z::624 ambiguous
+4934024 4934647 | 1 624 | 624 624 | 100.0 | Klebsiella_pneumoniae_NZ_CP047271.1 k141_439 | cs:Z::624 ambiguous
+336791 337414 | 624 1 | 624 624 | 99.84 | Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1 k141_439 | cs:Z::83*tc:540 ambiguous
+49470 50034 | 1 565 | 565 565 | 100.0 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000001.1 k141_443 | cs:Z::565 ambiguous
+1699385 1699949 | 565 1 | 565 565 | 99.29 | Klebsiella_pneumoniae_NZ_CP047271.1 k141_443 | cs:Z::404*ga:76*at:3*gc:2*ct:76 ambiguous
+23036 23764 | 729 1 | 729 729 | 100.0 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000036.1 k141_444 | cs:Z::729
+9788 10310 | 1 523 | 523 523 | 100.0 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000039.1 k141_445 | cs:Z::523
+7748 8456 | 1 709 | 709 709 | 100.0 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000044.1 k141_446 | cs:Z::709 ambiguous
+4866094 4866802 | 709 1 | 709 709 | 99.58 | Klebsiella_pneumoniae_NZ_CP047271.1 k141_446 | cs:Z::341*ga:47*gt:227*ga:91 ambiguous
+403884 404592 | 1 709 | 709 709 | 99.44 | Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1 k141_446 | cs:Z::21*tc:69*ct:180*ag:46*ca:389 ambiguous
+23 690 | 8 675 | 668 668 | 100.0 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000072.1 k141_448 | cs:Z::668
+2117 2624 | 508 1 | 508 508 | 100.0 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000013.1 k141_456 | cs:Z::508 ambiguous
+3082557 3083064 | 508 1 | 508 508 | 99.41 | Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1 k141_456 | cs:Z::82*ct:66*cg:227*ag:130 ambiguous
+54637 55414 | 1 778 | 778 778 | 100.0 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000016.1 k141_117 | cs:Z::778 ambiguous
+4763560 4764337 | 1 778 | 778 778 | 99.74 | Klebsiella_pneumoniae_NZ_CP047271.1 k141_117 | cs:Z::120*gc:538*at:118 ambiguous
+497794 498571 | 778 1 | 778 778 | 99.36 | Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1 k141_117 | cs:Z::118*ta:188*ct:71*ca:26*ga:250*cg:120 ambiguous
+4818 5917 | 1100 1 | 1100 1100 | 99.91 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000066.1 k141_118 | cs:Z::252*ga:847
+29396 29920 | 1 525 | 525 525 | 100.0 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000039.1 k141_122 | cs:Z::525
+8848 9358 | 511 1 | 511 511 | 99.61 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000005.1 k141_123 | cs:Z::13*tg:20*tg:476
+5148915 5150108 | 6 1200 | 1194 1195 | 99.83 | Klebsiella_pneumoniae_NZ_CP047271.1 k141_458 | cs:Z::316+t:853*gt:24 ambiguous
+5057124 5058325 | 1 1200 | 1202 1200 | 99.33 | Klebsiella_pneumoniae_NZ_CP047271.1 k141_458 | cs:Z::303*ct:4*ag:2-a*ct:8*cg:1-a:28*ag:824*gt:24 ambiguous
+121233 122434 | 1200 1 | 1202 1200 | 99.0 | Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1 k141_458 | cs:Z::24*ca:270*ta*cg:8*gc*at:542*tc:28-t:1*gc:8-g*ta:2*tc:4*ga:303 ambiguous
+1036781 1037974 | 1200 6 | 1194 1195 | 99.41 | Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1 k141_458 | cs:Z::24*ca:270*ta*cg:8*gc*at:115*tc:451+a:320 ambiguous
+2476 3015 | 1 540 | 540 540 | 99.81 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000072.1 k141_125 | cs:Z::38*tg:501
+93257 93792 | 11 546 | 536 536 | 98.51 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000003.1 k141_462 | cs:Z::16*gc:19*cg:6*ga:5*ac:4*ac:70*ac:19*tc:375*tc:14 ambiguous
+4061202 4061737 | 11 546 | 536 536 | 98.51 | Klebsiella_pneumoniae_NZ_CP047271.1 k141_462 | cs:Z::16*gc:19*cg:6*ga:5*ac:4*ac:70*ac:19*tc:375*tc:14 ambiguous
+1267780 1268315 | 546 11 | 536 536 | 98.32 | Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1 k141_462 | cs:Z::14*ag:246*ac:128*ag:19*tg:70*tg:4*tg:5*ct:6*gc:19*cg:16 ambiguous
+93257 93792 | 11 546 | 536 536 | 98.51 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000003.1 k141_462 | cs:Z::16*gc:19*cg:6*ga:5*ac:4*ac:70*ac:19*tc:375*tc:14
+271607 272212 | 1 606 | 606 606 | 99.83 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000001.1 k141_467 | cs:Z::259*ac:346 ambiguous
+3942873 3943478 | 1 606 | 606 606 | 99.67 | Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1 k141_467 | cs:Z::102*ga:156*ac:346 ambiguous
+1477680 1478285 | 606 1 | 606 606 | 99.34 | Klebsiella_pneumoniae_NZ_CP047271.1 k141_467 | cs:Z::346*tg:123*ct:32*ct:37*tc:64 ambiguous
+440 1088 | 1 649 | 649 649 | 100.0 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000121.1 k141_468 | cs:Z::649 ambiguous
+4052994 4053644 | 651 1 | 651 651 | 100.0 | Klebsiella_pneumoniae_NZ_CP047271.1 k141_468 | cs:Z::651 ambiguous
+27746 27921 | 651 824 | 176 174 | 98.86 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000003.1 k141_468 | cs:Z::111-tg:63 ambiguous
+440 1088 | 1 649 | 649 649 | 100.0 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000121.1 k141_468 | cs:Z::649
+27746 27921 | 651 824 | 176 174 | 98.86 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000003.1 k141_468 | cs:Z::111-tg:63
+1800645 1801144 | 1 500 | 500 500 | 100.0 | Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1 k141_470 | cs:Z::500 ambiguous
+49549 50048 | 1 500 | 500 500 | 100.0 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000025.1 k141_470 | cs:Z::500 ambiguous
+3513470 3513969 | 500 1 | 500 500 | 99.6 | Klebsiella_pneumoniae_NZ_CP047271.1 k141_470 | cs:Z::373*ct:58*tg:67 ambiguous
+1 140 | 140 1 | 140 140 | 100.0 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000039.1 k141_474 | cs:Z::140 ambiguous
+1 242 | 242 1 | 242 242 | 97.12 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000046.1 k141_474 | cs:Z::12+t:41-g:56*ct*ct:47*cg:32*tc:5*ag:43 ambiguous
+1 671 | 188 858 | 671 671 | 100.0 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000061.1 k141_474 | cs:Z::671 ambiguous
+6950 7645 | 858 163 | 696 696 | 98.85 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000064.1 k141_474 | cs:Z::41*ga:58*ag:47*tc:2*ca:5*tc:122*ga:19*ga:147*tg:247 ambiguous
+1 140 | 140 1 | 140 140 | 100.0 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000039.1 k141_474 | cs:Z::140
+6950 7645 | 858 163 | 696 696 | 98.85 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000064.1 k141_474 | cs:Z::41*ga:58*ag:47*tc:2*ca:5*tc:122*ga:19*ga:147*tg:247
+5640 6256 | 617 1 | 617 617 | 100.0 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000061.1 k141_477 | cs:Z::617
+1 442 | 442 1 | 442 442 | 100.0 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000121.1 k141_478 | cs:Z::442 ambiguous
+17 464 | 1 448 | 448 448 | 100.0 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000070.1 k141_478 | cs:Z::448 ambiguous
+4053642 4054089 | 1 448 | 448 448 | 100.0 | Klebsiella_pneumoniae_NZ_CP047271.1 k141_478 | cs:Z::448 ambiguous
+27685 27752 | 515 448 | 68 68 | 100.0 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000003.1 k141_478 | :68 ambiguous
+27359 27627 | 841 573 | 269 269 | 99.63 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000003.1 k141_478 | :266*ga:2 ambiguous
+17 464 | 1 448 | 448 448 | 100.0 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000070.1 k141_478 | cs:Z::448
+27685 27751 | 515 449 | 67 67 | 100.0 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000003.1 k141_478 | cs:Z::67
+27359 27627 | 841 573 | 269 269 | 99.63 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000003.1 k141_478 | :266*ga:2
+677 2507 | 1831 1 | 1831 1831 | 99.95 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000087.1 k141_479 | cs:Z::213*ga:1617
+4416951 4417478 | 528 1 | 528 528 | 99.81 | Klebsiella_pneumoniae_NZ_CP047271.1 k141_482 | cs:Z::212*ca:315 ambiguous
+216562 217089 | 1 528 | 528 528 | 99.81 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000005.1 k141_482 | cs:Z::315*gt:212 ambiguous
+913484 914011 | 1 528 | 528 528 | 99.62 | Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1 k141_482 | cs:Z::128*ag:186*gt:212 ambiguous
+21083 21633 | 551 1 | 551 551 | 100.0 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000041.1 k141_483 | cs:Z::551 ambiguous
+4644984 4645534 | 551 1 | 551 551 | 99.64 | Klebsiella_pneumoniae_NZ_CP047271.1 k141_483 | cs:Z::389*ga:14*ct:146 ambiguous
+692500 693050 | 1 551 | 551 551 | 99.46 | Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1 k141_483 | cs:Z::146*ga:14*ct:88*ag:300 ambiguous
+1299 2085 | 1 787 | 787 787 | 99.87 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000016.1 k141_485 | cs:Z::686*tc:100 ambiguous
+4716551 4717337 | 1 787 | 787 787 | 99.24 | Klebsiella_pneumoniae_NZ_CP047271.1 k141_485 | cs:Z::30*ct:378*ga:248*ag:27*tc:7*ca:25*tc:66 ambiguous
+3202 3685 | 27 510 | 484 484 | 100.0 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000017.1 k141_489 | cs:Z::484 ambiguous
+380871 381354 | 510 27 | 484 484 | 99.38 | Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1 k141_489 | cs:Z::290*tc:59*tc:113*tc:19 ambiguous
+3202 3685 | 27 510 | 484 484 | 100.0 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000017.1 k141_489 | cs:Z::484
+89033 89578 | 546 1 | 546 546 | 100.0 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000018.1 k141_492 | cs:Z::546 ambiguous
+1361399 1361944 | 1 546 | 546 546 | 99.82 | Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1 k141_492 | cs:Z::41*ga:504 ambiguous
+118202 118770 | 1 569 | 569 569 | 100.0 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000005.1 k141_496 | cs:Z::569
+2257 2903 | 1 647 | 647 647 | 100.0 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000022.1 k141_500 | cs:Z::647 ambiguous
+4390096 4390742 | 647 1 | 647 647 | 99.69 | Klebsiella_pneumoniae_NZ_CP047271.1 k141_500 | cs:Z::322*ga:180*gt:143 ambiguous
+940642 941288 | 1 647 | 647 647 | 99.07 | Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1 k141_500 | cs:Z::143*ca:180*ct:42*ag:3*ct:1*cg:125*tc:147 ambiguous
+2095187 2096281 | 1 1095 | 1095 1095 | 99.45 | Klebsiella_pneumoniae_NZ_CP047271.1 k141_505 | cs:Z::165*tg:100*at:126*gc:3*cg:26*ac:48*gt:621
+3396 3827 | 1 432 | 432 432 | 99.77 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000066.1 k141_507 | cs:Z::423*ag:8
+23026 24047 | 1 1022 | 1022 1022 | 99.9 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000026.1 k141_511 | cs:Z::491*ta:530 ambiguous
+159917 160938 | 1 1022 | 1022 1022 | 98.92 | Klebsiella_pneumoniae_NZ_CP047271.1 k141_511 | cs:Z::491*ta:45*at:60*ct:8*ct:5*ga:46*tc:27*ga:38*ca:16*tc:18*tc:194*ag:63 ambiguous
+1001 1561 | 1 561 | 561 561 | 100.0 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000066.1 k141_513 | cs:Z::561
+28675 29210 | 536 1 | 536 536 | 99.81 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000005.1 k141_517 | cs:Z::7*tc:528 ambiguous
+4592749 4593284 | 1 536 | 536 536 | 99.07 | Klebsiella_pneumoniae_NZ_CP047271.1 k141_517 | cs:Z::303*ac:52*tc:98*tc:5*ga:66*ag:7 ambiguous
+7115 8106 | 992 1 | 992 992 | 100.0 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000036.1 k141_518 | cs:Z::992
+6955 7920 | 1 966 | 966 966 | 100.0 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000053.1 k141_519 | cs:Z::966
+128944 129448 | 1 505 | 505 505 | 100.0 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000002.1 k141_522 | cs:Z::505 ambiguous
+3664653 3665157 | 1 505 | 505 505 | 99.8 | Klebsiella_pneumoniae_NZ_CP047271.1 k141_522 | cs:Z::184*ta:320 ambiguous
+1649854 1650358 | 505 1 | 505 505 | 99.8 | Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1 k141_522 | cs:Z::219*ct:285 ambiguous
+3329 4337 | 1009 1 | 1009 1009 | 99.41 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000036.1 k141_527 | cs:Z::26*tg:2*cg:4*tg:35*ac:2*tg:14*ac:920 ambiguous
+130857 131865 | 1009 1 | 1009 1009 | 99.41 | Klebsiella_pneumoniae_NZ_CP047272.1 k141_527 | cs:Z::26*tg:2*cg:4*tg:35*ac:2*tg:14*ac:920 ambiguous
+34062 34575 | 514 1 | 514 514 | 100.0 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000007.1 k141_528 | cs:Z::514 ambiguous
+4579777 4580290 | 1 514 | 514 514 | 99.61 | Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1 k141_528 | cs:Z::49*tc:133*ag:330 ambiguous
+5252305 5253844 | 1540 1 | 1540 1540 | 99.74 | Klebsiella_pneumoniae_NZ_CP047271.1 k141_530 | cs:Z::821*ga:254*ag:392*ct:30*ga:39 ambiguous
+259132 260671 | 1 1540 | 1540 1540 | 99.55 | Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1 k141_530 | cs:Z::66*ca:173*tc:60*tc:161*tc:1*ag:252*ct:486*tc:334 ambiguous
+4654297 4655836 | 1540 1 | 1540 1540 | 99.48 | Klebsiella_pneumoniae_NZ_CP047271.1 k141_530 | cs:Z::334*ag:486*ga:413*ta:1*at*ag:2*at:83*cg*at:213 ambiguous
+1288011 1289546 | 1 1540 | 1536 1540 | 99.42 | Klebsiella_pneumoniae_NZ_CP047271.1 k141_530 | cs:Z::39*ct:261*tc:34*ta:4+tgaa:373*ct:486*tc:334 ambiguous
+5010844 5012383 | 1540 1 | 1540 1540 | 99.29 | Klebsiella_pneumoniae_NZ_CP047271.1 k141_530 | cs:Z::334*ag:486*ga:212*tc*ga:6*ct*ag:194*ag:86*cg*at:146*gt:26*ga:39 ambiguous
+682346 683875 | 1 1530 | 1530 1530 | 99.74 | Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1 k141_530 | cs:Z::66*ca:146*ta*ac:86*tc:1228 ambiguous
+307655 308159 | 505 1 | 505 505 | 99.6 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000001.1 k141_535 | cs:Z::417*ta:79*ac:7 ambiguous
+3979083 3979587 | 505 1 | 505 505 | 99.41 | Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1 k141_535 | cs:Z::186*ct:230*ta:79*ac:7 ambiguous
+1441730 1442234 | 1 505 | 505 505 | 99.21 | Klebsiella_pneumoniae_NZ_CP047271.1 k141_535 | cs:Z::7*tg:79*at:230*ga:2*gt:183 ambiguous
+77493 78006 | 514 1 | 514 514 | 99.03 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000010.1 k141_536 | cs:Z::22*gt:22*ac:4*ct:26*ag:29*tc:406 ambiguous
+1811295 1811808 | 1 514 | 514 514 | 98.64 | Klebsiella_pneumoniae_NZ_CP047271.1 k141_536 | cs:Z::9*ac:230*tc:165*ag:29*tc:26*ga:4*tg:22*ca:22 ambiguous
+2031493 2032006 | 1 514 | 514 514 | 98.44 | Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1 k141_536 | cs:Z::195*ag:134*cg:51*tc:23*ag:29*tc:26*ga:4*tg:22*ca:22 ambiguous
+125 951 | 1 827 | 827 827 | 99.15 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000088.1 k141_537 | cs:Z::7*ag:4*tg:8*gc:47*tg:33*tc:59*ga:74*at:588
+286 1139 | 1 854 | 854 854 | 99.77 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000110.1 k141_539 | cs:Z::302*tg:2*tc:548
+4759 6317 | 1 1559 | 1559 1559 | 99.87 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000053.1 k141_541 | cs:Z::83*tg:548*ta:926
+19797 21709 | 1 1913 | 1913 1913 | 100.0 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000039.1 k141_543 | cs:Z::1913
+196488 197134 | 647 1 | 647 647 | 99.69 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000001.1 k141_545 | cs:Z::43*at:253*tg:349 ambiguous
+3867749 3868395 | 647 1 | 647 647 | 98.92 | Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1 k141_545 | cs:Z::43*at:253*tg:57*tc:17*ga:8*cg:2*tg:227*ag:33 ambiguous
+1552764 1553410 | 1 647 | 647 647 | 98.92 | Klebsiella_pneumoniae_NZ_CP047271.1 k141_545 | cs:Z::129*ct:131*ac:2*gc:8*ct:17*ag:57*ac:253*ta:43 ambiguous
+1324 3552 | 2229 1 | 2229 2229 | 100.0 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000069.1 k141_549 | cs:Z::2229
+15630 16171 | 1 542 | 542 542 | 100.0 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000046.1 k141_550 | cs:Z::542
+86227 86756 | 1 530 | 530 530 | 99.81 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000011.1 k141_553 | cs:Z::445*gc:84 ambiguous
+39761 40290 | 530 1 | 530 530 | 99.25 | Klebsiella_pneumoniae_NZ_CP047271.1 k141_553 | cs:Z::84*cg:41*tc:32*ga:5*tg:364 ambiguous
+5303181 5303710 | 1 530 | 530 530 | 99.06 | Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1 k141_553 | cs:Z::220*ag:53*tc:95*ct:32*ag:41*gc:84 ambiguous
+4236 6955 | 2721 1 | 2720 2721 | 99.93 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000039.1 k141_554 | cs:Z::454+a:60*tc:2205
+34553 35122 | 1 570 | 570 570 | 99.82 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000014.1 k141_555 | cs:Z::563*tc:6
+14885 15588 | 704 1 | 704 704 | 99.86 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000039.1 k141_130 | cs:Z::422*ta:281
+17073 17639 | 1 567 | 567 567 | 100.0 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000034.1 k141_556 | cs:Z::567
+24639 25141 | 1 503 | 503 503 | 100.0 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000040.1 k141_557 | cs:Z::503
+85078 85854 | 780 4 | 777 777 | 98.07 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000017.1 k141_558 | cs:Z::11*gc:1*cg:27*gc:4*ag:1*cg:8*cg:18*ga:19-g:5*tc:2*tg:2+c:3*tc:1*gc:26*ac:11*ag:624 ambiguous
+4970110 4970886 | 780 4 | 777 777 | 97.69 | Klebsiella_pneumoniae_NZ_CP047271.1 k141_558 | cs:Z::11*gc:1*cg:27*gc:4*ag:1*cg:8*cg:18*ga:19-g:5*tc:2*tg:2+c:3*tc:1*gc:26*ac:11*ag:319*ga:44*ga:185*ga:73 ambiguous
+300553 301329 | 4 780 | 777 777 | 97.56 | Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1 k141_558 | cs:Z::70*tc:2*ct:24*tc:160*ct:364*tc:11*tg:26*cg:1*ag:1+g:4*ac:2*ag:4-c:20*ct:18*gc:8*gc:1*tc:4*cg:27*gc:1*cg:11 ambiguous
+85078 85854 | 780 4 | 777 777 | 98.07 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000017.1 k141_558 | cs:Z::11*gc:1*cg:27*gc:4*ag:1*cg:8*cg:18*ga:19-g:5*tc:2*tg:2+c:3*tc:1*gc:26*ac:11*ag:624
+3644 4518 | 875 1 | 875 875 | 99.77 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000054.1 k141_134 | cs:Z::737*gt:16*tg:120
+70964 71630 | 1 667 | 667 667 | 99.85 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000012.1 k141_559 | cs:Z::393*tc:273 ambiguous
+2235071 2235737 | 667 1 | 667 667 | 99.85 | Klebsiella_pneumoniae_NZ_CP047271.1 k141_559 | cs:Z::273*ag:393 ambiguous
+91685 92175 | 10 500 | 491 491 | 98.98 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000018.1 k141_135 | cs:Z::18*tg:2*tg*at:30*tg:7*gt:429 ambiguous
+1358802 1359292 | 500 10 | 491 491 | 98.57 | Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1 k141_135 | cs:Z::14*ct:305*ct:108*ca:7*ac:30*ta*ac:2*ac:18 ambiguous
+3948353 3948843 | 10 500 | 491 491 | 98.37 | Klebsiella_pneumoniae_NZ_CP047271.1 k141_135 | cs:Z::18*tg:2*tg*at:30*tg:7*gt:108*ga:290*at:14*ga:14 ambiguous
+129288 129872 | 585 1 | 585 585 | 100.0 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000015.1 k141_137 | cs:Z::585 ambiguous
+2717688 2718272 | 585 1 | 585 585 | 99.15 | Klebsiella_pneumoniae_NZ_CP047271.1 k141_137 | cs:Z::135*ct:200*ag:162*tc*ga:40*at:43 ambiguous
+82312 82922 | 1 611 | 611 611 | 99.84 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000016.1 k141_561 | cs:Z::317*ac:293 ambiguous
+4795402 4796012 | 1 611 | 611 611 | 99.51 | Klebsiella_pneumoniae_NZ_CP047271.1 k141_561 | cs:Z::43*ct:205*tc:67*ac:293 ambiguous
+472526 473136 | 611 1 | 611 611 | 99.35 | Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1 k141_561 | cs:Z::293*tg:19*tc:29*ag:223*ga:43 ambiguous
+11391 12107 | 1 717 | 717 717 | 100.0 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000021.1 k141_138 | cs:Z::717 ambiguous
+2037066 2037782 | 717 1 | 717 717 | 99.44 | Klebsiella_pneumoniae_NZ_CP047271.1 k141_138 | cs:Z::58*ga:8*ag:494*ct:119*ct:34 ambiguous
+2285449 2286165 | 717 1 | 717 717 | 99.16 | Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1 k141_138 | cs:Z::58*ga:170*ga:236*ag:38*ag:56*ct:119*ct:34 ambiguous
+15498 16152 | 1 655 | 655 655 | 99.54 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000040.1 k141_144 | cs:Z::192*gc:3*gc:13*ac:444 ambiguous
+666465 667118 | 2 655 | 654 654 | 99.39 | Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1 k141_144 | cs:Z::64*ac:126*gc:3*gc:13*ac:444 ambiguous
+1 2210 | 2210 1 | 2210 2210 | 100.0 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000036.1 k141_562 | cs:Z::2210
+28 630 | 2211 2813 | 603 603 | 100.0 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000076.1 k141_562 | cs:Z::603
+634 1284 | 1 651 | 651 651 | 100.0 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000069.1 k141_565 | cs:Z::651
+29438 30407 | 1 970 | 970 970 | 100.0 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000036.1 k141_147 | cs:Z::970
+107875 108391 | 517 1 | 517 517 | 100.0 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000004.1 k141_148 | cs:Z::517 ambiguous
+4708753 4709269 | 517 1 | 517 517 | 99.81 | Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1 k141_148 | cs:Z::87*tc:429 ambiguous
+632988 633503 | 1 516 | 516 516 | 100.0 | Klebsiella_pneumoniae_NZ_CP047271.1 k141_148 | cs:Z::516 ambiguous
+2156 3307 | 1153 1 | 1152 1153 | 99.65 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000066.1 k141_149 | cs:Z::148+a:575*ac:107*ct:6*ct:313
+330 1851 | 1 1522 | 1522 1522 | 100.0 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000039.1 k141_567 | cs:Z::1522
+43526 44150 | 1 625 | 625 625 | 99.84 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000026.1 k141_150 | cs:Z::17*ag:607 ambiguous
+180438 181062 | 1 625 | 625 625 | 99.52 | Klebsiella_pneumoniae_NZ_CP047271.1 k141_150 | cs:Z::17*ag:255*tg:91*cg:259 ambiguous
+6077 6889 | 813 1 | 813 813 | 98.77 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000054.1 k141_568 | cs:Z::24*ac:1*tg:9*ga*ac:13*gc:1*cg:1*at:5*ac:22*ac:43*gt:684
+19264 20517 | 16 1269 | 1254 1254 | 99.76 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000036.1 k141_153 | cs:Z::16*tg:60*tg:20*at:1155
+97392 97973 | 1 582 | 582 582 | 99.83 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000009.1 k141_155 | cs:Z::32*tg:549 ambiguous
+3350845 3351426 | 1 582 | 582 582 | 99.48 | Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1 k141_155 | cs:Z::32*tg:19*ga:339*ga:189 ambiguous
+3133657 3134238 | 1 582 | 582 582 | 99.14 | Klebsiella_pneumoniae_NZ_CP047271.1 k141_155 | cs:Z::32*tg:113*tg:17*ag:321*ct:22*ag:72 ambiguous
+35730 36303 | 574 1 | 574 574 | 100.0 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000034.1 k141_156 | cs:Z::574
+21769 22304 | 1 536 | 536 536 | 100.0 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000040.1 k141_160 | cs:Z::536
+22335 22853 | 519 1 | 519 519 | 100.0 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000042.1 k141_162 | cs:Z::519
+203451 203969 | 1 519 | 519 519 | 99.81 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000007.1 k141_163 | cs:Z::434*ag:84 ambiguous
+927428 927946 | 1 519 | 519 519 | 99.42 | Klebsiella_pneumoniae_NZ_CP047271.1 k141_163 | cs:Z::81*tc:24*gc:327*ag:84 ambiguous
+4425619 4426137 | 519 1 | 519 519 | 99.42 | Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1 k141_163 | cs:Z::24*tg:59*tc:327*cg:106 ambiguous
+37066 37574 | 509 1 | 509 509 | 100.0 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000004.1 k141_165 | cs:Z::509 ambiguous
+4637947 4638455 | 509 1 | 509 509 | 99.8 | Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1 k141_165 | cs:Z::12*ga:496 ambiguous
+703805 704313 | 1 509 | 509 509 | 99.8 | Klebsiella_pneumoniae_NZ_CP047271.1 k141_165 | cs:Z::496*ct:12 ambiguous
+25595 26385 | 791 1 | 791 791 | 100.0 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000039.1 k141_166 | cs:Z::791
+20790 21289 | 500 1 | 500 500 | 100.0 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000032.1 k141_172 | cs:Z::500
+21623 22286 | 664 1 | 664 664 | 100.0 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000036.1 k141_180 | cs:Z::664
+30520 31101 | 582 1 | 582 582 | 100.0 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000036.1 k141_182 | cs:Z::582
+20673 21511 | 1 839 | 839 839 | 100.0 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000016.1 k141_183 | cs:Z::839
+6949 8890 | 1942 1 | 1942 1942 | 100.0 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000039.1 k141_186 | cs:Z::1942
+5129 5875 | 1 749 | 747 749 | 99.6 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000054.1 k141_195 | cs:Z::161*at:43+t:171+t:371
+271986 272572 | 587 1 | 587 587 | 100.0 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000003.1 k141_196 | cs:Z::587
+99785 100303 | 1 520 | 519 520 | 99.42 | Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047676.1 k141_199 | cs:Z::185+t:302*ac:23*ca:7 ambiguous
+37425 37943 | 1 520 | 519 520 | 99.42 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000032.1 k141_199 | cs:Z::185+t:302*ac:23*ca:7 ambiguous
+99785 100303 | 1 520 | 519 520 | 99.42 | Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047676.1 k141_199 | cs:Z::185+t:302*ac:23*ca:7
+62592 63197 | 606 1 | 606 606 | 100.0 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000016.1 k141_204 | cs:Z::606 ambiguous
+4771515 4772120 | 606 1 | 606 606 | 99.83 | Klebsiella_pneumoniae_NZ_CP047271.1 k141_204 | cs:Z::528*ct:77 ambiguous
+490011 490616 | 1 606 | 606 606 | 99.83 | Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1 k141_204 | cs:Z::77*ga:528 ambiguous
+117199 118042 | 1 844 | 844 844 | 99.88 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000017.1 k141_206 | cs:Z::446*tg:397 ambiguous
+4996257 4997100 | 1 844 | 844 844 | 99.41 | Klebsiella_pneumoniae_NZ_CP047271.1 k141_206 | cs:Z::216*ga:5*ga:47*ga:71*ga:103*tg:397 ambiguous
+274341 275184 | 844 1 | 844 844 | 99.29 | Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1 k141_206 | cs:Z::397*ac:79*tc:23*ct:71*ct:47*ct:5*ct:216 ambiguous
+5145 5891 | 747 1 | 747 747 | 99.73 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000045.1 k141_210 | cs:Z::274*ca:18*tg:453 ambiguous
+224496 225242 | 1 747 | 747 747 | 99.6 | Klebsiella_pneumoniae_NZ_CP047271.1 k141_210 | cs:Z::453*ac:18*gt:75*ga:198 ambiguous
+5126300 5127046 | 747 1 | 747 747 | 99.33 | Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1 k141_210 | cs:Z::57*ag:140*ct:75*ca:18*tg:176*ag:276 ambiguous
+1544 2192 | 649 1 | 649 649 | 100.0 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000032.1 k141_211 | cs:Z::649
+10787 11622 | 1 836 | 836 836 | 99.88 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000036.1 k141_212 | cs:Z::674*ac:161
+338 584 | 247 1 | 247 247 | 100.0 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000021.1 k141_214 | cs:Z::247
+66442 67529 | 1088 1 | 1088 1088 | 99.82 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000017.1 k141_216 | cs:Z::268*ga:72*gt:746 ambiguous
+4951475 4952562 | 1088 1 | 1088 1088 | 99.17 | Klebsiella_pneumoniae_NZ_CP047271.1 k141_216 | cs:Z::138*ag:129*ga:72*gt:138*ta:89*ag:249*cg:1*ct:203*cg:8*ga:52 ambiguous
+318876 319963 | 1 1088 | 1088 1088 | 99.08 | Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1 k141_216 | cs:Z::52*ct:8*gc:203*ga:1*gc:339*at:138*ca:72*ct:85*ga:58*tc:47*tc:75 ambiguous
+1561 1904 | 1 344 | 344 344 | 99.71 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000103.1 k141_218 | cs:Z::23*ct:320 ambiguous
+166480 166832 | 353 1 | 353 353 | 99.15 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000012.1 k141_218 | cs:Z::11*tg:19*ct:164*ct:156 ambiguous
+45 575 | 1 531 | 531 531 | 99.81 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000135.1 k141_218 | cs:Z::23*ct:507 ambiguous
+1 498 | 196 693 | 498 498 | 99.8 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000114.1 k141_218 | cs:Z::396*tc:101 ambiguous
+45 575 | 1 531 | 531 531 | 99.81 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000135.1 k141_218 | cs:Z::23*ct:507
+337 498 | 532 693 | 162 162 | 99.8 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000114.1 k141_218 | cs:Z::60*tc:101
+27685 28310 | 626 1 | 626 626 | 100.0 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000039.1 k141_220 | cs:Z::626
+8979 9893 | 1 919 | 915 919 | 99.56 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000053.1 k141_222 | cs:Z::879+cagc:36
+44530 45059 | 1 530 | 530 530 | 99.81 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000029.1 k141_223 | cs:Z::424*gt:105 ambiguous
+2310783 2311312 | 530 1 | 530 530 | 99.06 | Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1 k141_223 | cs:Z::105*ca:224*gc:53*tg:8*ga:107*tc:28 ambiguous
+188085 188658 | 1 574 | 574 574 | 100.0 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000010.1 k141_227 | cs:Z::574 ambiguous
+1902588 1903161 | 574 1 | 574 574 | 99.65 | Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1 k141_227 | cs:Z::114*ct:79*ag:379 ambiguous
+3411647 3412220 | 1 574 | 574 574 | 99.48 | Klebsiella_pneumoniae_NZ_CP047271.1 k141_227 | cs:Z::364*gc:14*tc:79*ga:114 ambiguous
+49913 50444 | 1 532 | 532 532 | 100.0 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000032.1 k141_229 | cs:Z::532
+6239 8006 | 1768 1 | 1768 1768 | 99.6 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000061.1 k141_230 | cs:Z::635*ag:458*gt:8*gc:20*ag:2*gc:11*tc:17*ga:610
+27446 27925 | 1 480 | 480 480 | 96.04 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000034.1 k141_232 | cs:Z::346*ga:2*cg:2*ct:2*ag:8*ag:1*ct*at:17*cg:19*ct:3*tc:1*ct:2*ta:3*tc:2*ct:5*tc:2*tc:14*gc:8*ct:10*ga:14
+18098 19076 | 979 1 | 979 979 | 99.9 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000039.1 k141_241 | cs:Z::356*ag:622
+1483 2179 | 697 1 | 697 697 | 99.86 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000072.1 k141_243 | cs:Z::122*cg:574
+103783 104396 | 1 614 | 614 614 | 100.0 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000017.1 k141_245 | cs:Z::614 ambiguous
+282009 282622 | 614 1 | 614 614 | 99.84 | Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1 k141_245 | cs:Z::457*gt:156 ambiguous
+4988818 4989431 | 1 614 | 614 614 | 99.84 | Klebsiella_pneumoniae_NZ_CP047271.1 k141_245 | cs:Z::156*ca:457 ambiguous
+182315 183048 | 734 1 | 734 734 | 100.0 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000003.1 k141_246 | cs:Z::734 ambiguous
+1178538 1179271 | 1 734 | 734 734 | 99.86 | Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1 k141_246 | cs:Z::215*ca:518 ambiguous
+4151322 4152055 | 734 1 | 734 734 | 99.73 | Klebsiella_pneumoniae_NZ_CP047271.1 k141_246 | cs:Z::44*ct:473*gt:215 ambiguous
+34810 35385 | 576 1 | 576 576 | 100.0 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000007.1 k141_249 | cs:Z::576
+16371 16930 | 560 1 | 560 560 | 100.0 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000028.1 k141_250 | cs:Z::560 ambiguous
+3431285 3431844 | 560 1 | 560 560 | 99.82 | Klebsiella_pneumoniae_NZ_CP047271.1 k141_250 | cs:Z::402*tc:157 ambiguous
+1882857 1883416 | 1 560 | 560 560 | 99.64 | Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1 k141_250 | cs:Z::329*tc:14*tc:215 ambiguous
+4733035 4733667 | 29 661 | 633 633 | 100.0 | Klebsiella_pneumoniae_NZ_CP047271.1 k141_252 | cs:Z::633 ambiguous
+23725 24357 | 29 661 | 633 633 | 100.0 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000016.1 k141_252 | cs:Z::633 ambiguous
+529067 529699 | 661 29 | 633 633 | 99.53 | Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1 k141_252 | cs:Z::20*ga:26*ct:71*tc:513 ambiguous
+4733035 4733667 | 29 661 | 633 633 | 100.0 | Klebsiella_pneumoniae_NZ_CP047271.1 k141_252 | cs:Z::633
+37395 38223 | 1 829 | 829 829 | 100.0 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000016.1 k141_254 | cs:Z::829 ambiguous
+4746703 4747531 | 1 829 | 829 829 | 99.52 | Klebsiella_pneumoniae_NZ_CP047271.1 k141_254 | cs:Z::232*ct:65*ct:2*ga:473*ct:53 ambiguous
+515200 516028 | 829 1 | 829 829 | 99.28 | Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1 k141_254 | cs:Z::194*tc:5*ga:62*tc:263*ct:2*ga:65*ga:232 ambiguous
+128503 129046 | 1 544 | 544 544 | 100.0 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000017.1 k141_256 | cs:Z::544 ambiguous
+5007561 5008104 | 1 544 | 544 544 | 99.82 | Klebsiella_pneumoniae_NZ_CP047271.1 k141_256 | cs:Z::238*ag:305 ambiguous
+263337 263880 | 544 1 | 544 544 | 99.63 | Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1 k141_256 | cs:Z::248*tc:56*tc:238 ambiguous
+150448 150816 | 467 99 | 369 369 | 95.39 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000012.1 k141_260 | :5*cg:4*ac:5*ct:4*ac:15*tc:5*at:3*gt:13*ct:12*gc:2*ac:19*cg:3*ag:144*ac:10*tg:2*gt:32*ag:58*tc:16
+13192 13800 | 608 1 | 609 608 | 99.84 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000017.1 k141_262 | cs:Z::264-c:344 ambiguous
+4898227 4898834 | 608 1 | 608 608 | 99.18 | Klebsiella_pneumoniae_NZ_CP047271.1 k141_262 | cs:Z::95*ac:62*ga:32*ac:71*ct:2*gc:341 ambiguous
+370757 371364 | 1 608 | 608 608 | 98.85 | Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1 k141_262 | cs:Z::341*cg:2*ga:71*tg:26*ag:5*ct:62*tg:75*cg:19 ambiguous
+204420 205001 | 1 582 | 582 582 | 100.0 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000004.1 k141_265 | cs:Z::582 ambiguous
+4805285 4805866 | 1 582 | 582 582 | 99.66 | Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1 k141_265 | cs:Z::101*ga:59*ca:420 ambiguous
+537977 538558 | 582 1 | 582 582 | 99.31 | Klebsiella_pneumoniae_NZ_CP047271.1 k141_265 | cs:Z::405*ag:14*gt:59*ct:14*ga:86 ambiguous
+37668 38180 | 1 513 | 513 513 | 99.81 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000019.1 k141_268 | cs:Z::420*gt:92 ambiguous
+58286 58798 | 1 513 | 513 513 | 99.22 | Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1 k141_268 | cs:Z::10*ag:185*ct:223*gt:34*ct:57 ambiguous
+6120 7016 | 1 897 | 897 897 | 99.78 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000017.1 k141_270 | cs:Z::327*gt:511*ga:57 ambiguous
+4891154 4892050 | 1 897 | 897 897 | 99.33 | Klebsiella_pneumoniae_NZ_CP047271.1 k141_270 | cs:Z::14*ag:35*tg:8*ag:45*ag:221*gt:511*ga:57 ambiguous
+377541 378437 | 897 1 | 897 897 | 99.11 | Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1 k141_270 | cs:Z::35*ct:9*ct:11*ct:394*ga:116*ca:221*tc:45*tc:44*tc:14 ambiguous
+1635 2169 | 1 535 | 535 535 | 100.0 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000080.1 k141_271 | cs:Z::535
+396302 396419 | 123 6 | 118 118 | 97.46 | Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1 k141_272 | cs:Z::82*ct:5*ga:16*ac:12 ambiguous
+396179 396300 | 125 4 | 122 122 | 98.36 | Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1 k141_272 | cs:Z::106*tc*ac:14 ambiguous
+1 1464 | 125 1588 | 1464 1464 | 99.93 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000109.1 k141_272 | cs:Z::1039*gt:424 ambiguous
+975005 976483 | 1589 111 | 1479 1479 | 99.66 | Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1 k141_272 | cs:Z::406*ga:18*ca:31*ga:35*ga:971*tc:13 ambiguous
+1460916 1462395 | 111 1590 | 1480 1480 | 99.66 | Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1 k141_272 | cs:Z::985*ct:35*ct:31*gt:18*ct:396*ag:10 ambiguous
+396180 396300 | 124 4 | 121 121 | 98.36 | Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1 k141_272 | cs:Z::105*tc*ac:14
+1 1464 | 125 1588 | 1464 1464 | 99.93 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000109.1 k141_272 | cs:Z::1039*gt:424
+1504 2087 | 1 584 | 584 584 | 100.0 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000005.1 k141_273 | cs:Z::584 ambiguous
+4619697 4620280 | 584 1 | 584 584 | 99.32 | Klebsiella_pneumoniae_NZ_CP047271.1 k141_273 | cs:Z::91*ag:150*ag:29*tc:254*gt:56 ambiguous
+715658 716241 | 1 584 | 584 584 | 99.32 | Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1 k141_273 | cs:Z::311*ag:29*tc:145*tg:53*gc:42 ambiguous
+2816 3366 | 1 551 | 551 551 | 99.27 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000002.1 k141_274 | cs:Z::34*cg:262*ga:5*tg:5*tg:241 ambiguous
+3531175 3531725 | 1 551 | 551 551 | 99.27 | Klebsiella_pneumoniae_NZ_CP047271.1 k141_274 | cs:Z::34*cg:262*ga:5*tg:5*tg:241 ambiguous
+1782888 1783438 | 551 1 | 551 551 | 98.73 | Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1 k141_274 | cs:Z::240*tc*ac:5*ac:5*ct:169*tg:49*tc:42*gc:34 ambiguous
+53818 54601 | 1 784 | 784 784 | 100.0 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000017.1 k141_276 | cs:Z::784 ambiguous
+331804 332587 | 784 1 | 784 784 | 99.87 | Klebsiella_pneumoniae_subsp._pneumoniae_NZ_CP047675.1 k141_276 | cs:Z::157*ag:626 ambiguous
+4938851 4939634 | 1 784 | 784 784 | 99.62 | Klebsiella_pneumoniae_NZ_CP047271.1 k141_276 | cs:Z::143*ct:11*ag:542*ac:85 ambiguous
+129730 130805 | 1076 1 | 1076 1076 | 100.0 | Klebsiella_pneumoniae_NZ_CP047272.1 k141_278 | cs:Z::1076 ambiguous
+2202 3277 | 1076 1 | 1076 1076 | 100.0 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000036.1 k141_278 | cs:Z::1076 ambiguous
+25097 25908 | 1 812 | 812 812 | 100.0 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000032.1 k141_283 | cs:Z::812
+3533 4591 | 1 1059 | 1059 1059 | 99.62 | Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20_NZ_AKAK01000069.1 k141_284 | cs:Z::655*ag:64*ct:3*tg:4*gc:329

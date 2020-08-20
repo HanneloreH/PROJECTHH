@@ -556,30 +556,6 @@ process input4{
     """
 }
 
-//Prep the scheme 
-// added this part because kept on having ERROR taht scheme was not prepped, even tough it was...
-process analysis{
-    publishDir "$analysisdir", mode:'copy', overwrite: true
-
-    input:
-    file(assembly) from input4analysis.last()
-
-    output:
-    file("Results/*")
-    file("Results/*/results_alleles.tsv") into toclean
-    file("Results/*/logging_info.txt") into ch_logging
-    file("Results/*/results_statistics.tsv") into ch_metad
-
-    script:
-    """
-    mkdir ${assembly}-analysis
-    chewBBACA.py AlleleCall -i $input4dir -g $inputscheme -o Results --cpu $params.cpu
-    """
-    //Because of compatibility problems, removed: "--ptf $trainingfile"
-}
-
-
-
 
 //do analysis
 process analysis{
@@ -597,7 +573,7 @@ process analysis{
     script:
     """
     mkdir ${assembly}-analysis
-    chewBBACA.py AlleleCall -i $input4dir -g $inputscheme -o Results --cpu $params.cpu
+    chewBBACA.py AlleleCall -i $input4dir -g $inputscheme -o Results --cpu $params.cpu --fr
     """
     //Because of compatibility problems, removed: "--ptf $trainingfile"
 }

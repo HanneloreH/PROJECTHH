@@ -49,7 +49,6 @@ def helpMessage() {
     --count     give a maximum number of reference assemblies to use in the scheme (default 100)
                 indicate "all" if you want to use all complete reference assemblies available at NCBI
     --cpu       give maximal number of cpu's
-    --env       give path to python3 environment (running e.g. chewBBACA...)
     --fastq     give one or more fastq files (zipped)
     --help      show help message
     --krakendb  give path to kraken database 
@@ -119,17 +118,6 @@ krakenx = trimFolder("$params.krakenout")
 krakenxres = krakenx + "/reports"
 krakenxmini = krakenx + "/mini-fastqs"
 krakendbx = trimFolder("$params.krakendb")
-envdir = trimFolder("$params.env")
-envactivate = envdir + "/bin/activate"
-
- // ===========================  Set Python3 environment ===========================
- 
-process environment {
-    script:
-    """
-    source $envactivate
-    """
-}
 
 
 

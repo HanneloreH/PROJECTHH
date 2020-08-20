@@ -1,0 +1,15 @@
+reference chromosomes:
+	Dickeya_chrysanthemi_NC_012912.1 (total length: 4813854 bp, total length without N's: 4813854 bp, maximal covered length: 1514 bp)
+
+total genome size: 4813854
+
+gap min size: 50
+partial gene/operon min size: 100
+
+
+
+assembly                 | genome    | duplication | gaps      | genes     | partial   | operons   | partial   |
+                         | fraction  | ratio       | number    |           | genes     |           | operons   |
+========================================================================================================================
+TRIM_ERR1795077_Illumina | 0.031     | 1.466       | 3         | -         | -         | -         | -         |
+TRIM_ERR1795087_Illumina | 0.003     | 1.000       | 2         | -         | -         | -         | -         |

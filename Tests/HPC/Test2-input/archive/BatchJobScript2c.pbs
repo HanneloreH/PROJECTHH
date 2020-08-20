@@ -1,0 +1,22 @@
+#!/bin/bash
+
+#PBS -k o    
+#PBS -k e    
+#PBS -l nodes=4:ppn=2
+#PBS -l mem=15gb
+#PBS -l walltime=02:00:00
+
+module purge
+module load Nextflow/20.01.0 
+module load R/3.6.2-foss-2019b 
+module load Miniconda3/4.7.10
+module load matplotlib
+
+cd $PBS_O_WORKDIR  
+echo Start Job
+date
+./Script2-input.sh
+echo End Job
+date
+
+

@@ -1,0 +1,10 @@
+[M::mm_idx_gen::0.131*1.00] collected minimizers
+[M::mm_idx_gen::0.166*1.00] sorted minimizers
+[M::main::0.166*1.00] loaded/built the index for 155 target sequence(s)
+[M::mm_mapopt_update::0.174*1.00] mid_occ = 200
+[M::mm_idx_stat] kmer size: 19; skip: 19; is_hpc: 0; #seq: 155
+[M::mm_idx_stat::0.181*1.00] distinct minimizers: 560479 (98.89% are singletons); average occurrences: 1.021; average spacing: 10.004
+[M::worker_pipeline::0.247*0.99] mapped 203 sequences
+[M::main] Version: 2.11-r797
+[M::main] CMD: /opt/quast-5.0.2/quast_libs/minimap2/minimap2 -c -x asm5 -B5 -O4,16 --no-long-join -r 85 -N 50 -s 65 -z 200 --mask-level 0.9 --min-occ 200 -g 2500 --score-N 2 --cs -t 1 /home/hannelore/PROJECTHH/Scripts/Pipeline/work/5b/fd06bcddfdd15e6ad5a6ca9bd7cd34/metaquast-results/quast_corrected_input/Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20.fasta /home/hannelore/PROJECTHH/Scripts/Pipeline/work/5b/fd06bcddfdd15e6ad5a6ca9bd7cd34/metaquast-results/quast_corrected_input/TRIM_ERR1795078_Illumina_MiSeq_paired_end_sequencing_EXP_6_1_2017_01_13_14_47_56_mini_1-contigs_to_Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20.fasta
+[M::main] Real time: 0.251 sec; CPU: 0.250 sec

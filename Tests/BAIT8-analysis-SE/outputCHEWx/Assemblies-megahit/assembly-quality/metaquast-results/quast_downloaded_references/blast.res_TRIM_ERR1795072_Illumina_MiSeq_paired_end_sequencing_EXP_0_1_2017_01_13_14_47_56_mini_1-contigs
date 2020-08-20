@@ -1,0 +1,2831 @@
+# BLASTN 2.10.0+
+# Query: k141_287 flag=1 multi=3.0000 len=303
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_0 flag=1 multi=1.0000 len=377
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_1 flag=1 multi=3.0000 len=417
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_288 flag=1 multi=1.0000 len=661
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_2 flag=1 multi=2.0000 len=516
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_289 flag=1 multi=2.0000 len=350
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_290 flag=1 multi=1.0000 len=313
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_3 flag=1 multi=2.0000 len=422
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_291 flag=1 multi=3.0000 len=395
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_4 flag=1 multi=2.0000 len=347
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_5 flag=1 multi=1.0000 len=364
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_292 flag=1 multi=1.0000 len=739
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_6 flag=1 multi=2.0000 len=401
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_293 flag=1 multi=2.0000 len=433
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_7 flag=1 multi=2.0000 len=517
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_294 flag=1 multi=2.0000 len=564
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_295 flag=1 multi=2.0000 len=510
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_296 flag=1 multi=2.0000 len=561
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_297 flag=1 multi=2.0000 len=491
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_298 flag=1 multi=1.0000 len=497
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_299 flag=1 multi=2.0000 len=408
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_300 flag=1 multi=2.0000 len=396
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_301 flag=1 multi=2.0000 len=385
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_302 flag=1 multi=3.0000 len=493
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_303 flag=1 multi=2.0000 len=384
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_304 flag=1 multi=2.0000 len=513
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_305 flag=1 multi=2.0000 len=326
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_306 flag=1 multi=3.0000 len=780
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_307 flag=1 multi=2.0000 len=471
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_308 flag=1 multi=2.0000 len=380
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_309 flag=1 multi=3.0000 len=500
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_310 flag=1 multi=2.0000 len=378
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_311 flag=1 multi=3.0000 len=840
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_312 flag=1 multi=2.0000 len=377
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_313 flag=1 multi=2.0000 len=430
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_314 flag=1 multi=2.0000 len=354
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_315 flag=1 multi=2.0000 len=571
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_316 flag=1 multi=2.0000 len=651
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_317 flag=1 multi=2.0000 len=562
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_318 flag=1 multi=2.0000 len=1005
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_319 flag=1 multi=3.0000 len=2141
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_320 flag=1 multi=1.0000 len=307
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_321 flag=1 multi=2.0000 len=381
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_322 flag=1 multi=3.0000 len=526
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_323 flag=1 multi=3.0000 len=306
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_324 flag=1 multi=2.0000 len=466
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_325 flag=1 multi=2.0000 len=326
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_326 flag=1 multi=2.0000 len=322
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_327 flag=1 multi=2.0000 len=393
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_328 flag=1 multi=2.0000 len=331
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_329 flag=1 multi=1.0000 len=553
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_330 flag=1 multi=1.0000 len=450
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_331 flag=1 multi=2.0000 len=524
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_332 flag=1 multi=2.0000 len=384
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_333 flag=1 multi=2.0000 len=330
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_334 flag=1 multi=2.0000 len=656
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_335 flag=1 multi=2.0000 len=470
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_336 flag=1 multi=2.0000 len=771
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_337 flag=1 multi=2.0000 len=510
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_338 flag=1 multi=2.0000 len=338
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_339 flag=1 multi=2.0000 len=313
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_340 flag=1 multi=1.0000 len=761
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_341 flag=1 multi=2.0000 len=331
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_342 flag=1 multi=2.0000 len=327
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_343 flag=1 multi=2.0000 len=513
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_344 flag=1 multi=2.0000 len=480
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_345 flag=1 multi=2.0000 len=360
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_346 flag=1 multi=2.0000 len=373
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_347 flag=1 multi=2.0000 len=370
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_348 flag=1 multi=2.0000 len=993
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_349 flag=1 multi=2.0000 len=715
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_350 flag=1 multi=2.0000 len=585
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_351 flag=1 multi=1.0000 len=541
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_352 flag=1 multi=2.0000 len=315
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_353 flag=1 multi=3.0000 len=639
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_354 flag=1 multi=1.0000 len=538
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_355 flag=1 multi=2.0000 len=368
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_356 flag=1 multi=2.0000 len=357
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_357 flag=1 multi=2.0000 len=435
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_358 flag=1 multi=3.0000 len=683
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_359 flag=1 multi=1.0000 len=569
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_360 flag=1 multi=2.0000 len=320
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_8 flag=1 multi=2.0000 len=710
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_9 flag=1 multi=2.0000 len=388
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_10 flag=1 multi=2.0000 len=475
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_11 flag=1 multi=1.0000 len=465
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_12 flag=1 multi=2.0000 len=335
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_13 flag=1 multi=3.0000 len=355
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_14 flag=1 multi=2.0000 len=488
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_15 flag=1 multi=2.0000 len=345
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_16 flag=1 multi=2.0000 len=528
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_17 flag=1 multi=2.0000 len=433
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_18 flag=1 multi=2.0000 len=470
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_19 flag=1 multi=2.0000 len=419
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_20 flag=1 multi=2.0000 len=342
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_21 flag=1 multi=3.0000 len=1508
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_22 flag=1 multi=2.0000 len=430
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_23 flag=1 multi=1.0000 len=479
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_24 flag=1 multi=2.0000 len=521
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_25 flag=1 multi=2.0000 len=458
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_361 flag=1 multi=2.0000 len=856
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_362 flag=1 multi=2.0000 len=391
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_26 flag=1 multi=2.0000 len=557
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_363 flag=1 multi=2.0000 len=556
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_27 flag=1 multi=1.0000 len=571
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_364 flag=1 multi=2.0000 len=464
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_28 flag=1 multi=3.0000 len=532
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_365 flag=1 multi=2.0000 len=465
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_366 flag=1 multi=2.0000 len=362
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_29 flag=1 multi=2.0000 len=639
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_367 flag=1 multi=2.0000 len=304
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_30 flag=1 multi=2.0000 len=422
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_368 flag=1 multi=2.0000 len=384
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_31 flag=1 multi=2.0000 len=370
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_369 flag=1 multi=2.0000 len=464
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_32 flag=1 multi=2.0000 len=693
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_370 flag=1 multi=2.0000 len=811
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_33 flag=1 multi=1.0000 len=528
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_34 flag=1 multi=2.0000 len=302
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_35 flag=1 multi=1.0000 len=311
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_36 flag=1 multi=2.0000 len=319
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_371 flag=1 multi=1.0000 len=766
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_37 flag=1 multi=2.0000 len=402
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_372 flag=1 multi=2.0000 len=421
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_373 flag=1 multi=2.0000 len=730
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_374 flag=1 multi=2.0000 len=352
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_375 flag=1 multi=2.0000 len=816
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_376 flag=1 multi=3.0000 len=395
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_38 flag=1 multi=5.0000 len=2010
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 500 hits found
+k141_38	JX406859.1.1633_Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Enterobacter;Klebsiella_sp._KV-3	99.388	1633	10	0	219	1851	1	1633	0.0	2963
+k141_38	CP009461.4744183.4745736_Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Klebsiella;Klebsiella_pneumoniae	100.000	1554	0	0	258	1811	1	1554	0.0	2870
+k141_38	JWRL01000001.43197.44750_Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Enterobacter;Klebsiella_pneumoniae	99.936	1554	1	0	258	1811	1	1554	0.0	2865
+k141_38	CP010392.5019897.5021450_Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Klebsiella;Klebsiella_pneumoniae	99.936	1554	1	0	258	1811	1	1554	0.0	2865
+k141_38	CP009771.258727.260280_Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Klebsiella;Klebsiella_pneumoniae_subsp._pneumoniae	99.936	1554	1	0	258	1811	1	1554	0.0	2865
+k141_38	CP010361.5041083.5042636_Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Klebsiella;Klebsiella_pneumoniae	99.936	1554	1	0	258	1811	1	1554	0.0	2865
+k141_38	CP009775.258727.260280_Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Klebsiella;Klebsiella_pneumoniae_subsp._pneumoniae	99.936	1554	1	0	258	1811	1	1554	0.0	2865
+k141_38	CP009775.632613.634166_Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Klebsiella;Klebsiella_pneumoniae_subsp._pneumoniae	99.807	1554	3	0	258	1811	1	1554	0.0	2854
+k141_38	CP010392.4647330.4648883_Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Klebsiella;Klebsiella_pneumoniae	99.807	1554	3	0	258	1811	1	1554	0.0	2854
+k141_38	CP010361.4668398.4669951_Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Klebsiella;Klebsiella_pneumoniae	99.807	1554	3	0	258	1811	1	1554	0.0	2854
+k141_38	JWRL01000010.1303.2856_Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Klebsiella;Klebsiella_pneumoniae	99.743	1554	4	0	258	1811	1	1554	0.0	2848
+k141_38	CP010392.450370.451923_Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Klebsiella;Klebsiella_pneumoniae	99.743	1554	4	0	258	1811	1	1554	0.0	2848
+k141_38	CP009775.5029069.5030622_Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Klebsiella;Klebsiella_pneumoniae_subsp._pneumoniae	99.743	1554	4	0	258	1811	1	1554	0.0	2848
+k141_38	CP010361.452681.454234_Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Klebsiella;Klebsiella_pneumoniae	99.743	1554	4	0	258	1811	1	1554	0.0	2848
+k141_38	CP009771.5067746.5069299_Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Klebsiella;Klebsiella_pneumoniae_subsp._pneumoniae	99.743	1554	4	0	258	1811	1	1554	0.0	2848
+k141_38	CP009114.4162124.4163677_Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Klebsiella;Klebsiella_pneumoniae	99.743	1554	4	0	258	1811	1	1554	0.0	2848
+k141_38	AOIZ01000132.143.1696_Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Klebsiella;Klebsiella_pneumoniae_hvKP1	99.743	1554	4	0	258	1811	1	1554	0.0	2848
+k141_38	CP010361.5086216.5087769_Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Klebsiella;Klebsiella_pneumoniae	99.678	1554	5	0	258	1811	1	1554	0.0	2843
+k141_38	CP009775.120523.122076_Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Klebsiella;Klebsiella_pneumoniae_subsp._pneumoniae	99.678	1554	5	0	258	1811	1	1554	0.0	2843
+k141_38	CP010392.5157074.5158627_Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Klebsiella;Klebsiella_pneumoniae	99.678	1554	5	0	258	1811	1	1554	0.0	2843
+k141_38	CP009876.120717.122270_Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Klebsiella;Klebsiella_pneumoniae_subsp._pneumoniae	99.678	1554	5	0	258	1811	1	1554	0.0	2843
+k141_38	CP009775.213594.215147_Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Klebsiella;Klebsiella_pneumoniae_subsp._pneumoniae	99.678	1554	5	0	258	1811	1	1554	0.0	2843
+k141_38	CP009771.120523.122076_Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Klebsiella;Klebsiella_pneumoniae_subsp._pneumoniae	99.678	1554	5	0	258	1811	1	1554	0.0	2843
+k141_38	CP009461.3859424.3860977_Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Klebsiella;Klebsiella_pneumoniae	99.678	1554	5	0	258	1811	1	1554	0.0	2843
+k141_38	CP008929.2734802.2736355_Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Klebsiella;Klebsiella_pneumoniae	99.678	1554	5	0	258	1811	1	1554	0.0	2843
+k141_38	CP006918.459788.461329_Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Klebsiella;Klebsiella_pneumoniae_30684/NJST258_2	99.935	1542	1	0	262	1803	1	1542	0.0	2843
+k141_38	AJZW01000110.294.1847_Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Enterobacter;Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH4	99.678	1554	5	0	258	1811	1	1554	0.0	2843
+k141_38	APGM01000001.4449798.4451351_Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Klebsiella;Klebsiella_pneumoniae_RYC492	99.678	1554	5	0	258	1811	1	1554	0.0	2843
+k141_38	CP000647.4755220.4756763_Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Klebsiella;Klebsiella_pneumoniae_subsp._pneumoniae_MGH_78578	99.870	1544	2	0	263	1806	1	1544	0.0	2841
+k141_38	CP000647.4663363.4664906_Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Klebsiella;Klebsiella_pneumoniae_subsp._pneumoniae_MGH_78578	99.870	1544	2	0	263	1806	1	1544	0.0	2841
+k141_38	AKAK01000096.276.1829_Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Enterobacter;Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20	99.614	1554	6	0	258	1811	1	1554	0.0	2837
+k141_38	CP010361.4296064.4297617_Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Klebsiella;Klebsiella_pneumoniae	99.614	1554	6	0	258	1811	1	1554	0.0	2837
+k141_38	CP009771.1004956.1006509_Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Klebsiella;Klebsiella_pneumoniae_subsp._pneumoniae	99.614	1554	6	0	258	1811	1	1554	0.0	2837
+k141_38	CP009775.1004953.1006506_Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Klebsiella;Klebsiella_pneumoniae_subsp._pneumoniae	99.614	1554	6	0	258	1811	1	1554	0.0	2837
+k141_38	CP010392.4275005.4276558_Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Klebsiella;Klebsiella_pneumoniae	99.614	1554	6	0	258	1811	1	1554	0.0	2837
+k141_38	JTAX01000002.2717210.2718763_Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Klebsiella;Klebsiella_pneumoniae	99.614	1554	6	0	258	1811	1	1554	0.0	2837
+k141_38	CP009114.4540209.4541762_Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Klebsiella;Klebsiella_pneumoniae	99.614	1554	6	0	258	1811	1	1554	0.0	2837
+k141_38	CP009114.3012680.3014233_Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Klebsiella;Klebsiella_pneumoniae	99.614	1554	6	0	258	1811	1	1554	0.0	2837
+k141_38	CP009461.4234016.4235569_Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Klebsiella;Klebsiella_pneumoniae	99.614	1554	6	0	258	1811	1	1554	0.0	2837
+k141_38	CP008929.1773447.1775000_Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Klebsiella;Klebsiella_pneumoniae	99.614	1554	6	0	258	1811	1	1554	0.0	2837
+k141_38	CP008797.257705.259243_Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Klebsiella;Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH24	99.935	1539	1	0	263	1801	1	1539	0.0	2837
+k141_38	JMSX01000001.3306919.3308457_Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Klebsiella;Klebsiella_pneumoniae_UHKPC45	99.935	1539	1	0	263	1801	1	1539	0.0	2837
+k141_38	CP008827.257705.259243_Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Klebsiella;Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH1	99.935	1539	1	0	263	1801	1	1539	0.0	2837
+k141_38	CP007727.257705.259243_Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Klebsiella;Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH10	99.935	1539	1	0	263	1801	1	1539	0.0	2837
+k141_38	JRTV01000011.25736.27289_Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Klebsiella;Klebsiella_pneumoniae	99.614	1554	6	0	258	1811	1	1554	0.0	2837
+k141_38	JTBE01000011.362898.364450_Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Escherichia;Escherichia_coli	99.614	1554	5	1	258	1811	1	1553	0.0	2835
+k141_38	AKAI01000093.277.1830_Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Enterobacter;Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH18	99.550	1554	7	0	258	1811	1	1554	0.0	2832
+k141_38	CP010523.4210674.4212227_Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Klebsiella;Klebsiella_variicola	99.550	1554	7	0	258	1811	1	1554	0.0	2832
+k141_38	CP010523.3429624.3431177_Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Klebsiella;Klebsiella_variicola	99.550	1554	7	0	258	1811	1	1554	0.0	2832
+k141_38	CP009274.1980132.1981685_Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Klebsiella;Klebsiella_variicola	99.550	1554	7	0	258	1811	1	1554	0.0	2832
+k141_38	CP009114.3721106.3722659_Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Klebsiella;Klebsiella_pneumoniae	99.550	1554	7	0	258	1811	1	1554	0.0	2832
+k141_38	CP009274.2719322.2720875_Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Klebsiella;Klebsiella_variicola	99.550	1554	7	0	258	1811	1	1554	0.0	2832
+k141_38	CP009274.1843170.1844723_Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Klebsiella;Klebsiella_variicola	99.550	1554	7	0	258	1811	1	1554	0.0	2832
+k141_38	CP009114.3766251.3767804_Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Klebsiella;Klebsiella_pneumoniae	99.550	1554	7	0	258	1811	1	1554	0.0	2832
+k141_38	CP009114.3629201.3630754_Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Klebsiella;Klebsiella_pneumoniae	99.550	1554	7	0	258	1811	1	1554	0.0	2832
+k141_38	AOGQ01000067.24.1577_Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Klebsiella;Klebsiella_pneumoniae_ATCC_BAA-1705	99.550	1554	7	0	258	1811	1	1554	0.0	2832
+k141_38	CP006918.4672585.4674126_Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Klebsiella;Klebsiella_pneumoniae_30684/NJST258_2	99.805	1542	3	0	262	1803	1	1542	0.0	2832
+k141_38	AJZX01000105.276.1829_Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Klebsiella;Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH5	99.550	1554	7	0	258	1811	1	1554	0.0	2832
+k141_38	JRTV01000011.4805304.4806857_Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Klebsiella;Klebsiella_pneumoniae	99.550	1554	7	0	258	1811	1	1554	0.0	2832
+k141_38	CP003999.452349.453892_Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Klebsiella;Klebsiella_pneumoniae_subsp._pneumoniae_Kp13	99.741	1544	4	0	263	1806	1	1544	0.0	2830
+k141_38	CP003999.4631298.4632841_Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Klebsiella;Klebsiella_pneumoniae_subsp._pneumoniae_Kp13	99.741	1544	4	0	263	1806	1	1544	0.0	2830
+k141_38	APGM01000001.5043701.5045253_Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Klebsiella;Klebsiella_pneumoniae_RYC492	99.550	1554	6	1	258	1811	1	1553	0.0	2830
+k141_38	JNBM01000006.2865500.2867038_Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Klebsiella;Klebsiella_pneumoniae_UHKPC05	99.805	1539	3	0	263	1801	1	1539	0.0	2826
+k141_38	CP010523.2679537.2681090_Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Klebsiella;Klebsiella_variicola	99.485	1554	8	0	258	1811	1	1554	0.0	2826
+k141_38	CP009274.1935034.1936587_Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Klebsiella;Klebsiella_variicola	99.485	1554	8	0	258	1811	1	1554	0.0	2826
+k141_38	JMSY01000001.3957337.3958875_Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Klebsiella;Klebsiella_pneumoniae_UHKPC_52	99.805	1539	3	0	263	1801	1	1539	0.0	2826
+k141_38	CP008797.120528.122066_Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Klebsiella;Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH24	99.805	1539	3	0	263	1801	1	1539	0.0	2826
+k141_38	JTAX01000002.1963313.1964866_Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Klebsiella;Klebsiella_pneumoniae	99.485	1554	8	0	258	1811	1	1554	0.0	2826
+k141_38	CP008797.630391.631929_Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Klebsiella;Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH24	99.805	1539	3	0	263	1801	1	1539	0.0	2826
+k141_38	JMSW01000001.4179778.4181316_Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Klebsiella;Klebsiella_pneumoniae_VAKPC278	99.805	1539	3	0	263	1801	1	1539	0.0	2826
+k141_38	CP008827.630391.631929_Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Klebsiella;Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH1	99.805	1539	3	0	263	1801	1	1539	0.0	2826
+k141_38	CP007727.630391.631929_Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Klebsiella;Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH10	99.805	1539	3	0	263	1801	1	1539	0.0	2826
+k141_38	AOGO01000024.11.1564_Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Enterobacter;Klebsiella_pneumoniae_700603	99.485	1554	8	0	258	1811	1	1554	0.0	2826
+k141_38	CP006923.4969133.4970674_Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Klebsiella;Klebsiella_pneumoniae_30660/NJST258_1	99.741	1542	4	0	262	1803	1	1542	0.0	2826
+k141_38	CP006918.496634.498175_Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Klebsiella;Klebsiella_pneumoniae_30684/NJST258_2	99.741	1542	4	0	262	1803	1	1542	0.0	2826
+k141_38	CP002910.3715010.3716563_Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Klebsiella;Klebsiella_pneumoniae_KCTC_2242	99.485	1554	8	0	258	1811	1	1554	0.0	2826
+k141_38	CP002910.765106.766659_Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Klebsiella;Klebsiella_pneumoniae_KCTC_2242	99.485	1554	8	0	258	1811	1	1554	0.0	2826
+k141_38	JRTV01000011.4713431.4714984_Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Klebsiella;Klebsiella_pneumoniae	99.485	1554	8	0	258	1811	1	1554	0.0	2826
+k141_38	JXBI01000043.5.1558_Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Klebsiella;Klebsiella_pneumoniae	99.485	1554	8	0	258	1811	1	1554	0.0	2826
+k141_38	CP009274.2349510.2351067_Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Klebsiella;Klebsiella_variicola	99.422	1558	5	4	258	1811	1	1558	0.0	2824
+k141_38	CP003999.5063830.5065373_Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Klebsiella;Klebsiella_pneumoniae_subsp._pneumoniae_Kp13	99.676	1544	5	0	263	1806	1	1544	0.0	2824
+k141_38	CP003999.4275758.4277301_Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Klebsiella;Klebsiella_pneumoniae_subsp._pneumoniae_Kp13	99.676	1544	5	0	263	1806	1	1544	0.0	2824
+k141_38	JWRL01000004.357848.359398_Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Enterobacter;Klebsiella_pneumoniae	99.485	1554	5	3	258	1811	1	1551	0.0	2822
+k141_38	JMYW01000018.100961.102488_Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Enterobacter;Klebsiella_pneumoniae_MGH_52	100.000	1528	0	0	269	1796	1	1528	0.0	2822
+k141_38	JMZF01000019.93146.94673_Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Klebsiella;Klebsiella_pneumoniae_MGH_70	100.000	1528	0	0	269	1796	1	1528	0.0	2822
+k141_38	AYIT01000002.95746.97273_Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Enterobacter;Klebsiella_pneumoniae_MGH_48	100.000	1528	0	0	269	1796	1	1528	0.0	2822
+k141_38	AYIS01000014.133960.135487_Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Klebsiella;Klebsiella_pneumoniae_BWH_28	100.000	1528	0	0	269	1796	1	1528	0.0	2822
+k141_38	JNBM01000007.1271624.1273162_Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Klebsiella;Klebsiella_pneumoniae_UHKPC05	99.740	1539	4	0	263	1801	1	1539	0.0	2820
+k141_38	CP010523.3292532.3294085_Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Klebsiella;Klebsiella_variicola	99.421	1554	9	0	258	1811	1	1554	0.0	2820
+k141_38	CP010392.5065030.5066583_Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Klebsiella;Klebsiella_pneumoniae	99.421	1554	9	0	258	1811	1	1554	0.0	2820
+k141_38	CP010361.5182154.5183707_Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Klebsiella;Klebsiella_pneumoniae	99.421	1554	9	0	258	1811	1	1554	0.0	2820
+k141_38	CP009863.4798472.4800025_Bacteria;Proteobacteria;Gammaproteobacteria;Pseudomonadales;Pseudomonadaceae;Pseudomonas;Klebsiella_pneumoniae_subsp._pneumoniae	99.421	1554	9	0	258	1811	1	1554	0.0	2820
+k141_38	CP010523.3384489.3386042_Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Klebsiella;Klebsiella_variicola	99.421	1554	9	0	258	1811	1	1554	0.0	2820
+k141_38	CP009771.213594.215147_Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Klebsiella;Klebsiella_pneumoniae_subsp._pneumoniae	99.421	1554	9	0	258	1811	1	1554	0.0	2820
+k141_38	JTAX01000002.2341145.2342698_Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Klebsiella;Klebsiella_pneumoniae	99.421	1554	9	0	258	1811	1	1554	0.0	2820
+k141_38	JMSW01000001.3061100.3062638_Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Klebsiella;Klebsiella_pneumoniae_VAKPC278	99.740	1539	4	0	263	1801	1	1539	0.0	2820
+k141_38	CP008831.4820653.4822191_Bacteria;Proteobacteria;Gammaproteobacteria;Pseudomonadales;Pseudomonadaceae;Pseudomonas;Klebsiella_pneumoniae_subsp._pneumoniae_KPR0928	99.740	1539	4	0	263	1801	1	1539	0.0	2820
+k141_38	JMSY01000001.2838635.2840173_Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Klebsiella;Klebsiella_pneumoniae_UHKPC_52	99.740	1539	4	0	263	1801	1	1539	0.0	2820
+k141_38	CP008827.4904205.4905743_Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Klebsiella;Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH1	99.740	1539	4	0	263	1801	1	1539	0.0	2820
+k141_38	JTAX01000002.1918415.1919968_Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Klebsiella;Klebsiella_pneumoniae	99.421	1554	9	0	258	1811	1	1554	0.0	2820
+k141_38	JMMY01000001.711819.713357_Bacteria;Proteobacteria;Gammaproteobacteria;Pseudomonadales;Pseudomonadaceae;Pseudomonas;Klebsiella_pneumoniae_160_1080	99.740	1539	4	0	263	1801	1	1539	0.0	2820
+k141_38	JMSX01000001.2561777.2563315_Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Klebsiella;Klebsiella_pneumoniae_UHKPC45	99.740	1539	4	0	263	1801	1	1539	0.0	2820
+k141_38	CP008797.4907512.4909050_Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Klebsiella;Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH24	99.740	1539	4	0	263	1801	1	1539	0.0	2820
+k141_38	CP007727.4905412.4906950_Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Klebsiella;Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH10	99.740	1539	4	0	263	1801	1	1539	0.0	2820
+k141_38	CP006918.5136808.5138349_Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Klebsiella;Klebsiella_pneumoniae_30684/NJST258_2	99.676	1542	5	0	262	1803	1	1542	0.0	2820
+k141_38	CP006648.4610729.4612267_Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Klebsiella;Klebsiella_pneumoniae_CG43	99.740	1539	4	0	263	1801	1	1539	0.0	2820
+k141_38	CP006648.4419506.4421044_Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Klebsiella;Klebsiella_pneumoniae_CG43	99.740	1539	4	0	263	1801	1	1539	0.0	2820
+k141_38	AJZZ01000094.267.1820_Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Klebsiella;Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH7	99.421	1554	9	0	258	1811	1	1554	0.0	2820
+k141_38	CP002910.4503336.4504890_Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Klebsiella;Klebsiella_pneumoniae_KCTC_2242	99.421	1555	8	1	258	1811	1	1555	0.0	2820
+k141_38	CP002910.397790.399343_Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Klebsiella;Klebsiella_pneumoniae_KCTC_2242	99.421	1554	9	0	258	1811	1	1554	0.0	2820
+k141_38	APGM01000001.460328.461881_Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Klebsiella;Klebsiella_pneumoniae_RYC492	99.421	1554	9	0	258	1811	1	1554	0.0	2820
+k141_38	AKAA01000100.309.1860_Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Klebsiella;Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH8	99.421	1554	7	1	258	1811	1	1552	0.0	2819
+k141_38	CP000647.249501.251044_Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Klebsiella;Klebsiella_pneumoniae_subsp._pneumoniae_MGH_78578	99.611	1544	6	0	263	1806	1	1544	0.0	2819
+k141_38	JCNB01000005.1593946.1595473_Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Klebsiella;Klebsiella_pneumoniae_BIDMC_14	99.935	1528	1	0	269	1796	1	1528	0.0	2817
+k141_38	JCNJ01000006.43859.45386_Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Klebsiella;Klebsiella_pneumoniae_BIDMC_2A	99.935	1528	1	0	269	1796	1	1528	0.0	2817
+k141_38	JCNK01000004.28.1555_Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Klebsiella;Klebsiella_pneumoniae_BIDMC_1	99.935	1528	1	0	269	1796	1	1528	0.0	2817
+k141_38	JMWA01000006.241014.242541_Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Klebsiella;Klebsiella_pneumoniae_BIDMC_60	99.935	1528	1	0	269	1796	1	1528	0.0	2817
+k141_38	JMYR01000020.241987.243514_Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Klebsiella;Klebsiella_pneumoniae_CHS_74	99.935	1528	1	0	269	1796	1	1528	0.0	2817
+k141_38	JMZL01000006.43533.45060_Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Klebsiella;Klebsiella_pneumoniae_MGH_79	99.935	1528	1	0	269	1796	1	1528	0.0	2817
+k141_38	JMXI01000019.44502.46029_Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Klebsiella;Klebsiella_pneumoniae_CHS_34	99.935	1528	1	0	269	1796	1	1528	0.0	2817
+k141_38	JMWE01000004.242367.243894_Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Klebsiella;Klebsiella_pneumoniae_BWH_45	99.935	1528	1	0	269	1796	1	1528	0.0	2817
+k141_38	JMYX01000014.44723.46250_Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Klebsiella;Klebsiella_pneumoniae_MGH_59	99.935	1528	1	0	269	1796	1	1528	0.0	2817
+k141_38	JMYP01000009.43533.45060_Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Enterobacter;Klebsiella_pneumoniae_CHS_72	99.935	1528	1	0	269	1796	1	1528	0.0	2817
+k141_38	JMWY01000023.40962.42489_Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Klebsiella;Klebsiella_pneumoniae_CHS_24	99.935	1528	1	0	269	1796	1	1528	0.0	2817
+k141_38	JMWK01000014.40315.41842_Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Enterobacter;Klebsiella_pneumoniae_CHS_05	99.935	1528	1	0	269	1796	1	1528	0.0	2817
+k141_38	JMWP01000028.40313.41840_Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Enterobacter;Klebsiella_pneumoniae_CHS_12	99.935	1528	1	0	269	1796	1	1528	0.0	2817
+k141_38	JMWO01000007.43809.45336_Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Klebsiella;Klebsiella_pneumoniae_CHS_11	99.935	1528	1	0	269	1796	1	1528	0.0	2817
+k141_38	JMVX01000006.40507.42034_Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Enterobacter;Klebsiella_pneumoniae_BIDMC_18B	99.935	1528	1	0	269	1796	1	1528	0.0	2817
+k141_38	JMYJ01000008.1594352.1595879_Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Klebsiella;Klebsiella_pneumoniae_CHS_64	99.935	1528	1	0	269	1796	1	1528	0.0	2817
+k141_38	JMWX01000006.548429.549956_Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Klebsiella;Klebsiella_pneumoniae_CHS_23	99.935	1528	1	0	269	1796	1	1528	0.0	2817
+k141_38	JMYI01000011.43925.45452_Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Klebsiella;Klebsiella_pneumoniae_CHS_63	99.935	1528	1	0	269	1796	1	1528	0.0	2817
+k141_38	JMWS01000007.241104.242631_Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Enterobacter;Klebsiella_pneumoniae_CHS_17	99.935	1528	1	0	269	1796	1	1528	0.0	2817
+k141_38	JMXK01000014.40019.41546_Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Enterobacter;Klebsiella_pneumoniae_CHS_36	99.935	1528	1	0	269	1796	1	1528	0.0	2817
+k141_38	JMXS01000018.134036.135563_Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Klebsiella;Klebsiella_pneumoniae_CHS_45	99.935	1528	1	0	269	1796	1	1528	0.0	2817
+k141_38	JMXW01000010.116614.118141_Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Enterobacter;Klebsiella_pneumoniae_CHS_50	99.935	1528	1	0	269	1796	1	1528	0.0	2817
+k141_38	JMYD01000012.43715.45242_Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Klebsiella;Klebsiella_pneumoniae_CHS_57	99.935	1528	1	0	269	1796	1	1528	0.0	2817
+k141_38	JMYC01000012.40335.41862_Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Enterobacter;Klebsiella_pneumoniae_CHS_56	99.935	1528	1	0	269	1796	1	1528	0.0	2817
+k141_38	JMXT01000008.43533.45060_Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Klebsiella;Klebsiella_pneumoniae_CHS_46	99.935	1528	1	0	269	1796	1	1528	0.0	2817
+k141_38	JMXC01000019.44526.46053_Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Klebsiella;Klebsiella_pneumoniae_CHS_28	99.935	1528	1	0	269	1796	1	1528	0.0	2817
+k141_38	JMZN01000011.44668.46195_Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Enterobacter;Klebsiella_pneumoniae_UCI_55	99.935	1528	1	0	269	1796	1	1528	0.0	2817
+k141_38	JMXN01000007.43533.45060_Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Klebsiella;Klebsiella_pneumoniae_CHS_39	99.935	1528	1	0	269	1796	1	1528	0.0	2817
+k141_38	CBWI010000066.2091.3630_Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Enterobacter;Klebsiella_pneumoniae_IS33	99.675	1540	5	0	262	1801	1	1540	0.0	2817
+k141_38	AP006725.16080.17619_Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Klebsiella;Klebsiella_pneumoniae_subsp._pneumoniae_NTUH-K2044	99.675	1540	5	0	262	1801	1	1540	0.0	2817
+k141_38	AP006725.4758678.4760217_Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Klebsiella;Klebsiella_pneumoniae_subsp._pneumoniae_NTUH-K2044	99.675	1540	5	0	262	1801	1	1540	0.0	2817
+k141_38	AP006725.212218.213757_Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Klebsiella;Klebsiella_pneumoniae_subsp._pneumoniae_NTUH-K2044	99.675	1540	5	0	262	1801	1	1540	0.0	2817
+k141_38	JNBM01000006.3237849.3239387_Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Klebsiella;Klebsiella_pneumoniae_UHKPC05	99.675	1539	5	0	263	1801	1	1539	0.0	2815
+k141_38	JNBM01000001.102141.103679_Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Enterobacter;Klebsiella_pneumoniae_UHKPC05	99.675	1539	5	0	263	1801	1	1539	0.0	2815
+k141_38	JWRM01000001.2640502.2642055_Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Klebsiella;Klebsiella_pneumoniae	99.356	1554	10	0	258	1811	1	1554	0.0	2815
+k141_38	CP010392.1260174.1261727_Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Klebsiella;Klebsiella_pneumoniae	99.356	1554	10	0	258	1811	1	1554	0.0	2815
+k141_38	CP010361.1260340.1261893_Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Klebsiella;Klebsiella_pneumoniae	99.356	1554	10	0	258	1811	1	1554	0.0	2815
+k141_38	CP009876.212519.214072_Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Klebsiella;Klebsiella_pneumoniae_subsp._pneumoniae	99.356	1554	10	0	258	1811	1	1554	0.0	2815
+k141_38	CP009771.632616.634169_Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Klebsiella;Klebsiella_pneumoniae_subsp._pneumoniae	99.356	1554	10	0	258	1811	1	1554	0.0	2815
+k141_38	CP009461.231308.232861_Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Klebsiella;Klebsiella_pneumoniae	99.356	1554	10	0	258	1811	1	1554	0.0	2815
+k141_38	CP009775.4175566.4177119_Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Klebsiella;Klebsiella_pneumoniae_subsp._pneumoniae	99.356	1554	10	0	258	1811	1	1554	0.0	2815
+k141_38	CP009771.16076.17629_Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Klebsiella;Klebsiella_pneumoniae_subsp._pneumoniae	99.356	1554	10	0	258	1811	1	1554	0.0	2815
+k141_38	CP009274.1236053.1237607_Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Klebsiella;Klebsiella_variicola	99.357	1555	9	1	258	1811	1	1555	0.0	2815
+k141_38	JMSX01000001.3169809.3171347_Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Klebsiella;Klebsiella_pneumoniae_UHKPC45	99.675	1539	5	0	263	1801	1	1539	0.0	2815
+k141_38	CP008827.120528.122066_Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Klebsiella;Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH1	99.675	1539	5	0	263	1801	1	1539	0.0	2815
+k141_38	JTAX01000002.452615.454168_Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Klebsiella;Klebsiella_pneumoniae	99.356	1554	10	0	258	1811	1	1554	0.0	2815
+k141_38	CP009114.2209389.2210942_Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Klebsiella;Klebsiella_pneumoniae	99.356	1554	10	0	258	1811	1	1554	0.0	2815
+k141_38	JMSW01000001.3807439.3808977_Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Klebsiella;Klebsiella_pneumoniae_VAKPC278	99.675	1539	5	0	263	1801	1	1539	0.0	2815
+k141_38	JMSY01000001.3584989.3586527_Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Klebsiella;Klebsiella_pneumoniae_UHKPC_52	99.675	1539	5	0	263	1801	1	1539	0.0	2815
+k141_38	JMSY01000001.3447812.3449350_Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Klebsiella;Klebsiella_pneumoniae_UHKPC_52	99.675	1539	5	0	263	1801	1	1539	0.0	2815
+k141_38	CP008831.120528.122066_Bacteria;Proteobacteria;Gammaproteobacteria;Pseudomonadales;Pseudomonadaceae;Pseudomonas;Klebsiella_pneumoniae_subsp._pneumoniae_KPR0928	99.675	1539	5	0	263	1801	1	1539	0.0	2815
+k141_38	CP006918.4300245.4301786_Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Klebsiella;Klebsiella_pneumoniae_30684/NJST258_2	99.611	1542	6	0	262	1803	1	1542	0.0	2815
+k141_38	CP006798.2567730.2569268_Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Klebsiella;Klebsiella_pneumoniae_subsp._pneumoniae_PittNDM01	99.675	1539	5	0	263	1801	1	1539	0.0	2815
+k141_38	CP006648.4656030.4657568_Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Klebsiella;Klebsiella_pneumoniae_CG43	99.675	1539	5	0	263	1801	1	1539	0.0	2815
+k141_38	CP006648.3917114.3918652_Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Klebsiella;Klebsiella_pneumoniae_CG43	99.675	1539	5	0	263	1801	1	1539	0.0	2815
+k141_38	CP002910.5254717.5256270_Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Klebsiella;Klebsiella_pneumoniae_KCTC_2242	99.356	1554	10	0	258	1811	1	1554	0.0	2815
+k141_38	CP002910.5209493.5211046_Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Klebsiella;Klebsiella_pneumoniae_KCTC_2242	99.356	1554	10	0	258	1811	1	1554	0.0	2815
+k141_38	CP006923.5106882.5108422_Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Klebsiella;Klebsiella_pneumoniae_30660/NJST258_1	99.611	1542	5	1	262	1803	1	1541	0.0	2813
+k141_38	CP006923.5014039.5015579_Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Klebsiella;Klebsiella_pneumoniae_30660/NJST258_1	99.611	1542	5	1	262	1803	1	1541	0.0	2813
+k141_38	CP003999.5155695.5157238_Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Klebsiella;Klebsiella_pneumoniae_subsp._pneumoniae_Kp13	99.547	1544	7	0	263	1806	1	1544	0.0	2813
+k141_38	CP000647.3202873.3204416_Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Klebsiella;Klebsiella_pneumoniae_subsp._pneumoniae_MGH_78578	99.547	1544	7	0	263	1806	1	1544	0.0	2813
+k141_38	CP000647.4558733.4560276_Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Klebsiella;Klebsiella_pneumoniae_subsp._pneumoniae_MGH_78578	99.547	1544	7	0	263	1806	1	1544	0.0	2813
+k141_38	AXLG01000003.4918296.4919824_Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Klebsiella;Klebsiella_pneumoniae_BIDMC_12C	99.869	1529	1	1	269	1796	1	1529	0.0	2811
+k141_38	JJNF01000023.87140.88667_Bacteria;Proteobacteria;Gammaproteobacteria;Pseudomonadales;Pseudomonadaceae;Pseudomonas;Klebsiella_pneumoniae_CHS_21	99.869	1528	2	0	269	1796	1	1528	0.0	2811
+k141_38	JJNF01000020.99342.100869_Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Cronobacter;Klebsiella_pneumoniae_CHS_21	99.869	1528	2	0	269	1796	1	1528	0.0	2811
+k141_38	JMXT01000009.250480.252007_Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Klebsiella;Klebsiella_pneumoniae_CHS_46	99.869	1528	2	0	269	1796	1	1528	0.0	2811
+k141_38	AP006725.257519.259058_Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Klebsiella;Klebsiella_pneumoniae_subsp._pneumoniae_NTUH-K2044	99.610	1540	6	0	262	1801	1	1540	0.0	2811
+k141_38	JWRK01000001.505923.507476_Bacteria;Proteobacteria;Gammaproteobacteria;Pseudomonadales;Pseudomonadaceae;Pseudomonas;Klebsiella_pneumoniae	99.292	1554	11	0	258	1811	1	1554	0.0	2809
+k141_38	JWRM01000001.1325757.1327310_Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Klebsiella;Klebsiella_pneumoniae	99.292	1554	11	0	258	1811	1	1554	0.0	2809
+k141_38	JNBM01000006.2491960.2493498_Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Klebsiella;Klebsiella_pneumoniae_UHKPC05	99.610	1539	6	0	263	1801	1	1539	0.0	2809
+k141_38	CP010392.5261521.5263074_Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Klebsiella;Klebsiella_pneumoniae	99.292	1554	11	0	258	1811	1	1554	0.0	2809
+k141_38	CP010361.5292376.5293929_Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Klebsiella;Klebsiella_pneumoniae	99.292	1554	11	0	258	1811	1	1554	0.0	2809
+k141_38	CP009872.16076.17629_Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Klebsiella;Klebsiella_pneumoniae_subsp._pneumoniae	99.292	1554	11	0	258	1811	1	1554	0.0	2809
+k141_38	CP009775.16076.17629_Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Klebsiella;Klebsiella_pneumoniae_subsp._pneumoniae	99.292	1554	11	0	258	1811	1	1554	0.0	2809
+k141_38	CP009872.4012922.4014475_Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Klebsiella;Klebsiella_pneumoniae_subsp._pneumoniae	99.292	1554	11	0	258	1811	1	1554	0.0	2809
+k141_38	JTBE01000011.462286.463839_Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Escherichia;Escherichia_coli	99.292	1554	11	0	258	1811	1	1554	0.0	2809
+k141_38	CP009771.4227035.4228588_Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Klebsiella;Klebsiella_pneumoniae_subsp._pneumoniae	99.292	1554	11	0	258	1811	1	1554	0.0	2809
+k141_38	JTAX01000002.1727281.1728834_Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Klebsiella;Klebsiella_pneumoniae	99.292	1554	11	0	258	1811	1	1554	0.0	2809
+k141_38	CP009114.3524653.3526206_Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Klebsiella;Klebsiella_pneumoniae	99.292	1554	11	0	258	1811	1	1554	0.0	2809
+k141_38	CP008929.1872690.1874243_Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Klebsiella;Klebsiella_pneumoniae	99.292	1554	11	0	258	1811	1	1554	0.0	2809
+k141_38	CP008929.1269229.1270782_Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Klebsiella;Klebsiella_pneumoniae	99.292	1554	11	0	258	1811	1	1554	0.0	2809
+k141_38	CP008929.2366849.2368402_Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Klebsiella;Klebsiella_pneumoniae	99.292	1554	11	0	258	1811	1	1554	0.0	2809
+k141_38	JMSX01000001.4051390.4052928_Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Klebsiella;Klebsiella_pneumoniae_UHKPC45	99.610	1539	6	0	263	1801	1	1539	0.0	2809
+k141_38	CP008797.1003815.1005353_Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Klebsiella;Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH24	99.610	1539	6	0	263	1801	1	1539	0.0	2809
+k141_38	CP008827.1002731.1004269_Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Klebsiella;Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH1	99.610	1539	6	0	263	1801	1	1539	0.0	2809
+k141_38	JTBE01000011.599155.600708_Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Escherichia;Escherichia_coli	99.292	1554	11	0	258	1811	1	1554	0.0	2809
+k141_38	CP007727.1002731.1004269_Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Klebsiella;Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH10	99.610	1539	6	0	263	1801	1	1539	0.0	2809
+k141_38	CP008929.2009587.2011140_Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Klebsiella;Klebsiella_pneumoniae	99.292	1554	11	0	258	1811	1	1554	0.0	2809
+k141_38	CP008929.1964585.1966138_Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Klebsiella;Klebsiella_pneumoniae	99.292	1554	11	0	258	1811	1	1554	0.0	2809
+k141_38	CBWT010000673.214.1752_Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Enterobacter;Escherichia_coli_ISC56	99.610	1540	5	1	262	1801	1	1539	0.0	2809
+k141_38	CP002910.5013208.5014761_Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Klebsiella;Klebsiella_pneumoniae_KCTC_2242	99.292	1554	11	0	258	1811	1	1554	0.0	2809
+k141_38	CP002910.5117694.5119247_Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Klebsiella;Klebsiella_pneumoniae_KCTC_2242	99.292	1554	11	0	258	1811	1	1554	0.0	2809
+k141_38	JRQE01000001.1074329.1075882_Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Klebsiella;Klebsiella_pneumoniae	99.292	1554	11	0	258	1811	1	1554	0.0	2809
+k141_38	JRQE01000001.1916722.1918275_Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Klebsiella;Klebsiella_pneumoniae	99.292	1554	11	0	258	1811	1	1554	0.0	2809
+k141_38	CP006923.5211183.5212723_Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Klebsiella;Klebsiella_pneumoniae_30660/NJST258_1	99.546	1542	6	1	262	1803	1	1541	0.0	2808
+k141_38	CCFT01000003.69715.71234_Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Klebsiella;Klebsiella_pneumoniae	100.000	1520	0	0	269	1788	1	1520	0.0	2808
+k141_38	JCNT01000005.330623.332150_Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Klebsiella;Klebsiella_pneumoniae_MGH_43	99.804	1528	3	0	269	1796	1	1528	0.0	2806
+k141_38	JCOA01000005.62271.63798_Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Klebsiella;Klebsiella_pneumoniae_UCICRE_13	99.804	1528	3	0	269	1796	1	1528	0.0	2806
+k141_38	JCNK01000004.373491.375018_Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Klebsiella;Klebsiella_pneumoniae_BIDMC_1	99.804	1528	3	0	269	1796	1	1528	0.0	2806
+k141_38	JCNJ01000006.416545.418072_Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Klebsiella;Klebsiella_pneumoniae_BIDMC_2A	99.804	1528	3	0	269	1796	1	1528	0.0	2806
+k141_38	AXLF01000003.5226434.5227961_Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Klebsiella;Klebsiella_pneumoniae_BIDMC_16	99.804	1528	3	0	269	1796	1	1528	0.0	2806
+k141_38	JMXF01000010.508738.510265_Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Klebsiella;Klebsiella_pneumoniae_CHS_31	99.804	1528	3	0	269	1796	1	1528	0.0	2806
+k141_38	JMYJ01000008.1967054.1968581_Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Klebsiella;Klebsiella_pneumoniae_CHS_64	99.804	1528	3	0	269	1796	1	1528	0.0	2806
+k141_38	JMWN01000020.62220.63747_Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Enterobacter;Klebsiella_pneumoniae_CHS_09	99.804	1528	3	0	269	1796	1	1528	0.0	2806
+k141_38	JMXG01000006.373437.374964_Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Enterobacter;Klebsiella_pneumoniae_CHS_32	99.804	1528	3	0	269	1796	1	1528	0.0	2806
+k141_38	JMYX01000016.198239.199766_Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Klebsiella;Klebsiella_pneumoniae_MGH_59	99.804	1528	3	0	269	1796	1	1528	0.0	2806
+k141_38	JMXX01000008.413914.415441_Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Klebsiella;Klebsiella_pneumoniae_CHS_51	99.804	1528	3	0	269	1796	1	1528	0.0	2806
+k141_38	JMZE01000014.37266.38793_Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Enterobacter;Klebsiella_pneumoniae_MGH_69	99.804	1528	3	0	269	1796	1	1528	0.0	2806
+k141_38	JMXI01000021.64099.65626_Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Enterobacter;Klebsiella_pneumoniae_CHS_34	99.804	1528	3	0	269	1796	1	1528	0.0	2806
+k141_38	JMXJ01000012.368982.370509_Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Klebsiella;Klebsiella_pneumoniae_CHS_35	99.804	1528	3	0	269	1796	1	1528	0.0	2806
+k141_38	JMWX01000007.372071.373598_Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Klebsiella;Klebsiella_pneumoniae_CHS_23	99.804	1528	3	0	269	1796	1	1528	0.0	2806
+k141_38	JMYF01000012.373545.375072_Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Klebsiella;Klebsiella_pneumoniae_CHS_59	99.804	1528	3	0	269	1796	1	1528	0.0	2806
+k141_38	JMYK01000010.417419.418946_Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Klebsiella;Klebsiella_pneumoniae_CHS_65	99.804	1528	3	0	269	1796	1	1528	0.0	2806
+k141_38	JMYO01000006.43533.45060_Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Klebsiella;Klebsiella_pneumoniae_CHS_71	99.804	1528	3	0	269	1796	1	1528	0.0	2806
+k141_38	JMYA01000022.114850.116377_Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Enterobacter;Klebsiella_pneumoniae_CHS_54	99.804	1528	3	0	269	1796	1	1528	0.0	2806
+k141_38	JMWA01000006.613700.615227_Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Klebsiella;Klebsiella_pneumoniae_BIDMC_60	99.804	1528	3	0	269	1796	1	1528	0.0	2806
+k141_38	JMZC01000021.40313.41840_Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Enterobacter;Klebsiella_pneumoniae_MGH_67	99.804	1528	3	0	269	1796	1	1528	0.0	2806
+k141_38	JMZL01000006.415819.417346_Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Klebsiella;Klebsiella_pneumoniae_MGH_79	99.804	1528	3	0	269	1796	1	1528	0.0	2806
+k141_38	JMYK01000010.43533.45060_Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Klebsiella;Klebsiella_pneumoniae_CHS_65	99.804	1528	3	0	269	1796	1	1528	0.0	2806
+k141_38	JMWS01000018.368924.370451_Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Enterobacter;Klebsiella_pneumoniae_CHS_17	99.804	1528	3	0	269	1796	1	1528	0.0	2806
+k141_38	JMWO01000008.39021.40548_Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Klebsiella;Klebsiella_pneumoniae_CHS_11	99.804	1528	3	0	269	1796	1	1528	0.0	2806
+k141_38	JMXV01000011.337592.339119_Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Klebsiella;Klebsiella_pneumoniae_CHS_49	99.804	1528	3	0	269	1796	1	1528	0.0	2806
+k141_38	JMZS01000005.407665.409192_Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Klebsiella;Klebsiella_pneumoniae_UCI_63	99.804	1528	3	0	269	1796	1	1528	0.0	2806
+k141_38	JMXW01000011.369055.370582_Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Klebsiella;Klebsiella_pneumoniae_CHS_50	99.804	1528	3	0	269	1796	1	1528	0.0	2806
+k141_38	AQPG01000012.505267.506794_Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Klebsiella;Klebsiella_pneumoniae_Kb677	99.804	1528	3	0	269	1796	1	1528	0.0	2806
+k141_38	AYIB01000010.146632.148159_Bacteria;Proteobacteria;Gammaproteobacteria;Pseudomonadales;Pseudomonadaceae;Pseudomonas;Klebsiella_pneumoniae_BIDMC_21	99.804	1528	3	0	269	1796	1	1528	0.0	2806
+k141_38	AYIN01000001.751331.752858_Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Klebsiella;Klebsiella_pneumoniae_UCICRE_2	99.804	1528	3	0	269	1796	1	1528	0.0	2806
+k141_38	CBWT010000938.293.1832_Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Enterobacter;Escherichia_coli_ISC56	99.545	1540	7	0	262	1801	1	1540	0.0	2806
+k141_38	JF682515.1.1539_Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Klebsiella;Klebsiella_pneumoniae	99.739	1531	4	0	269	1799	4	1534	0.0	2806
+k141_38	JNHB01000083.149.1687_Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Klebsiella;Klebsiella_pneumoniae	99.545	1539	7	0	263	1801	1	1539	0.0	2804
+k141_38	JPGS01000122.21.1559_Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Klebsiella;Klebsiella_pneumoniae	99.545	1539	7	0	263	1801	1	1539	0.0	2804
+k141_38	CP010523.3187586.3189139_Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Klebsiella;Klebsiella_variicola	99.228	1554	12	0	258	1811	1	1554	0.0	2804
+k141_38	CP009876.16076.17629_Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Klebsiella;Klebsiella_pneumoniae_subsp._pneumoniae	99.228	1554	12	0	258	1811	1	1554	0.0	2804
+k141_38	CP010523.1874933.1876486_Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Klebsiella;Klebsiella_variicola	99.228	1554	12	0	258	1811	1	1554	0.0	2804
+k141_38	CP009461.4645899.4647452_Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Klebsiella;Klebsiella_pneumoniae	99.228	1554	12	0	258	1811	1	1554	0.0	2804
+k141_38	CP009461.4842583.4844136_Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Klebsiella;Klebsiella_pneumoniae	99.228	1554	12	0	258	1811	1	1554	0.0	2804
+k141_38	JTBE01000010.2558.4111_Bacteria;Proteobacteria;Gammaproteobacteria;Pseudomonadales;Pseudomonadaceae;Pseudomonas;Escherichia_coli	99.228	1554	12	0	258	1811	1	1554	0.0	2804
+k141_38	CP006923.4286757.4288298_Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Klebsiella;Klebsiella_pneumoniae_30660/NJST258_1	99.481	1542	8	0	262	1803	1	1542	0.0	2804
+k141_38	JTBE01000009.2430.3982_Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Cronobacter;Escherichia_coli	99.228	1554	11	1	258	1811	1	1553	0.0	2802
+k141_38	CCGZ01000002.2837.4356_Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Klebsiella;Klebsiella_pneumoniae	99.934	1520	1	0	269	1788	1	1520	0.0	2802
+k141_38	CCGP01000001.523751.525270_Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Klebsiella;Klebsiella_pneumoniae	99.934	1520	1	0	269	1788	1	1520	0.0	2802
+k141_38	CP000964.454685.456216_Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Klebsiella;Klebsiella_pneumoniae_342	99.674	1532	5	0	269	1800	1	1532	0.0	2802
+k141_38	CP000647.4041895.4043438_Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Klebsiella;Klebsiella_pneumoniae_subsp._pneumoniae_MGH_78578	99.417	1544	9	0	263	1806	1	1544	0.0	2802
+k141_38	CP009274.464359.465915_Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Klebsiella;Klebsiella_variicola	99.165	1557	10	3	258	1811	1	1557	0.0	2800
+k141_38	JMWK01000007.847215.848742_Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Klebsiella;Klebsiella_pneumoniae_CHS_05	99.738	1528	4	0	269	1796	1	1528	0.0	2800
+k141_38	JMXG01000004.844551.846078_Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Klebsiella;Klebsiella_pneumoniae_CHS_32	99.738	1528	4	0	269	1796	1	1528	0.0	2800
+k141_38	JMZR01000011.378665.380192_Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Klebsiella;Klebsiella_pneumoniae_UCI_62	99.738	1528	4	0	269	1796	1	1528	0.0	2800
+k141_38	JMYJ01000008.846967.848494_Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Klebsiella;Klebsiella_pneumoniae_CHS_64	99.738	1528	4	0	269	1796	1	1528	0.0	2800
+k141_38	JMXH01000005.223509.225036_Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Klebsiella;Klebsiella_pneumoniae_CHS_33	99.738	1528	4	0	269	1796	1	1528	0.0	2800
+k141_38	JMWI01000002.844549.846076_Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Klebsiella;Klebsiella_pneumoniae_CHS_02	99.738	1528	4	0	269	1796	1	1528	0.0	2800
+k141_38	JMZR01000011.273149.274676_Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Klebsiella;Klebsiella_pneumoniae_UCI_62	99.738	1528	4	0	269	1796	1	1528	0.0	2800
+k141_38	JMWR01000012.1348327.1349854_Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Klebsiella;Klebsiella_pneumoniae_CHS_14	99.738	1528	4	0	269	1796	1	1528	0.0	2800
+k141_38	JMXT01000008.417419.418946_Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Klebsiella;Klebsiella_pneumoniae_CHS_46	99.738	1528	4	0	269	1796	1	1528	0.0	2800
+k141_38	JMXX01000008.40019.41546_Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Klebsiella;Klebsiella_pneumoniae_CHS_51	99.738	1528	4	0	269	1796	1	1528	0.0	2800
+k141_38	JMYW01000036.87014.88541_Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Klebsiella;Klebsiella_pneumoniae_MGH_52	99.738	1528	4	0	269	1796	1	1528	0.0	2800
+k141_38	JMXX01000004.845779.847306_Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Klebsiella;Klebsiella_pneumoniae_CHS_51	99.738	1528	4	0	269	1796	1	1528	0.0	2800
+k141_38	JMXL01000019.43533.45060_Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Enterobacter;Klebsiella_pneumoniae_CHS_37	99.738	1528	4	0	269	1796	1	1528	0.0	2800
+k141_38	JMWY01000008.1289604.1291131_Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Klebsiella;Klebsiella_pneumoniae_CHS_24	99.738	1528	4	0	269	1796	1	1528	0.0	2800
+k141_38	JMZR01000012.88467.89994_Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Klebsiella;Klebsiella_pneumoniae_UCI_62	99.738	1528	4	0	269	1796	1	1528	0.0	2800
+k141_38	JMYC01000009.846634.848161_Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Klebsiella;Klebsiella_pneumoniae_CHS_56	99.738	1528	4	0	269	1796	1	1528	0.0	2800
+k141_38	AYHX01000010.523140.524667_Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Klebsiella;Klebsiella_pneumoniae_BIDMC_25	99.738	1528	4	0	269	1796	1	1528	0.0	2800
+k141_38	AYIX01000002.273126.274653_Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Klebsiella;Klebsiella_pneumoniae_MGH_40	99.738	1528	4	0	269	1796	1	1528	0.0	2800
+k141_38	AYHX01000010.413121.414648_Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Klebsiella;Klebsiella_pneumoniae_BIDMC_25	99.738	1528	4	0	269	1796	1	1528	0.0	2800
+k141_38	CP006722.5047428.5048967_Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Klebsiella;Klebsiella_pneumoniae_subsp._pneumoniae_1158	99.481	1540	8	0	262	1801	1	1540	0.0	2800
+k141_38	CP006722.5184297.5185836_Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Klebsiella;Klebsiella_pneumoniae_subsp._pneumoniae_1158	99.481	1540	8	0	262	1801	1	1540	0.0	2800
+k141_38	CP006656.5014992.5016519_Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Klebsiella;Klebsiella_pneumoniae_JM45	99.738	1528	4	0	269	1796	1	1528	0.0	2800
+k141_38	AYHX01000001.236950.238477_Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Enterobacter;Klebsiella_pneumoniae_BIDMC_25	99.738	1528	4	0	269	1796	1	1528	0.0	2800
+k141_38	CP001891.5212495.5214023_Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Klebsiella;Klebsiella_variicola_At-22	99.738	1529	3	1	269	1796	1	1529	0.0	2800
+k141_38	CP009461.994441.995994_Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Klebsiella;Klebsiella_pneumoniae	99.163	1554	13	0	258	1811	1	1554	0.0	2798
+k141_38	CP009461.4600801.4602354_Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Klebsiella;Klebsiella_pneumoniae	99.163	1554	13	0	258	1811	1	1554	0.0	2798
+k141_38	CP008929.466475.468028_Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Klebsiella;Klebsiella_pneumoniae	99.163	1554	13	0	258	1811	1	1554	0.0	2798
+k141_38	CP006923.451587.453128_Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Klebsiella;Klebsiella_pneumoniae_30660/NJST258_1	99.416	1542	9	0	262	1803	1	1542	0.0	2798
+k141_38	CP006798.3431796.3433334_Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Klebsiella;Klebsiella_pneumoniae_subsp._pneumoniae_PittNDM01	99.480	1539	8	0	263	1801	1	1539	0.0	2798
+k141_38	JRTV01000011.4850316.4851869_Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Klebsiella;Klebsiella_pneumoniae	99.163	1554	13	0	258	1811	1	1554	0.0	2798
+k141_38	ARSG01000143.154.1686_Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Klebsiella;Klebsiella_pneumoniae_UHKPC17	99.609	1533	5	1	269	1800	1	1533	0.0	2796
+k141_38	CP009208.3206692.3208217_Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Klebsiella;Klebsiella_pneumoniae_subsp._pneumoniae	99.738	1526	4	0	270	1795	1	1526	0.0	2796
+k141_38	CP006923.4659095.4660635_Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Klebsiella;Klebsiella_pneumoniae_30660/NJST258_1	99.417	1543	6	3	262	1803	1	1541	0.0	2796
+k141_38	CP003999.1202250.1203793_Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Klebsiella;Klebsiella_pneumoniae_subsp._pneumoniae_Kp13	99.352	1544	10	0	263	1806	1	1544	0.0	2796
+k141_38	CCGO01000004.312739.314258_Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Enterobacter;Klebsiella_pneumoniae	99.868	1520	2	0	269	1788	1	1520	0.0	2796
+k141_38	CCIS01000006.69691.71210_Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Klebsiella;Klebsiella_pneumoniae	99.868	1520	2	0	269	1788	1	1520	0.0	2796
+k141_38	APWE01000082.154.1685_Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Enterobacter;Klebsiella_pneumoniae_KP-11	99.608	1532	6	0	269	1800	1	1532	0.0	2796
+k141_38	CP000964.1223043.1224574_Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Klebsiella;Klebsiella_pneumoniae_342	99.608	1532	6	0	269	1800	1	1532	0.0	2796
+k141_38	JCOA01000004.374964.376491_Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Klebsiella;Klebsiella_pneumoniae_UCICRE_13	99.673	1528	5	0	269	1796	1	1528	0.0	2795
+k141_38	JCLY01000004.2102155.2103682_Bacteria;Proteobacteria;Gammaproteobacteria;Pseudomonadales;Pseudomonadaceae;Pseudomonas;Klebsiella_pneumoniae_UCI_43	99.673	1528	5	0	269	1796	1	1528	0.0	2795
+k141_38	JCLY01000004.1963951.1965478_Bacteria;Proteobacteria;Gammaproteobacteria;Pseudomonadales;Pseudomonadaceae;Pseudomonas;Klebsiella_pneumoniae_UCI_43	99.673	1528	5	0	269	1796	1	1528	0.0	2795
+k141_38	JCLZ01000013.1045017.1046544_Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Cronobacter;Klebsiella_pneumoniae_UCI_42	99.673	1528	5	0	269	1796	1	1528	0.0	2795
+k141_38	JCNB01000005.1455742.1457269_Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Klebsiella;Klebsiella_pneumoniae_BIDMC_14	99.673	1528	5	0	269	1796	1	1528	0.0	2795
+k141_38	JCMZ01000034.39787.41314_Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Cronobacter;Klebsiella_pneumoniae_BIDMC_18D	99.673	1528	5	0	269	1796	1	1528	0.0	2795
+k141_38	JCMC01000001.252162.253689_Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Enterobacter;Klebsiella_pneumoniae_UCI_37	99.673	1528	5	0	269	1796	1	1528	0.0	2795
+k141_38	JCLX01000007.1528210.1529737_Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Enterobacter;Klebsiella_pneumoniae_UCI_44	99.673	1528	5	0	269	1796	1	1528	0.0	2795
+k141_38	JNVK01000014.131900.133427_Bacteria;Proteobacteria;Gammaproteobacteria;Pseudomonadales;Pseudomonadaceae;Pseudomonas;Klebsiella_pneumoniae_BIDMC_33B	99.673	1528	5	0	269	1796	1	1528	0.0	2795
+k141_38	AXLF01000003.4716628.4718155_Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Klebsiella;Klebsiella_pneumoniae_BIDMC_16	99.673	1528	5	0	269	1796	1	1528	0.0	2795
+k141_38	JMXC01000017.103824.105351_Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Enterobacter;Klebsiella_pneumoniae_CHS_28	99.673	1528	5	0	269	1796	1	1528	0.0	2795
+k141_38	JMZE01000010.100146.101673_Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Cronobacter;Klebsiella_pneumoniae_MGH_69	99.673	1528	5	0	269	1796	1	1528	0.0	2795
+k141_38	JMYJ01000008.1456148.1457675_Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Klebsiella;Klebsiella_pneumoniae_CHS_64	99.673	1528	5	0	269	1796	1	1528	0.0	2795
+k141_38	JMWA01000006.103837.105364_Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Klebsiella;Klebsiella_pneumoniae_BIDMC_60	99.673	1528	5	0	269	1796	1	1528	0.0	2795
+k141_38	JMZP01000004.42142.43669_Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Enterobacter;Klebsiella_pneumoniae_UCI_59	99.673	1528	5	0	269	1796	1	1528	0.0	2795
+k141_38	JMZP01000003.103837.105364_Bacteria;Proteobacteria;Gammaproteobacteria;Pseudomonadales;Pseudomonadaceae;Pseudomonas;Klebsiella_pneumoniae_UCI_59	99.673	1528	5	0	269	1796	1	1528	0.0	2795
+k141_38	JMXI01000018.103896.105423_Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Klebsiella;Klebsiella_pneumoniae_CHS_34	99.673	1528	5	0	269	1796	1	1528	0.0	2795
+k141_38	JMZF01000011.96031.97558_Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Klebsiella;Klebsiella_pneumoniae_MGH_70	99.673	1528	5	0	269	1796	1	1528	0.0	2795
+k141_38	JMZG01000019.370321.371848_Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Klebsiella;Klebsiella_pneumoniae_MGH_71	99.673	1528	5	0	269	1796	1	1528	0.0	2795
+k141_38	JMWL01000007.606726.608253_Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Klebsiella;Klebsiella_pneumoniae_CHS_06	99.673	1528	5	0	269	1796	1	1528	0.0	2795
+k141_38	JMWN01000014.20.1547_Bacteria;Proteobacteria;Gammaproteobacteria;Pseudomonadales;Pseudomonadaceae;Pseudomonas;Klebsiella_pneumoniae_CHS_09	99.673	1528	5	0	269	1796	1	1528	0.0	2795
+k141_38	JMYM01000012.103837.105364_Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Klebsiella;Klebsiella_pneumoniae_CHS_67	99.673	1528	5	0	269	1796	1	1528	0.0	2795
+k141_38	JMXU01000024.86864.88391_Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Cronobacter;Klebsiella_pneumoniae_CHS_48	99.673	1528	5	0	269	1796	1	1528	0.0	2795
+k141_38	JMZT01000005.43533.45060_Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Klebsiella;Klebsiella_pneumoniae_UCI_67	99.673	1528	5	0	269	1796	1	1528	0.0	2795
+k141_38	JMXV01000010.162108.163635_Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Klebsiella;Klebsiella_pneumoniae_CHS_49	99.673	1528	5	0	269	1796	1	1528	0.0	2795
+k141_38	JMXW01000009.1452911.1454438_Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Klebsiella;Klebsiella_pneumoniae_CHS_50	99.673	1528	5	0	269	1796	1	1528	0.0	2795
+k141_38	JMXE01000021.503201.504728_Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Klebsiella;Klebsiella_pneumoniae_CHS_30	99.673	1528	5	0	269	1796	1	1528	0.0	2795
+k141_38	JMWE01000004.104163.105690_Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Klebsiella;Klebsiella_pneumoniae_BWH_45	99.673	1528	5	0	269	1796	1	1528	0.0	2795
+k141_38	JMWO01000006.1453759.1455286_Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Klebsiella;Klebsiella_pneumoniae_CHS_11	99.673	1528	5	0	269	1796	1	1528	0.0	2795
+k141_38	JMYX01000013.103832.105359_Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Enterobacter;Klebsiella_pneumoniae_MGH_59	99.673	1528	5	0	269	1796	1	1528	0.0	2795
+k141_38	JMZG01000020.102428.103955_Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Enterobacter;Klebsiella_pneumoniae_MGH_71	99.673	1528	5	0	269	1796	1	1528	0.0	2795
+k141_38	JMWS01000007.102900.104427_Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Enterobacter;Klebsiella_pneumoniae_CHS_17	99.673	1528	5	0	269	1796	1	1528	0.0	2795
+k141_38	JMWI01000002.1453935.1455462_Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Klebsiella;Klebsiella_pneumoniae_CHS_02	99.673	1528	5	0	269	1796	1	1528	0.0	2795
+k141_38	JMYB01000018.676994.678521_Bacteria;Proteobacteria;Gammaproteobacteria;Pseudomonadales;Pseudomonadaceae;Pseudomonas;Klebsiella_pneumoniae_CHS_55	99.673	1528	5	0	269	1796	1	1528	0.0	2795
+k141_38	JMXV01000010.24931.26458_Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Klebsiella;Klebsiella_pneumoniae_CHS_49	99.673	1528	5	0	269	1796	1	1528	0.0	2795
+k141_38	AYIF01000006.220514.222041_Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Enterobacter;Klebsiella_pneumoniae_UCICRE_10	99.673	1528	5	0	269	1796	1	1528	0.0	2795
+k141_38	AYIN01000001.135333.136860_Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Klebsiella;Klebsiella_pneumoniae_UCICRE_2	99.673	1528	5	0	269	1796	1	1528	0.0	2795
+k141_38	AYHX01000010.659989.661516_Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Klebsiella;Klebsiella_pneumoniae_BIDMC_25	99.673	1528	5	0	269	1796	1	1528	0.0	2795
+k141_38	CP006918.5044828.5046369_Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Klebsiella;Klebsiella_pneumoniae_30684/NJST258_2	99.351	1542	10	0	262	1803	1	1542	0.0	2795
+k141_38	AYJL01000003.253.1780_Bacteria;Proteobacteria;Gammaproteobacteria;Pseudomonadales;Pseudomonadaceae;Pseudomonas;Klebsiella_pneumoniae_MGH_19	99.673	1528	5	0	269	1796	1	1528	0.0	2795
+k141_38	AYJM01000004.662929.664456_Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Enterobacter;Klebsiella_pneumoniae_MGH_18	99.673	1528	5	0	269	1796	1	1528	0.0	2795
+k141_38	JOOW01000014.510401.511928_Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Klebsiella;Klebsiella_pneumoniae	99.673	1528	5	0	269	1796	1	1528	0.0	2795
+k141_38	AYIT01000028.70451.71978_Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Klebsiella;Klebsiella_pneumoniae_MGH_48	99.673	1528	5	0	269	1796	1	1528	0.0	2795
+k141_38	CP006738.450012.451551_Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Klebsiella;Klebsiella_pneumoniae_HK787	99.416	1540	9	0	262	1801	1	1540	0.0	2795
+k141_38	CP006722.5288907.5290446_Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Klebsiella;Klebsiella_pneumoniae_subsp._pneumoniae_1158	99.416	1540	9	0	262	1801	1	1540	0.0	2795
+k141_38	CP006722.4646613.4648152_Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Klebsiella;Klebsiella_pneumoniae_subsp._pneumoniae_1158	99.416	1540	9	0	262	1801	1	1540	0.0	2795
+k141_38	AYIF01000001.206.1733_Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Klebsiella;Klebsiella_pneumoniae_UCICRE_10	99.673	1528	5	0	269	1796	1	1528	0.0	2795
+k141_38	AYIC01000012.2236558.2238085_Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Klebsiella;Klebsiella_pneumoniae_UCICRE_14	99.673	1528	5	0	269	1796	1	1528	0.0	2795
+k141_38	AYIC01000012.1640446.1641973_Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Klebsiella;Klebsiella_pneumoniae_UCICRE_14	99.673	1528	5	0	269	1796	1	1528	0.0	2795
+k141_38	AYIJ01000002.95748.97275_Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Klebsiella;Klebsiella_pneumoniae_UCICRE_6	99.673	1528	5	0	269	1796	1	1528	0.0	2795
+k141_38	AYIN01000001.244167.245694_Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Klebsiella;Klebsiella_pneumoniae_UCICRE_2	99.673	1528	5	0	269	1796	1	1528	0.0	2795
+k141_38	CP006738.1241291.1242830_Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Klebsiella;Klebsiella_pneumoniae_HK787	99.416	1540	9	0	262	1801	1	1540	0.0	2795
+k141_38	CP006722.4280860.4282399_Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Klebsiella;Klebsiella_pneumoniae_subsp._pneumoniae_1158	99.416	1540	9	0	262	1801	1	1540	0.0	2795
+k141_38	CP006722.5092574.5094113_Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Klebsiella;Klebsiella_pneumoniae_subsp._pneumoniae_1158	99.416	1540	9	0	262	1801	1	1540	0.0	2795
+k141_38	CBWI010000187.86791.88330_Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Klebsiella;Klebsiella_pneumoniae_IS33	99.416	1540	9	0	262	1801	1	1540	0.0	2795
+k141_38	APVV01000229.22.1552_Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Klebsiella;Klebsiella_pneumoniae_UHKPC04	99.608	1532	5	1	269	1800	1	1531	0.0	2795
+k141_38	CP001891.5409568.5411095_Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Klebsiella;Klebsiella_variicola_At-22	99.673	1528	5	0	269	1796	1	1528	0.0	2795
+k141_38	CP001891.5304371.5305898_Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Klebsiella;Klebsiella_variicola_At-22	99.673	1528	5	0	269	1796	1	1528	0.0	2795
+k141_38	AP006725.680900.682439_Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Klebsiella;Klebsiella_pneumoniae_subsp._pneumoniae_NTUH-K2044	99.416	1540	9	0	262	1801	1	1540	0.0	2795
+k141_38	AP006725.120422.121961_Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Klebsiella;Klebsiella_pneumoniae_subsp._pneumoniae_NTUH-K2044	99.416	1540	9	0	262	1801	1	1540	0.0	2795
+k141_38	JNBM01000006.3282981.3284519_Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Klebsiella;Klebsiella_pneumoniae_UHKPC05	99.415	1539	9	0	263	1801	1	1539	0.0	2793
+k141_38	CP010523.3808711.3810264_Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Klebsiella;Klebsiella_variicola	99.099	1554	14	0	258	1811	1	1554	0.0	2793
+k141_38	JMSX01000001.3261786.3263324_Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Klebsiella;Klebsiella_pneumoniae_UHKPC45	99.415	1539	9	0	263	1801	1	1539	0.0	2793
+k141_38	CP008827.212572.214110_Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Klebsiella;Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH1	99.415	1539	9	0	263	1801	1	1539	0.0	2793
+k141_38	JMSY01000001.3539856.3541394_Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Klebsiella;Klebsiella_pneumoniae_UHKPC_52	99.415	1539	9	0	263	1801	1	1539	0.0	2793
+k141_38	CP008797.212572.214110_Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Klebsiella;Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH24	99.415	1539	9	0	263	1801	1	1539	0.0	2793
+k141_38	CP006923.1300048.1301589_Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Klebsiella;Klebsiella_pneumoniae_30660/NJST258_1	99.351	1542	10	0	262	1803	1	1542	0.0	2793
+k141_38	CP006918.1342564.1344105_Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Klebsiella;Klebsiella_pneumoniae_30684/NJST258_2	99.351	1542	10	0	262	1803	1	1542	0.0	2793
+k141_38	CP006648.4518841.4520379_Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Klebsiella;Klebsiella_pneumoniae_CG43	99.415	1539	9	0	263	1801	1	1539	0.0	2793
+k141_38	CP006798.3339902.3341440_Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Klebsiella;Klebsiella_pneumoniae_subsp._pneumoniae_PittNDM01	99.415	1539	9	0	263	1801	1	1539	0.0	2793
+k141_38	AJJI01000003.368476.370008_Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Enterobacter;Klebsiella_pneumoniae_subsp._pneumoniae_DSM_30104	99.543	1533	7	0	269	1801	1	1533	0.0	2793
+k141_38	AJJI01000018.39882.41414_Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Enterobacter;Klebsiella_pneumoniae_subsp._pneumoniae_DSM_30104	99.543	1533	7	0	269	1801	1	1533	0.0	2793
+k141_38	AJJI01000015.278576.280108_Bacteria;Proteobacteria;Gammaproteobacteria;Pseudomonadales;Pseudomonadaceae;Pseudomonas;Klebsiella_pneumoniae_subsp._pneumoniae_DSM_30104	99.543	1533	7	0	269	1801	1	1533	0.0	2793
+k141_38	AJJI01000017.99296.100828_Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Enterobacter;Klebsiella_pneumoniae_subsp._pneumoniae_DSM_30104	99.543	1533	7	0	269	1801	1	1533	0.0	2793
+k141_38	AJJI01000014.612023.613555_Bacteria;Proteobacteria;Gammaproteobacteria;Pseudomonadales;Pseudomonadaceae;Pseudomonas;Klebsiella_pneumoniae_subsp._pneumoniae_DSM_30104	99.543	1533	7	0	269	1801	1	1533	0.0	2793
+k141_38	AJJI01000002.37763.39295_Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Enterobacter;Klebsiella_pneumoniae_subsp._pneumoniae_DSM_30104	99.543	1533	7	0	269	1801	1	1533	0.0	2793
+k141_38	CP003200.257631.259157_Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Klebsiella;Klebsiella_pneumoniae_subsp._pneumoniae_HS11286	99.673	1528	4	1	269	1796	1	1527	0.0	2793
+k141_38	JRTV01000011.5216347.5217900_Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Klebsiella;Klebsiella_pneumoniae	99.099	1554	14	0	258	1811	1	1554	0.0	2793
+k141_38	EU078620.1.1534_Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Klebsiella;Klebsiella_pneumoniae	99.543	1533	7	0	269	1801	2	1534	0.0	2793
+k141_38	ARRX01000060.22.1553_Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Klebsiella;Klebsiella_pneumoniae_UHKPC77	99.543	1532	7	0	269	1800	1	1532	0.0	2791
+k141_38	ARVN01000015.22.1553_Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Klebsiella;Klebsiella_pneumoniae_UHKPC_52	99.543	1532	7	0	269	1800	1	1532	0.0	2791
+k141_38	JTBE01000012.534953.536505_Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Enterobacter;Escherichia_coli	99.099	1554	13	1	258	1811	1	1553	0.0	2791
+k141_38	CP006918.5241254.5242795_Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Klebsiella;Klebsiella_pneumoniae_30684/NJST258_2	99.287	1542	11	0	262	1803	1	1542	0.0	2791
+k141_38	CP003999.5254932.5256475_Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Klebsiella;Klebsiella_pneumoniae_subsp._pneumoniae_Kp13	99.288	1544	11	0	263	1806	1	1544	0.0	2791
+k141_38	APVZ01000141.40.1571_Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Klebsiella;Klebsiella_pneumoniae_VAKPC280	99.543	1532	7	0	269	1800	1	1532	0.0	2791
+k141_38	APVU01000086.22.1553_Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Klebsiella;Klebsiella_pneumoniae_UHKPC22	99.543	1532	7	0	269	1800	1	1532	0.0	2791
+k141_38	APWF01000008.155.1686_Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Klebsiella;Klebsiella_pneumoniae_361_1301	99.543	1532	7	0	269	1800	1	1532	0.0	2791
+k141_38	APVS01000118.155.1686_Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Enterobacter;Klebsiella_pneumoniae_UHKPC24	99.543	1532	7	0	269	1800	1	1532	0.0	2791
+k141_38	CP000964.4945529.4947060_Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Klebsiella;Klebsiella_pneumoniae_342	99.543	1532	7	0	269	1800	1	1532	0.0	2791
+k141_38	CP000964.5390082.5391613_Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Klebsiella;Klebsiella_pneumoniae_342	99.543	1532	7	0	269	1800	1	1532	0.0	2791
+k141_38	JCMA01000001.252168.253695_Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Klebsiella;Klebsiella_pneumoniae_UCI_41	99.607	1528	6	0	269	1796	1	1528	0.0	2789
+k141_38	JCMJ01000012.832287.833814_Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Klebsiella;Klebsiella_pneumoniae_UCI_20	99.607	1528	6	0	269	1796	1	1528	0.0	2789
+k141_38	JCMD01000012.478470.479997_Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Klebsiella;Klebsiella_pneumoniae_UCI_34	99.607	1528	6	0	269	1796	1	1528	0.0	2789
+k141_38	JCLX01000007.1483077.1484604_Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Enterobacter;Klebsiella_pneumoniae_UCI_44	99.607	1528	6	0	269	1796	1	1528	0.0	2789
+k141_38	JCLX01000001.252168.253695_Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Enterobacter;Klebsiella_pneumoniae_UCI_44	99.607	1528	6	0	269	1796	1	1528	0.0	2789
+k141_38	JCLY01000004.2057022.2058549_Bacteria;Proteobacteria;Gammaproteobacteria;Pseudomonadales;Pseudomonadaceae;Pseudomonas;Klebsiella_pneumoniae_UCI_43	99.607	1528	6	0	269	1796	1	1528	0.0	2789
+k141_38	JCMR01000017.21637.23164_Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Cronobacter;Klebsiella_pneumoniae_BIDMC_47	99.607	1528	6	0	269	1796	1	1528	0.0	2789
+k141_38	JCOA01000006.250480.252007_Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Enterobacter;Klebsiella_pneumoniae_UCICRE_13	99.607	1528	6	0	269	1796	1	1528	0.0	2789
+k141_38	JCMU01000007.98314.99841_Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Klebsiella;Klebsiella_pneumoniae_BIDMC_42b	99.607	1528	6	0	269	1796	1	1528	0.0	2789
+k141_38	JCNS01000016.98986.100513_Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Klebsiella;Klebsiella_pneumoniae_MGH_45	99.607	1528	6	0	269	1796	1	1528	0.0	2789
+k141_38	JCND01000010.894171.895698_Bacteria;Proteobacteria;Gammaproteobacteria;Pseudomonadales;Pseudomonadaceae;Pseudomonas;Klebsiella_pneumoniae_BIDMC_12B	99.607	1528	6	0	269	1796	1	1528	0.0	2789
+k141_38	AXLG01000003.250480.252007_Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Klebsiella;Klebsiella_pneumoniae_BIDMC_12C	99.607	1528	6	0	269	1796	1	1528	0.0	2789
+k141_38	JJNG01000054.242.1769_Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Enterobacter;Klebsiella_pneumoniae_CHS_16	99.607	1528	6	0	269	1796	1	1528	0.0	2789
+k141_38	JJNC01000023.95936.97463_Bacteria;Proteobacteria;Gammaproteobacteria;Pseudomonadales;Pseudomonadaceae;Pseudomonas;Klebsiella_pneumoniae_CHS_60	99.607	1528	6	0	269	1796	1	1528	0.0	2789
+k141_38	JJNK01000019.101128.102655_Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Cronobacter;Klebsiella_pneumoniae_MGH_75	99.607	1528	6	0	269	1796	1	1528	0.0	2789
+k141_38	JMXG01000007.250480.252007_Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Enterobacter;Klebsiella_pneumoniae_CHS_32	99.607	1528	6	0	269	1796	1	1528	0.0	2789
+k141_38	JMWE01000001.250480.252007_Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Enterobacter;Klebsiella_pneumoniae_BWH_45	99.607	1528	6	0	269	1796	1	1528	0.0	2789
+k141_38	JMZN01000002.53980.55507_Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Enterobacter;Klebsiella_pneumoniae_UCI_55	99.607	1528	6	0	269	1796	1	1528	0.0	2789
+k141_38	JMXH01000021.250480.252007_Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Klebsiella;Klebsiella_pneumoniae_CHS_33	99.607	1528	6	0	269	1796	1	1528	0.0	2789
+k141_38	JMYW01000017.426794.428321_Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Enterobacter;Klebsiella_pneumoniae_MGH_52	99.607	1528	6	0	269	1796	1	1528	0.0	2789
+k141_38	JMYQ01000007.250480.252007_Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Enterobacter;Klebsiella_pneumoniae_CHS_73	99.607	1528	6	0	269	1796	1	1528	0.0	2789
+k141_38	JMXO01000024.38431.39958_Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Klebsiella;Klebsiella_pneumoniae_CHS_40	99.607	1528	6	0	269	1796	1	1528	0.0	2789
+k141_38	JMXF01000011.250480.252007_Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Enterobacter;Klebsiella_pneumoniae_CHS_31	99.607	1528	6	0	269	1796	1	1528	0.0	2789
+k141_38	JMWG01000001.250480.252007_Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Enterobacter;Klebsiella_pneumoniae_BWH_47	99.607	1528	6	0	269	1796	1	1528	0.0	2789
+k141_38	JMWK01000007.1602.3129_Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Klebsiella;Klebsiella_pneumoniae_CHS_05	99.607	1528	6	0	269	1796	1	1528	0.0	2789
+k141_38	JMWK01000001.250480.252007_Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Klebsiella;Klebsiella_pneumoniae_CHS_05	99.607	1528	6	0	269	1796	1	1528	0.0	2789
+k141_38	JMXM01000006.250480.252007_Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Enterobacter;Klebsiella_pneumoniae_CHS_38	99.607	1528	6	0	269	1796	1	1528	0.0	2789
+k141_38	JMXN01000009.250480.252007_Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Klebsiella;Klebsiella_pneumoniae_CHS_39	99.607	1528	6	0	269	1796	1	1528	0.0	2789
+k141_38	JMVX01000011.367724.369251_Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Klebsiella;Klebsiella_pneumoniae_BIDMC_18B	99.607	1528	6	0	269	1796	1	1528	0.0	2789
+k141_38	JMVX01000008.59094.60621_Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Enterobacter;Klebsiella_pneumoniae_BIDMC_18B	99.607	1528	6	0	269	1796	1	1528	0.0	2789
+k141_38	JMYJ01000010.250480.252007_Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Enterobacter;Klebsiella_pneumoniae_CHS_64	99.607	1528	6	0	269	1796	1	1528	0.0	2789
+k141_38	JMWN01000001.248838.250365_Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Enterobacter;Klebsiella_pneumoniae_CHS_09	99.607	1528	6	0	269	1796	1	1528	0.0	2789
+k141_38	JMWL01000015.250480.252007_Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Enterobacter;Klebsiella_pneumoniae_CHS_06	99.607	1528	6	0	269	1796	1	1528	0.0	2789
+k141_38	JMWI01000004.250480.252007_Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Klebsiella;Klebsiella_pneumoniae_CHS_02	99.607	1528	6	0	269	1796	1	1528	0.0	2789
+k141_38	JMWY01000001.253092.254619_Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Klebsiella;Klebsiella_pneumoniae_CHS_24	99.607	1528	6	0	269	1796	1	1528	0.0	2789
+k141_38	JMYM01000001.250480.252007_Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Enterobacter;Klebsiella_pneumoniae_CHS_67	99.607	1528	6	0	269	1796	1	1528	0.0	2789
+k141_38	JMXR01000009.251786.253313_Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Enterobacter;Klebsiella_pneumoniae_CHS_44	99.607	1528	6	0	269	1796	1	1528	0.0	2789
+k141_38	JMYA01000017.3290.4817_Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Klebsiella;Klebsiella_pneumoniae_CHS_54	99.607	1528	6	0	269	1796	1	1528	0.0	2789
+k141_38	JMWU01000006.250480.252007_Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Enterobacter;Klebsiella_pneumoniae_CHS_19	99.607	1528	6	0	269	1796	1	1528	0.0	2789
+k141_38	JMYB01000019.35.1562_Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Klebsiella;Klebsiella_pneumoniae_CHS_55	99.607	1528	6	0	269	1796	1	1528	0.0	2789
+k141_38	JMYA01000001.250480.252007_Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Enterobacter;Klebsiella_pneumoniae_CHS_54	99.607	1528	6	0	269	1796	1	1528	0.0	2789
+k141_38	CP009274.1738003.1739558_Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Klebsiella;Klebsiella_variicola	99.036	1556	13	2	258	1811	1	1556	0.0	2789
+k141_38	AQPG01000012.877607.879134_Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Klebsiella;Klebsiella_pneumoniae_Kb677	99.607	1528	6	0	269	1796	1	1528	0.0	2789
+k141_38	JMYV01000001.250480.252007_Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Enterobacter;Klebsiella_pneumoniae_MGH_51	99.607	1528	6	0	269	1796	1	1528	0.0	2789
+k141_38	JMYX01000018.250480.252007_Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Enterobacter;Klebsiella_pneumoniae_MGH_59	99.607	1528	6	0	269	1796	1	1528	0.0	2789
+k141_38	JMYP01000002.97216.98743_Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Klebsiella;Klebsiella_pneumoniae_CHS_72	99.607	1528	6	0	269	1796	1	1528	0.0	2789
+k141_38	JMYR01000019.251257.252784_Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Klebsiella;Klebsiella_pneumoniae_CHS_74	99.607	1528	6	0	269	1796	1	1528	0.0	2789
+k141_38	JMXD01000001.250480.252007_Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Enterobacter;Klebsiella_pneumoniae_CHS_29	99.607	1528	6	0	269	1796	1	1528	0.0	2789
+k141_38	JMYI01000001.250480.252007_Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Enterobacter;Klebsiella_pneumoniae_CHS_63	99.607	1528	6	0	269	1796	1	1528	0.0	2789
+k141_38	JMXZ01000012.250480.252007_Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Enterobacter;Klebsiella_pneumoniae_CHS_53	99.607	1528	6	0	269	1796	1	1528	0.0	2789
+k141_38	JMXJ01000005.250480.252007_Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Klebsiella;Klebsiella_pneumoniae_CHS_35	99.607	1528	6	0	269	1796	1	1528	0.0	2789
+k141_38	JMXL01000022.250480.252007_Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Klebsiella;Klebsiella_pneumoniae_CHS_37	99.607	1528	6	0	269	1796	1	1528	0.0	2789
+k141_38	JMYY01000019.40438.41965_Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Cronobacter;Klebsiella_pneumoniae_MGH_60	99.607	1528	6	0	269	1796	1	1528	0.0	2789
+k141_38	JMWJ01000001.250480.252007_Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Enterobacter;Klebsiella_pneumoniae_CHS_03	99.607	1528	6	0	269	1796	1	1528	0.0	2789
+k141_38	JMXV01000001.250480.252007_Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Enterobacter;Klebsiella_pneumoniae_CHS_49	99.607	1528	6	0	269	1796	1	1528	0.0	2789
+k141_38	JMZS01000006.250480.252007_Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Enterobacter;Klebsiella_pneumoniae_UCI_63	99.607	1528	6	0	269	1796	1	1528	0.0	2789
+k141_38	JMYO01000009.250480.252007_Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Klebsiella;Klebsiella_pneumoniae_CHS_71	99.607	1528	6	0	269	1796	1	1528	0.0	2789
+k141_38	JMVY01000018.75114.76641_Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Enterobacter;Klebsiella_pneumoniae_BIDMC_54	99.607	1528	6	0	269	1796	1	1528	0.0	2789
+k141_38	JMXK01000001.250480.252007_Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Klebsiella;Klebsiella_pneumoniae_CHS_36	99.607	1528	6	0	269	1796	1	1528	0.0	2789
+k141_38	JMYH01000006.250480.252007_Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Klebsiella;Klebsiella_pneumoniae_CHS_62	99.607	1528	6	0	269	1796	1	1528	0.0	2789
+k141_38	JMYF01000001.250480.252007_Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Enterobacter;Klebsiella_pneumoniae_CHS_59	99.607	1528	6	0	269	1796	1	1528	0.0	2789
+k141_38	JMWS01000008.250480.252007_Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Klebsiella;Klebsiella_pneumoniae_CHS_17	99.607	1528	6	0	269	1796	1	1528	0.0	2789
+k141_38	JMXW01000014.250480.252007_Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Enterobacter;Klebsiella_pneumoniae_CHS_50	99.607	1528	6	0	269	1796	1	1528	0.0	2789
+k141_38	AYIF01000001.101912.103439_Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Klebsiella;Klebsiella_pneumoniae_UCICRE_10	99.607	1528	6	0	269	1796	1	1528	0.0	2789
+k141_38	AYIA01000009.89944.91471_Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Klebsiella;Klebsiella_pneumoniae_BIDMC_22	99.607	1528	6	0	269	1796	1	1528	0.0	2789
+k141_38	AYIC01000012.1131994.1133521_Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Klebsiella;Klebsiella_pneumoniae_UCICRE_14	99.607	1528	6	0	269	1796	1	1528	0.0	2789
+k141_38	AYIL01000017.1234291.1235818_Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Klebsiella;Klebsiella_pneumoniae_UCICRE_4	99.607	1528	6	0	269	1796	1	1528	0.0	2789
+k141_38	AYIJ01000016.428790.430317_Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Enterobacter;Klebsiella_pneumoniae_UCICRE_6	99.607	1528	6	0	269	1796	1	1528	0.0	2789
+k141_38	AYIV01000006.339759.341286_Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Klebsiella;Klebsiella_pneumoniae_MGH_44	99.607	1528	6	0	269	1796	1	1528	0.0	2789
+k141_38	AYIT01000024.93205.94732_Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Cronobacter;Klebsiella_pneumoniae_MGH_48	99.607	1528	6	0	269	1796	1	1528	0.0	2789
+k141_38	CP006738.5041035.5042574_Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Klebsiella;Klebsiella_pneumoniae_HK787	99.351	1541	8	2	262	1801	1	1540	0.0	2789
+k141_38	CP006722.459071.460611_Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Klebsiella;Klebsiella_pneumoniae_subsp._pneumoniae_1158	99.351	1541	9	1	262	1801	1	1541	0.0	2789
+k141_38	CP006738.4625017.4626557_Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Klebsiella;Klebsiella_pneumoniae_HK787	99.351	1541	9	1	262	1801	1	1541	0.0	2789
+k141_38	CP006659.212500.214039_Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Klebsiella;Klebsiella_pneumoniae_ATCC_BAA-2146	99.351	1540	10	0	262	1801	1	1540	0.0	2789
+k141_38	CP006659.4100688.4102227_Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Klebsiella;Klebsiella_pneumoniae_ATCC_BAA-2146	99.351	1540	10	0	262	1801	1	1540	0.0	2789
+k141_38	CP006659.120629.122168_Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Klebsiella;Klebsiella_pneumoniae_ATCC_BAA-2146	99.351	1540	10	0	262	1801	1	1540	0.0	2789
+k141_38	CP006659.16182.17721_Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Klebsiella;Klebsiella_pneumoniae_ATCC_BAA-2146	99.351	1540	10	0	262	1801	1	1540	0.0	2789
+k141_38	CP006656.1336821.1338348_Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Klebsiella;Klebsiella_pneumoniae_JM45	99.607	1528	6	0	269	1796	1	1528	0.0	2789
+k141_38	CP006659.1021346.1022885_Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Klebsiella;Klebsiella_pneumoniae_ATCC_BAA-2146	99.351	1540	10	0	262	1801	1	1540	0.0	2789
+k141_38	AYHW01000014.1332635.1334162_Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Klebsiella;Klebsiella_pneumoniae_BIDMC_36	99.607	1528	6	0	269	1796	1	1528	0.0	2789
+k141_38	AYIJ01000016.41948.43475_Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Enterobacter;Klebsiella_pneumoniae_UCICRE_6	99.607	1528	6	0	269	1796	1	1528	0.0	2789
+k141_38	AYHY01000011.863746.865273_Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Klebsiella;Klebsiella_pneumoniae_BIDMC_24	99.607	1528	6	0	269	1796	1	1528	0.0	2789
+k141_38	CP006738.4263576.4265115_Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Klebsiella;Klebsiella_pneumoniae_HK787	99.351	1541	8	2	262	1801	1	1540	0.0	2789
+k141_38	CP006722.1288622.1290162_Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Klebsiella;Klebsiella_pneumoniae_subsp._pneumoniae_1158	99.351	1541	9	1	262	1801	1	1541	0.0	2789
+k141_38	CP006738.5086143.5087682_Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Klebsiella;Klebsiella_pneumoniae_HK787	99.351	1541	8	2	262	1801	1	1540	0.0	2789
+k141_38	CP006659.649006.650545_Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Klebsiella;Klebsiella_pneumoniae_ATCC_BAA-2146	99.351	1540	10	0	262	1801	1	1540	0.0	2789
+k141_38	CP006659.4944765.4946304_Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Klebsiella;Klebsiella_pneumoniae_ATCC_BAA-2146	99.351	1540	10	0	262	1801	1	1540	0.0	2789
+k141_38	JMSX01000001.1716277.1717815_Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Klebsiella;Klebsiella_pneumoniae_UHKPC45	99.350	1539	10	0	263	1801	1	1539	0.0	2787
+k141_38	JMSW01000001.2247400.2248938_Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Klebsiella;Klebsiella_pneumoniae_VAKPC278	99.350	1539	10	0	263	1801	1	1539	0.0	2787
+k141_38	JMMY01000001.5228830.5230368_Bacteria;Proteobacteria;Gammaproteobacteria;Pseudomonadales;Pseudomonadaceae;Pseudomonas;Klebsiella_pneumoniae_160_1080	99.350	1539	10	0	263	1801	1	1539	0.0	2787
+k141_38	CP008827.4057568.4059106_Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Klebsiella;Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH1	99.350	1539	10	0	263	1801	1	1539	0.0	2787
+k141_38	CP007727.4058776.4060314_Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Klebsiella;Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH10	99.350	1539	10	0	263	1801	1	1539	0.0	2787
+k141_38	JMSY01000001.2028515.2030053_Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Klebsiella;Klebsiella_pneumoniae_UHKPC_52	99.350	1539	10	0	263	1801	1	1539	0.0	2787
+k141_38	CP008797.1795643.1797181_Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Klebsiella;Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH24	99.350	1539	10	0	263	1801	1	1539	0.0	2787
+k141_38	CP006798.3531039.3532577_Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Klebsiella;Klebsiella_pneumoniae_subsp._pneumoniae_PittNDM01	99.350	1539	10	0	263	1801	1	1539	0.0	2787
+k141_38	CP006648.236807.238345_Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Klebsiella;Klebsiella_pneumoniae_CG43	99.350	1539	10	0	263	1801	1	1539	0.0	2787
+k141_38	CP006648.5042622.5044160_Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Klebsiella;Klebsiella_pneumoniae_CG43	99.350	1539	10	0	263	1801	1	1539	0.0	2787
+k141_38	CP003200.4844842.4846368_Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Klebsiella;Klebsiella_pneumoniae_subsp._pneumoniae_HS11286	99.607	1528	5	1	269	1796	1	1527	0.0	2787
+k141_38	CP009208.2377203.2378728_Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Klebsiella;Klebsiella_pneumoniae_subsp._pneumoniae	99.607	1526	6	0	270	1795	1	1526	0.0	2785
+k141_38	CP009208.3397961.3399486_Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Klebsiella;Klebsiella_pneumoniae_subsp._pneumoniae	99.607	1526	6	0	270	1795	1	1526	0.0	2785
+k141_38	CCGY01000002.586.2105_Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Enterobacter;Klebsiella_pneumoniae	99.737	1520	4	0	269	1788	1	1520	0.0	2785
+k141_38	CP003999.5018761.5020304_Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Klebsiella;Klebsiella_pneumoniae_subsp._pneumoniae_Kp13	99.223	1544	12	0	263	1806	1	1544	0.0	2785
+k141_38	CCHV01000011.421275.422794_Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Enterobacter;Klebsiella_pneumoniae	99.737	1520	4	0	269	1788	1	1520	0.0	2785
+k141_38	CCHS01000154.306.1825_Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Enterobacter;Klebsiella_pneumoniae	99.737	1520	4	0	269	1788	1	1520	0.0	2785
+k141_38	CCIR01000287.3566.5085_Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Enterobacter;Klebsiella_pneumoniae	99.737	1520	4	0	269	1788	1	1520	0.0	2785
+k141_38	CP000964.5589269.5590800_Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Klebsiella;Klebsiella_pneumoniae_342	99.478	1532	8	0	269	1800	1	1532	0.0	2785
+k141_38	CP000647.4800349.4801892_Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Klebsiella;Klebsiella_pneumoniae_subsp._pneumoniae_MGH_78578	99.223	1544	12	0	263	1806	1	1544	0.0	2785
+k141_38	CP000647.5198391.5199934_Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Klebsiella;Klebsiella_pneumoniae_subsp._pneumoniae_MGH_78578	99.223	1544	12	0	263	1806	1	1544	0.0	2785
+k141_38	DQ444287.1.1532_Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Enterobacter;Klebsiella_pneumoniae	99.478	1532	8	0	269	1800	1	1532	0.0	2785
+k141_38	JCMO01000013.370903.372430_Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Klebsiella;Klebsiella_pneumoniae_BIDMC_52	99.542	1528	7	0	269	1796	1	1528	0.0	2784
+k141_38	JCNR01000008.369468.370995_Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Klebsiella;Klebsiella_pneumoniae_MGH_47	99.542	1528	7	0	269	1796	1	1528	0.0	2784
+k141_38	JCMN01000010.650194.651721_Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Klebsiella;Klebsiella_pneumoniae_BIDMC_53	99.542	1528	7	0	269	1796	1	1528	0.0	2784
+k141_38	CP009208.3900213.3901740_Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Klebsiella;Klebsiella_pneumoniae_subsp._pneumoniae	99.542	1528	7	0	269	1796	1	1528	0.0	2784
+k141_38	CP009208.4688052.4689579_Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Klebsiella;Klebsiella_pneumoniae_subsp._pneumoniae	99.542	1528	7	0	269	1796	1	1528	0.0	2784
+k141_38	JMWD01000026.40454.41981_Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Enterobacter;Klebsiella_pneumoniae_BIDMC_69	99.542	1528	7	0	269	1796	1	1528	0.0	2784
+# BLASTN 2.10.0+
+# Query: k141_377 flag=1 multi=2.0000 len=427
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_378 flag=1 multi=2.0000 len=351
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_379 flag=1 multi=2.0000 len=468
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_39 flag=1 multi=2.0000 len=963
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_380 flag=1 multi=2.0000 len=464
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_40 flag=1 multi=2.0000 len=380
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_41 flag=1 multi=1.0000 len=486
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_381 flag=1 multi=2.0000 len=560
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_382 flag=1 multi=2.0000 len=384
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_383 flag=1 multi=2.0000 len=382
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_384 flag=1 multi=2.0000 len=433
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_42 flag=1 multi=3.0000 len=1184
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_385 flag=1 multi=2.0000 len=604
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_43 flag=1 multi=2.0000 len=497
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_386 flag=1 multi=1.0000 len=562
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_44 flag=1 multi=2.0000 len=639
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_387 flag=1 multi=2.0000 len=373
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_388 flag=1 multi=2.0000 len=437
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_45 flag=1 multi=2.0000 len=579
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_46 flag=1 multi=2.0000 len=550
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_389 flag=1 multi=2.0000 len=908
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_47 flag=1 multi=2.0000 len=412
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_390 flag=1 multi=2.0000 len=394
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_48 flag=1 multi=1.0000 len=411
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_49 flag=1 multi=1.0000 len=427
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_391 flag=1 multi=2.0000 len=650
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_392 flag=1 multi=2.0000 len=483
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_50 flag=1 multi=1.0000 len=856
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_51 flag=1 multi=2.0000 len=407
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_393 flag=1 multi=2.0000 len=651
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_394 flag=1 multi=1.0000 len=412
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_52 flag=1 multi=2.0000 len=798
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_53 flag=1 multi=3.0000 len=307
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_395 flag=1 multi=2.0000 len=874
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_54 flag=1 multi=2.0000 len=577
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_396 flag=1 multi=3.0000 len=578
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_55 flag=1 multi=2.0000 len=443
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_56 flag=1 multi=3.0000 len=315
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_397 flag=1 multi=2.0000 len=486
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_398 flag=1 multi=2.0000 len=612
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_57 flag=1 multi=2.0000 len=845
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_399 flag=1 multi=2.0000 len=395
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_58 flag=1 multi=2.0000 len=341
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_59 flag=1 multi=1.0000 len=451
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_60 flag=1 multi=2.0000 len=519
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_61 flag=1 multi=2.0000 len=575
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_62 flag=1 multi=1.0000 len=425
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_63 flag=1 multi=2.0000 len=625
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_400 flag=1 multi=5.0000 len=2147
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_64 flag=1 multi=2.0000 len=359
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_401 flag=1 multi=2.0000 len=410
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_402 flag=1 multi=1.0000 len=502
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_65 flag=1 multi=2.0000 len=611
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_66 flag=1 multi=2.0000 len=302
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_403 flag=1 multi=2.0000 len=568
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_67 flag=1 multi=2.0000 len=408
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_404 flag=1 multi=2.0000 len=522
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_68 flag=1 multi=1.0000 len=573
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_405 flag=1 multi=3.0000 len=399
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_406 flag=1 multi=2.0000 len=649
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_69 flag=1 multi=3.0000 len=1012
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_407 flag=1 multi=2.0000 len=481
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_408 flag=1 multi=2.0000 len=644
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_409 flag=1 multi=2.0000 len=317
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_410 flag=1 multi=1.0000 len=382
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_411 flag=1 multi=2.0000 len=326
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_412 flag=1 multi=2.0000 len=331
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_413 flag=1 multi=2.0000 len=348
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_414 flag=1 multi=5.0000 len=565
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_415 flag=1 multi=2.0000 len=458
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_416 flag=1 multi=2.0000 len=353
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_417 flag=1 multi=2.0000 len=435
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_418 flag=1 multi=2.0000 len=383
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_419 flag=1 multi=2.0000 len=302
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_420 flag=1 multi=3.0000 len=330
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_70 flag=1 multi=3.0000 len=3915
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 32 hits found
+k141_70	KF824531.1.2548_Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Serratia;Serratia_symbiotica	91.235	502	41	3	3256	3756	2548	2049	0.0	680
+k141_70	KF824530.1.2548_Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Serratia;Serratia_symbiotica	91.235	502	41	3	3256	3756	2548	2049	0.0	680
+k141_70	KF835612.1.2403_Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Serratia;Serratia_symbiotica	90.570	509	46	2	3256	3763	2403	1896	0.0	673
+k141_70	KF824525.1.2548_Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Serratia;Serratia_symbiotica	90.637	502	44	3	3256	3756	2548	2049	0.0	664
+k141_70	KF835613.1.2403_Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Serratia;Serratia_symbiotica	90.177	509	48	2	3256	3763	2403	1896	0.0	662
+k141_70	KF824522.1.2537_Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Arsenophonus;Arsenophonus_endosymbiont_of_Aphis_melosae	88.706	487	50	5	3256	3740	2537	2054	7.05e-166	590
+k141_70	KF824521.1.2537_Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Arsenophonus;Arsenophonus_endosymbiont_of_Aphis_melosae	88.706	487	50	5	3256	3740	2537	2054	7.05e-166	590
+k141_70	KF824524.1.2537_Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Arsenophonus;Arsenophonus_endosymbiont_of_Aphis_melosae	88.706	487	50	5	3256	3740	2537	2054	7.05e-166	590
+k141_70	KF824526.1.2623_Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Arsenophonus;Arsenophonus_endosymbiont_of_Aphis_sp	88.501	487	51	5	3256	3740	2623	2140	3.28e-164	584
+k141_70	CAQA01000070.1409.4877_Bacteria;Firmicutes;Bacilli;Lactobacillales;Streptococcaceae;Streptococcus;Streptococcus_agalactiae_SS1219	76.465	1092	206	41	2285	3351	3252	2187	1.55e-152	545
+k141_70	DQ508185.1.2439_Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Arsenophonus;Candidatus_Arsenophonus_triatominarum	87.133	443	51	6	3298	3737	2438	1999	4.40e-138	497
+k141_70	LM995745.228347.229599_Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Escherichia-Shigella;Escherichia_coli	96.498	257	9	0	3484	3740	1253	997	2.10e-116	425
+k141_70	KF835614.1.2254_Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Candidatus_Hamiltonella;Candidatus_Hamiltonella_defensa	82.688	491	71	11	3256	3740	2254	1772	7.57e-116	424
+k141_70	KF835615.1.2380_Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Candidatus_Hamiltonella;Candidatus_Hamiltonella_defensa	82.688	491	71	11	3256	3740	2380	1898	7.57e-116	424
+k141_70	CP007359.3958370.3959837_Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Salmonella;Salmonella_enterica_subsp._enterica_serovar_Enteritidis_str._EC20100134	99.310	145	1	0	1068	1212	1468	1324	1.75e-67	263
+k141_70	FJ876273.1.2633_Bacteria;Proteobacteria;Betaproteobacteria;Neisseriales;Neisseriaceae;Neisseria;Neisseria_sp._CSL_7565	77.399	469	84	20	3263	3719	2633	2175	2.26e-66	259
+k141_70	CP007393.191798.193312_Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Escherichia-Shigella;Escherichia_coli	93.671	158	10	0	881	1038	158	1	1.06e-59	237
+k141_70	AVFE01000079.86.1409_Bacteria;Firmicutes;Bacilli;Lactobacillales;Streptococcaceae;Lactococcus;Lactococcus_garvieae_TRF1	80.312	320	52	8	3038	3351	490	176	4.92e-58	231
+k141_70	CDQH01000013.709298.710724_Bacteria;Proteobacteria;Gammaproteobacteria;Alteromonadales;Shewanellaceae;Shewanella;Shewanella_algae	81.557	244	34	6	3266	3508	1125	892	8.36e-46	191
+k141_70	DQ241813.1.2375_Bacteria;Bacteroidetes;Flavobacteriia;Flavobacteriales;Flavobacteriaceae;Bergeyella;Bergeyella_sp._AF14	80.077	261	39	10	3285	3543	2375	2126	5.03e-43	182
+k141_70	KJ410683.2843.4460_Bacteria;Cyanobacteria;Chloroplast;Nannochloropsis_oceanica	91.667	108	7	2	3204	3311	1433	1328	5.10e-33	148
+k141_70	JN935872.1.2238_Bacteria;Tenericutes;Mollicutes;Mycoplasmatales;Mycoplasmataceae;Mycoplasma;Mycoplasma_penetrans	77.291	251	52	5	3451	3698	2001	1753	2.37e-31	143
+k141_70	JN935877.1.2206_Bacteria;Tenericutes;Mollicutes;Mycoplasmatales;Mycoplasmataceae;Mycoplasma;Mycoplasma_iowae_695	75.794	252	55	6	3451	3698	1980	1731	3.09e-25	122
+k141_70	JN644756.1.2250_Bacteria;Firmicutes;Bacilli;Lactobacillales;Lactobacillaceae;Lactobacillus;Lactobacillus_saniviri	84.314	102	16	0	3250	3351	2250	2149	1.45e-18	100
+k141_70	HQ022861.1.2246_Bacteria;Firmicutes;Bacilli;Lactobacillales;Lactobacillaceae;Lactobacillus;Lactobacillus_brantae	84.000	100	16	0	3252	3351	2246	2147	1.87e-17	97.1
+k141_70	CP006736.3397905.3399321_Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Escherichia-Shigella;Shigella_dysenteriae_1617	87.654	81	5	4	3754	3831	1417	1339	3.14e-15	89.8
+k141_70	CDPE01000048.1065.2434_Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Cronobacter;Klebsiella_pneumoniae	95.556	45	1	1	3872	3915	51	7	1.14e-09	71.3
+k141_70	JX406859.1.1633_Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Enterobacter;Klebsiella_sp._KV-3	95.556	45	1	1	3872	3915	1631	1587	1.14e-09	71.3
+k141_70	AF373180.1.1981_Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Pectobacterium;Pectobacterium_atrosepticum	92.500	40	1	2	3711	3750	1981	1944	3.18e-05	56.5
+k141_70	AF373179.1.1991_Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Pectobacterium;Pectobacterium_atrosepticum	92.500	40	1	2	3711	3750	1991	1954	3.18e-05	56.5
+k141_70	AF373181.1.1991_Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Pectobacterium;Pectobacterium_atrosepticum	92.500	40	1	2	3711	3750	1991	1954	3.18e-05	56.5
+k141_70	AUNV01000047.2719.4059_Bacteria;Proteobacteria;Betaproteobacteria;Burkholderiales;Comamonadaceae;Caenimonas;Comamonadaceae_bacterium_JGI_0001003-E14	100.000	29	0	0	1586	1614	14	42	1.14e-04	54.7
+# BLASTN 2.10.0+
+# Query: k141_421 flag=1 multi=2.0000 len=513
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_71 flag=1 multi=2.0000 len=583
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_422 flag=1 multi=2.0000 len=478
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_72 flag=1 multi=2.0000 len=326
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_423 flag=1 multi=2.0000 len=384
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_73 flag=1 multi=2.0000 len=448
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_424 flag=1 multi=1.0000 len=521
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_74 flag=1 multi=2.0000 len=489
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_75 flag=1 multi=2.0000 len=358
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_76 flag=1 multi=2.0000 len=406
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_77 flag=1 multi=2.0000 len=383
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_425 flag=1 multi=2.0000 len=1051
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_78 flag=1 multi=2.0000 len=493
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_426 flag=1 multi=2.0000 len=646
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_79 flag=1 multi=2.0000 len=404
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_427 flag=1 multi=2.0000 len=350
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_428 flag=1 multi=2.0000 len=378
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_80 flag=1 multi=2.0000 len=606
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_429 flag=1 multi=1.0000 len=457
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_430 flag=1 multi=2.0000 len=440
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_81 flag=1 multi=2.0000 len=740
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_431 flag=1 multi=2.0000 len=305
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_432 flag=1 multi=2.0000 len=530
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_82 flag=1 multi=2.0000 len=1034
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_433 flag=1 multi=2.0000 len=493
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_83 flag=1 multi=2.0000 len=305
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_84 flag=1 multi=2.0000 len=403
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_434 flag=1 multi=3.0000 len=734
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_85 flag=1 multi=1.0000 len=440
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_435 flag=1 multi=2.0000 len=380
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_86 flag=1 multi=2.0000 len=433
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_436 flag=1 multi=1.0000 len=390
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_437 flag=1 multi=1.0000 len=423
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_87 flag=1 multi=2.0000 len=612
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_438 flag=1 multi=2.5065 len=372
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_88 flag=1 multi=2.0000 len=348
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_439 flag=1 multi=2.0000 len=366
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_89 flag=1 multi=1.0000 len=445
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_440 flag=1 multi=2.0000 len=443
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_90 flag=1 multi=2.0000 len=381
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_441 flag=1 multi=2.0000 len=496
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_442 flag=1 multi=2.0000 len=337
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_91 flag=1 multi=2.0000 len=613
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_92 flag=1 multi=2.0000 len=324
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_93 flag=1 multi=2.0000 len=540
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_94 flag=1 multi=2.0000 len=387
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_95 flag=1 multi=2.0000 len=412
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_443 flag=1 multi=7.0000 len=1426
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_444 flag=1 multi=1.0000 len=464
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_96 flag=1 multi=2.0000 len=743
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_445 flag=1 multi=2.0000 len=421
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_97 flag=1 multi=2.0000 len=435
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_446 flag=1 multi=2.0000 len=434
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_447 flag=1 multi=2.0000 len=380
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_98 flag=1 multi=2.0000 len=719
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_448 flag=1 multi=2.0000 len=326
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_99 flag=1 multi=2.0000 len=403
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_449 flag=1 multi=2.0000 len=520
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_450 flag=1 multi=2.0000 len=510
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_451 flag=1 multi=3.0000 len=331
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_100 flag=1 multi=3.0000 len=946
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_452 flag=1 multi=3.0000 len=319
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_101 flag=1 multi=2.0000 len=332
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_453 flag=1 multi=2.0000 len=394
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_102 flag=1 multi=3.0000 len=723
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_454 flag=1 multi=2.0000 len=731
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_455 flag=1 multi=2.0000 len=456
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_456 flag=1 multi=2.0000 len=386
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_457 flag=1 multi=1.0000 len=396
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_458 flag=1 multi=3.0000 len=312
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_459 flag=1 multi=2.0000 len=372
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_103 flag=1 multi=1.0000 len=529
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_460 flag=1 multi=2.0000 len=496
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_104 flag=1 multi=2.0000 len=341
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_105 flag=1 multi=1.0000 len=409
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_461 flag=1 multi=2.0000 len=615
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_106 flag=1 multi=2.0000 len=369
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_462 flag=1 multi=1.0000 len=455
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_107 flag=1 multi=2.0000 len=395
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_463 flag=1 multi=2.0000 len=374
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_108 flag=1 multi=2.0000 len=375
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_464 flag=1 multi=3.0000 len=333
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_465 flag=1 multi=2.0000 len=403
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_466 flag=1 multi=2.0000 len=457
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_109 flag=1 multi=2.0000 len=993
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_110 flag=1 multi=2.0000 len=350
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_467 flag=1 multi=2.0000 len=639
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_468 flag=1 multi=3.0000 len=313
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_111 flag=1 multi=2.0000 len=486
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_469 flag=1 multi=2.0000 len=605
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_112 flag=1 multi=2.0000 len=580
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_470 flag=1 multi=3.0000 len=696
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_113 flag=1 multi=2.0000 len=775
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_114 flag=1 multi=2.0000 len=456
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_471 flag=1 multi=2.0000 len=631
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_115 flag=1 multi=2.0000 len=432
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_472 flag=1 multi=2.0000 len=526
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_116 flag=1 multi=2.0000 len=501
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_473 flag=1 multi=1.0000 len=405
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_117 flag=1 multi=3.0000 len=306
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_118 flag=1 multi=2.0000 len=337
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_474 flag=1 multi=2.0000 len=566
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_119 flag=1 multi=2.0000 len=344
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_120 flag=1 multi=2.0000 len=393
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_475 flag=1 multi=1.0000 len=522
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_121 flag=1 multi=2.0000 len=853
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_476 flag=1 multi=2.0000 len=888
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_122 flag=1 multi=2.0000 len=395
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_123 flag=1 multi=2.0000 len=386
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_477 flag=1 multi=1.0000 len=601
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_478 flag=1 multi=2.0000 len=350
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_124 flag=1 multi=2.0000 len=611
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_479 flag=1 multi=2.0000 len=329
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_125 flag=1 multi=1.0000 len=366
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_480 flag=1 multi=2.0000 len=391
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_126 flag=1 multi=1.0000 len=353
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_481 flag=1 multi=1.0000 len=357
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_127 flag=1 multi=2.0000 len=313
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_128 flag=1 multi=2.0000 len=313
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_482 flag=1 multi=1.8201 len=530
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_129 flag=1 multi=1.0000 len=479
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_483 flag=1 multi=2.0000 len=459
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_484 flag=1 multi=2.0000 len=367
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_130 flag=1 multi=1.0000 len=533
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_485 flag=1 multi=2.0000 len=530
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_131 flag=1 multi=2.0000 len=419
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_486 flag=1 multi=2.0000 len=359
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_132 flag=1 multi=1.0000 len=411
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_487 flag=1 multi=1.0000 len=397
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_133 flag=1 multi=2.0000 len=452
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_488 flag=1 multi=1.0000 len=356
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_134 flag=1 multi=2.0000 len=489
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_489 flag=1 multi=1.0000 len=453
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_135 flag=1 multi=2.9770 len=750
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_490 flag=1 multi=2.0000 len=734
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_491 flag=1 multi=2.0000 len=463
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_136 flag=1 multi=2.0000 len=553
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_137 flag=1 multi=2.0000 len=590
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_138 flag=1 multi=2.0000 len=425
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_139 flag=1 multi=1.8080 len=365
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_140 flag=1 multi=2.0000 len=458
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_492 flag=1 multi=3.0000 len=1515
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_141 flag=1 multi=2.0000 len=342
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_142 flag=1 multi=2.0000 len=508
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_493 flag=1 multi=2.0000 len=693
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_494 flag=1 multi=2.0000 len=506
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_143 flag=1 multi=2.0000 len=645
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_495 flag=1 multi=2.0000 len=378
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_496 flag=1 multi=2.0000 len=512
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_497 flag=1 multi=2.0000 len=329
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_144 flag=1 multi=2.0000 len=934
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_145 flag=1 multi=2.0000 len=338
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_498 flag=1 multi=2.0000 len=387
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_499 flag=1 multi=2.0000 len=417
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_146 flag=1 multi=1.0000 len=544
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_500 flag=1 multi=2.0000 len=472
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_147 flag=1 multi=1.0000 len=523
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_501 flag=1 multi=2.0000 len=346
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_148 flag=1 multi=2.0000 len=376
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_502 flag=1 multi=2.0000 len=434
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_149 flag=1 multi=3.0000 len=339
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_503 flag=1 multi=2.0000 len=389
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_150 flag=1 multi=2.0000 len=448
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_504 flag=1 multi=2.0000 len=306
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_505 flag=1 multi=2.0000 len=690
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_151 flag=1 multi=2.0000 len=816
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_506 flag=1 multi=2.0000 len=425
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_152 flag=1 multi=2.0000 len=337
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_507 flag=1 multi=1.0000 len=505
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_153 flag=1 multi=2.0000 len=511
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_154 flag=1 multi=1.0000 len=309
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_508 flag=1 multi=2.0000 len=388
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_155 flag=1 multi=2.0000 len=393
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_509 flag=1 multi=2.0000 len=448
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_156 flag=1 multi=2.0000 len=560
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_510 flag=1 multi=1.0000 len=589
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_157 flag=1 multi=3.0000 len=409
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_158 flag=1 multi=2.0000 len=364
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_511 flag=1 multi=2.0000 len=567
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_159 flag=1 multi=2.0000 len=426
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_512 flag=1 multi=1.0000 len=433
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_160 flag=1 multi=2.0000 len=375
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_161 flag=1 multi=1.0000 len=377
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_513 flag=1 multi=2.0000 len=586
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_514 flag=1 multi=2.0000 len=409
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_162 flag=1 multi=1.0000 len=543
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_515 flag=1 multi=2.0000 len=323
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_163 flag=1 multi=1.0000 len=399
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_164 flag=1 multi=1.0000 len=410
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_165 flag=1 multi=2.0000 len=353
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_516 flag=1 multi=2.0000 len=734
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_166 flag=1 multi=2.0000 len=485
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_517 flag=1 multi=2.0000 len=383
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_167 flag=1 multi=1.0000 len=400
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_518 flag=1 multi=1.0000 len=412
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_168 flag=1 multi=1.0000 len=397
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_519 flag=1 multi=2.0000 len=407
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_169 flag=1 multi=3.0000 len=324
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_520 flag=1 multi=2.0000 len=487
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_170 flag=1 multi=1.0000 len=460
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_521 flag=1 multi=2.0000 len=330
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_171 flag=1 multi=2.0000 len=301
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_522 flag=1 multi=1.0000 len=413
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_172 flag=1 multi=2.0000 len=582
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_523 flag=1 multi=2.0000 len=670
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_173 flag=1 multi=2.0000 len=546
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_524 flag=1 multi=1.0000 len=425
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_174 flag=1 multi=2.0000 len=381
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_525 flag=1 multi=2.0000 len=658
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_175 flag=1 multi=2.0000 len=460
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_526 flag=1 multi=2.0000 len=356
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_176 flag=1 multi=1.0000 len=529
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_527 flag=1 multi=3.0000 len=526
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_528 flag=1 multi=2.0000 len=335
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_177 flag=1 multi=2.0000 len=496
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_529 flag=1 multi=2.0000 len=430
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_178 flag=1 multi=2.0000 len=312
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_530 flag=1 multi=2.0000 len=445
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_531 flag=1 multi=2.0000 len=337
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_179 flag=1 multi=1.9570 len=792
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_532 flag=1 multi=1.0000 len=532
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_533 flag=1 multi=2.0000 len=366
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_534 flag=1 multi=1.0000 len=492
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_180 flag=1 multi=2.0000 len=1168
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_535 flag=1 multi=2.0000 len=308
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_181 flag=1 multi=2.0000 len=370
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_536 flag=1 multi=1.0000 len=631
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_182 flag=1 multi=2.0000 len=397
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_537 flag=1 multi=2.0000 len=358
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_183 flag=1 multi=2.0000 len=339
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_184 flag=1 multi=2.0000 len=329
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_185 flag=1 multi=2.0000 len=319
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_538 flag=1 multi=1.0000 len=620
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_539 flag=1 multi=2.0000 len=308
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_186 flag=1 multi=2.0000 len=431
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_187 flag=1 multi=2.0000 len=384
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_188 flag=1 multi=2.0000 len=490
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_540 flag=1 multi=2.0000 len=863
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_189 flag=1 multi=2.0000 len=356
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_541 flag=1 multi=2.0000 len=385
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_190 flag=1 multi=2.0000 len=375
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_542 flag=1 multi=2.0000 len=328
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_543 flag=1 multi=3.0000 len=385
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_191 flag=1 multi=2.0000 len=556
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_544 flag=1 multi=2.0000 len=316
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_192 flag=1 multi=2.0000 len=410
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_545 flag=1 multi=1.0000 len=516
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_546 flag=1 multi=2.0000 len=391
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_547 flag=1 multi=2.0000 len=627
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_548 flag=1 multi=2.0000 len=492
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_549 flag=1 multi=2.0000 len=474
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_550 flag=1 multi=2.0000 len=677
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_551 flag=1 multi=1.0000 len=479
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_552 flag=1 multi=2.0000 len=362
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_553 flag=1 multi=2.0000 len=388
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_554 flag=1 multi=1.0000 len=415
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_555 flag=1 multi=1.0000 len=414
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_556 flag=1 multi=2.0000 len=302
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_557 flag=1 multi=2.0000 len=433
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_558 flag=1 multi=2.0000 len=353
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_559 flag=1 multi=2.0000 len=414
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_560 flag=1 multi=2.0000 len=353
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_561 flag=1 multi=1.0000 len=544
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_562 flag=1 multi=2.0000 len=480
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_563 flag=1 multi=1.0000 len=392
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_564 flag=1 multi=1.0000 len=517
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_565 flag=1 multi=2.0000 len=365
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_566 flag=1 multi=2.0000 len=305
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_567 flag=1 multi=3.0000 len=2468
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_568 flag=1 multi=1.0000 len=477
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_569 flag=1 multi=3.0000 len=324
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_570 flag=1 multi=2.0000 len=442
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_571 flag=3 multi=1.0068 len=289
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_572 flag=3 multi=2.0096 len=350
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_573 flag=3 multi=1.0067 len=291
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_193 flag=1 multi=2.0000 len=616
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_194 flag=1 multi=2.0000 len=544
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_195 flag=1 multi=2.0000 len=328
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_196 flag=1 multi=2.0000 len=915
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_197 flag=1 multi=2.0000 len=607
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_198 flag=1 multi=1.0000 len=503
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_199 flag=1 multi=2.0000 len=427
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_200 flag=1 multi=2.0000 len=303
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_201 flag=1 multi=2.0000 len=505
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_202 flag=1 multi=2.9804 len=549
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_203 flag=1 multi=2.0000 len=372
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_204 flag=1 multi=2.0000 len=454
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_205 flag=1 multi=2.0000 len=393
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_206 flag=1 multi=2.0000 len=459
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_207 flag=1 multi=2.0000 len=344
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_208 flag=1 multi=1.0000 len=501
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_209 flag=1 multi=3.0000 len=1101
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_210 flag=1 multi=2.0000 len=483
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_211 flag=1 multi=3.0000 len=323
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_212 flag=1 multi=3.0000 len=320
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_213 flag=1 multi=1.0000 len=416
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_214 flag=1 multi=2.0000 len=457
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_215 flag=1 multi=2.0000 len=337
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_216 flag=1 multi=2.0000 len=315
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_217 flag=1 multi=2.0000 len=306
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_218 flag=1 multi=2.0000 len=470
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_219 flag=1 multi=2.0000 len=509
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_220 flag=1 multi=2.0000 len=426
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_221 flag=1 multi=2.0000 len=1262
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_222 flag=1 multi=2.0000 len=421
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_223 flag=1 multi=2.0000 len=586
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_224 flag=1 multi=2.0000 len=366
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_225 flag=1 multi=2.0000 len=362
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_226 flag=1 multi=1.0000 len=535
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_227 flag=1 multi=2.0000 len=323
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_228 flag=1 multi=2.0000 len=375
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_229 flag=1 multi=2.0000 len=551
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_230 flag=1 multi=2.0000 len=392
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_231 flag=1 multi=2.0000 len=435
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_232 flag=1 multi=2.0000 len=378
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_233 flag=1 multi=2.0000 len=372
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_234 flag=1 multi=2.0000 len=591
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_235 flag=1 multi=2.0000 len=407
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_236 flag=1 multi=3.0000 len=677
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_237 flag=1 multi=2.0000 len=558
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_238 flag=1 multi=3.0000 len=313
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_239 flag=1 multi=2.0000 len=499
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_240 flag=1 multi=1.0000 len=392
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_241 flag=1 multi=2.0000 len=547
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_242 flag=1 multi=2.5242 len=679
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_243 flag=1 multi=2.0000 len=438
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_244 flag=1 multi=2.0000 len=430
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_245 flag=1 multi=2.0000 len=419
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_246 flag=1 multi=2.0000 len=397
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_247 flag=1 multi=1.0000 len=568
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_248 flag=1 multi=2.0000 len=1006
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_249 flag=1 multi=3.0000 len=310
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_250 flag=1 multi=2.0000 len=445
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_251 flag=1 multi=2.0000 len=1325
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_252 flag=1 multi=2.0000 len=572
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_253 flag=1 multi=2.0000 len=392
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_254 flag=1 multi=2.0000 len=714
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_255 flag=1 multi=3.0000 len=481
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_256 flag=1 multi=2.0000 len=328
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_257 flag=1 multi=2.0000 len=545
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_258 flag=1 multi=2.0000 len=501
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_259 flag=1 multi=1.0000 len=479
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_260 flag=1 multi=2.0000 len=520
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_261 flag=1 multi=2.0000 len=431
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_262 flag=1 multi=2.0000 len=379
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_263 flag=1 multi=2.0000 len=402
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_264 flag=1 multi=2.0000 len=324
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_265 flag=1 multi=2.0000 len=402
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_266 flag=1 multi=2.0000 len=441
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_267 flag=1 multi=3.0000 len=307
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_268 flag=1 multi=2.0000 len=429
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_269 flag=1 multi=2.0000 len=387
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_270 flag=1 multi=2.0000 len=498
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_271 flag=1 multi=2.0000 len=590
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_272 flag=1 multi=2.0000 len=363
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_273 flag=1 multi=2.0000 len=409
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_274 flag=1 multi=2.0000 len=862
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_275 flag=1 multi=2.0000 len=351
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_276 flag=1 multi=2.0000 len=481
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_277 flag=1 multi=2.0000 len=302
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_278 flag=1 multi=2.0000 len=443
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_279 flag=1 multi=4.0000 len=1969
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_280 flag=1 multi=2.0000 len=436
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_281 flag=1 multi=2.0000 len=430
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_282 flag=1 multi=2.0000 len=516
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_283 flag=1 multi=2.0000 len=354
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_284 flag=1 multi=4.0000 len=1785
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_285 flag=1 multi=2.0000 len=338
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.10.0+
+# Query: k141_286 flag=1 multi=2.0000 len=563
+# Database: /opt/quast-5.0.2/quast_libs/silva/silva.123.db
+# 0 hits found
+# BLAST processed 574 queries

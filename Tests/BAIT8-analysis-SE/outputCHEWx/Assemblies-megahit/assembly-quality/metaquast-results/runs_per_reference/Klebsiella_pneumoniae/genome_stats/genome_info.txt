@@ -1,0 +1,31 @@
+reference chromosomes:
+	Klebsiella_pneumoniae_NZ_CP047271.1 (total length: 5305959 bp, total length without N's: 5305959 bp, maximal covered length: 71481 bp)
+	Klebsiella_pneumoniae_NZ_CP047272.1 (total length: 271744 bp, total length without N's: 271744 bp, maximal covered length: 5036 bp)
+
+total genome size: 5577703
+
+gap min size: 50
+partial gene/operon min size: 100
+
+
+
+assembly                 | genome    | duplication | gaps      | genes     | partial   | operons   | partial   |
+                         | fraction  | ratio       | number    |           | genes     |           | operons   |
+========================================================================================================================
+TRIM_ERR1795072_Illumina | 0.915     | 1.021       | 84        | -         | -         | -         | -         |
+TRIM_ERR1795073_Illumina | 0.815     | 1.028       | 76        | -         | -         | -         | -         |
+TRIM_ERR1795074_Illumina | 0.882     | 1.006       | 81        | -         | -         | -         | -         |
+TRIM_ERR1795075_Illumina | 1.033     | 1.025       | 88        | -         | -         | -         | -         |
+TRIM_ERR1795076_Illumina | 1.070     | 1.014       | 91        | -         | -         | -         | -         |
+TRIM_ERR1795077_Illumina | 0.904     | 1.017       | 82        | -         | -         | -         | -         |
+TRIM_ERR1795078_Illumina | 0.441     | 1.000       | 38        | -         | -         | -         | -         |
+TRIM_ERR1795079_Illumina | 1.025     | 1.034       | 93        | -         | -         | -         | -         |
+TRIM_ERR1795080_Illumina | 1.109     | 1.021       | 102       | -         | -         | -         | -         |
+TRIM_ERR1795081_Illumina | 1.224     | 1.001       | 113       | -         | -         | -         | -         |
+TRIM_ERR1795082_Illumina | 0.931     | 1.012       | 76        | -         | -         | -         | -         |
+TRIM_ERR1795083_Illumina | 1.201     | 1.022       | 107       | -         | -         | -         | -         |
+TRIM_ERR1795084_Illumina | 1.033     | 1.021       | 90        | -         | -         | -         | -         |
+TRIM_ERR1795085_Illumina | 1.114     | 1.026       | 105       | -         | -         | -         | -         |
+TRIM_ERR1795086_Illumina | 1.227     | 1.026       | 110       | -         | -         | -         | -         |
+TRIM_ERR1795087_Illumina | 1.315     | 1.007       | 121       | -         | -         | -         | -         |
+TRIM_SO_9245_KP_mini_1-c | 0.560     | 1.015       | 55        | -         | -         | -         | -         |

@@ -1,0 +1,10 @@
+[M::mm_idx_gen::0.609*0.98] collected minimizers
+[M::mm_idx_gen::0.840*0.98] sorted minimizers
+[M::main::0.840*0.98] loaded/built the index for 162 target sequence(s)
+[M::mm_mapopt_update::0.865*0.98] mid_occ = 200
+[M::mm_idx_stat] kmer size: 19; skip: 19; is_hpc: 0; #seq: 162
+[M::mm_idx_stat::0.885*0.98] distinct minimizers: 1491938 (66.50% are singletons); average occurrences: 1.619; average spacing: 10.003
+[M::worker_pipeline::1.014*0.97] mapped 180 sequences
+[M::main] Version: 2.11-r797
+[M::main] CMD: /opt/quast-5.0.2/quast_libs/minimap2/minimap2 -c -x asm10 -B5 -O4,16 --no-long-join -r 85 -N 100 -s 65 -z 200 --mask-level 1 --min-occ 200 -g 2500 --score-N 2 --cs -t 1 /home/hannelore/PROJECTHH/Scripts/Pipeline/work/5b/fd06bcddfdd15e6ad5a6ca9bd7cd34/metaquast-results/quast_corrected_input/combined_reference.fasta /home/hannelore/PROJECTHH/Scripts/Pipeline/work/5b/fd06bcddfdd15e6ad5a6ca9bd7cd34/metaquast-results/combined_reference/../quast_corrected_input/TRIM_ERR1795077_Illumina_MiSeq_paired_end_sequencing_EXP_5_1_2017_01_13_14_47_56_mini_1_contigs.fa
+[M::main] Real time: 1.021 sec; CPU: 0.994 sec

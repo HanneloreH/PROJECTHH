@@ -1,0 +1,8 @@
+All statistics are based on contigs of size >= 500 bp, unless otherwise noted (e.g., "# contigs (>= 0 bp)" and "Total length (>= 0 bp)" include all contigs).
+
+Assembly                       TRIM_ERR1795077_Illumina_MiSeq_paired_end_sequencing_EXP_5_1_2017_01_13_14_47_56_mini_1.contigs  TRIM_ERR1795087_Illumina_MiSeq_paired_end_sequencing_EXP_15_1_2017_01_13_14_47_56_mini_1.contigs
+# fully unaligned contigs      0                                                                                                0                                                                                               
+Fully unaligned length         0                                                                                                0                                                                                               
+# partially unaligned contigs  0                                                                                                1                                                                                               
+Partially unaligned length     0                                                                                                638                                                                                             
+# N's                          0                                                                                                0                                                                                               

@@ -52,7 +52,6 @@ def helpMessage() {
 
     --assem     OPTIONAL give path to established assemblies that need to be included in the analysis (format: *.fa)
     --cpu       give maximal number of CPUs (default = 1)
-    --env       give path to python3 environment (running e.g. chewBBACA, matplotlib...)
     --help      show help message
     --meta      give filename (.csv) of metadata, first column are the sample names IN CORRECT ORDER (= one line per sample), all following columns will be used as color-code in MST-plots
     --output    give path to output folder
@@ -121,8 +120,7 @@ inputscheme = trimFolder("$params.scheme")
 trainingfile = trimFolder("$params.training")
 assdir = trimFolder("$params.assem")
 assemdir = assdir + "/*.fa*"
-envdir = trimFolder("$params.env")
-envactivate = envdir + "/bin/activate"
+
 //output folders
 outputdir = trimFolder("$params.output")
 qualitydirPRE = outputdir + "/Quality/raw"
@@ -143,7 +141,6 @@ println """\
         ==============================================================
         * Path to extra assemblies        : ${assemdir}
         * Number of CPUs                  : ${params.cpu}
-        * Python3 environment             : ${envdir}
         * File with metadata              : ${params.meta}
         * Output-folder                   : ${outputdir}
         * Folder with input reads         : ${fastq_f}
@@ -156,14 +153,6 @@ println """\
          .stripIndent()
 
 
- // ===========================  Set Python3 environment ===========================
- 
-process environment {
-    script:
-    """
-    source $envactivate
-    """
-}
 
 if(!params.x){
 
@@ -217,6 +206,8 @@ if(!params.x){
         """
     }
 
+/*
+
     // do MULTIQC
     process rawmultiqc {
         publishDir "$qualitydirPRE", mode:'copy', overwrite: true
@@ -233,7 +224,7 @@ if(!params.x){
         multiqc . 
         """
     } 
-
+*/
 
 
     // ===========================  Data Trimming ===========================
@@ -353,6 +344,8 @@ if(!params.x){
     else {
         fastqc_trim_ch=fastqc_SE_trim_ch
     }
+
+    /*
     // do MULTIQC after trimming
     process trimmultiqc {
         publishDir "$qualitydirPOST", mode:'copy', overwrite: true
@@ -369,7 +362,7 @@ if(!params.x){
         multiqc . 
         """
     } 
-
+*/
 
 
     // ================================= ASSEMBLY  =============================
@@ -436,15 +429,7 @@ if(!params.x){
         megahitPE.into {megahit_quast; megahit_mlst; megahit_chew}
     }
 
-    //import matpotlib for quast
-    process matplotlib {
-        script:
-        """
-        #!/usr/bin/python3
-        import matplotlib
-        """
-    }
-
+/*
     // Control of assembly with Quast
     process quast{
         publishDir "$quastdir", mode:'copy', overwrite: true
@@ -461,7 +446,7 @@ if(!params.x){
         metaquast.py --threads ${task.cpus} -o metaquast-results $megahitdir/assembly/*.fa 
         """
     }
-
+*/
 
 
     // ================================= MLST type =============================

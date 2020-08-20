@@ -1,0 +1,135 @@
+k141_0	558	0	558	+	Klebsiella_pneumoniae_NZ_CP047271.1	5305959	445717	446275	557	558	60	NM:i:1	ms:i:552	AS:i:552	nn:i:0	tp:A:P	cm:i:52	s1:i:512	s2:i:0	dv:f:0.0030	cg:Z:558M	cs:Z::399*ca:158
+k141_1	671	0	671	-	Klebsiella_pneumoniae_NZ_CP047271.1	5305959	4053385	4054056	670	671	60	NM:i:1	ms:i:665	AS:i:665	nn:i:0	tp:A:P	cm:i:57	s1:i:640	s2:i:0	dv:f:0.0027	cg:Z:671M	cs:Z::47*ca:623
+k141_20	553	0	553	-	Klebsiella_pneumoniae_NZ_CP047271.1	5305959	5234424	5234977	553	553	60	NM:i:0	ms:i:553	AS:i:553	nn:i:0	tp:A:P	cm:i:53	s1:i:544	s2:i:0	dv:f:0.0010	cg:Z:553M	cs:Z::553
+k141_291	764	0	764	-	Klebsiella_pneumoniae_NZ_CP047271.1	5305959	1932986	1933750	762	764	0	NM:i:2	ms:i:752	AS:i:752	nn:i:0	tp:A:P	cm:i:66	s1:i:713	s2:i:713	dv:f:0.0038	cg:Z:764M	cs:Z::89*cg:198*ca:475
+k141_291	764	0	764	+	Klebsiella_pneumoniae_NZ_CP047271.1	5305959	3244184	3244948	762	764	0	NM:i:2	ms:i:752	AS:i:752	nn:i:0	tp:A:S	cm:i:66	s1:i:713	dv:f:0.0038	cg:Z:764M	cs:Z::475*gt:198*gc:89
+k141_291	764	0	764	-	Klebsiella_pneumoniae_NZ_CP047271.1	5305959	1201496	1202260	762	764	0	NM:i:2	ms:i:752	AS:i:752	nn:i:0	tp:A:S	cm:i:66	s1:i:713	dv:f:0.0038	cg:Z:764M	cs:Z::89*cg:198*ca:475
+k141_291	764	0	764	-	Klebsiella_pneumoniae_NZ_CP047271.1	5305959	1788442	1789206	762	764	0	NM:i:2	ms:i:752	AS:i:752	nn:i:0	tp:A:S	cm:i:66	s1:i:713	dv:f:0.0038	cg:Z:764M	cs:Z::89*cg:198*ca:475
+k141_23	635	0	635	-	Klebsiella_pneumoniae_NZ_CP047271.1	5305959	4837076	4837711	634	635	60	NM:i:1	ms:i:629	AS:i:629	nn:i:0	tp:A:P	cm:i:55	s1:i:615	s2:i:0	dv:f:0.0037	cg:Z:635M	cs:Z::194*ga:440
+k141_24	574	0	574	+	Klebsiella_pneumoniae_NZ_CP047271.1	5305959	723412	723986	574	574	60	NM:i:0	ms:i:574	AS:i:574	nn:i:0	tp:A:P	cm:i:61	s1:i:552	s2:i:0	dv:f:0.0009	cg:Z:574M	cs:Z::574
+k141_26	707	0	707	-	Klebsiella_pneumoniae_NZ_CP047271.1	5305959	3324522	3325229	703	707	60	NM:i:4	ms:i:683	AS:i:683	nn:i:0	tp:A:P	cm:i:61	s1:i:628	s2:i:0	dv:f:0.0080	cg:Z:707M	cs:Z::210*ag:134*gc:16*ct:323*ga:20
+k141_36	681	0	681	+	Klebsiella_pneumoniae_NZ_CP047271.1	5305959	5000216	5000897	675	681	60	NM:i:6	ms:i:645	AS:i:645	nn:i:0	tp:A:P	cm:i:66	s1:i:596	s2:i:0	dv:f:0.0074	cg:Z:681M	cs:Z::21*gt:2*ga:149*ag:5*ag:33*ag:151*ag:314
+k141_48	1237	0	1231	-	Klebsiella_pneumoniae_NZ_CP047271.1	5305959	5013130	5014361	1227	1231	60	NM:i:4	ms:i:1207	AS:i:1207	nn:i:0	tp:A:P	cm:i:105	s1:i:1140	s2:i:1028	dv:f:0.0039	cg:Z:1231M	cs:Z::593*ag:313*ag:270*ga:29*ga:22
+k141_48	1237	155	1231	-	Klebsiella_pneumoniae_NZ_CP047271.1	5305959	4295972	4297049	1074	1077	0	NM:i:3	ms:i:1057	AS:i:1057	nn:i:0	tp:A:S	cm:i:97	s1:i:1028	dv:f:0.0026	cg:Z:988M1D88M	cs:Z::593*ag:15*ct:378-t:88
+k141_48	1237	177	1231	+	Klebsiella_pneumoniae_NZ_CP047271.1	5305959	462636	463690	1052	1054	0	NM:i:2	ms:i:1042	AS:i:1042	nn:i:0	tp:A:S	cm:i:95	s1:i:1004	dv:f:0.0022	cg:Z:1054M	cs:Z::8*ag:532*tc:512
+k141_48	1237	152	1231	-	Klebsiella_pneumoniae_NZ_CP047271.1	5305959	4656583	4657662	1070	1079	0	NM:i:9	ms:i:1025	AS:i:1025	nn:i:0	tp:A:S	cm:i:89	s1:i:952	dv:f:0.0061	cg:Z:1079M	cs:Z::301*ac:17*ta:273*ag:242*ga:2*tc:214*ag*ga:3*ga*ag:18
+k141_48	1237	311	1231	-	Klebsiella_pneumoniae_NZ_CP047271.1	5305959	5058262	5059182	920	920	0	NM:i:0	ms:i:920	AS:i:920	nn:i:0	tp:A:S	cm:i:86	s1:i:915	dv:f:0.0012	cg:Z:920M	cs:Z::920
+k141_50	522	0	522	+	Klebsiella_pneumoniae_NZ_CP047271.1	5305959	3815410	3815932	520	522	60	NM:i:2	ms:i:510	AS:i:510	nn:i:0	tp:A:P	cm:i:34	s1:i:472	s2:i:0	dv:f:0.0072	cg:Z:522M	cs:Z::344*gc:62*ct:114
+k141_54	505	0	505	-	Klebsiella_pneumoniae_NZ_CP047271.1	5305959	4141117	4141622	505	505	60	NM:i:0	ms:i:505	AS:i:505	nn:i:0	tp:A:P	cm:i:44	s1:i:486	s2:i:0	dv:f:0.0012	cg:Z:505M	cs:Z::505
+k141_60	542	0	512	+	Klebsiella_pneumoniae_NZ_CP047271.1	5305959	2019224	2019737	511	513	60	NM:i:2	ms:i:499	AS:i:499	nn:i:0	tp:A:P	cm:i:47	s1:i:464	s2:i:0	dv:f:0.0053	cg:Z:229M1D283M	cs:Z::229-t:274*cg:8
+k141_329	608	0	604	+	Klebsiella_pneumoniae_NZ_CP047271.1	5305959	536761	537365	604	604	60	NM:i:0	ms:i:604	AS:i:604	nn:i:0	tp:A:P	cm:i:59	s1:i:601	s2:i:0	dv:f:0.0009	cg:Z:604M	cs:Z::604
+k141_76	518	0	518	+	Klebsiella_pneumoniae_NZ_CP047271.1	5305959	2959878	2960396	516	518	60	NM:i:2	ms:i:506	AS:i:506	nn:i:0	tp:A:P	cm:i:51	s1:i:456	s2:i:0	dv:f:0.0049	cg:Z:518M	cs:Z::132*ag:209*ct:175
+k141_87	713	0	713	-	Klebsiella_pneumoniae_NZ_CP047271.1	5305959	5155159	5155872	705	713	60	NM:i:8	ms:i:665	AS:i:665	nn:i:0	tp:A:P	cm:i:47	s1:i:547	s2:i:0	dv:f:0.0162	cg:Z:713M	cs:Z::52*ct:123*tc:23*ga:66*gc:2*ac:60*ta:25*ac:16*gc:338
+k141_104	517	0	517	-	Klebsiella_pneumoniae_NZ_CP047271.1	5305959	1138738	1139255	516	517	60	NM:i:1	ms:i:511	AS:i:511	nn:i:0	tp:A:P	cm:i:40	s1:i:478	s2:i:0	dv:f:0.0038	cg:Z:517M	cs:Z::298*tc:218
+k141_111	524	0	524	-	Klebsiella_pneumoniae_NZ_CP047271.1	5305959	323352	323876	521	524	60	NM:i:3	ms:i:506	AS:i:506	nn:i:0	tp:A:P	cm:i:43	s1:i:450	s2:i:0	dv:f:0.0110	cg:Z:524M	cs:Z::170*tc:181*tc:90*ga:80
+k141_118	743	0	743	-	Klebsiella_pneumoniae_NZ_CP047271.1	5305959	1377578	1378321	738	743	60	NM:i:5	ms:i:713	AS:i:713	nn:i:0	tp:A:P	cm:i:61	s1:i:652	s2:i:0	dv:f:0.0072	cg:Z:743M	cs:Z::240*tc:47*ag:290*tc:92*tc:29*tc:40
+k141_121	595	0	595	+	Klebsiella_pneumoniae_NZ_CP047271.1	5305959	3456613	3457208	595	595	60	NM:i:0	ms:i:595	AS:i:595	nn:i:0	tp:A:P	cm:i:60	s1:i:572	s2:i:0	dv:f:0.0009	cg:Z:595M	cs:Z::595
+k141_122	2222	0	2222	+	Klebsiella_pneumoniae_NZ_CP047271.1	5305959	464838	467060	2220	2222	1	NM:i:2	ms:i:2210	AS:i:2210	nn:i:0	tp:A:P	cm:i:206	s1:i:2186	s2:i:2167	dv:f:0.0013	cg:Z:2222M	cs:Z::659*tc:1364*tg:197
+k141_122	2222	0	2222	-	Klebsiella_pneumoniae_NZ_CP047271.1	5305959	5251076	5253298	2219	2222	0	NM:i:3	ms:i:2204	AS:i:2204	nn:i:0	tp:A:S	cm:i:203	s1:i:2160	dv:f:0.0020	cg:Z:2222M	cs:Z::197*ac:725*ct:1125*ga:172
+k141_122	2222	0	2222	-	Klebsiella_pneumoniae_NZ_CP047271.1	5305959	5146447	5148669	2219	2222	0	NM:i:3	ms:i:2204	AS:i:2204	nn:i:0	tp:A:S	cm:i:203	s1:i:2167	dv:f:0.0020	cg:Z:2222M	cs:Z::197*ac:725*ct:638*ag:659
+k141_122	2222	0	2222	-	Klebsiella_pneumoniae_NZ_CP047271.1	5305959	5009615	5011837	2218	2222	0	NM:i:4	ms:i:2198	AS:i:2198	nn:i:0	tp:A:S	cm:i:201	s1:i:2155	dv:f:0.0026	cg:Z:2222M	cs:Z::197*ac:725*ct:638*ag:486*ga:172
+k141_122	2222	0	2222	-	Klebsiella_pneumoniae_NZ_CP047271.1	5305959	5054661	5056883	2218	2222	0	NM:i:4	ms:i:2198	AS:i:2198	nn:i:0	tp:A:S	cm:i:201	s1:i:2155	dv:f:0.0026	cg:Z:2222M	cs:Z::197*ac:725*ct:638*ag:486*ga:172
+k141_122	2222	0	2222	-	Klebsiella_pneumoniae_NZ_CP047271.1	5305959	4653068	4655290	2217	2222	0	NM:i:5	ms:i:2192	AS:i:2192	nn:i:0	tp:A:S	cm:i:199	s1:i:2138	dv:f:0.0031	cg:Z:2222M	cs:Z::197*ac:616*ag:108*ct:638*ag:486*ga:172
+k141_122	2222	0	2222	-	Klebsiella_pneumoniae_NZ_CP047271.1	5305959	4292293	4294515	2217	2222	0	NM:i:5	ms:i:2192	AS:i:2192	nn:i:0	tp:A:S	cm:i:199	s1:i:2138	dv:f:0.0031	cg:Z:2222M	cs:Z::197*ac:616*ag:108*ct:638*ag:486*ga:172
+k141_122	2222	0	2222	+	Klebsiella_pneumoniae_NZ_CP047271.1	5305959	1288552	1290774	2217	2222	0	NM:i:5	ms:i:2192	AS:i:2192	nn:i:0	tp:A:S	cm:i:199	s1:i:2132	dv:f:0.0031	cg:Z:2222M	cs:Z::172*ct:486*tc:683*tc:63*tc:616*tg:197
+k141_333	1258	51	1256	-	Klebsiella_pneumoniae_NZ_CP047271.1	5305959	3035860	3037065	1195	1205	13	NM:i:10	ms:i:1145	AS:i:1145	nn:i:0	tp:A:P	cm:i:108	s1:i:1125	s2:i:1110	dv:f:0.0064	cg:Z:1205M	cs:Z::176*ga:2*tc:3*ag*ct*cg:1*ca*ta:461*ga:302*ga:188*ac:62
+k141_333	1258	53	1252	-	Klebsiella_pneumoniae_NZ_CP047271.1	5305959	129182	130381	1188	1199	0	NM:i:11	ms:i:1133	AS:i:1133	nn:i:0	tp:A:S	cm:i:106	s1:i:1110	dv:f:0.0070	cg:Z:1199M	cs:Z::172*ga:2*tc:3*ag*ct*cg:1*ca*ta:461*ga:160*ga:140*ga*ga:249
+k141_333	1258	52	1252	+	Klebsiella_pneumoniae_NZ_CP047272.1	271744	182137	183337	1188	1200	0	NM:i:12	ms:i:1128	AS:i:1128	nn:i:0	tp:A:S	cm:i:103	s1:i:1090	dv:f:0.0085	cg:Z:1200M	cs:Z::250*ct:141*ct:160*ct:110*at:11*ca:338*at*gt:1*gc*ga*tc:3*ag:2*ct:172
+k141_336	601	0	601	+	Klebsiella_pneumoniae_NZ_CP047271.1	5305959	1081306	1081907	594	601	60	NM:i:7	ms:i:559	AS:i:559	nn:i:0	tp:A:P	cm:i:45	s1:i:504	s2:i:0	dv:f:0.0169	cg:Z:601M	cs:Z::147*ga:41*ag:5*ta:9*ct:34*ga:230*ag:103*tc:25
+k141_344	552	0	548	-	Klebsiella_pneumoniae_NZ_CP047271.1	5305959	3484542	3485090	544	548	60	NM:i:4	ms:i:524	AS:i:524	nn:i:0	tp:A:P	cm:i:42	s1:i:452	s2:i:0	dv:f:0.0081	cg:Z:548M	cs:Z::24*tg:276*ga:52*tg:29*tc:163
+k141_345	534	0	534	+	Klebsiella_pneumoniae_NZ_CP047271.1	5305959	4444578	4445112	532	534	60	NM:i:2	ms:i:522	AS:i:522	nn:i:0	tp:A:P	cm:i:46	s1:i:479	s2:i:0	dv:f:0.0075	cg:Z:534M	cs:Z::307*ta:124*ga:101
+k141_137	563	0	563	-	Klebsiella_pneumoniae_NZ_CP047271.1	5305959	5095347	5095910	560	563	60	NM:i:3	ms:i:545	AS:i:545	nn:i:0	tp:A:P	cm:i:42	s1:i:490	s2:i:0	dv:f:0.0102	cg:Z:563M	cs:Z::383*ag:42*tc:93*ta:42
+k141_362	590	0	590	-	Klebsiella_pneumoniae_NZ_CP047271.1	5305959	164982	165572	590	590	60	NM:i:0	ms:i:590	AS:i:590	nn:i:0	tp:A:P	cm:i:53	s1:i:576	s2:i:0	dv:f:0.0010	cg:Z:590M	cs:Z::590
+k141_364	582	0	582	-	Klebsiella_pneumoniae_NZ_CP047271.1	5305959	5171243	5171825	579	582	60	NM:i:3	ms:i:564	AS:i:564	nn:i:0	tp:A:P	cm:i:46	s1:i:505	s2:i:0	dv:f:0.0122	cg:Z:582M	cs:Z::351*ga:56*tg:116*ct:56
+k141_365	604	0	604	+	Klebsiella_pneumoniae_NZ_CP047271.1	5305959	2409240	2409844	603	604	60	NM:i:1	ms:i:598	AS:i:598	nn:i:0	tp:A:P	cm:i:55	s1:i:564	s2:i:0	dv:f:0.0019	cg:Z:604M	cs:Z::21*tc:582
+k141_367	526	0	526	-	Klebsiella_pneumoniae_NZ_CP047271.1	5305959	2275256	2275782	523	526	60	NM:i:3	ms:i:508	AS:i:508	nn:i:0	tp:A:P	cm:i:43	s1:i:469	s2:i:0	dv:f:0.0069	cg:Z:526M	cs:Z::121*tc:77*tg:65*ca:260
+k141_368	570	0	570	-	Klebsiella_pneumoniae_NZ_CP047271.1	5305959	4839153	4839723	567	570	60	NM:i:3	ms:i:552	AS:i:552	nn:i:0	tp:A:P	cm:i:50	s1:i:514	s2:i:0	dv:f:0.0060	cg:Z:570M	cs:Z::224*tc:28*cg:131*ag:184
+k141_369	717	0	717	-	Klebsiella_pneumoniae_NZ_CP047271.1	5305959	4976413	4977130	716	717	60	NM:i:1	ms:i:711	AS:i:711	nn:i:0	tp:A:P	cm:i:67	s1:i:693	s2:i:0	dv:f:0.0008	cg:Z:717M	cs:Z::23*ga:693
+k141_370	528	0	528	-	Klebsiella_pneumoniae_NZ_CP047271.1	5305959	2135886	2136414	527	528	60	NM:i:1	ms:i:522	AS:i:522	nn:i:0	tp:A:P	cm:i:45	s1:i:505	s2:i:0	dv:f:0.0023	cg:Z:528M	cs:Z::42*ag:485
+k141_374	621	0	621	-	Klebsiella_pneumoniae_NZ_CP047271.1	5305959	3567880	3568501	619	621	60	NM:i:2	ms:i:609	AS:i:609	nn:i:0	tp:A:P	cm:i:58	s1:i:573	s2:i:0	dv:f:0.0044	cg:Z:621M	cs:Z::133*tc:147*tg:339
+k141_376	527	0	527	-	Klebsiella_pneumoniae_NZ_CP047271.1	5305959	2637758	2638285	526	527	60	NM:i:1	ms:i:521	AS:i:521	nn:i:0	tp:A:P	cm:i:48	s1:i:491	s2:i:0	dv:f:0.0032	cg:Z:527M	cs:Z::58*tg:468
+k141_382	659	0	659	-	Klebsiella_pneumoniae_NZ_CP047271.1	5305959	2365287	2365946	656	659	60	NM:i:3	ms:i:641	AS:i:641	nn:i:0	tp:A:P	cm:i:59	s1:i:609	s2:i:0	dv:f:0.0051	cg:Z:659M	cs:Z::9*tg:410*tc:164*gt:73
+k141_153	528	0	528	+	Klebsiella_pneumoniae_NZ_CP047271.1	5305959	1049814	1050341	524	528	60	NM:i:4	ms:i:502	AS:i:502	nn:i:0	tp:A:P	cm:i:43	s1:i:471	s2:i:0	dv:f:0.0100	cg:Z:358M1I169M	cs:Z::44*ac:129*ga:183+t:58*tg:110
+k141_391	577	0	577	-	Klebsiella_pneumoniae_NZ_CP047271.1	5305959	906893	907470	577	577	60	NM:i:0	ms:i:577	AS:i:577	nn:i:0	tp:A:P	cm:i:52	s1:i:570	s2:i:0	dv:f:0.0010	cg:Z:577M	cs:Z::577
+k141_171	561	0	561	+	Klebsiella_pneumoniae_NZ_CP047271.1	5305959	4690260	4690821	541	562	60	NM:i:21	ms:i:432	AS:i:432	nn:i:0	tp:A:P	cm:i:24	s1:i:300	s2:i:0	dv:f:0.0319	cg:Z:508M1D3M1I49M	cs:Z::9*tg:155*ag:10*tc:87*ag:23*cg:26*ag:2*ga:5*ga:2*tc:6*ag:37*at:23*tg:52*tc:33*ct:21*ag:2-a:3+t:3*gc:14*gt:6*gt:9*ag:13
+k141_183	517	0	517	+	Klebsiella_pneumoniae_NZ_CP047271.1	5305959	467337	467853	514	517	60	NM:i:3	ms:i:497	AS:i:497	nn:i:0	tp:A:P	cm:i:41	s1:i:450	s2:i:385	dv:f:0.0072	cg:Z:244M1I272M	cs:Z::244+t:42*ag:4*ga:224
+k141_183	517	0	439	-	Klebsiella_pneumoniae_NZ_CP047271.1	5305959	4652353	4652791	436	439	0	NM:i:3	ms:i:419	AS:i:419	nn:i:0	tp:A:S	cm:i:35	s1:i:385	dv:f:0.0083	cg:Z:192M1I246M	cs:Z::146*ct:4*tc:40+a:246
+k141_183	517	0	439	-	Klebsiella_pneumoniae_NZ_CP047271.1	5305959	5053946	5054384	436	439	0	NM:i:3	ms:i:419	AS:i:419	nn:i:0	tp:A:S	cm:i:35	s1:i:385	dv:f:0.0083	cg:Z:192M1I246M	cs:Z::146*ct:4*tc:40+a:246
+k141_183	517	0	440	-	Klebsiella_pneumoniae_NZ_CP047271.1	5305959	5145731	5146170	436	440	0	NM:i:4	ms:i:414	AS:i:414	nn:i:0	tp:A:S	cm:i:31	s1:i:360	dv:f:0.0147	cg:Z:197M1I242M	cs:Z::147*ct:49+c:100*ga:7*ct:133
+k141_193	526	0	526	-	Klebsiella_pneumoniae_NZ_CP047271.1	5305959	3401588	3402114	526	526	60	NM:i:0	ms:i:526	AS:i:526	nn:i:0	tp:A:P	cm:i:51	s1:i:500	s2:i:0	dv:f:0.0010	cg:Z:526M	cs:Z::526
+k141_199	629	0	454	+	Klebsiella_pneumoniae_NZ_CP047271.1	5305959	826512	826966	453	454	60	NM:i:1	ms:i:448	AS:i:448	nn:i:0	tp:A:P	cm:i:43	s1:i:407	s2:i:0	dv:f:0.0035	cg:Z:454M	cs:Z::199*tc:254
+k141_203	617	0	617	+	Klebsiella_pneumoniae_NZ_CP047271.1	5305959	2364457	2365087	612	630	60	NM:i:18	ms:i:544	AS:i:558	nn:i:0	tp:A:P	cm:i:42	s1:i:479	s2:i:0	dv:f:0.0205	cg:Z:413M13D204M	cs:Z::198*ga:22*ga:30*ca:160-ccgcctccggccc:45*ct:98*ga:59
+k141_210	560	0	560	+	Klebsiella_pneumoniae_NZ_CP047271.1	5305959	935230	935790	559	560	60	NM:i:1	ms:i:554	AS:i:554	nn:i:0	tp:A:P	cm:i:55	s1:i:504	s2:i:0	dv:f:0.0019	cg:Z:560M	cs:Z::25*tc:534
+k141_211	503	0	503	-	Klebsiella_pneumoniae_NZ_CP047271.1	5305959	4973158	4973661	502	503	60	NM:i:1	ms:i:497	AS:i:497	nn:i:0	tp:A:P	cm:i:45	s1:i:457	s2:i:0	dv:f:0.0023	cg:Z:503M	cs:Z::352*ga:150
+k141_215	510	0	510	+	Klebsiella_pneumoniae_NZ_CP047271.1	5305959	1926074	1926584	503	510	60	NM:i:7	ms:i:468	AS:i:468	nn:i:0	tp:A:P	cm:i:39	s1:i:390	s2:i:0	dv:f:0.0171	cg:Z:510M	cs:Z::8*cg:76*tg:78*gt:19*at:28*ag:91*ac:179*ct:24
+k141_218	557	0	557	-	Klebsiella_pneumoniae_NZ_CP047271.1	5305959	2317	2874	554	557	60	NM:i:3	ms:i:539	AS:i:539	nn:i:0	tp:A:P	cm:i:52	s1:i:516	s2:i:0	dv:f:0.0048	cg:Z:557M	cs:Z::484*cg:3*ct:1*ga:66
+k141_222	652	0	652	+	Klebsiella_pneumoniae_NZ_CP047271.1	5305959	4805682	4806334	646	652	60	NM:i:6	ms:i:616	AS:i:616	nn:i:0	tp:A:P	cm:i:46	s1:i:557	s2:i:0	dv:f:0.0094	cg:Z:652M	cs:Z::53*ga:143*ct:89*ct:62*gt:286*gt*ac:13
+k141_224	541	1	541	-	Klebsiella_pneumoniae_NZ_CP047271.1	5305959	3682367	3682907	533	540	60	NM:i:7	ms:i:498	AS:i:498	nn:i:0	tp:A:P	cm:i:51	s1:i:447	s2:i:0	dv:f:0.0020	cg:Z:540M	cs:Z::468*gt:13*ga:6*cg*gc:9*ag:17*gc:11*ac:9
+k141_239	737	0	737	-	Klebsiella_pneumoniae_NZ_CP047271.1	5305959	2443714	2444451	733	737	60	NM:i:4	ms:i:713	AS:i:713	nn:i:0	tp:A:P	cm:i:59	s1:i:643	s2:i:0	dv:f:0.0090	cg:Z:737M	cs:Z::38*tc:306*ga:35*ga:41*ca:313
+k141_245	516	0	516	+	Klebsiella_pneumoniae_NZ_CP047271.1	5305959	3408856	3409372	515	516	60	NM:i:1	ms:i:510	AS:i:510	nn:i:0	tp:A:P	cm:i:43	s1:i:477	s2:i:0	dv:f:0.0035	cg:Z:516M	cs:Z::170*tc:345
+k141_397	503	0	503	+	Klebsiella_pneumoniae_NZ_CP047271.1	5305959	426745	427248	502	503	60	NM:i:1	ms:i:497	AS:i:497	nn:i:0	tp:A:P	cm:i:42	s1:i:463	s2:i:0	dv:f:0.0036	cg:Z:503M	cs:Z::272*ag:230
+k141_411	918	838	918	-	Klebsiella_pneumoniae_NZ_CP047271.1	5305959	4413112	4413192	79	80	13	NM:i:1	ms:i:74	AS:i:74	nn:i:0	tp:A:P	cm:i:3	s1:i:55	s2:i:0	dv:f:0.0269	cg:Z:80M	cs:Z::65*ag:14
+k141_421	1072	0	909	+	Klebsiella_pneumoniae_NZ_CP047271.1	5305959	1933854	1934763	907	909	1	NM:i:2	ms:i:897	AS:i:897	nn:i:0	tp:A:P	cm:i:88	s1:i:860	s2:i:860	dv:f:0.0023	cg:Z:909M	cs:Z::594*gc:14*tc:299
+k141_421	1072	0	908	+	Klebsiella_pneumoniae_NZ_CP047271.1	5305959	1202364	1203272	906	908	0	NM:i:2	ms:i:896	AS:i:896	nn:i:0	tp:A:S	cm:i:87	s1:i:856	dv:f:0.0024	cg:Z:908M	cs:Z::594*gc:14*tc:298
+k141_421	1072	0	908	+	Klebsiella_pneumoniae_NZ_CP047271.1	5305959	1789310	1790218	906	908	0	NM:i:2	ms:i:896	AS:i:896	nn:i:0	tp:A:S	cm:i:88	s1:i:860	dv:f:0.0023	cg:Z:908M	cs:Z::594*gc:14*tc:298
+k141_421	1072	0	907	-	Klebsiella_pneumoniae_NZ_CP047271.1	5305959	3243173	3244080	905	907	0	NM:i:2	ms:i:895	AS:i:895	nn:i:0	tp:A:S	cm:i:87	s1:i:856	dv:f:0.0024	cg:Z:907M	cs:Z::297*ag:14*cg:594
+k141_443	716	0	716	-	Klebsiella_pneumoniae_NZ_CP047271.1	5305959	4404821	4405537	712	716	60	NM:i:4	ms:i:692	AS:i:692	nn:i:0	tp:A:P	cm:i:57	s1:i:635	s2:i:0	dv:f:0.0053	cg:Z:716M	cs:Z::41*ag:237*ta:27*tg:347*ga:60
+k141_449	713	0	713	+	Klebsiella_pneumoniae_NZ_CP047271.1	5305959	3197416	3198129	710	713	60	NM:i:3	ms:i:695	AS:i:695	nn:i:0	tp:A:P	cm:i:61	s1:i:634	s2:i:0	dv:f:0.0057	cg:Z:713M	cs:Z::356*ca:277*ga:53*ct:24
+k141_458	511	0	511	-	Klebsiella_pneumoniae_NZ_CP047271.1	5305959	1497255	1497766	510	511	60	NM:i:1	ms:i:505	AS:i:505	nn:i:0	tp:A:P	cm:i:43	s1:i:477	s2:i:0	dv:f:0.0047	cg:Z:511M	cs:Z::282*ct:228
+k141_460	561	0	561	-	Klebsiella_pneumoniae_NZ_CP047271.1	5305959	979428	979989	560	561	60	NM:i:1	ms:i:555	AS:i:555	nn:i:0	tp:A:P	cm:i:50	s1:i:518	s2:i:0	dv:f:0.0031	cg:Z:561M	cs:Z::403*tc:157
+k141_463	697	0	697	-	Klebsiella_pneumoniae_NZ_CP047271.1	5305959	5187364	5188061	693	697	60	NM:i:4	ms:i:673	AS:i:673	nn:i:0	tp:A:P	cm:i:57	s1:i:596	s2:i:0	dv:f:0.0101	cg:Z:697M	cs:Z::53*ag:338*tc:175*ga:12*tc:115
+k141_465	628	0	628	+	Klebsiella_pneumoniae_NZ_CP047271.1	5305959	5231686	5232314	626	628	60	NM:i:2	ms:i:616	AS:i:616	nn:i:0	tp:A:P	cm:i:56	s1:i:578	s2:i:0	dv:f:0.0062	cg:Z:628M	cs:Z::134*ga:205*tc:287
+k141_481	759	0	759	+	Klebsiella_pneumoniae_NZ_CP047271.1	5305959	3644003	3644762	758	759	60	NM:i:1	ms:i:753	AS:i:753	nn:i:0	tp:A:P	cm:i:76	s1:i:737	s2:i:0	dv:f:0.0014	cg:Z:759M	cs:Z::284*ga:474
+k141_482	731	0	731	+	Klebsiella_pneumoniae_NZ_CP047271.1	5305959	3721614	3722345	729	731	60	NM:i:2	ms:i:719	AS:i:719	nn:i:0	tp:A:P	cm:i:69	s1:i:680	s2:i:0	dv:f:0.0022	cg:Z:731M	cs:Z::301*ct:417*ga:11
+k141_488	508	0	508	-	Klebsiella_pneumoniae_NZ_CP047271.1	5305959	1139548	1140056	505	508	60	NM:i:3	ms:i:490	AS:i:490	nn:i:0	tp:A:P	cm:i:47	s1:i:455	s2:i:0	dv:f:0.0053	cg:Z:508M	cs:Z::164*tc:5*ag:145*ct:191
+k141_500	629	0	629	-	Klebsiella_pneumoniae_NZ_CP047271.1	5305959	2027313	2027942	625	629	60	NM:i:4	ms:i:605	AS:i:605	nn:i:0	tp:A:P	cm:i:49	s1:i:570	s2:i:0	dv:f:0.0080	cg:Z:629M	cs:Z::50*tc:69*ct:203*ga:284*tg:19
+k141_265	639	0	639	-	Klebsiella_pneumoniae_NZ_CP047271.1	5305959	1373539	1374178	636	639	60	NM:i:3	ms:i:621	AS:i:621	nn:i:0	tp:A:P	cm:i:60	s1:i:614	s2:i:0	dv:f:0.0034	cg:Z:639M	cs:Z::165*gt:75*gt:301*ta:95
+k141_268	584	0	583	+	Klebsiella_pneumoniae_NZ_CP047271.1	5305959	1553169	1553752	575	583	60	NM:i:8	ms:i:535	AS:i:535	nn:i:0	tp:A:P	cm:i:40	s1:i:464	s2:i:0	dv:f:0.0107	cg:Z:583M	cs:Z::318*tc:68*tg:1*tg:9*tc:21*ct:4*ag:21*tg*ct:133
+k141_269	591	0	591	-	Klebsiella_pneumoniae_NZ_CP047271.1	5305959	2269497	2270088	590	591	60	NM:i:1	ms:i:585	AS:i:585	nn:i:0	tp:A:P	cm:i:61	s1:i:575	s2:i:0	dv:f:0.0033	cg:Z:591M	cs:Z::100*ct:490
+k141_524	539	0	539	+	Klebsiella_pneumoniae_NZ_CP047271.1	5305959	5137365	5137904	534	539	60	NM:i:5	ms:i:509	AS:i:509	nn:i:0	tp:A:P	cm:i:41	s1:i:459	s2:i:0	dv:f:0.0094	cg:Z:539M	cs:Z::101*ag:185*ga:8*ct:92*tc:134*ga:14
+k141_532	771	3	771	+	Klebsiella_pneumoniae_NZ_CP047271.1	5305959	5253786	5254554	767	768	1	NM:i:1	ms:i:762	AS:i:762	nn:i:0	tp:A:P	cm:i:72	s1:i:734	s2:i:734	dv:f:0.0014	cg:Z:768M	cs:Z::18*ga:749
+k141_532	771	0	771	-	Klebsiella_pneumoniae_NZ_CP047271.1	5305959	463727	464498	769	771	0	NM:i:2	ms:i:759	AS:i:759	nn:i:0	tp:A:S	cm:i:72	s1:i:734	dv:f:0.0014	cg:Z:771M	cs:Z::754*tc*ct:15
+k141_532	771	3	771	-	Klebsiella_pneumoniae_NZ_CP047271.1	5305959	1287300	1288068	766	768	0	NM:i:2	ms:i:756	AS:i:756	nn:i:0	tp:A:S	cm:i:70	s1:i:715	dv:f:0.0029	cg:Z:768M	cs:Z::605*ag:143*ct:18
+k141_532	771	3	771	+	Klebsiella_pneumoniae_NZ_CP047271.1	5305959	4295167	4295935	766	768	0	NM:i:2	ms:i:756	AS:i:756	nn:i:0	tp:A:S	cm:i:70	s1:i:722	dv:f:0.0029	cg:Z:768M	cs:Z::444*tg*ag:322
+k141_532	771	3	771	+	Klebsiella_pneumoniae_NZ_CP047271.1	5305959	4655778	4656546	766	768	0	NM:i:2	ms:i:756	AS:i:756	nn:i:0	tp:A:S	cm:i:70	s1:i:722	dv:f:0.0029	cg:Z:768M	cs:Z::444*tg*ag:322
+k141_532	771	3	771	+	Klebsiella_pneumoniae_NZ_CP047271.1	5305959	5057457	5058225	764	768	0	NM:i:4	ms:i:744	AS:i:744	nn:i:0	tp:A:S	cm:i:66	s1:i:722	dv:f:0.0060	cg:Z:768M	cs:Z::561*at*gc:8*cg*ta:195
+k141_532	771	3	771	+	Klebsiella_pneumoniae_NZ_CP047271.1	5305959	5149240	5150008	763	768	0	NM:i:5	ms:i:738	AS:i:738	nn:i:0	tp:A:S	cm:i:65	s1:i:704	dv:f:0.0068	cg:Z:768M	cs:Z::18*ga:542*at*gc:8*cg*ta:195
+k141_532	771	3	771	+	Klebsiella_pneumoniae_NZ_CP047271.1	5305959	5012325	5013093	761	768	0	NM:i:7	ms:i:726	AS:i:726	nn:i:0	tp:A:S	cm:i:62	s1:i:674	dv:f:0.0093	cg:Z:768M	cs:Z::18*ga:425*tg*ag:115*at*gc:8*cg*ta:195
+k141_278	711	0	678	+	Klebsiella_pneumoniae_NZ_CP047272.1	271744	137644	138322	673	678	60	NM:i:5	ms:i:648	AS:i:648	nn:i:0	tp:A:P	cm:i:51	s1:i:593	s2:i:0	dv:f:0.0086	cg:Z:678M	cs:Z::7*ca:110*tg:18*ca:55*ga:14*ag:469
+k141_88	744	0	142	+	Klebsiella_pneumoniae_NZ_CP047272.1	271744	179446	179588	142	142	0	NM:i:0	ms:i:142	AS:i:142	nn:i:0	tp:A:P	cm:i:10	s1:i:126	s2:i:126	dv:f:0.0050	cg:Z:142M	cs:Z::142
+k141_88	744	0	142	+	Klebsiella_pneumoniae_NZ_CP047272.1	271744	13542	13684	142	142	0	NM:i:0	ms:i:142	AS:i:142	nn:i:0	tp:A:S	cm:i:10	s1:i:126	dv:f:0.0050	cg:Z:142M	cs:Z::142
+k141_88	744	0	141	+	Klebsiella_pneumoniae_NZ_CP047272.1	271744	166624	166765	141	141	0	NM:i:0	ms:i:141	AS:i:141	nn:i:0	tp:A:S	cm:i:10	s1:i:126	dv:f:0.0050	cg:Z:141M	cs:Z::141
+k141_88	744	0	141	-	Klebsiella_pneumoniae_NZ_CP047272.1	271744	70592	70733	141	141	0	NM:i:0	ms:i:141	AS:i:141	nn:i:0	tp:A:S	cm:i:10	s1:i:126	dv:f:0.0050	cg:Z:141M	cs:Z::141
+k141_88	744	0	141	-	Klebsiella_pneumoniae_NZ_CP047272.1	271744	127117	127258	141	141	0	NM:i:0	ms:i:141	AS:i:141	nn:i:0	tp:A:S	cm:i:10	s1:i:126	dv:f:0.0050	cg:Z:141M	cs:Z::141
+k141_88	744	0	141	+	Klebsiella_pneumoniae_NZ_CP047272.1	271744	23876	24017	141	141	0	NM:i:0	ms:i:141	AS:i:141	nn:i:0	tp:A:S	cm:i:10	s1:i:126	dv:f:0.0050	cg:Z:141M	cs:Z::141
+k141_88	744	0	141	+	Klebsiella_pneumoniae_NZ_CP047272.1	271744	144577	144718	141	141	0	NM:i:0	ms:i:141	AS:i:141	nn:i:0	tp:A:S	cm:i:10	s1:i:126	dv:f:0.0050	cg:Z:141M	cs:Z::141
+k141_88	744	0	141	-	Klebsiella_pneumoniae_NZ_CP047272.1	271744	142654	142795	141	141	0	NM:i:0	ms:i:141	AS:i:141	nn:i:0	tp:A:S	cm:i:10	s1:i:126	dv:f:0.0050	cg:Z:141M	cs:Z::141
+k141_88	744	0	141	-	Klebsiella_pneumoniae_NZ_CP047272.1	271744	16479	16620	141	141	0	NM:i:0	ms:i:141	AS:i:141	nn:i:0	tp:A:S	cm:i:10	s1:i:126	dv:f:0.0050	cg:Z:141M	cs:Z::141
+k141_88	744	0	141	+	Klebsiella_pneumoniae_NZ_CP047272.1	271744	164405	164546	141	141	0	NM:i:0	ms:i:141	AS:i:141	nn:i:0	tp:A:S	cm:i:10	s1:i:126	dv:f:0.0050	cg:Z:141M	cs:Z::141
+k141_88	744	0	141	+	Klebsiella_pneumoniae_NZ_CP047272.1	271744	160045	160186	141	141	0	NM:i:0	ms:i:141	AS:i:141	nn:i:0	tp:A:S	cm:i:10	s1:i:126	dv:f:0.0050	cg:Z:141M	cs:Z::141
+k141_88	744	3	141	+	Klebsiella_pneumoniae_NZ_CP047272.1	271744	17476	17614	138	138	0	NM:i:0	ms:i:138	AS:i:138	nn:i:0	tp:A:S	cm:i:10	s1:i:126	dv:f:0.0050	cg:Z:138M	cs:Z::138
+k141_339	709	0	388	+	Klebsiella_pneumoniae_NZ_CP047272.1	271744	219538	219926	384	388	60	NM:i:4	ms:i:364	AS:i:364	nn:i:0	tp:A:P	cm:i:30	s1:i:306	s2:i:0	dv:f:0.0138	cg:Z:388M	cs:Z::93*gt:12*ta:77*cg:187*ag:15
+k141_339	709	388	511	-	Klebsiella_pneumoniae_NZ_CP047272.1	271744	129207	129330	123	123	0	NM:i:0	ms:i:123	AS:i:123	nn:i:0	tp:A:P	cm:i:10	s1:i:99	s2:i:99	dv:f:0.0096	cg:Z:123M	cs:Z::123
+k141_339	709	388	511	-	Klebsiella_pneumoniae_NZ_CP047272.1	271744	71527	71650	123	123	0	NM:i:0	ms:i:123	AS:i:123	nn:i:0	tp:A:S	cm:i:10	s1:i:99	dv:f:0.0096	cg:Z:123M	cs:Z::123
+k141_440	999	0	821	-	Klebsiella_pneumoniae_NZ_CP047272.1	271744	163725	164546	821	821	1	NM:i:0	ms:i:821	AS:i:821	nn:i:0	tp:A:P	cm:i:80	s1:i:795	s2:i:795	dv:f:0.0007	cg:Z:821M	cs:Z::821
+k141_440	999	0	820	-	Klebsiella_pneumoniae_NZ_CP047272.1	271744	178767	179587	820	820	0	NM:i:0	ms:i:820	AS:i:820	nn:i:0	tp:A:S	cm:i:80	s1:i:795	dv:f:0.0007	cg:Z:820M	cs:Z::820
+k141_440	999	0	820	-	Klebsiella_pneumoniae_NZ_CP047272.1	271744	143898	144718	820	820	0	NM:i:0	ms:i:820	AS:i:820	nn:i:0	tp:A:S	cm:i:80	s1:i:795	dv:f:0.0007	cg:Z:820M	cs:Z::820
+k141_440	999	0	820	-	Klebsiella_pneumoniae_NZ_CP047272.1	271744	23197	24017	820	820	0	NM:i:0	ms:i:820	AS:i:820	nn:i:0	tp:A:S	cm:i:80	s1:i:795	dv:f:0.0007	cg:Z:820M	cs:Z::820
+k141_440	999	0	820	+	Klebsiella_pneumoniae_NZ_CP047272.1	271744	142654	143474	820	820	0	NM:i:0	ms:i:820	AS:i:820	nn:i:0	tp:A:S	cm:i:80	s1:i:795	dv:f:0.0007	cg:Z:820M	cs:Z::820
+k141_440	999	0	820	-	Klebsiella_pneumoniae_NZ_CP047272.1	271744	165945	166765	820	820	0	NM:i:0	ms:i:820	AS:i:820	nn:i:0	tp:A:S	cm:i:80	s1:i:795	dv:f:0.0007	cg:Z:820M	cs:Z::820
+k141_440	999	0	820	+	Klebsiella_pneumoniae_NZ_CP047272.1	271744	70592	71412	820	820	0	NM:i:0	ms:i:820	AS:i:820	nn:i:0	tp:A:S	cm:i:80	s1:i:795	dv:f:0.0007	cg:Z:820M	cs:Z::820
+k141_440	999	0	820	+	Klebsiella_pneumoniae_NZ_CP047272.1	271744	127117	127937	820	820	0	NM:i:0	ms:i:820	AS:i:820	nn:i:0	tp:A:S	cm:i:80	s1:i:795	dv:f:0.0007	cg:Z:820M	cs:Z::820
+k141_440	999	0	820	-	Klebsiella_pneumoniae_NZ_CP047272.1	271744	12863	13683	819	820	0	NM:i:1	ms:i:814	AS:i:814	nn:i:0	tp:A:S	cm:i:78	s1:i:788	dv:f:0.0020	cg:Z:820M	cs:Z::615*ag:204
+k141_440	999	0	820	-	Klebsiella_pneumoniae_NZ_CP047272.1	271744	159366	160186	819	820	0	NM:i:1	ms:i:814	AS:i:814	nn:i:0	tp:A:S	cm:i:77	s1:i:779	dv:f:0.0027	cg:Z:820M	cs:Z::613*ag:206
+k141_270	600	0	143	+	Klebsiella_pneumoniae_NZ_CP047272.1	271744	166624	166767	143	143	1	NM:i:0	ms:i:143	AS:i:143	nn:i:0	tp:A:P	cm:i:10	s1:i:126	s2:i:126	dv:f:0.0050	cg:Z:143M	cs:Z::143
+k141_270	600	0	142	-	Klebsiella_pneumoniae_NZ_CP047272.1	271744	70591	70733	142	142	0	NM:i:0	ms:i:142	AS:i:142	nn:i:0	tp:A:S	cm:i:10	s1:i:126	dv:f:0.0050	cg:Z:142M	cs:Z::142
+k141_270	600	0	142	+	Klebsiella_pneumoniae_NZ_CP047272.1	271744	144577	144719	142	142	0	NM:i:0	ms:i:142	AS:i:142	nn:i:0	tp:A:S	cm:i:10	s1:i:126	dv:f:0.0050	cg:Z:142M	cs:Z::142
+k141_270	600	0	141	-	Klebsiella_pneumoniae_NZ_CP047272.1	271744	16479	16620	141	141	0	NM:i:0	ms:i:141	AS:i:141	nn:i:0	tp:A:S	cm:i:10	s1:i:126	dv:f:0.0050	cg:Z:141M	cs:Z::141
+k141_270	600	0	141	-	Klebsiella_pneumoniae_NZ_CP047272.1	271744	142654	142795	141	141	0	NM:i:0	ms:i:141	AS:i:141	nn:i:0	tp:A:S	cm:i:10	s1:i:126	dv:f:0.0050	cg:Z:141M	cs:Z::141
+k141_270	600	0	141	+	Klebsiella_pneumoniae_NZ_CP047272.1	271744	164405	164546	141	141	0	NM:i:0	ms:i:141	AS:i:141	nn:i:0	tp:A:S	cm:i:10	s1:i:126	dv:f:0.0050	cg:Z:141M	cs:Z::141
+k141_270	600	0	141	+	Klebsiella_pneumoniae_NZ_CP047272.1	271744	13542	13683	141	141	0	NM:i:0	ms:i:141	AS:i:141	nn:i:0	tp:A:S	cm:i:10	s1:i:126	dv:f:0.0050	cg:Z:141M	cs:Z::141
+k141_270	600	0	141	+	Klebsiella_pneumoniae_NZ_CP047272.1	271744	23876	24017	141	141	0	NM:i:0	ms:i:141	AS:i:141	nn:i:0	tp:A:S	cm:i:10	s1:i:126	dv:f:0.0050	cg:Z:141M	cs:Z::141
+k141_270	600	0	141	-	Klebsiella_pneumoniae_NZ_CP047272.1	271744	127117	127258	141	141	0	NM:i:0	ms:i:141	AS:i:141	nn:i:0	tp:A:S	cm:i:10	s1:i:126	dv:f:0.0050	cg:Z:141M	cs:Z::141
+k141_270	600	0	141	+	Klebsiella_pneumoniae_NZ_CP047272.1	271744	179446	179587	141	141	0	NM:i:0	ms:i:141	AS:i:141	nn:i:0	tp:A:S	cm:i:10	s1:i:126	dv:f:0.0050	cg:Z:141M	cs:Z::141
+k141_270	600	0	141	+	Klebsiella_pneumoniae_NZ_CP047272.1	271744	160045	160186	141	141	0	NM:i:0	ms:i:141	AS:i:141	nn:i:0	tp:A:S	cm:i:10	s1:i:126	dv:f:0.0050	cg:Z:141M	cs:Z::141
+k141_270	600	3	141	+	Klebsiella_pneumoniae_NZ_CP047272.1	271744	17476	17614	138	138	0	NM:i:0	ms:i:138	AS:i:138	nn:i:0	tp:A:S	cm:i:10	s1:i:126	dv:f:0.0050	cg:Z:138M	cs:Z::138

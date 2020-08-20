@@ -1,0 +1,13 @@
+Number of interspecies translocations by references: 
+References                                       1  2  3  4  5
+Dickeya_chrysanthemi                             -  0  0  0  0
+Klebsiella_pneumoniae                            0  -  0  0  0
+Klebsiella_pneumoniae_subsp._pneumoniae          0  0  -  0  0
+Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20  0  0  0  -  0
+Serratia_symbiotica                              0  0  0  0  -
+References:
+1 - Dickeya_chrysanthemi
+2 - Klebsiella_pneumoniae
+3 - Klebsiella_pneumoniae_subsp._pneumoniae
+4 - Klebsiella_pneumoniae_subsp._pneumoniae_KPNIH20
+5 - Serratia_symbiotica
