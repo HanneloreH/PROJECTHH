@@ -7,7 +7,7 @@ Establishing a diagnostic pipeline for cgMLST analysis of outbreak samples
 
 Author		:Hannelore Hamerlinck
 Contact		:hannelore.hamerlinck@hotmail.com
-Date		:13/08/2020
+Date		:20/08/2020
 
 
 
@@ -73,6 +73,7 @@ REMARK: for notes on the pipeline itself please check Scripts/Pipeline/OUTB8-sch
 
 --- .gitignore		: this file contains all folders and files that were not uploaded to github
 ---  readme.txt		: readme-file
+---  Overview-OUTB8..	: overview of the pipelines
 
 
 
