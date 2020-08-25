@@ -7,7 +7,7 @@ Establishing a diagnostic pipeline for cgMLST analysis of outbreak samples
 
 Author		:Hannelore Hamerlinck
 Contact		:hannelore.hamerlinck@hotmail.com
-Date		:20/08/2020
+Date		:25/08/2020
 
 
 
@@ -48,6 +48,7 @@ GENERAL STRUCTURE:
    --  HPC		: this file gives the preparations of running hte pipeline on the HPC supercomputer
    --  PIPE Nextfl..	: this file states how the pipeline software (Nextflow) was installed
    --  PLOT-minimum..	: this file states how the script for the minimum spanning tree was created in R
+   --  PREPPING		: this file gives a summary of steps during the preparation of the project
    --  TOOLS-Chew..test.: this file states how the chewBBACA pipeline was tested with new data
    --  TOOLS-Chew..tut..: this file states how chewBBACA was installed and tested following a tutorial
    --  TOOLS install..  : this file states how software was installed and test (except chewBBACA)
@@ -82,7 +83,7 @@ REMARK: for notes on the pipeline itself please check Scripts/Pipeline/OUTB8-sch
 1. ANALYSIS PIPELINE "OUTB8-analysis" v1.0
 Do WGS bacterial analysis on fastq files (format *.fastq.gz) based on a known scheme for cg/wgMLST (includes trimming and assembly)
 
-	- install following software:
+	- install following software + dependencies:
 	  * Nextflow v20.01.0.5264
 	  * chewBBACA v2.5.4
 	  * python3 v3.7.7
@@ -123,7 +124,7 @@ Do WGS bacterial analysis on fastq files (format *.fastq.gz) based on a known sc
 
 2. SCHEME PIPELINE "OUTB8-scheme" v1.0
 Create a cg/wgMLST scheme for your WGS bacterial analysis based on NCBI reference assemblies based on txid OR 1 or more fastq samples (zipped)
-	- install following software:
+	- install following software + dependencies:
 	  * Nextflow v20.01.0.5264
 	  * chewBBACA v2.5.4
 	  * python3 v3.7.7

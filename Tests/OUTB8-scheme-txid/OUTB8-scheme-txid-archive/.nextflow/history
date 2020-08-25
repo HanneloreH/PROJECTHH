@@ -1,5 +1,0 @@
-2020-07-23 16:44:31	5h 26m 17s	voluminous_noyce	ERR	9c8a6c6c3dfac8debac8a5d1b37f37f4	ef3d99f5-1b11-4874-afae-1f8a0f5872c0	nextflow run OUTB8-scheme.nf --txid 573 --count 50 --perc 0.95 --cpu 2
-2020-07-23 23:14:49	1.7s	soggy_mahavira	ERR	9c8a6c6c3dfac8debac8a5d1b37f37f4	6c6a7c45-b24d-4ba3-8246-389c8b8db1b9	nextflow run OUTB8-scheme.nf --txid 573 --count 50 --perc 0.95 --cpu 2
-2020-07-23 23:15:14	5.8s	pedantic_allen	ERR	9c8a6c6c3dfac8debac8a5d1b37f37f4	5d64b219-1c22-45db-a280-c3d7b6cd213d	nextflow run OUTB8-scheme.nf --txid 573 --count 50 --perc 0.95 --cpu 2
-2020-07-23 23:15:23	1h 44m 46s	mad_almeida	ERR	9c8a6c6c3dfac8debac8a5d1b37f37f4	5d64b219-1c22-45db-a280-c3d7b6cd213d	nextflow run OUTB8-scheme.nf --txid 573 --count 50 --perc 0.95 --cpu 2 -resume
-2020-07-24 09:07:02	4.3s	naughty_lovelace	ERR	9c8a6c6c3dfac8debac8a5d1b37f37f4	5d64b219-1c22-45db-a280-c3d7b6cd213d	nextflow run OUTB8-scheme.nf --txid 573 --count 50 --perc 0.95 --cpu 2 -resume

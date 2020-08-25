@@ -1,0 +1,9 @@
+gene	PC	NDC
+GCF-008369705-protein4897.fasta	1	1
+GCF-013267555-protein3333.fasta	1	1
+GCF-008369705-protein4490.fasta	2	0
+GCF-013267555-protein2226.fasta	2	1
+GCF-008369705-protein6661.fasta	2	0
+GCF-013267555-protein4547.fasta	2	1
+GCF-008369705-protein7385.fasta	3	0
+GCF-013267555-protein4616.fasta	3	0
